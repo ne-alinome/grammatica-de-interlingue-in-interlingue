@@ -228,7 +228,7 @@ inscrí, ìris, ottùplic, il rèplica, il multìplica, specìfic, pacìfic, il
 artìcula, il inspùla, il ànima, li ferrovìa, li relvìa, il refá, it
 rèsta.
 
-§ 9. ** In ** li *fluent parlada* on ne accentua chascun parol secun li
+§ 9. In li *fluent parlada* on ne accentua chascun parol secun li
 regul precedent, ma solmen li maxim important paroles del frase.
 
 On posse sèmpre aplicar ti règules secun necessitá. Si on vole accentuàr
@@ -300,7 +300,7 @@ substantives masculin, feminin e neutri, singular e plural.
 
 li patre, li matre, li table, li patres, li matres, li tables.
 
-§ 16. ** Un *articul índefinit* existe solmen por li singulare: *un.*
+§ 16. Un *articul índefinit* existe solmen por li singulare: *un.*
 Por li plurale li substantive es usat sin articul.
 
 Yo vide un avie. Yo vide avies.
@@ -310,11 +310,11 @@ expresse it.
 
 _On deve metter punctus sur lis i._ _Ma mult i ne havet punctus._
 
-§ 18. *A li* es ** contractet a *al*, *de li* a *del*.
+§ 18. *A li* es contractet a *al*, *de li* a *del*.
 
 Il eat al scol. Li árbores del forest es alt.
 
-§ 19. ** Un *articul partitiv* ne existe. _Il trinca aqua. Noi manja
+§ 19. Un *articul partitiv* ne existe. _Il trinca aqua. Noi manja
 fructes._
 
 § 20. Li articul *definit* indica alquó ja mentionat o conosset, o li
@@ -332,7 +332,7 @@ prescri cert vocales final por cert classes de paroles.
 
 Cangurú, villa, radio, matre, midí.
 
-§ 22. ** Li *neutral vocal final -e* trova se in mult substantives por
+§ 22. Li *neutral vocal final -e* trova se in mult substantives por
 fixar li corect pronunciation del final consonant, pro eufonie, o por
 distincter li substantive del adjectivic o verbal form simil.
 
@@ -340,7 +340,7 @@ Pace, image, rose, libre, cable, altruisme, curve, centre, central,
 centrale, directiv, directive, marine, circulare, cantate, infinite,
 tangente.
 
-§ 23. ** Un *génere grammatical* ne existe. Omni substantives es
+§ 23. Un *génere grammatical* ne existe. Omni substantives es
 masculin, feminin o neutri secun lor signification.
 
 § 24. On posse indicar li génere in li nómines por entes: *-o* indica li
@@ -375,7 +375,7 @@ trams.
 
 § 27. Li substantive resta ínmutat in omni *casus grammatical.* Es
 distinctet solmen li genitive per li preposition *de*, e li dative per
-li preposition **a**__.__
+li preposition *a*.
 
 Yo vide li sapates de mi fratre.Yo dat li sapates a mi fratre.
 
@@ -415,7 +415,7 @@ pronunciation.
 
 Vi pomes, prende li maturis.
 
-§ 34. ** Por li *comparative* on indica
+§ 34. Por li *comparative* on indica
 
 - li *egalitá* per *tam - quam*
 - li *majoritá* per *plu - quam*
@@ -424,17 +424,17 @@ Vi pomes, prende li maturis.
 Il es tam grand quam su fratre; il es plu grand quam su fratre; il es
 minu grand quam su fratre. Il es plu grand quam yo. Li plu grand libre.
 
-§ 35**.** Por li *superlative* on indica
+§ 35 Por li *superlative* on indica
 
 - li *majoritá* per *maxim* (max)
 - li *minoritá per minim.*
 
 Li maxim grand del libres. Li minim grand libre.
 
-§ 36. ** Por li *superlative absolut on* usa: *tre,* o li sufix:
-**-issim.
+§ 36. Por li *superlative absolut on* usa: *tre,* o li sufix:
+*-issim*.
 
-**__tre grand, grandissim.__
+*tre grand, grandissim*.
 
 Por comparar tri o pluri gradus on usa:
 
@@ -531,19 +531,19 @@ question: *quo,* de quel on forma: to-ci e to-ta.
 
 To es mi libre. Yo save to (li facte, que to es tui líbre).
 
-§ 48**.** Li *pronómin o articul lu* servi por expresser to quo es
-impersonal, neutri o abstract. It significa generalmen: to quo es (li) .
-. .
+§48. Li *pronómin o articul lu* servi por expresser to quo es
+impersonal, neutri o abstract. It significa generalmen: to quo es
+(li)...
 
 De lu sublim a lu comic es sovente solmen un passu. Lu nov de ti
-conception es . ..
+conception es...
 
 Pronómines relativ e interrogativ.
 
 § 49. On usa li sam pronómines, relativ e interrogativ, adjectivic e
 substantivic.
 
-§ 50. ** Li *maxim general es: quel* (plural: *queles),* usat por coses,
+§ 50. Li *maxim general es: quel* (plural: *queles),* usat por coses,
 factes e persones.
 
 Quel cité es li maxim grand? Quel es li maxím grand cité? Queles es li
@@ -551,7 +551,7 @@ maxim grand cités? Quel cités es li maxim grand? Li maxim bell flore
 quel yo conosse es li rose. Li maxim grand cités queles yo conosse es
 New York e London. Il ne save, quel grand cités il va vider.
 
-§ 51. ** Por *coses e factes* on usa: *quo,* por *persones: qui.*
+§ 51. Por *coses e factes* on usa: *quo,* por *persones: qui.*
 
 Quo vu víde? Quo vu vole far? Yo ne save, quo yo vole far. Yo ne
 comprende to quo il ha dit. Qui es ta? De qui es ti chapel? A qui tu dat
@@ -631,31 +631,31 @@ million 1000001 un million un ... 2000000 du milliones ...
 - 1 000 000^3^ = un million billiones = un trillion
 - 1 000 000^4^ = un million trilliones = un quadrillion
 
-*§* 57. ** Li *númeres ordinal* es format per adjunter li finale:
+*§* 57. Li *númeres ordinal* es format per adjunter li finale:
 *-esim. unesim* (apu *prim), duesim* (apu *secund), triesim,* etc.
 
-§ 58. ** Li *númeres fractionari* es egal al ordinales, ma ordinarimen
+§ 58. Li *númeres fractionari* es egal al ordinales, ma ordinarimen
 on vicea li unesim quar per: un *tot,* un *demí, un ters,* un *quart.*
 
 du ters, tri quart, quar quinesim, etc.
 
-*§* 59. ** Li *fractiones decimal* es pronunciat
+*§* 59. Li *fractiones decimal* es pronunciat
 
 - 3,78349 = tri comma sett ott tri quar nin,
 - 0,25 = null comma du quin.
 
-§ 60. ** Li *numerales multiplicativ* es format per adjunter li finale
+§ 60. Li *numerales multiplicativ* es format per adjunter li finale
 *-uplic* (pos vocales: -plic):
 
 unuplic (simplic), duplic, triplic, quaruplic (quadruplic), quinuplic
 (quintuplic), sixuplic, settuplic, ottuplic, ninuplic, deciplic,
 deciunuplic, deciduplic, duantuplic, centuplic, centunuplic, etc.
 
-§ 61. ** Li *numerales iterativ* es format per: *vez.*
+§ 61. Li *numerales iterativ* es format per: *vez.*
 
 du vez o duvez, tri vez, centvez, mult vez o multvez o mult vezes.
 
-§ 62. ** Li *numerales colectiv* es format per li finale: *-ene.*
+§ 62. Li *numerales colectiv* es format per li finale: *-ene.*
 
 li unité, pare, triene, quarene, quinene, decene, deciduene, centene.
 
@@ -690,7 +690,7 @@ triesim radica de ott es du.
 § 65. In Interlingue existe *un sol* e *unitari conjugation* per
 adjuntion de cert consonantes al tema presentic.
 
-§ 66. ** Li *tema presentic* es format per adjunter un del tri vocales
+§ 66. Li *tema presentic* es format per adjunter un del tri vocales
 
 [width="100%"]
 |===
@@ -722,7 +722,7 @@ distinctet solmen per li pronómin; li verb self resta ínmutat.
 | fabricar | expedir | constructer
 |===
 
-§ 69. ** Li *presente* es egal al tema presentic:
+§ 69. Li *presente* es egal al tema presentic:
 
 [width="100%"]
 |===
@@ -755,7 +755,7 @@ Li *passate anteriori* es:
 
 *noi hat fabricat vu hat expedit ili hat constructet*
 
-§ 72. ** Li *future simplic* es format per li auxiliare *va:*
+§ 72. Li *future simplic* es format per li auxiliare *va:*
 
 il va fabricar ella va expedir on va constructer
 
@@ -763,7 +763,7 @@ Li *future anteriori* es:
 
 *yo va har fabricat tu va har expedit il va har constructet*
 
-§ 73. ** Li *conditionale simplic* es format per li auxiliare *vell:
+§ 73. Li *conditionale simplic* es format per li auxiliare *vell:
 
 noi vell laborar vu vell expedir ili vell constructer*
 
@@ -771,7 +771,7 @@ Li *conditionale passat* es:
 
 *il vell har fabricat il vell har expedit ili vell har constructet*
 
-§ 74. ** Li *participie presentic* (anc *participie activ)* es format
+§ 74. Li *participie presentic* (anc *participie activ)* es format
 per adjunter -nt al tema presentic:
 
 [width="100%"]
@@ -813,7 +813,7 @@ Existe un *form de politesse per ples* (de pleser) con infinitive:
 | ples fabricar | ples expedir | ples constructer
 |===
 
-§ 76. ** Li *optative* es format per mey con infinitive:
+§ 76. Li *optative* es format per mey con infinitive:
 
 [width="100%"]
 |===
@@ -827,7 +827,7 @@ li *hortative* per *lass:*
 | lass nos fabricar | lass nos expedir | lass nos constructer
 |===
 
-§ 77. ** Li *formes passiv* es format per li verb auxiliari *esser:*
+§ 77. Li *formes passiv* es format per li verb auxiliari *esser:*
 
 - it es perlaborat
 - ili hat esset expedit
@@ -884,7 +884,7 @@ lingue vermen international e in sam témpor regulari:
 
 On supresse li *r* resp. *er* del infinitive. Si li rest fini per vocal,
 on adjunte *t*, si it fini per *d* o *r*, on vicea ti consonant per *s*,
-in omni altri casus li rest self es li tema perfectic. **
+in omni altri casus li rest self es li tema perfectic.
 
 [width="99%"]
 |===
@@ -1001,13 +1001,13 @@ sin desinentie substantivic:
 li pense, li pensa (plu proxim al action), li vende, li crede, li
 response, li vise, li flut, lì resultat, li extracte, li tribut.
 
-Li tema perfectic sin finale es usat anc quam **adjective:
+Li tema perfectic sin finale es usat anc quam *adjective:*
 
-**__devot, apert, pervers.__
+*_devot, apert, pervers._*
 
 == Adverbies
 
-§ 88. ** Por *indicar un qualitá* de un substantive on usa un adjective,
+§ 88. Por *indicar un qualitá* de un substantive on usa un adjective,
 de altri paroles un adverbie.
 
 Un prudent mann acte prudentmen.
@@ -1027,7 +1027,7 @@ format per prepositiones.
 
 ex memorie, in general, in fine, per hasard.
 
-§ 92. ** Li *comparative e superlative* es format in li sam maniere quam
+§ 92. Li *comparative e superlative* es format in li sam maniere quam
 in li adjectives.
 
 Il parla li lingue fluentmen. Il scri in min elegant maniere. Il salutat
@@ -1110,7 +1110,7 @@ va retornar ante midí.
 *Pos prepositiones* on usa li *acusative* del pronómines, o li
 nominative except yo e tu.
 
-§ 100. ** Li **usation del prepositiones i**n li lingues national es
+§ 100. Li *usation del prepositiones* in li lingues national es
 multvez contradictori. Pro to on deve sempre usar li prepositiones secun
 lor propri signification.
 
@@ -1444,7 +1444,7 @@ separar complet frases con pensas coherent.
 
 Por hodíe il es content; nam noi laborat del matin til li vésper.
 
-§ 121. ** Li *comma* (*,*) indica li minim grand stoppa. It es usat por
+§ 121. Li *comma* (*,*) indica li minim grand stoppa. It es usat por
 separar li divers partes de un frase composit, o divers frases coherent
 tam mult, que on ne vole separar les per un punctu o punctu-comma.
 
@@ -1471,7 +1471,7 @@ tales queles descripte solmen, es separat per comma.
 Yó ea con la (ne tú). Yo éa con la (yo ne fa quam li altris, queles né
 ea con la). Yo ea con élla (ne con li áltris). Save vu, de u il veni?
 
-§ 123. ** Li *altri signes de interpunction:*
+§ 123. Li *altri signes de interpunction:*
 
 Colon (:), punctus suspensiv (...), parentese ( ), crampones ([ ]),
 imbrassamentes(\{ }), strec ligant (-), strec separant (—), signes
@@ -1888,39 +1888,39 @@ national; nam it ne renuncia a cert possibilitás de expression, it
 solmen selecte in chascun punctu li maxim simplic o li maxim conosset
 form de expression.
 
-*1* Yo manja un pom. Li pom es un fructe. Tu manja un pir. It anc es un
+1. Yo manja un pom. Li pom es un fructe. Tu manja un pir. It anc es un
 fructe. Noi manja du bon fructes. Mi fratre manja prunes; il manja tri
 prunes. Mi sestra manja cereses; ella manja mult cereses. lli manja
 prunes e cereses. Vu manja pires, prunes e cereses. On manja li mult bon
 fructes. Yo prefere li dulcis. A mi patre yo di “tu”, ma tu di “vu” a mi
 patre. Li patre es grand e li matre anc es grand; ili es grand.
 
-*2* Yo vide te. Yo da te un pir. Yo da li pir a te. Li pir es de me. Li
+2. Yo vide te. Yo da te un pir. Yo da li pir a te. Li pir es de me. Li
 patre da un pom al filia. Ella es li sestra del filio.
 
-*3* Yo lava me. Yo lava te. Tu lava me. Tu lava te. Tu lava le. Il lava
+3. Yo lava me. Yo lava te. Tu lava me. Tu lava te. Tu lava le. Il lava
 se. Il lava le. Il lava la. Il lava it. Il lava nos. Ella lava se. It
 lava se. It lava it. On lava se. Noi lava nos. Vu lava vos. Vu lava nos.
 lli lava se. lli lava les. Yo da mi pom a te. Tu da tui pir a nos. Vu da
 vor fructes a les. lli da lor fructes a le. Yo da te mi pom, etc.
 
-*4* Mi pom es plu grand quam su prunes, ma it es min grand quam tui pir.
+4. Mi pom es plu grand quam su prunes, ma it es min grand quam tui pir.
 Li maxim grand de vor fructes es tui pir, li minim grand su cereses. Nor
 pom e pir es tam bell quam lor prunes e cereses. Nor fructes es tam bell
 quam li lores. Lu maxim bell es li bellissim composition del colores.
 
-*5* Yo es ci. Tu anc es ci. Ma il es ta, Ti fructes es bell. Ti-ci pom
+5. Yo es ci. Tu anc es ci. Ma il es ta, Ti fructes es bell. Ti-ci pom
 es verd. Ma ti-ta pir es yelb. Ti-ci cereses es rubi, tis-ta es nigri.
 To es bell colores.
 
-*6* Qui veni? Li filia. Quel filia? Li filia del vicino. Qual es li dom
+6. Qui veni? Li filia. Quel filia? Li filia del vicino. Qual es li dom
 del vicino? Su dom es grand. Quo li filia vole? Ella aporta fructes por
 li infantes queles ama les. Yo ne save quo far, nam omnes ama les. Tis
 qui ha laborat maxim mult, recive li maxim grand fructes; tis queles ha
 laborat poc, recive li min grand fructes. Talmen on save tre rapidmen
 qualmen distribuer li fructes. Ti metode functiona bon; it es corect.
 
-*7* Hodíe yo labora ci. Yer yo ha arivat. Yo arivat per li tren de
+7. Hodíe yo labora ci. Yer yo ha arivat. Yo arivat per li tren de
 Paris, u yo hat laborat antey. Deman yo va departer per auto pos har
 finit mi labor. Yo vell restar plu long, ma on telegrafat me: Veni tam
 bentost quam possibil! Dunc lass nos finir nor maxim urgent labores. Li
@@ -1929,12 +1929,12 @@ tard; ples excusar to. Quande yo fa bon mi labores, yo es estimat e yo
 va esser bon payat. In Paris yo hat esset honorat per un special premie.
 To mey suficer.
 
-*8* Li patre da li libre al filio. Li bon patre sovente voluntarimen da
+8. Li patre da li libre al filio. Li bon patre sovente voluntarimen da
 bell libres a su diligent filio. Il da ne li fructe, ma li libre. Ne il
 da li libre, ma ella. Anc yo ama vos. Yo ama solmen vos. Yo videt le. Yo
 te dat it. Yo dat it te. Yo dat it a te. A te yo dat it.
 
-*9* Esque vu hat comprendet me? Ha vu comprendet me? Quant persones tu
+9. Esque vu hat comprendet me? Ha vu comprendet me? Quant persones tu
 crede vider? Crede tu vider mult persones? Qui tu vide? Qui vide te? Il
 di que il es malad. Il pensat que yo ha venit. Ella questionat, proquo
 yo es tam gay. Yo desira que il mey venir. Si yo vell esser malad, yo

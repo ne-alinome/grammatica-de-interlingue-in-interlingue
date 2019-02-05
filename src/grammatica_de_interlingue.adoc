@@ -1,9 +1,19 @@
 = Grammatica de Interlingue
 :author: Dr. Fritz Haas
 :description: Grammatica de Interlingue in Interlingue
+:lang: ie
+:docinfo: private
+ifdef::backend-pdf[]
+:doctype: book
+:toc: macro
+:toclevels: 3
+:toc-title: Contenete
+endif::[]
 
-Digitalisat de S. Belitzky ex edition de
-Interlingue-Servicie Winterthur (Svissia) 1956
+- Digitalisat de S. Belitzky ex edition de Interlingue-Servicie
+  Winterthur (Svissia) 1956
+- Libre digitale in EPUB e PDF creat de Marcos Cruz por
+  http://ne.alinome.net[ne.alinome], 2019.
 
 // This Asciidoctor version by Marcos Cruz (programandala.net) for
 // http://ne.alinome.net, 2019.

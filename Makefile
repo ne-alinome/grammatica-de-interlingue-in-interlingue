@@ -2,7 +2,7 @@
 
 # By Marcos Cruz (programandala.net)
 
-# Last modified 201902052245
+# Last modified 201902060051
 # See change log at the end of the file
 
 # ==============================================================
@@ -19,20 +19,21 @@
 
 VPATH=./src:./target
 
-book=new_project
+book=grammatica_de_interlingue
 title="Grammatica de Interlingue"
 editor="Marcos Cruz (programandala.net)"
 publisher="ne.alinome"
-description=
-
-dict_data_url=http://
-dict_data_format=c5
+description="Grammatica de Interlingue in Interlingue"
 
 # ==============================================================
 # Interface
 
 .PHONY: all
 all: epub pdf
+
+# Usual formats during the development:
+.PHONY: it
+it: pdfa4 epubd
 
 .PHONY: epub
 epub: epubd epubp epubx
@@ -105,9 +106,9 @@ target/$(book).adoc.xml.pandoc.epub: \
 		--template=src/pandoc_epub_template.txt \
 		--css=src/pandoc_epub_stylesheet.css \
 		--variable=lang:$(lang) \
-		--variable=editor:"$(author)" \
-		--variable=publisher:"$(editor)" \
-		--variable=description:"$(description)" \
+		--variable=editor:$(author) \
+		--variable=publisher:$(editor) \
+		--variable=description:$(description) \
 		--output $@ $<
 
 # ------------------------------------------------
@@ -133,48 +134,6 @@ target/%.adoc.xml.xsltproc.epub: tmp/%.adoc.xml
 # XXX TODO -- Add the stylesheet. The XLS must be modified first,
 # or the resulting XHTML must be modified at the end.
 #  cp -f src/xsltproc/stylesheet.css tmp/xsltproc/OEBPS/ && \
-
-# ==============================================================
-# Convert the original data file to "dict_data_format"
-
-.SECONDARY: tmp/$(book).$(dict_data_format)
-
-# XXX REMARK -- Example:
-tmp/%.$(dict_data_format): src/%.txt
-	gforth make/convert_data.fs -e "run $< bye" > $@
-	vim -e -S make/tidy_data.vim $@
-
-# {ruler}
-# Convert dictionary data to dict format
-
-target/$(book).dict: tmp/$(book).$(dict_data_ext)
-	dictfmt \
-		--utf8 \
-		-u "$(dict_data_url)" \
-		-s "$(description)" \
-		-$(dict_data_ext) $(basename $@) \
-		< $<
-
-# ==============================================================
-# Install and uninstall dict
-
-%.dict.dz: %.dict
-	dictzip --force $<
-
-.PHONY: install
-install: target/$(book).dict.dz
-	cp --force \
-		$< \
-		$(addsuffix .index, $(basename $(basename $^))) \
-		/usr/share/dictd/
-	/usr/sbin/dictdconfig --write
-	/etc/init.d/dictd restart
-
-.PHONY: uninstall
-uninstall:
-	rm --force /usr/share/dictd/$(book).*
-	/usr/sbin/dictdconfig --write
-	/etc/init.d/dictd restart
 
 # ==============================================================
 # Change log

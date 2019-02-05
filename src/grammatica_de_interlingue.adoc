@@ -8,7 +8,9 @@ Interlingue-Servicie Winterthur (Svissia) 1956
 // This Asciidoctor version by Marcos Cruz (programandala.net) for
 // http://ne.alinome.net, 2019.
 
-// Last modified 201902060012
+// Last modified 201902060028
+
+:dot: .
 
 == Anteparol
 
@@ -263,6 +265,7 @@ Paul, London, Pacifico, Anglia, Danubio, li Senior, su Majestie.
 
 § 14. Li *acurtationes* maxim frequent es:
 
+[width="100%"]
 |===
 | sr. o Sr.     | senior
 | resp.         | respectivmen
@@ -385,7 +388,7 @@ Moskwa, Kharkow, Hoang-ho.
 
 == Adjective
 
-29. Li caracteristic vocal final *-i* trova se in mult
+§ 29. Li caracteristic vocal final *-i* trova se in mult
 adjectives, precipue por fixar li corect pronunciation del ultim
 consonant, e pro distinction pos tipic finales substantivic e
 infinitivic.
@@ -455,7 +458,7 @@ Pronómines personal.
 § 39. It existe *du formes,* li un por li *subject* (nominative), li
 altri por li *object* (acusative o dative, casu obliqui).
 
-[width="100%",cols="12%,11%,11%,11%,11%,11%,11%,11%,11%",]
+[width="100%"]
 |===
 | subject: | yo | tu | il | ella | it | noi | vu  | ili (illos, ellas)
 | object:  | me | te | le | la   | it | nos | vos | les (los, las)
@@ -472,7 +475,7 @@ unaltru.*
 On vide se. Ili vide se. Ili vide nos. Vu vide nos. Vu vide vos. Ili
 vide unaltru. Noi vide unaltru.
 
- § 42. *Pos prepositiones* on usa li acusative, o li nominative except
+§ 42. *Pos prepositiones* on usa li acusative, o li nominative except
 yo e tu.
 
 Veni con me! Yo veni con te. Noi ea con le (o il). Vu ea con ella (o
@@ -485,6 +488,8 @@ Pronómines possessiv.
 substantivic on posse usar li *articul,* secun li nuancie o li regul del
 lingue matrin, e ili prende li *plurale,* si necessi.
 
+
+[width="100%"]
 |===
 |mi | tui | su | nor | vor | lor
 |===
@@ -572,7 +577,7 @@ Qual homes esset ci? Qual es li aqua hodíe, calid o frigid? Yo ne save
 qual it es. Qual compositor, tal musica. Quant il deve dar vos ancor? Yo
 ne save, quant il ha dat le. Quant vive, tant espera.
 
- *Pronómines índefinit.*
+*Pronómines índefinit.*
 
 §54. Li prefix: *al-* da pronómines indicant alquó índeterminat, li
 prefix: *ne-* tales indicant li absentie, li negation, e li sufix:
@@ -687,6 +692,7 @@ adjuntion de cert consonantes al tema presentic.
 
 § 66. ** Li *tema presentic* es format per adjunter un del tri vocales
 
+[width="100%"]
 |===
 | a | i | e
 |===
@@ -695,6 +701,7 @@ al tema verbal (radica plus prefixes e sufixes). Ti vocal es
 caracteristic por chascun verb e resta ínvariabil in omni formes del
 conjugation.
 
+[width="100%"]
 |===
 | Tema verbal:    | fabric  | exped  | construct
 | Tema presentic: | fabrica | expedi | constructe
@@ -710,12 +717,14 @@ distinctet solmen per li pronómin; li verb self resta ínmutat.
 
 §68. Li *infinitive* es format per adjunter -r al tema presentic:
 
+[width="100%"]
 |===
 | fabricar | expedir | constructer
 |===
 
 § 69. ** Li *presente* es egal al tema presentic:
 
+[width="100%"]
 |===
 | yo fabrica | tu expedi | il constructer
 |===
@@ -726,7 +735,7 @@ esse, pro su grand frequentitá.
 § 70. *Li participie passat* (anc *participie passiv)* es format per
 adjunter *-t* al tema presentic:
 
-[width="100%",cols="34%,33%,33%",]
+[width="100%"]
 |===
 | fabricat | expedit | constructet
 |===
@@ -765,6 +774,7 @@ Li *conditionale passat* es:
 § 74. ** Li *participie presentic* (anc *participie activ)* es format
 per adjunter -nt al tema presentic:
 
+[width="100%"]
 |===
 | fabricant | expedient | constructent
 |===
@@ -775,18 +785,21 @@ international, p. ex. convenientie, provenientie.
 Li *adverbial form* es usat quam *gerundie* (= durant que o per to que)
 per adjunter -e:
 
+[width="100%"]
 |===
 | fabricante | expediente | constructente
 |===
 
 Existe anc *formes progressiv:*
 
+[width="100%"]
 |===
 | il es fabricant  | il es expedient | il es constructent
 |===
 
 §75. Li *imperative* es egal al presente sin pronómin:
 
+[width="100%"]
 |===
 | fabrica! | expedi!  | constructe!
 |===
@@ -795,19 +808,21 @@ Del verb *esser* on prende li complet form: *esse.*
 
 Existe un *form de politesse per ples* (de pleser) con infinitive:
 
+[width="100%"]
 |===
 | ples fabricar | ples expedir | ples constructer
 |===
 
 § 76. ** Li *optative* es format per mey con infinitive:
 
+[width="100%"]
 |===
 | il mey fabricar | il mey expedir | il mey constructer
 |===
 
 li *hortative* per *lass:*
 
-[width="100%",cols="34%,33%,33%",]
+[width="100%"]
 |===
 | lass nos fabricar | lass nos expedir | lass nos constructer
 |===
@@ -871,7 +886,7 @@ On supresse li *r* resp. *er* del infinitive. Si li rest fini per vocal,
 on adjunte *t*, si it fini per *d* o *r*, on vicea ti consonant per *s*,
 in omni altri casus li rest self es li tema perfectic. **
 
-[width="99%",cols="20%,16%,16%,16%,16%,16%",]
+[width="99%"]
 |===
 | crear | expedir | distribuer | exploder | adherer | constructer
 | crea  | expedi  | distribu   | explod   | adher   | construct
@@ -883,6 +898,7 @@ che li verbes con ar e ir al participie passat, ye li verbes con er al
 radica, intercalante *t* pos vocal final e mutante un final *d* o *r* a
 *s*.
 
+[width="100%"]
 |===
 | crear    | expedir    | constructer
 | creat    | expedit    | construct
@@ -894,114 +910,25 @@ radica, intercalante *t* pos vocal final e mutante un final *d* o *r* a
 |===
 
 
-[width="100%",cols="34%,33%,33%",]
+[width="100%"]
 |===
-|*distribuer* a|
-
-exploder
-
-a|
-
-adherer
-
-a|
-
-distribut
-
-a|
-
-explos
-
-a|
-
-adhes
-
-a|
-
-distribution
-
-a|
-
-explosion
-
-a|
-
-adhesion
-
-a|
-
-distributor
-
-a|
-
-revisor
-
-a|
-
-precursor
-
-a|
-
-distributori
-
-a|
-
-revisori
-
-a|
-
-cursori
-
-a|
-
-distributiv
-
-a|
-
-explosiv
-
-a|
-
-adhesiv
-
-a|
-
-scritura
-
-a|
-
-tonsura
-
-|
+| distribuer   | exploder  | adherer
+| distribut    | explos    | adhes
+| distribution | explosion | adhesion
+| distributor  | revisor   | precursor
+| distributori | revisori  | cursori
+| distributiv  | explosiv  | adhesiv
+| scritura     | tonsura   |
 |===
 
 *Quin verbes* forma ti derivates un poc diferentmen, usante li
 international formes:
 
-[width="100%",cols="20%,20%,20%,20%,20%",]
+[width="100%"]
 |===
-| seder |ceder |verter |venir |tener
-a|
-
-session
-
-a|
-
-cession
-
-a|
-
-version
-
-a|
-
-vention
-
-a|
-
-tention
-
-|vice: sesion |cesion |vertion |venition |tenion
+| seder        | ceder   | verter  | venir    | tener
+| session      | cession | version | vention  | tention
+| vice: sesion | cesion  | vertion | venition | tenion
 |===
 
 § 81. Che li tri verbes: *far, dir, scrir* on posse formar li derivates
@@ -1017,28 +944,10 @@ distintion, conjunction, conjunter.
 § 82. Li *finale -ntie* es adjuntet al tema presentic de verbes
 expressent un statu, al talnominat *verbes static.*
 
-[width="100%",cols="34%,33%,33%",]
+[width="100%"]
 |===
-|*tolerar* a|
-
-provenir
-
-a|
-
-exister
-
-a|
-
-tolerantie
-
-a|
-
-provenientie
-
-a|
-
-existentie
-
+| tolerar    | provenir     | exister
+| tolerantie | provenientie | existentie
 |===
 
 Quam in li participie presentic on intercala *e* pos *i* del verbes in
@@ -1048,42 +957,17 @@ presentic
 
 §83. In analog maniere adjunte se li sufix *-nd* al tema presen-tic:
 
-[width="100%",cols="34%,33%,33%",]
+[width="100%"]
 |===
-|*demonstrand* a|
-
-vendiend
-
-a|
-
-leend
-
+| demonstrand | vendiend | leend 
 |===
 
 §84. Li sufix *-ment* anc es adjuntet al tema presentic:
 
-[width="100%",cols="34%,33%,33%",]
+[width="100%"]
 |===
-|*fundar* a|
-
-experir
-
-a|
-
-mover
-
-a|
-
-fundament
-
-a|
-
-experiment
-
-a|
-
-movement
-
+| fundar    | experir    | mover
+| fundament | experiment | movement
 |===
 
 Si li radica de un verb con *er* fini per vocal, li e desapari:
@@ -1094,73 +978,20 @@ Si li radica de un verb con *er* fini per vocal, li e desapari:
 li vocal caracteristic: *-abil, -ada* ye *a* resp. *-ibil, -ida* ye *i*
 o *e:*
 
-[width="99%",cols="20%,16%,16%,16%,16%,16%",]
+[width="99%"]
 |===
-|durar |promenar |audir |vomir |posser |currer
-a|
-
-durabil
-
-a|
-
-promenada
-
-a|
-
-audibil
-
-a|
-
-vomida
-
-a|
-
-possibil
-
-a|
-
-currida
-
+| durar   | promenar  | audir   | vomir  | posser   | currer
+| durabil | promenada | audibil | vomida | possibil | currida
 |===
 
 *§86. Li altri sufixes* es adjuntet directmen al radica verbal:
 
-[width="100%",cols="25%,25%,25%,25%",]
+[width="100%"]
 |===
-|criticar |lavar |furter |spiar
-a|
-
-criticachar
-
-a|
-
-lavera
-
-a|
-
-furtard
-
-a|
-
-spion
-
-|valer |reservar |rafinar |viver
-a|
-
-valore
-
-a|
-
-reservuor
-
-a|
-
-rafinage
-
-a|
-
-vìvaci
-
+| criticar    | lavar     | furter   | spiar
+| criticachar | lavera    | furtard  | spion
+| valer       | reservar  | rafinar  | viver
+| valore      | reservuor | rafinage | vìvaci
 |===
 
 *§ 87. Substantivation direct:* On posse anc usar quam substantive li
@@ -1299,14 +1130,14 @@ prepara un viage. Il prepara se por un viage.
 
 §102. Li *maxim frequent prepositiones* es:
 
-_*a:* (in combinationes anc ad.) Il dat li flores a su amata. Yo dat un
+*a:* (in combinationes anc ad.) Il dat li flores a su amata. Yo dat un
 libre a Paul. Yo dat le un libre. Yo dat un libre a le. Un
 epistul a nor societé. Yo viagea a New York. Li vapornave ea
 a Lisboa. Clar a departer. Un error a regretar. Quo vu di pri
 mi arm a foy? Yo selectet it de tri armes a frs. 40.—. Yo va
 atender vos a tri horas al exeada nord del station.
 ad posse esser combinat con altri prepositiones e adverbies
-por far plu clar li sens: adavan, adsur, adin, ad-in, etc._
+por far plu clar li sens: adavan, adsur, adin, ad-in, etc.
 
 *along:* Ili promenat along li rive del lago.
 
@@ -1498,21 +1329,10 @@ li aqua. Shut (o shit!) vi li professor, silentie! Fi! quel malodore!
 §108. Li *position* del paroles in li frase es in general *líber* til un
 cert gradu. Ma li *regulari órdine* del frase-partes es:
 
-[width="100%",cols="25%,25%,25%,25%",]
+[width="100%"]
 |===
-|*subject* a|
-
-predicate
-
-a|
-
-acusativ object
-
-a|
-
-dativ object.
-
-|Li patre |da |li libre |al filio.
+| subject  | predicate | acusativ object | dativ object
+| Li patre | da        | li libre        | al filio
 |===
 
 § 109. Li frase es maxim bon comprensibil, si omni paroles sta maxim
@@ -1789,7 +1609,7 @@ On posse adjunter pluri sufixes in li sam parol.
 § 132. In mult international parolformationes existe un *contraction* de
 du simil succedent sones o songruppes a un sol.
 
-p. ex. minera(lo)logie, popular(i)isar, pacif(ic)isme,
+p{dot} ex. minera(lo)logie, popular(i)isar, pacif(ic)isme,
 infanter(i)ist, ambiti(on)osi, religi(on)osi, ident(ic)itá,
 nu(tri)tresse, mum(i)ificar.
 

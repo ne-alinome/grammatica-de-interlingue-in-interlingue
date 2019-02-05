@@ -5,6 +5,11 @@
 Digitalisat de S. Belitzky ex edition de
 Interlingue-Servicie Winterthur (Svissia) 1956
 
+// This Asciidoctor version by Marcos Cruz (programandala.net) for
+// http://ne.alinome.net, 2019.
+
+// Last modified 201902052328
+
 == Anteparol
 
 Ti grammatica es complet in li sens, que it contene omni essential
@@ -766,9 +771,9 @@ Potentiation: 6^2^ = 36 six quadrat, o six in duesim potentie, o six in
 duesim es triantsix. +
 2^3^ = 8 du in cub, o du in triesim potentie, o du in triesim es ott.
 
-Radication: image:Dessines/sqw.GIF[image,width=24,height=28]49 = 7
+Radication: √49 = 7
 radica quadratic, o duesim radica ex quarantnin es sett. +
-image:Dessines/sqw3.GIF[image,width=24,height=28]8 = 2 radica cubic, o
+∛8 = 2 radica cubic, o
 triesim radica de ott es du.
 
 == Verb

@@ -1,4 +1,4 @@
-= Grammatica de Interlingue in Interlingue
+= Grammatica de Interlingue
 :author: Dr. Fritz Haas
 :description: Grammatica de Interlingue in Interlingue
 
@@ -8,7 +8,7 @@ Interlingue-Servicie Winterthur (Svissia) 1956
 // This Asciidoctor version by Marcos Cruz (programandala.net) for
 // http://ne.alinome.net, 2019.
 
-// Last modified 201902052328
+// Last modified 201902060012
 
 == Anteparol
 
@@ -71,11 +71,11 @@ pelle, venir.*
 *o* apert o cludet, quam FGHI, A: door, hot. *modic, póndere, porta,
 ponderar.*
 
-*u* quam GHI, A: rule, pull, F: ou; pos q tre curt, presc consonantic +
+*u* quam GHI, A: rule, pull, F: ou; pos q tre curt, presc consonantic
 (w). *brun, mult, sudar, quar.*
 
 *y* pos un vocal, e in li comensa de un parol anc avan un vocal, és
-consonantic, altriloc vocalic. +
+consonantic, altriloc vocalic.
 *y vocalic* es pronunciat quam Int (Interlingué) *i. physica.*
 
 De du o pluri *vocales succedent* chascun es pronunciat. Inaccentuat *i*
@@ -263,44 +263,31 @@ Paul, London, Pacifico, Anglia, Danubio, li Senior, su Majestie.
 
 § 14. Li *acurtationes* maxim frequent es:
 
-[width="100%",cols="50%,50%",]
 |===
-|*sr.* o *Sr.* = senior |*resp.* = respectivmen
-|*sra.* o *Sra.* = seniora |*p. ex.* = por exemple
-|*srta.* o *Srta.* = senioretta |*i. e.* = it es
-|*dr.* o *Dr.* = doctor |*pl.* = ples
-|*etc.* = etcétera a|
-
-pl. t. = ples tornar
-
-|*PS.* = pos-scripte a|
-
-{empty}h. = hora(s)
-
-|*v.* = vide a|
-
-am. = ante midí
-
-|*pg.* = págine a|
-
-pm = pos midí
-
-|*cf.* = confronta a|
-
-{empty}a. c. = annu current
-
-|*sq.* = e sequentes a|
-
-{empty}m. c. = mensu current
-
-|*nró.* = numeró a|
-
-{empty}a. p. = annu passat
-
-|*conc.* = concernent a|
-
-{empty}m. p. = mensu passat
-
+| sr. o Sr.     | senior
+| resp.         | respectivmen
+| sra. o Sra.   | seniora
+| p. ex.        | por exemple
+| srta. o Srta. | senioretta
+| i. e.         | it es
+| dr. o Dr.     | doctor
+| pl.           | ples
+| etc.          | etcétera
+| pl. t.        | ples tornar
+| PS.           | pos-scripte
+| h.            | hora(s)
+| v.            | vide
+| am.           | ante midí
+| pg.           | págine
+| pm            | pos midí
+| cf.           | confronta
+| a. c.         | annu current
+| sq.           | e sequentes
+| m. c.         | mensu current
+| nró.          | numeró
+| a. p.         | annu passat
+| conc.         | concernent
+| m. p.         | mensu passat
 |===
 
 == Articul
@@ -398,7 +385,7 @@ Moskwa, Kharkow, Hoang-ho.
 
 == Adjective
 
-{empty}29. Li caracteristic vocal final *-i* trova se in mult
+29. Li caracteristic vocal final *-i* trova se in mult
 adjectives, precipue por fixar li corect pronunciation del ultim
 consonant, e pro distinction pos tipic finales substantivic e
 infinitivic.
@@ -427,22 +414,23 @@ Vi pomes, prende li maturis.
 
 § 34. ** Por li *comparative* on indica
 
-li *egalitá* per **tam - quam +
-**li *majoritá* per **plu - quam +
-**li *minoritá* per *minu (min) - quam*
+- li *egalitá* per *tam - quam*
+- li *majoritá* per *plu - quam*
+- li *minoritá* per *minu (min) - quam*
 
 Il es tam grand quam su fratre; il es plu grand quam su fratre; il es
 minu grand quam su fratre. Il es plu grand quam yo. Li plu grand libre.
 
 § 35**.** Por li *superlative* on indica
 
-li *majoritá* per *maxim* (max) +
-li *minoritá per minim.*
+- li *majoritá* per *maxim* (max)
+- li *minoritá per minim.*
 
 Li maxim grand del libres. Li minim grand libre.
 
 § 36. ** Por li *superlative absolut on* usa: *tre,* o li sufix:
-**-issim. +
+**-issim.
+
 **__tre grand, grandissim.__
 
 Por comparar tri o pluri gradus on usa:
@@ -469,74 +457,8 @@ altri por li *object* (acusative o dative, casu obliqui).
 
 [width="100%",cols="12%,11%,11%,11%,11%,11%,11%,11%,11%",]
 |===
-|*subject:* a|
-
-yo
-
-a|
-
-tu
-
-a|
-
-il
-
-a|
-
-ella
-
-a|
-
-it
-
-a|
-
-noi
-
-a|
-
-vu
-
-a|
-
-ili (illos, ellas)
-
-a|
-
-object:
-
-a|
-
-me
-
-a|
-
-te
-
-a|
-
-le
-
-a|
-
-la
-
-a|
-
-it
-
-a|
-
-nos
-
-a|
-
-vos
-
-a|
-
-les (los, las)
-
+| subject: | yo | tu | il | ella | it | noi | vu  | ili (illos, ellas)
+| object:  | me | te | le | la   | it | nos | vos | les (los, las)
 |===
 
 Li formes in parenteses es usat solmen in casu de necessitá.
@@ -563,28 +485,8 @@ Pronómines possessiv.
 substantivic on posse usar li *articul,* secun li nuancie o li regul del
 lingue matrin, e ili prende li *plurale,* si necessi.
 
-[width="99%",cols="20%,16%,16%,16%,16%,16%",]
 |===
-|*mi* a|
-
-tui
-
-a|
-
-su
-
-a|
-
-nor
-
-a|
-
-vor
-
-a|
-
-lor
-
+|mi | tui | su | nor | vor | lor
 |===
 
 To es mi. To es li mi. To es mi libres. To es li mis. To es tui. To es
@@ -704,24 +606,25 @@ il es ci. It es tot egal, ca vu vide li tot munde o quelc partes de it.
 0 null 1 un 2 du 3 tri 4 quar 5 quin 6 six 7 sett 8 ott 9 nin 10 deci 11
 deciun 12 decidu 13 decitri 14 deciquar 15 deciquin ... 19 decinin 20
 duant 21 duantun 22 duantdu . .. 30 triant 40 quarant 50 quinant 60
-sixant ... 90 ninant . . . 99 ninantnin 100 cent 101 cent un 102
+sixant ... 90 ninant ... 99 ninantnin 100 cent 101 cent un 102
 centdu... 110 centdeci 111 cent deciun ... 119 cent decinin 120 cent
 duant 121 cent duantun ... 130 cent triant ... 199 cent niantnin 200
 ducent 201 ducent un ... 210 ducent deci 300 tricent ... 999 nincent
 ninantnin 1000 mill 1001 mill un ... 1099 mill ninantnin 1100 mill cent
 1101 mill cent un ... 1999 mill nincent ninantnin 2000 du mill 2001 du
-mill un . . . 2345 du mill tricent quarantquin . . . 99000 ninantnin
+mill un ... 2345 du mill tricent quarantquin ... 99000 ninantnin
 mill ... 100 000 cent mill ... 100 999 cent mill nincent ninantnin
-200000 ducent mill ... 201 000 ducent un mill . . . 299 999 ducent
-ninantnin mill nincent ninantnin . . . +
+200000 ducent mill ... 201 000 ducent un mill ... 299 999 ducent
+ninantnin mill nincent ninantnin ...
 456 789 quarcent quinantsix mill settcent ottantnin ... 1 000 000 un
-million 1000001 un million un . . . 2000000 du milliones ... +
-mill milliones = un milliard +
-un million milliones = un billion +
-1 000000 = un million +
-1 000 000^2^ = 1 000000000000 = un billion +
-1 000 000^3^ = un million billiones = un trillion +
-1 000 000^4^ = un million trilliones = un quadrillion
+million 1000001 un million un ... 2000000 du milliones ...
+
+- mill milliones = un milliard
+- un million milliones = un billion
+- 1 000000 = un million
+- 1 000 000^2^ = 1 000000000000 = un billion
+- 1 000 000^3^ = un million billiones = un trillion
+- 1 000 000^4^ = un million trilliones = un quadrillion
 
 *§* 57. ** Li *númeres ordinal* es format per adjunter li finale:
 *-esim. unesim* (apu *prim), duesim* (apu *secund), triesim,* etc.
@@ -733,10 +636,10 @@ du ters, tri quart, quar quinesim, etc.
 
 *§* 59. ** Li *fractiones decimal* es pronunciat
 
-3,78349 = tri comma sett ott tri quar nin, +
-0,25 = null comma du quin.
+- 3,78349 = tri comma sett ott tri quar nin,
+- 0,25 = null comma du quin.
 
-§ 60. ** Li *numerales multiplicativ* es format per adjunter li finale +
+§ 60. ** Li *numerales multiplicativ* es format per adjunter li finale
 *-uplic* (pos vocales: -plic):
 
 unuplic (simplic), duplic, triplic, quaruplic (quadruplic), quinuplic
@@ -768,11 +671,12 @@ per ott es duantquar.
 Division: 69 : 3 = 23 sixantnin sur tri, o dividet per tri es duanttri.
 
 Potentiation: 6^2^ = 36 six quadrat, o six in duesim potentie, o six in
-duesim es triantsix. +
+duesim es triantsix.
+
 2^3^ = 8 du in cub, o du in triesim potentie, o du in triesim es ott.
 
 Radication: √49 = 7
-radica quadratic, o duesim radica ex quarantnin es sett. +
+radica quadratic, o duesim radica ex quarantnin es sett.
 ∛8 = 2 radica cubic, o
 triesim radica de ott es du.
 
@@ -783,52 +687,17 @@ adjuntion de cert consonantes al tema presentic.
 
 § 66. ** Li *tema presentic* es format per adjunter un del tri vocales
 
-[width="100%",cols="34%,33%,33%",]
 |===
-|*a* a|
-
-i
-
-a|
-
-e
-
+| a | i | e
 |===
 
 al tema verbal (radica plus prefixes e sufixes). Ti vocal es
 caracteristic por chascun verb e resta ínvariabil in omni formes del
 conjugation.
 
-[width="100%",cols="25%,25%,25%,25%",]
 |===
-|*Tema verbal:* a|
-
-fabric
-
-a|
-
-exped
-
-a|
-
-construct
-
-a|
-
-Tema presentic:
-
-a|
-
-fabrica
-
-a|
-
-expedi
-
-a|
-
-constructe
-
+| Tema verbal:    | fabric  | exped  | construct
+| Tema presentic: | fabrica | expedi | constructe
 |===
 
 Li concernent vocal caracteristic apari in omni formes del conjugation;
@@ -841,30 +710,14 @@ distinctet solmen per li pronómin; li verb self resta ínmutat.
 
 §68. Li *infinitive* es format per adjunter -r al tema presentic:
 
-[width="100%",cols="34%,33%,33%",]
 |===
-|*fabricar* a|
-
-expedir
-
-a|
-
-constructer
-
+| fabricar | expedir | constructer
 |===
 
 § 69. ** Li *presente* es egal al tema presentic:
 
-[width="100%",cols="34%,33%,33%",]
 |===
-|*yo fabrica* a|
-
-tu expedi
-
-a|
-
-il constructer
-
+| yo fabrica | tu expedi | il constructer
 |===
 
 Li verb *esser* have un special abreviat form del presente: *es,* vice
@@ -875,54 +728,45 @@ adjunter *-t* al tema presentic:
 
 [width="100%",cols="34%,33%,33%",]
 |===
-|*fabricat* a|
-
-expedit
-
-a|
-
-constructet
-
+| fabricat | expedit | constructet
 |===
 
-Li participie passat es usat anc quam *passate simplic: +
+Li participie passat es usat anc quam *passate simplic:
+
 noi fabricat vu expedit ili constructet*
 
 § 71. Omni *composit témpores passat* es format per li verb auxiliari
 *har*. lli indica actiones terminat.
 
-Li *passate composit* es: +
+Li *passate composit* es:
+
 *yo ha fabricat tu ha expedit il ha constructet*
 
-Li *passate anteriori* es: +
+Li *passate anteriori* es:
+
 *noi hat fabricat vu hat expedit ili hat constructet*
 
 § 72. ** Li *future simplic* es format per li auxiliare *va:*
 
 il va fabricar ella va expedir on va constructer
 
-Li *future anteriori* es: +
+Li *future anteriori* es:
+
 *yo va har fabricat tu va har expedit il va har constructet*
 
-§ 73. ** Li *conditionale simplic* es format per li auxiliare *vell: +
+§ 73. ** Li *conditionale simplic* es format per li auxiliare *vell:
+
 noi vell laborar vu vell expedir ili vell constructer*
 
-Li *conditionale passat* es:* +
-il vell har fabricat il vell har expedit ili vell har constructet*
+Li *conditionale passat* es:
+
+*il vell har fabricat il vell har expedit ili vell har constructet*
 
 § 74. ** Li *participie presentic* (anc *participie activ)* es format
 per adjunter -nt al tema presentic:
 
-[width="100%",cols="34%,33%,33%",]
 |===
-|*fabricant* a|
-
-expedient
-
-a|
-
-constructent
-
+| fabricant | expedient | constructent
 |===
 
 Li verbes con -i prende -ent vice -nt por retrovar li derivates
@@ -931,135 +775,69 @@ international, p. ex. convenientie, provenientie.
 Li *adverbial form* es usat quam *gerundie* (= durant que o per to que)
 per adjunter -e:
 
-[width="100%",cols="34%,33%,33%",]
 |===
-|*fabricante* a|
-
-expediente
-
-a|
-
-constructente
-
+| fabricante | expediente | constructente
 |===
 
 Existe anc *formes progressiv:*
 
-[width="100%",cols="34%,33%,33%",]
 |===
-|*il es fabricant* a|
-
-il es expedient
-
-a|
-
-il es constructent
-
+| il es fabricant  | il es expedient | il es constructent
 |===
 
 §75. Li *imperative* es egal al presente sin pronómin:
 
-[width="100%",cols="34%,33%,33%",]
 |===
-|*fabrica!* a|
-
-expedi!
-
-a|
-
-constructe!
-
+| fabrica! | expedi!  | constructe!
 |===
 
 Del verb *esser* on prende li complet form: *esse.*
 
 Existe un *form de politesse per ples* (de pleser) con infinitive:
 
-[width="100%",cols="34%,33%,33%",]
 |===
-|*ples fabricar* a|
-
-ples expedir
-
-a|
-
-ples constructer
-
+| ples fabricar | ples expedir | ples constructer
 |===
 
 § 76. ** Li *optative* es format per mey con infinitive:
 
-[width="100%",cols="34%,33%,33%",]
 |===
-|*il mey fabricar* a|
-
-il mey expedir
-
-a|
-
-il mey constructer,
-
+| il mey fabricar | il mey expedir | il mey constructer
 |===
 
 li *hortative* per *lass:*
 
 [width="100%",cols="34%,33%,33%",]
 |===
-|*lass nos fabricar* a|
-
-lass nos expedir
-
-a|
-
-lass nos constructer
-
+| lass nos fabricar | lass nos expedir | lass nos constructer
 |===
 
 § 77. ** Li *formes passiv* es format per li verb auxiliari *esser:*
 
-*it es perlaborat*
-
-ili hat esset expedit
-
-ili esset perlaborat
-
-it va esser expedit
-
-it ha esset perlaborat
-
-ili va har esset expedit
-
-it vell esser constructet
-
-ili vell har esset constructet
-
-it mey esser constructet
+- it es perlaborat
+- ili hat esset expedit
+- ili esset perlaborat
+- it va esser expedit
+- it ha esset perlaborat
+- ili va har esset expedit
+- it vell esser constructet
+- ili vell har esset constructet
+- it mey esser constructet
 
 Ti maniere formar li passive es comun al maxim mult lingues national. Ma
 quelcvez it es necessi distincter, ca un action dura ancor o es ja
 finit. In ti casus on usa altri verbes, p. ex.:
 
-Li dom ea constructet. Li dom sta constructet. +
-Li libre eat printat. Li libre stat printat.
+- Li dom ea constructet. Li dom sta constructet.
+- Li libre eat printat. Li libre stat printat.
 
 In mult casus li passive posse esser expresset per substantives o per li
 form reflexiv:
 
-[width="100%",cols="50%,50%",]
-|===
-|*Li dom es in construction.* a|
-
-Li libre esset in printation.
-
-a|
-
-Li jurnal printa se rapid.
-
-a|
-
-Li cose explica se simplicmen.
-
-|===
+- Li dom es in construction.
+- Li libre esset in printation.
+- Li jurnal printa se rapid.
+- Li cose explica se simplicmen.
 
 § 78. *Vice li subjuntive* on usa in general li indicative. Solmen in
 rar casus exceptional (p. ex. in juristic documentes) on posse usar un
@@ -1095,164 +873,26 @@ in omni altri casus li rest self es li tema perfectic. **
 
 [width="99%",cols="20%,16%,16%,16%,16%,16%",]
 |===
-|*crear* a|
-
-expedir
-
-a|
-
-distribuer
-
-a|
-
-exploder
-
-a|
-
-adherer
-
-a|
-
-constructer
-
-a|
-
-crea
-
-a|
-
-expedi
-
-a|
-
-distribu
-
-a|
-
-explod
-
-a|
-
-adher
-
-a|
-
-construct
-
-a|
-
-creat
-
-a|
-
-expedit
-
-a|
-
-distribut
-
-a|
-
-explos
-
-a|
-
-adhes
-
-a|
-
-construct
-
+| crear | expedir | distribuer | exploder | adherer | constructer
+| crea  | expedi  | distribu   | explod   | adher   | construct
+| creat | expedit | distribut  | explos   | adhes   | construct
 |===
 
- On posse anc dir, que li sufixes: *ion, or, ori,* iv e ura es adjuntet
+On posse anc dir, que li sufixes: *ion, or, ori,* iv e ura es adjuntet
 che li verbes con ar e ir al participie passat, ye li verbes con er al
 radica, intercalante *t* pos vocal final e mutante un final *d* o *r* a
 *s*.
 
-[width="100%",cols="34%,33%,33%",]
 |===
-|*crear* a|
-
-expedir
-
-a|
-
-constructer
-
-a|
-
-creat
-
-a|
-
-expedit
-
-a|
-
-construct
-
-a|
-
-creation
-
-a|
-
-expedition
-
-a|
-
-construction
-
-a|
-
-creator
-
-a|
-
-expeditor
-
-a|
-
-constructor
-
-a|
-
-creatori
-
-a|
-
-expeditori
-
-a|
-
-constructori
-
-a|
-
-cretiv
-
-a|
-
-expeditiv
-
-a|
-
-constructiv
-
-a|
-
-creatura
-
-a|
-
-garnitura
-
-a|
-
-structura
-
+| crear    | expedir    | constructer
+| creat    | expedit    | construct
+| creation | expedition | construction
+| creator  | expeditor  | constructor
+| creatori | expeditori | constructori
+| cretiv   | expeditiv  | constructiv
+| creatura | garnitura  | structura
 |===
+
 
 [width="100%",cols="34%,33%,33%",]
 |===
@@ -1403,7 +1043,7 @@ existentie
 
 Quam in li participie presentic on intercala *e* pos *i* del verbes in
 *ir.* Ti finale es solmen un combination del finale del participie
-presentic +
+presentic
 *-nt* con li sufix *-ie.*
 
 §83. In analog maniere adjunte se li sufix *-nd* al tema presen-tic:
@@ -1446,7 +1086,8 @@ movement
 
 |===
 
-Si li radica de un verb con *er* fini per vocal, li e desapari: +
+Si li radica de un verb con *er* fini per vocal, li e desapari:
+
 *arguer argument compleer complement*
 
 § 85. Du sufixes adjunte se al radica verbal in du formes diferent secun
@@ -1529,7 +1170,8 @@ sin desinentie substantivic:
 li pense, li pensa (plu proxim al action), li vende, li crede, li
 response, li vise, li flut, lì resultat, li extracte, li tribut.
 
-Li tema perfectic sin finale es usat anc quam **adjective: +
+Li tema perfectic sin finale es usat anc quam **adjective:
+
 **__devot, apert, pervers.__
 
 == Adverbies
@@ -1658,12 +1300,12 @@ prepara un viage. Il prepara se por un viage.
 §102. Li *maxim frequent prepositiones* es:
 
 _*a:* (in combinationes anc ad.) Il dat li flores a su amata. Yo dat un
-libre a Paul. Yo dat le un libre. Yo dat un libre a le. Un +
-epistul a nor societé. Yo viagea a New York. Li vapornave ea +
-a Lisboa. Clar a departer. Un error a regretar. Quo vu di pri +
-mi arm a foy? Yo selectet it de tri armes a frs. 40.—. Yo va +
-atender vos a tri horas al exeada nord del station. +
-ad posse esser combinat con altri prepositiones e adverbies +
+libre a Paul. Yo dat le un libre. Yo dat un libre a le. Un
+epistul a nor societé. Yo viagea a New York. Li vapornave ea
+a Lisboa. Clar a departer. Un error a regretar. Quo vu di pri
+mi arm a foy? Yo selectet it de tri armes a frs. 40.—. Yo va
+atender vos a tri horas al exeada nord del station.
+ad posse esser combinat con altri prepositiones e adverbies
 por far plu clar li sens: adavan, adsur, adin, ad-in, etc._
 
 *along:* Ili promenat along li rive del lago.
@@ -1687,7 +1329,8 @@ li dom. Li patre venit de avan li dom. Il incontrat le avan li dom.
 negres. Che li canes on distincte divers rasses.
 
 *circum:* Circum li eclesia stat alt árbores. Li terra torna circum li
-sole. +
+sole.
+
 *cis:* Francia es situat cis li Pirenés.
 
 *con:* Li filio ea con su patre along li fluvie. Ella stat con lacrimes
@@ -1696,11 +1339,11 @@ in li ocules con su marito avan li station.
 *contra:* Li unes laborat contra li altres. Il exchangea su bicicle
 contra combustibiles. Li aeroplan aviat contra li gratta-ciel.
 
-*de:* Li dom de mi patre. Li dramas de Schiller. Un senior de Paris. +
-Li maxim grand de omnis. Un vase de aure. Ti lettres es scrit +
-de un poet per scri-machine. Li moné de un povri vidua ha +
-esset furtet per un escapate del prison, nascet de rich genito +
-res. Il vivet lontan de su patre, de quel il nequande audít +
+*de:* Li dom de mi patre. Li dramas de Schiller. Un senior de Paris.
+Li maxim grand de omnis. Un vase de aure. Ti lettres es scrit
+de un poet per scri-machine. Li moné de un povri vidua ha
+esset furtet per un escapate del prison, nascet de rich genito
+res. Il vivet lontan de su patre, de quel il nequande audít
 alquó.
 
 *desde:* Desde du annus il neplu posse laborar. Il vendi chapeles desde
@@ -1712,13 +1355,13 @@ frs. 20.—. Il prendet li tren de Roma desde Milano.
 su filios studiat medícina, durante que li altri ne volet studiar.
 
 *ex:* Il venit ex su chambre. Yo trinca ex li glass. Traductet ex german
-a Interlingue. Li vestiment es fat ex pur lan. Noi audit in +
+a Interlingue. Li vestiment es fat ex pur lan. Noi audit in
 li radio un concert de Beethoven ex London.
 
 *extra:* Il vivet extra su patria. Soledí ili devet luder extra li
 audir-distantie.
 
-*in:* Mult persones vive in li cité. Multís vell preferer viver in li +
+*in:* Mult persones vive in li cité. Multís vell preferer viver in li
 rure. In omni ocasion il eat al forest vice al scol, adminim decivez in
 min quam un annu.
 
@@ -1769,7 +1412,7 @@ se detra e sub su folies.
 
 *sur:* It venit de sub li table súper it e poy sedet sur it.
 
-*til:* Yo laborat til decidu horas. Til li extrem fine del munde, su +
+*til:* Yo laborat til decidu horas. Til li extrem fine del munde, su
 influentie es sentibil, til que un altri va vicear le.
 
 *tra:* Yo ha videt le tra li fenestre promenar tra li campes.
@@ -1892,15 +1535,11 @@ aproximativ pri merces, importat in nor land durante ti estive.
 verb auxiliari; li altri adverbies posse ínmediatmen preceder o sequer
 li parol concernent.
 
-Ne [.underline]#yo# ha prendet vor libre — ma un [.underline]#altri#
-person. +
-Yo ne [.underline]#ha# prendet vor libre — ma yo [.underline]#va#
-prender it. +
-Yo ha ne [.underline]#prendet# vor libre — ma on ha [.underline]#dat# it
-a me. +
-Yo ha prendet ne [.underline]#vor# libre — ma un [.underline]#aItri#. +
-Anc [.underline]#yo# ama vos. Yo anc [.underline]#ama# vos. Yo ama anc
-[.underline]#vos#.
+- Ne *yo* ha prendet vor libre — ma un *altri* person.
+- Yo ne *ha* prendet vor libre — ma yo *va* prender it.
+- Yo ha ne *prendet* vor libre — ma on ha *dat* it a me.
+- Yo ha prendet ne *vor* libre — ma un *aItri*.
+- Anc *yo* ama vos. Yo anc *ama* vos. Yo ama anc *vos*.
 
 §112. Li *verbes auxiliari* (anc: dever, posser, voler etc.) deve sempre
 preceder li participie respectivmen li infinitive ínmediatmen, o esser
@@ -1998,13 +1637,13 @@ altri, o ne es a separar. Specialmen on deve atenter, que atributes,
 queles es necessi por definir un cert notion, es adjuntet sin comma,
 tales queles descripte solmen, es separat per comma.
 
-Il ha racontat me to quo li altris ne deve saver. +
-Il ha racontat me to, quo li altris ne deve saver (que il ha racontat it
-a me). +
-Il ne ama li infantes queles fa brui si ili ne es controlat. +
-Il ne ama li infantes, queles fa brui si ili ne es controlat. +
-Il ne ama li infantes queles fa brui, si ili ne es controlat. +
-Il ne ama li infantes, queles fa brui, si ili ne es controlat.
+- Il ha racontat me to quo li altris ne deve saver.
+- Il ha racontat me to, quo li altris ne deve saver (que il ha
+  racontat it a me).
+- Il ne ama li infantes queles fa brui si ili ne es controlat.
+- Il ne ama li infantes, queles fa brui si ili ne es controlat.
+- Il ne ama li infantes queles fa brui, si ili ne es controlat.
+- Il ne ama li infantes, queles fa brui, si ili ne es controlat.
 
 §122. Por indicar li paroles maxim important del frase on posse usar li
 *accentu scrit.*
@@ -2022,10 +1661,11 @@ in li fine del frase, ne anc in li comensa.)
 
 == Parolformation
 
-§124. *Nov paroles* es format per +
-A. Adjuntion de desinenties. +
-B. Adjuntion de prefixes. +
-C. Adjuntion de sufixes. +
+§124. *Nov paroles* es format per
+
+A. Adjuntion de desinenties.
+B. Adjuntion de prefixes.
+C. Adjuntion de sufixes.
 D. Composition de du o pluri paroles.
 
 == A. desinenties
@@ -2033,7 +1673,7 @@ D. Composition de du o pluri paroles.
 § 125. Li adjuntion de desinenties es ja tractat in li concernent
 paragrafes del grammatica:
 
-{empty}1) *Desinenties substantivic: -e* (§22, 30, 87)
+1) *Desinenties substantivic: -e* (§22, 30, 87)
 
 *-a* (§ 24, 30, 87)
 
@@ -2041,9 +1681,9 @@ paragrafes del grammatica:
 
 *-u* (§ 25) *-um* (§31)
 
-{empty}2) *Desinenties adjectivic: -i* (§29).
+2) *Desinenties adjectivic: -i* (§29).
 
-{empty}3) *Desinenties adverbial: -e* (§74) *-men* (§ 90).
+3) *Desinenties adverbial: -e* (§74) *-men* (§ 90).
 
 § 126. Ti desinenties es un consequentie del *caracterisant vocales
 final* de Interlingue:
@@ -2149,7 +1789,7 @@ On posse adjunter pluri sufixes in li sam parol.
 § 132. In mult international parolformationes existe un *contraction* de
 du simil succedent sones o songruppes a un sol.
 
-{empty}p. ex. minera(lo)logie, popular(i)isar, pacif(ic)isme,
+p. ex. minera(lo)logie, popular(i)isar, pacif(ic)isme,
 infanter(i)ist, ambiti(on)osi, religi(on)osi, ident(ic)itá,
 nu(tri)tresse, mum(i)ificar.
 
@@ -2174,17 +1814,17 @@ infinitive *-ar*, sin sufix.
 
 Ti verbes derivat have divers significationes:
 
-{empty}1) de objectes, materiales, abstractes: provider per: *coronar,
+1) de objectes, materiales, abstractes: provider per: *coronar,
 armar, motivar.*
 
-{empty}2) de utensiles, instrumentes: usar, tractar per: *brossar,
+2) de utensiles, instrumentes: usar, tractar per: *brossar,
 martellar.*
 
-{empty}3) de organic productes: secreer it: *lactar, ovar, sanguar.*
+3) de organic productes: secreer it: *lactar, ovar, sanguar.*
 
-{empty}4) de persones e entes: acter quam: *dominar, serpentar.*
+4) de persones e entes: acter quam: *dominar, serpentar.*
 
-{empty}5) de adjectives e participies (sovente con prepositiones): far
+5) de adjectives e participies (sovente con prepositiones): far
 tal: *plenar, siccar, exsiccar, abellar, calentar, sedentar.*
 
 In mult casus existe altri relationes internationalmen conosset: *beson,
@@ -2204,7 +1844,7 @@ pacificar.* forma anc adjectives: *pacific, magnific, specific.*
 
 § 136. *Sufixes por verbal substantives.*
 
-{empty}a) adjuntet al *tema perfectic* secun § 80:
+a) adjuntet al *tema perfectic* secun § 80:
 
 *-ion:* action, anc resultat e loc de it: *administration, expedition,
 construction, distribution, explosion.*
@@ -2215,17 +1855,17 @@ distributor, constructor, ventilator, compressor, divisor.*
 *-ura:* concretisat action e su resultate: *reparatura, garnitura,
 lectura, creatura.*
 
-{empty}b) adjuntet al *tema presentic* secun § 84:
+b) adjuntet al *tema presentic* secun § 84:
 
 *-ment:* concret action o su resultate, o servient a, servient quam:
 *fundament, nutriment, movement.*
 
-{empty}c) adjuntet al *radica verbal* secun § 85:
+c) adjuntet al *radica verbal* secun § 85:
 
 *-ida* (verbes in -ar: -*ada*): action in durada: *promenada, perdida,
 currida.*
 
-{empty}d) adjuntet al *participie presentic* secun § 82:
+d) adjuntet al *participie presentic* secun § 82:
 
 *-ie:* statú in durada: *tolerantie, provenientie, existentie.*
 

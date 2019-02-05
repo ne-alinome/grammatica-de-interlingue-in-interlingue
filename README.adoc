@@ -1,0 +1,24 @@
+= Grammatica de Interlingue
+:author: Marcos Cruz (programandala.net)
+:revdate: 2019-02-05
+
+== Español
+
+Objetivo de este proyecto:: Crear un versión en formato EPUB de
+_Grammatica de Interlingue_, de Dr. F. Haas, digitalizado por S.
+Belitzky de la edición de Interlingue-Servicie Winterthur (Suiza),
+1956.
+
+Author:: Marcos Cruz (programandala.net).
+
+Sede:: http://ne.alinome.net.
+
+== Esperanto
+
+Celo de ĉi projekto: Krei EPUB-formatan bitlibron el _Grammatica de
+Interlingue_, de Dr. F. Haas, bitigita de S.  Belitzky el la eldono de
+Interlingue-Servicie Winterthur (Suiza), 1956.
+
+Autor:: Marcos Cruz (programandala.net).
+
+Retpaĝaro:: http://ne.alinome.net.

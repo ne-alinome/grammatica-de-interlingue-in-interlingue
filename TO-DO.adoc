@@ -1,0 +1,3 @@
+= TO-DO of _Grammatica de Interlingue_
+:author: Marcos Cruz (programandala.net)
+:revdate: 2019-02-05

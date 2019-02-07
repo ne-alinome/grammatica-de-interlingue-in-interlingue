@@ -1,6 +1,11 @@
 = TO-DO of _Grammatica de Interlingue_
 :author: Marcos Cruz (programandala.net)
-:revdate: 2019-02-05
+:revdate: 2019-02-07
 
 - Tidy ordered and unordered lists.
 - Markup list of terms with definition lists.
+- Markup examples as example blocks.
+- Link the references.
+- Create style for class "informalexample", added by dbtoepub/xlstproc
+  from DocBook's `<informalexample>` tag.
+

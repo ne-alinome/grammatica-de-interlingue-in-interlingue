@@ -22,12 +22,18 @@ endif::[]
 
 :dot: .
 
+ifdef::backend-pdf[]
+toc::[]
+endif::[]
+
 == Anteparol
 
 Ti grammatica es complet in li sens, que it contene omni essential
 regules usat in li textus de Cosmoglotta, li oficial organ del
 Interlingue Union, e in li Complet Cursu de Interlingue de A. Matejka.
 In plu omni decisiones del Interlingue Academie es egardat.
+
+// XXX FIXED -- usar Idiotismes -> usar idiotismes
 
 In contrast a omni lingues national, on posse dir de Interlingue: Qui
 aplica li regules de ti grammatica e usa li adequat paroles, parla e
@@ -36,7 +42,7 @@ erra grammatical in vor lettre, ma null anglese vell expresser su pensas
 per ti paroles o per ti frase-constructiones! E to constitue li grand
 facilitá de Interlingue: Chascun nation posse expresser su pensas in li
 cadre del poc regules grammatical in li maniere acustomat, e deve solmen
-far atention, ne usar Idiotismes íncomprensibil al altri nationes per
+far atention, ne usar idiotismes íncomprensibil al altri nationes per
 usar cert paroles in un altri sens quam li general. Ma li regules
 grammatical es tre simplic e sin exceptiones, talmen que on posse
 realmen mastrisar les in extrem curt témpor. In plu un grand parte del
@@ -58,7 +64,7 @@ Wahl* esset 1949 viceat per li nómine *Interlingue,* sin changear li
 lingue self, por evitar li politic aspecte del nómine
 “Occidental-Union”.
 
-== ALFABET
+== Alfabet
 
 § 1. Interlingue es scrit per 26 *lítteres latin: a, b, c, d, e, f, g,
 h, i, j, k, I, m, n, o, p, q, r, s, t, u, v, w, x, y, z.*
@@ -72,7 +78,7 @@ te, u, ve, duplic ve, ix, ypsilon, zet.
 
 § 3. *Li vocales* es sempre clarmen pronunciat quam seque:
 
-*a* quam in F (francesi), o G (german), o H (hispan), o I (italian),o A
+*a* quam in F (francesi), o G (german), o H (hispan), o I (italian), o A
 (anglesi): father. *vase, batte, batter.*
 
 *e* apert o cludet, quam GHI, A: bed, yes, F: é o è. *pena, mensu,
@@ -95,10 +101,10 @@ e *u* avan vocales e in li combinationes *au* e *eu* (*u* anc li *a* e
 li *e* es curt) es tre curt, presc consonantic, e ne posse formar propri
 síllabes.
 
-leôn *, creatôr, mêdie, mediôcri, mêdium, lìngue, linguâl, lìnguìstic,
+leôn(*), creatôr, mêdie, mediôcri, mêdium, lìngue, linguâl, lìnguìstic,
 trottuôre, càude, neutrâl, arcâic, vîa, revûe.
 
-* Signes ilustrativ, ne a scrir: ê: long, è: curt.
+(*) Signes ilustrativ, ne a scrir: ê: long, è: curt.
 
 In plu un strict regul pri li pronunciation long o curt, cludet o apert
 del vocales ne existe. Preferibil es li pronunciationes simil a FGHI.
@@ -116,11 +122,11 @@ vocales. *Accentuat e* e *o* es *cludet,* si ili es long, e avan *m* e
 *n, apert* in omni altri casus. *E* e *o ínaccentuat* es plu o min
 *cludet.*
 
-marchâr*, vidêr, venîr, sonôri, constructôr, constructiôn, chèc, iràc,
+marchâr(*), vidêr, venîr, sonôri, constructôr, constructiôn, chèc, iràc,
 depèche, paradòx, pâtre, splìttre, câble, pèlle, dilëmma, cömma, mënte,
 mönte, atàcca, fòsse, transpòrt, idê, burô, cön, ë, li, më.
 
-*Signes ilustrativ, ne a scrir: ê: long e cludet, ë: curt e cludet, è:
+(*) Signes ilustrativ, ne a scrir: ê: long e cludet, ë: curt e cludet, è:
 curt e apert.
 
 *§ 5. Li consonantes* es pronunciat quam seque:
@@ -160,8 +166,10 @@ aqua.*
 
 *rh* quam r (in grec paroles). *rheumatisme.*
 
+// XXX FIXED -- Removed "altesse".
+
 *s* sonori inter vocales, dur in omni altri casus. *cose, position, pos,
-es, roses, altesse, divers, sospirar, posta.*
+es, roses, divers, sospirar, posta.*
 
 *ss* quam s dur. *casse.*
 
@@ -173,7 +181,10 @@ altriloc quam AFGHI. *tolerantie, tentar, tentation, hostie.*
 
 *th* quam t (in grec paroles). *theosoph, lithograph.*
 
-*v* quam AFHI, G: w. *venir, dever, nive.*
+// XXX FIXED -- Removed "H". The sound of "v" in Spanish usually is
+// "b".
+
+*v* quam AFI, G: w. *venir, dever, nive.*
 
 *w* rar, quam A, curt Int: u. *west.*
 
@@ -185,9 +196,11 @@ altriloc quam AFGHI. *tolerantie, tentar, tentation, hostie.*
 
 *zz* dur (ts). *plazza.*
 
+// XXX FIXED -- "G: ù" -> "G: ü"
+
 § 6. Li experientie pruva que *litt variationes* in li pronunciation ne
 gena li comprension. Pro to it *es permisset* pronunciar li y vocalic
-quam F: u, G: ù, *qu* quam kw, *ch* quam tsch, *j* sempre e *g* sequet
+quam F: u, G: ü, *qu* quam kw, *ch* quam tsch, *j* sempre e *g* sequet
 de e, i, y quam dj.
 
 cylindre, quadre, marchar, chef, jurnal, gengive.
@@ -218,7 +231,7 @@ altri casus por garantir li desirat accentuation.
 In *parol-compositiones* (anc autonom paroles con prefixes) li principal
 parte seque ti regules, li altres posse reciver un accentu secundari.
 
-Li pòríu *, familie, àvie, doctòr, formàr, li formàt, li formàte,
+Li pòríu(*), familie, àvie, doctòr, formàr, li formàt, li formàte,
 formànt; duràbil, elèctric, lògic, li lògica, li lògico, pràctic, li
 práctíca, il práctica, il ìndica, il èxplica, dùplic, il dùplica,
 multìplic, il multìplica, centùplic, il centùplica, specìfic, il
@@ -232,7 +245,7 @@ manuscrìte, genú-articulation, unifòrm, li unifòrme, il unifòrma, il
 internationalìsa, ínpracticàbil, índubitàbilmen, li fèrro-vìa, il ínvìa,
 it inflùe, il subtràe, hodíe, il contradí, il retrovèni.
 
-* In vocabulariums e manuales li scrition del acut es obligatori, ti del
+(*) In vocabulariums e manuales li scrition del acut es obligatori, ti del
 gravis recomendat quam medie didactic por accentus ínscrit: ínscrit, il
 inscrí, ìris, ottùplic, il rèplica, il multìplica, specìfic, pacìfic, il
 artìcula, il inspùla, il ànima, li ferrovìa, li relvìa, il refá, it
@@ -275,6 +288,8 @@ Paul, London, Pacifico, Anglia, Danubio, li Senior, su Majestie.
 
 § 14. Li *acurtationes* maxim frequent es:
 
+// XXX FIXED -- "pm" -> "pm."
+
 [width="100%"]
 |===
 | sr. o Sr.     | senior
@@ -292,7 +307,7 @@ Paul, London, Pacifico, Anglia, Danubio, li Senior, su Majestie.
 | v.            | vide
 | am.           | ante midí
 | pg.           | págine
-| pm            | pos midí
+| pm.           | pos midí
 | cf.           | confronta
 | a. c.         | annu current
 | sq.           | e sequentes
@@ -315,7 +330,7 @@ Por li plurale li substantive es usat sin articul.
 
 Yo vide un avie. Yo vide avies.
 
-§ 17. Li articul li posse *prender li plurale,* si null altri parol
+§ 17. Li articul *li* posse *prender li plurale,* si null altri parol
 expresse it.
 
 _On deve metter punctus sur lis i._ _Ma mult i ne havet punctus._
@@ -330,8 +345,8 @@ fructes._
 § 20. Li articul *definit* indica alquó ja mentionat o conosset, o li
 tot specie, li articul *índefinit* alquó ínconosset o ne ancor tractat.
 
-Li can quel vu conosse es fidel. Canes es fidel. Li can es fidel
-=fidelitá és un qualitá del tot specie can. Un can de mi fratre es
+Li can quel vu conosse es fidel. Canes es fidel. Li can es fidel.
+Fidelitá és un qualitá del tot specie can. Un can de mi fratre es
 mordaci, ma li altris ne es tal. Fidelitá es un valorosi qualitá. Li
 fidelitá del can (o del canes) es pruvat.
 
@@ -470,11 +485,21 @@ altri por li *object* (acusative o dative, casu obliqui).
 
 [width="100%"]
 |===
-| subject: | yo | tu | il | ella | it | noi | vu  | ili (illos, ellas)
-| object:  | me | te | le | la   | it | nos | vos | les (los, las)
+| Subject            | Object
+
+| yo                 | me
+| tu                 | te
+| il                 | le
+| ella               | la
+| it                 | it
+| noi                | nos
+| vu                 | vos
+| ili (illos, ellas) | les (los, las)
 |===
 
 Li formes in parenteses es usat solmen in casu de necessitá.
+
+// XXX TODO -- Link "§ 13" and all similar cases.
 
 §40. Li pronómin de *politesse* es: *vu* (cf. § 13). On usa it vice tu,
 quel expresse un cert intimitá o parentitá.
@@ -490,9 +515,9 @@ yo e tu.
 
 Veni con me! Yo veni con te. Noi ea con le (o il). Vu ea con ella (o
 la). Noi parla pri it. On parla pri nos. Yo veni pos vos. Yo labora por
-les (o ili').
+les (o ili).
 
-Pronómines possessiv.
+=== Pronómines possessiv
 
 § 43. Li formes *adjectivic e substantivic* es egal; ma por li
 substantivic on posse usar li *articul,* secun li nuancie o li regul del
@@ -511,7 +536,7 @@ que li tuis súpera li mis in vìvacitá, o: que tuis súpera mís in
 vivacitá, etc. To es lores; to es li lores. Ples far lu tui. Ples da me
 tui libre. Il deve far li su.
 
-Pronómines demonstrativ.
+=== Pronómines demonstrativ
 
 § 44. Li formes *adjectivic e substantivic* es egal; ma li substantivics
 prende li plurale e posse prender li sexu, si to in rar casus es
@@ -548,7 +573,7 @@ impersonal, neutri o abstract. It significa generalmen: to quo es
 De lu sublim a lu comic es sovente solmen un passu. Lu nov de ti
 conception es...
 
-Pronómines relativ e interrogativ.
+=== Pronómines relativ e interrogativ
 
 § 49. On usa li sam pronómines, relativ e interrogativ, adjectivic e
 substantivic.
@@ -587,7 +612,7 @@ Qual homes esset ci? Qual es li aqua hodíe, calid o frigid? Yo ne save
 qual it es. Qual compositor, tal musica. Quant il deve dar vos ancor? Yo
 ne save, quant il ha dat le. Quant vive, tant espera.
 
-*Pronómines índefinit.*
+=== Pronómines índefinit
 
 §54. Li prefix: *al-* da pronómines indicant alquó índeterminat, li
 prefix: *ne-* tales indicant li absentie, li negation, e li sufix:
@@ -750,9 +775,9 @@ adjunter *-t* al tema presentic:
 | fabricat | expedit | constructet
 |===
 
-Li participie passat es usat anc quam *passate simplic:
+Li participie passat es usat anc quam *passate simplic*:
 
-noi fabricat vu expedit ili constructet*
+*noi fabricat vu expedit ili constructet*
 
 § 71. Omni *composit témpores passat* es format per li verb auxiliari
 *har*. lli indica actiones terminat.
@@ -763,26 +788,36 @@ Li *passate composit* es:
 
 Li *passate anteriori* es:
 
-*noi hat fabricat vu hat expedit ili hat constructet*
+- Noi hat fabricat.
+- Vu hat expedit.
+- Ili hat constructet.
 
 § 72. Li *future simplic* es format per li auxiliare *va:*
 
-il va fabricar ella va expedir on va constructer
+- Il va fabricar.
+- Ella va expedir.
+- On va constructer.
 
 Li *future anteriori* es:
 
-*yo va har fabricat tu va har expedit il va har constructet*
+- Yo va har fabricat.
+- Tu va har expedit
+- Il va har constructet.
 
-§ 73. Li *conditionale simplic* es format per li auxiliare *vell:
+§ 73. Li *conditionale simplic* es format per li auxiliare *vell*:
 
-noi vell laborar vu vell expedir ili vell constructer*
+- Noi vell laborar.
+- Vu vell expedir.
+- Ili vell constructer*
 
 Li *conditionale passat* es:
 
-*il vell har fabricat il vell har expedit ili vell har constructet*
+- Il vell har fabricat.
+- Il vell har expedit
+- Ili vell har constructet.
 
 § 74. Li *participie presentic* (anc *participie activ)* es format
-per adjunter -nt al tema presentic:
+per adjunter *-nt* al tema presentic:
 
 [width="100%"]
 |===
@@ -871,7 +906,7 @@ auxiliari:
 
 Il di que il la amaye. Il dit que il la haye amat.
 
-Verbal derivation
+=== Verbal derivation
 
 § 79. In omni lingues millenes de substantives e adjectives es format ex
 li radica verbal per adjunter finales. Ti paroles sembla esser format
@@ -896,6 +931,8 @@ On supresse li *r* resp. *er* del infinitive. Si li rest fini per vocal,
 on adjunte *t*, si it fini per *d* o *r*, on vicea ti consonant per *s*,
 in omni altri casus li rest self es li tema perfectic.
 
+// XXX TODO -- Improve these tables.
+
 [width="99%"]
 |===
 | crear | expedir | distribuer | exploder | adherer | constructer
@@ -919,6 +956,7 @@ radica, intercalante *t* pos vocal final e mutante un final *d* o *r* a
 | creatura | garnitura  | structura
 |===
 
+// XXX TODO -- Join these tables.
 
 [width="100%"]
 |===
@@ -944,7 +982,9 @@ international formes:
 § 81. Che li tri verbes: *far, dir, scrir* on posse formar li derivates
 per li complet radicas: *fact, dict, script.*
 
-Che li verbes con li consonantgruppe *-nct-* on posse omisser li *c*,
+// XXX FIXED -- "consonantgruppe -nct-" -> "consonantgruppe -ct-":
+
+Che li verbes con li consonantgruppe *-ct-* on posse omisser li *c*,
 precipue in nederivat formes.
 
 Contrafaction o contrafation, factor o fator, malediction o maledition,
@@ -969,7 +1009,7 @@ presentic
 
 [width="100%"]
 |===
-| demonstrand | vendiend | leend 
+| demonstrand | vendiend | leend
 |===
 
 §84. Li sufix *-ment* anc es adjuntet al tema presentic:
@@ -1206,9 +1246,13 @@ audir-distantie.
 rure. In omni ocasion il eat al forest vice al scol, adminim decivez in
 min quam un annu.
 
-*ínfra:* Li aviones vola infra li stratosfere. Il sedet intra li fable,
+// XXX FIXED -- "sedet intra li fable" -> "sedet infra li table"
+
+// XXX FIXED -- "ínfra" -> "infra"
+
+*infra:* Li aviones vola infra li stratosfere. Il sedet infra li table,
 e li patre supra. Sub li table esset un can. Súper li table esset li
-lampe e sur li' table un libre.
+lampe e sur li table un libre.
 
 *inter:* Ili esset li sol tranquil scoleros inter mult bruiosi. Inter
 New York e Paris. Inter du e tri horas. Un conversation inter du
@@ -1260,7 +1304,9 @@ influentie es sentibil, til que un altri va vicear le.
 
 *trans:* Li tren ea tra li túnnel del Sanct Gotthard trans li Alpes.
 
-*ultra:* Ultra francesi e german il parla anc ínterlingue.
+// XXX FIXED -- ínterlingue -> Interlingue
+
+*ultra:* Ultra francesi e german il parla anc Interlingue.
 
 *vers:* Li avie volat vers li sole.
 
@@ -1287,8 +1333,10 @@ chambre ínter su infantes.
 
 §104, Conjunctiones de coordination es:
 
+====
 e, e ... e, o, o ... o, ni, ni ... ni, sive ... sive, ma, nam, tamen,
 ergo, dunc, plu ... plu, nu, nu ... nu.
+====
 
 E li patre e li matre devenit ciec. O il veni o noi deve cluder li
 porta. Il certmen ne va manjar ni trincar, nam il ni manja carne, ni
@@ -1312,7 +1360,7 @@ expressiones con *que* e *quam.*
 per que, por que, pro que, pos que, ante que, durante que, sam quam,
 desde que, sin que, tant que, suposit que, in condition que.
 
-[##107]##INTERJECTIONES
+== Interjectiones
 
 §107, Quam interjectiones on posse usar omni interjectiones del national
 lingues, queles es comprensibil per se self o es internationalmen
@@ -1483,22 +1531,24 @@ ea con la). Yo ea con élla (ne con li áltris). Save vu, de u il veni?
 
 § 123. Li *altri signes de interpunction:*
 
-Colon (:), punctus suspensiv (...), parentese ( ), crampones ([ ]),
-imbrassamentes(\{ }), strec ligant (-), strec separant (—), signes
-(hocos) de citation (" "), signe de exclamation (!), signe interrogativ
+Colon (:), punctus suspensiv (...), parentese ({nbsp}), crampones ([{nbsp}]),
+imbrassamentes({ }), strec ligant (-), strec separant (—), signes
+(hocos) de citation ("{nbsp}"), signe de exclamation (!), signe interrogativ
 (?) e apostrof (') es usat plu o min internationalmen. (! e ? sta solmen
 in li fine del frase, ne anc in li comensa.)
 
 == Parolformation
 
-§124. *Nov paroles* es format per
+§124. *Nov paroles* es format per:
 
-A. Adjuntion de desinenties.
-B. Adjuntion de prefixes.
-C. Adjuntion de sufixes.
-D. Composition de du o pluri paroles.
+// XXX TODO -- Link:
 
-== A. desinenties
+- Adjuntion de desinenties.
+- Adjuntion de prefixes.
+- Adjuntion de sufixes.
+- Composition de du o pluri paroles.
+
+=== Adjuntion de desinenties
 
 § 125. Li adjuntion de desinenties es ja tractat in li concernent
 paragrafes del grammatica:
@@ -1550,19 +1600,23 @@ felici, sagi, porosi, organisatori, amari, curvi, vacui.
 e, a, o, u, i: rose, rosi, rosiero, rosiera; porte, porta, portu,
 portuari, portale; posta, posto.
 
-== B. prefixes
+=== Adjuntion de prefixes
 
 §127. In mult international parolformationes li prefixes e prefixial
 expressiones perdi su ultim consonant o assimila it al sequent
 consonant; in ti casu duplic consonantes es viceat secun § 10 per
 simplics, exceptet pos ín- (ma anc li altri ortografies es permisset).
 
+// XXX TODO -- Tidy:
+
 adtracter — attracter — atracter, conlaborar — collaborar — colaborar,
 conoperativ — cooperativ, conposition — composition, disfuser — diffuser
 — difuser, exmigrar — emmigrar — emigrar, coneducation — coeducation,
 ínregulari — irregulari, ínlegal — illegal.
 
-*§ 128.* Li *prefixes es:*
+§ 128. Li *prefixes* es:
+
+// XXX FIXME -- Make definition list.
 
 *bel-:* parentitá per maritage: *belfratre, belfilio.*
 
@@ -1608,7 +1662,7 @@ ultraclerical, vicepresidente, parapluvie, portamoné, tirabuton.
 decametre, decilitre, hectolitre, hemisfere, hipermodern, kilometre,
 monoplan, panslavisme, pseudocrist, telefonar.
 
-== C. sufixes
+=== Adjuntion de sufixes
 
 § 131. Li sufixes adjunte se al radica ínmediatmen o med vocales o
 consonantes ligativ. In infra es indicat li complet finales, ma sin
@@ -1635,7 +1689,7 @@ saltettar.*
 
 *-ach:* pejorativ, despreciant: *cavallacho, linguache, criticachar.*
 
-Verbal sufixes.
+==== Verbal sufixes
 
 §134. *Finale -ar.* Omni modern formationes de verbes fini per -ar, ne
 per -ir e ne per -er. Li maxim mult verbes es derivat de altri paroles
@@ -1671,6 +1725,8 @@ pacificar.* forma anc adjectives: *pacific, magnific, specific.*
 *-ijar:* devenir, far se: *verdijar, rubijar.*
 
 *-ear:* statu dinamic de vade e retro: *flammear, verdear, undear.*
+
+// XXX TODO -- Separate all para numbers from headings:
 
 § 136. *Sufixes por verbal substantives.*
 
@@ -1864,10 +1920,12 @@ international. P. ex.: *-id, -ore.*
 friger, frigid, frigore, valer, valid, valore, riger, rigid, rigore,
 rigiditá, rigorosí, rigorositá.
 
-[##143]##D. PAROL-COMPOSITION
+=== Composition de du o pluri paroles
 
 § 143. Maxim frequent es li metode plazzar li complement sin preposition
 avan li substantive resp. li verb, con o sin strec ligativ.
+
+// XXX TODO -- Markup this and all examples with an example block:
 
 scri-table = table por scrir, vent-moline = moline movet del vent,
 chapel-bux, nota-librette, postcarte, scrimachine, tippmachine,
@@ -1951,6 +2009,8 @@ yo es tam gay. Yo desira que il mey venir. Si yo vell esser malad, yo
 vell restar in hem. Yo ne save, ca yo comprende vos corect. Ca il veni o
 ne, noi va comensar, Si on vell saver, ca il veni! Yo crede que yo ha
 videt le. Yo crede har videt le. Yo crede vider le.
+
+// XXX TODO -- Use uppercase instead?:
 
 Accentuati**o**n: Li p**o**c art**i**cules del gramm**a**tica e li
 vocabul**a**rium de Interl**i**ngue es facil**i**ssim e repres**e**nta

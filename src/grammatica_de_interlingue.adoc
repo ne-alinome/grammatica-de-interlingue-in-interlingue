@@ -18,7 +18,7 @@ endif::[]
 // This Asciidoctor version by Marcos Cruz (programandala.net) for
 // http://ne.alinome.net, 2019.
 
-// Last modified 201902081501
+// Last modified 201902081503
 
 :dot: .
 
@@ -1845,8 +1845,9 @@ simplics, exceptet pos ín- (ma anc li altri ortografies es permisset).
 
 *bel-:* parentitá per maritage: *belfratre, belfilio.*
 
-*des-:* cessation, contrarie: *desabonnar, desinfecter, desavantage.
-dis:-* separation, dispersion: *dismembrar, dissemar.*
+*des-:* cessation, contrarie: *desabonnar, desinfecter, desavantage.*
+
+*dis-:* separation, dispersion: *dismembrar, dissemar.*
 
 *ex-:* ancian: *expresidente, eximperator.*
 

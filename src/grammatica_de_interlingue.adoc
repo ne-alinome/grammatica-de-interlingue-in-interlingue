@@ -18,7 +18,7 @@ endif::[]
 // This Asciidoctor version by Marcos Cruz (programandala.net) for
 // http://ne.alinome.net, 2019.
 
-// Last modified 201902081700
+// Last modified 201902081703
 
 :dot: .
 
@@ -2164,7 +2164,7 @@ d) adjuntet al *participie presentic* secun <<par82>>:
 -ist:: Person ocupant se pri, adherente de: *calvinist, socialist,
 librist, telegrafista.*
 
--*or:* cp. <<par136>>.
+-or:: cp. <<par136>>.
 
 -ari-:: Person caracterisat per alquó external, p. ex. un function:
 *millionario, functionaria, bibliotecario, pensionaria.*

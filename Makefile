@@ -2,7 +2,7 @@
 
 # By Marcos Cruz (programandala.net)
 
-# Last modified 201902081640
+# Last modified 201902082342
 # See change log at the end of the file
 
 # ==============================================================
@@ -29,7 +29,7 @@ description="Grammatica de Interlingue in Interlingue"
 # Interface
 
 .PHONY: all
-all: epub pdf
+all: epub odt pdf
 
 .PHONY: epub
 epub: epubd epubx
@@ -42,6 +42,9 @@ epubp: target/$(book).adoc.xml.pandoc.epub
 
 .PHONY: epubx
 epubx: target/$(book).adoc.xml.xsltproc.epub
+
+.PHONY: odt
+odt: target/$(book).adoc.xml.pandoc.odt
 
 .PHONY: pdf
 pdf: pdfa4 pdfletter
@@ -145,10 +148,28 @@ target/%.adoc.xml.xsltproc.epub: tmp/%.adoc.xml
 #  cp -f src/xsltproc/stylesheet.css tmp/xsltproc/OEBPS/ && \
 
 # ==============================================================
+# Convert DocBook to OpenDocument
+
+target/$(book).adoc.xml.pandoc.odt: \
+	tmp/$(book).adoc.xml \
+	src/$(book)-docinfo.xml \
+	src/pandoc_odt_template.txt
+	pandoc \
+		--from docbook \
+		--to odt \
+		--template=src/pandoc_odt_template.txt \
+		--variable=lang:$(lang) \
+		--variable=editor:$(author) \
+		--variable=publisher:$(editor) \
+		--variable=description:$(description) \
+		--output $@ $<
+
+# ==============================================================
 # Change log
 
 # 2019-02-05: Start.
 #
 # 2019-02-07: Add stylesheet to dbtoepub.
 #
-# 2019-02-08: Add debugging rule `xml`. Deprecate pandoc.
+# 2019-02-08: Add debugging rule `xml`. Deprecate pandoc to make the EPUB.
+# Make an OpenDocument version.

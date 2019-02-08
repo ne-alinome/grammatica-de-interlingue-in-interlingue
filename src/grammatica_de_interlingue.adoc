@@ -1933,17 +1933,12 @@ in li fine del frase, ne anc in li comensa.)
 §{nbsp}125. Li adjuntion de desinenties es ja tractat in li concernent
 paragrafes del grammatica:
 
-1) *Desinenties substantivic: -e* (§22, 30, 87)
-
-*-a* (§ 24, 30, 87)
-
-*-o* (§ 24, 30)
-
-*-u* (§ 25) *-um* (§31)
-
-2) *Desinenties adjectivic: -i* (§29).
-
-3) *Desinenties adverbial: -e* (§74) *-men* (§ 90).
+1. *Desinenties substantivic: -e* (§22, 30, 87)
+* *-a* (§ 24, 30, 87)
+* *-o* (§ 24, 30)
+* *-u* (§ 25) *-um* (§31)
+2. *Desinenties adjectivic: -i* (§29).
+3. *Desinenties adverbial: -e* (§74) *-men* (§ 90).
 
 §{nbsp}126. Ti desinenties es un consequentie del *caracterisant vocales
 final* de Interlingue:
@@ -2102,18 +2097,14 @@ infinitive *-ar*, sin sufix.
 
 Ti verbes derivat have divers significationes:
 
-1) de objectes, materiales, abstractes: provider per: *coronar,
-armar, motivar.*
-
-2) de utensiles, instrumentes: usar, tractar per: *brossar,
-martellar.*
-
-3) de organic productes: secreer it: *lactar, ovar, sanguar.*
-
-4) de persones e entes: acter quam: *dominar, serpentar.*
-
-5) de adjectives e participies (sovente con prepositiones): far
-tal: *plenar, siccar, exsiccar, abellar, calentar, sedentar.*
+1. De objectes, materiales, abstractes: provider per: *coronar, armar,
+   motivar.*
+2. De utensiles, instrumentes: usar, tractar per: *brossar,
+   martellar.*
+3. De organic productes: secreer it: *lactar, ovar, sanguar.*
+4. De persones e entes: acter quam: *dominar, serpentar.*
+5. De adjectives e participies (sovente con prepositiones): far tal:
+   *plenar, siccar, exsiccar, abellar, calentar, sedentar.*
 
 In mult casus existe altri relationes internationalmen conosset: *beson,
 besonar, cure, curar, risca, riscar, don, donar, matur, maturar.*

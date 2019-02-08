@@ -18,7 +18,7 @@ endif::[]
 // This Asciidoctor version by Marcos Cruz (programandala.net) for
 // http://ne.alinome.net, 2019.
 
-// Last modified 201902081713
+// Last modified 201902081720
 
 :dot: .
 
@@ -1132,8 +1132,9 @@ expressent un statu, al talnominat *verbes static.*
 
 [width="100%"]
 |===
-| tolerar    | provenir     | exister
-| tolerantie | provenientie | existentie
+| tolerar  | tolerantie
+| provenir | provenientie
+| exister  | existentie
 |===
 
 Quam in li participie presentic on intercala *e* pos *i* del verbes in
@@ -1154,8 +1155,9 @@ presentic
 
 [width="100%"]
 |===
-| fundar    | experir    | mover
-| fundament | experiment | movement
+| fundar  | fundament
+| mover   | movement
+| experir | experiment
 |===
 
 Si li radica de un verb con *er* fini per vocal, li *e* desapari:
@@ -1170,8 +1172,12 @@ o *e:*
 
 [width="99%"]
 |===
-| durar   | promenar  | audir   | vomir  | posser   | currer
-| durabil | promenada | audibil | vomida | possibil | currida
+| durar    | durabil
+| promenar | promenada
+| currer   | currida
+| posser   | possibil
+| audir    | audibil
+| vomir    | vomida
 |===
 
 [[par86,§86]]§86. *Li altri sufixes* es adjuntet directmen al radica verbal:

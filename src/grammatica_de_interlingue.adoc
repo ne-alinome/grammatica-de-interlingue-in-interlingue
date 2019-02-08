@@ -18,7 +18,7 @@ endif::[]
 // This Asciidoctor version by Marcos Cruz (programandala.net) for
 // http://ne.alinome.net, 2019.
 
-// Last modified 201902081437
+// Last modified 201902081445
 
 :dot: .
 
@@ -792,7 +792,7 @@ du vez o duvez, tri vez, centvez, mult vez o multvez o mult vezes.
 li unité, pare, triene, quarene, quinene, decene, deciduene, centene.
 ====
 
-§{nbsp}63. *Altri numeral expressiones es p. ex.:*
+§{nbsp}63. *Altri numeral expressiones* es p. ex.:
 
 ====
 chascun triesim vez, tri e tri, quar e quar. Li soldates marcha quar e
@@ -849,7 +849,7 @@ gruppes de verbes.
 §{nbsp}67. Li unesim, duesim e triesim person, singulare e plurale, es
 distinctet solmen per li pronómin; li verb self resta ínmutat.
 
-§{nbsp}68. Li *infinitive* es format per adjunter -r al tema presentic:
+§{nbsp}68. Li *infinitive* es format per adjunter *-r* al tema presentic:
 
 [width="100%"]
 |===
@@ -918,7 +918,7 @@ Li *future anteriori* es:
 ====
 - Noi vell laborar.
 - Vu vell expedir.
-- Ili vell constructer*
+- Ili vell constructer.
 ====
 
 Li *conditionale passat* es:
@@ -937,11 +937,11 @@ per adjunter *-nt* al tema presentic:
 | fabricant | expedient | constructent
 |===
 
-Li verbes con -i prende -ent vice -nt por retrovar li derivates
+Li verbes con *-i* prende *-ent* vice *-nt* por retrovar li derivates
 international, p. ex. convenientie, provenientie.
 
 Li *adverbial form* es usat quam *gerundie* (= durant que o per to que)
-per adjunter -e:
+per adjunter *-e*:
 
 [width="100%"]
 |===
@@ -971,7 +971,7 @@ Existe un *form de politesse per ples* (de pleser) con infinitive:
 | ples fabricar | ples expedir | ples constructer
 |===
 
-§{nbsp}76. Li *optative* es format per mey con infinitive:
+§{nbsp}76. Li *optative* es format per *mey* con infinitive:
 
 [width="100%"]
 |===
@@ -1020,7 +1020,7 @@ form reflexiv:
 
 §{nbsp}78. *Vice li subjuntive* on usa in general li indicative. Solmen in
 rar casus exceptional (p. ex. in juristic documentes) on posse usar un
-form subjuntivic per adjunter -ye al presente del verb o del verb
+form subjuntivic per adjunter *-ye* al presente del verb o del verb
 auxiliari:
 
 ====
@@ -1062,7 +1062,8 @@ in omni altri casus li rest self es li tema perfectic.
 |===
 
 On posse anc dir, que li sufixes: *-ion, -or, o-ri, -iv* e *-ura* es adjuntet
-che li verbes con ar e ir al participie passat, ye li verbes con er al
+che li verbes con *ar* e *ir* al participie passat, ye li verbes con
+*er* al
 radica, intercalante *t* pos vocal final e mutante un final *d* o *r* a
 *s*.
 
@@ -1141,7 +1142,7 @@ presentic
 | fundament | experiment | movement
 |===
 
-Si li radica de un verb con *er* fini per vocal, li e desapari:
+Si li radica de un verb con *er* fini per vocal, li *e* desapari:
 
 ====
 arguer, argument, compleer, complement.
@@ -1485,7 +1486,7 @@ chambre ínter su infantes.
 
 == Conjunctiones
 
-§{nbsp}104, Conjunctiones de coordination es:
+§{nbsp}104, Conjunctiones de *coordination* es:
 
 e, e ... e, o, o ... o, ni, ni ... ni, sive ... sive, ma, nam, tamen,
 ergo, dunc, plu ... plu, nu, nu ... nu.

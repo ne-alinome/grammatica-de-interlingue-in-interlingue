@@ -63,7 +63,7 @@ clean:
 # Development
 
 .PHONY: it
-it: pdfa4 epubd
+it: epubd pdfa4 
 
 .PHONY: xml
 xml: tmp/$(book).adoc.xml

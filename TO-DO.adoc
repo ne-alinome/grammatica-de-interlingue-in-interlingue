@@ -10,3 +10,5 @@
 - Separate all para numbers from headings?
 - Error?: "tema verbal (radica plus prefixes e sufixes)" -> "tema
   verbal (radica)".
+- Add URL of the Belitzky's version.
+- Make URLs visible in links, for devices that don't follow them.

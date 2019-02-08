@@ -13,14 +13,21 @@ endif::[]
 // This Asciidoctor version by Marcos Cruz (programandala.net) for
 // http://ne.alinome.net, 2019.
 
-// Last modified 201902082343
+// Last modified 201902082355
 
 :dot: .
 
-- Digitalisat de S. Belitzky ex edition de Interlingue-Servicie
-  Winterthur (Svissia) 1956
-- Libre digitale in EPUB, PDF e ODT creat de Marcos Cruz por
-  http://ne.alinome.net[ne.alinome], 2019.
+== Credites
+
+_Grammatica de Interlingue_
+
+Author: Dr. Fritz Haas.
+
+Digitalisat de S. Belitzky (ex edition de Interlingue-Servicie
+Winterthur, Svissia, 1956).
+
+Conversion a Asciidoctor, EPUB, PDF e ODT de Marcos Cruz por
+http://ne.alinome.net[ne.alinome], 2019.
 
 ifdef::backend-pdf[]
 toc::[]

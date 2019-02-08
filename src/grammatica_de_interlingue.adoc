@@ -13,7 +13,7 @@ endif::[]
 // This Asciidoctor version by Marcos Cruz (programandala.net) for
 // http://ne.alinome.net, 2019.
 
-// Last modified 201902090032
+// Last modified 201902090047
 
 :dot: .
 
@@ -1000,15 +1000,15 @@ li *hortative* per *lass:*
 [[par77,§77]]§77. Li *formes passiv* es format per li verb auxiliari *esser:*
 
 ====
-- it es perlaborat
-- ili hat esset expedit
-- ili esset perlaborat
-- it va esser expedit
-- it ha esset perlaborat
-- ili va har esset expedit
-- it vell esser constructet
-- ili vell har esset constructet
-- it mey esser constructet
+- It es perlaborat.
+- Ili hat esset expedit.
+- Ili esset perlaborat.
+- It va esser expedit.
+- It ha esset perlaborat.
+- Ili va har esset expedit.
+- It vell esser constructet.
+- Ili vell har esset constructet.
+- It mey esser constructet.
 ====
 
 Ti maniere formar li passive es comun al maxim mult lingues national. Ma

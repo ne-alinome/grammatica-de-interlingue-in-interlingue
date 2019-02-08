@@ -18,7 +18,7 @@ endif::[]
 // This Asciidoctor version by Marcos Cruz (programandala.net) for
 // http://ne.alinome.net, 2019.
 
-// Last modified 201902081445
+// Last modified 201902081501
 
 :dot: .
 
@@ -432,8 +432,11 @@ climatic, climatolog, climatologie, climatologic.
 intercalante un *-e-* eufonic, u to es possibil sin changear li
 pronunciation del parol.
 
+// XXX FIXED -- "líbre" -> "libre" ("líbre" was used 4 times in the
+// document, while the normal "libre" was used 25 times).
+
 ====
-un líbre, du libres, un angul, tri angules, li person, li persones, li
+un libre, du libres, un angul, tri angules, li person, li persones, li
 tric, li trics, li plug, li plugs, li album, pluri albums, li tram, du
 trams.
 ====
@@ -637,7 +640,7 @@ quant yer.
 question: *quo,* de quel on forma: to-ci e to-ta.
 
 ====
-To es mi libre. Yo save to (li facte, que to es tui líbre).
+To es mi libre. Yo save to (li facte, que to es tui libre).
 ====
 
 §{nbsp}48. Li *pronómin o articul lu* servi por expresser to quo es
@@ -1029,7 +1032,9 @@ Il di que il la amaye. Il dit que il la haye amat.
 
 === Verbal derivation
 
-§{nbsp}79. In omni lingues millenes de substantives e adjectives es format ex
+// XXX FIXED -- "millenes" -> "milles":
+
+§{nbsp}79. In omni lingues milles de substantives e adjectives es format ex
 li radica verbal per adjunter finales. Ti paroles sembla esser format
 tam ínregularimen, que li maxim conosset anteriori lingues international
 ha renunciat incorporar les in su sistema de derivation e ha viceat les
@@ -1127,7 +1132,9 @@ Quam in li participie presentic on intercala *e* pos *i* del verbes in
 presentic
 *-nt* con li sufix *-ie.*
 
-§{nbsp}83. In analog maniere adjunte se li sufix *-nd* al tema presen-tic:
+// XXX FIXED -- "presen-tic" -> "presentic":
+
+§{nbsp}83. In analog maniere adjunte se li sufix *-nd* al tema presentic:
 
 [width="100%"]
 |===
@@ -1405,9 +1412,11 @@ min quam un annu.
 e li patre supra. Sub li table esset un can. Súper li table esset li
 lampe e sur li table un libre.
 
+// XXX FIXED -- "ami'cos" -> "amicos":
+
 *inter:* Ili esset li sol tranquil scoleros inter mult bruiosi. Inter
 New York e Paris. Inter du e tri horas. Un conversation inter du
-ami'cos. Divider un heredage inter li filios. Un guerre inter du
+amicos. Divider un heredage inter li filios. Un guerre inter du
 nationes.
 
 *intra:* Ili ne posset penetrar intra li mures del cité. Yo va
@@ -1419,8 +1428,8 @@ Med un bon instruction on va plu bon successar in li vive.
 *per* (medie): Il defendet se per un gladíe. Il salvat se per natar. Li
 moné esset furtet per un ínconosset hom.
 
-*por* (scope): Un líbre por omnes e por nequí. On manja por viver, on ne
-vive por manjar. Yo comprat un líbre por frs. 10.—, grand por su precie.
+*por* (scope): Un libre por omnes e por nequí. On manja por viver, on ne
+vive por manjar. Yo comprat un libre por frs. 10.—, grand por su precie.
 It sufice por long, ne solmen por deman.
 
 *pri* (dominia): Noi parlat pri politica. Yo ha mult pensat pri vos.
@@ -1975,7 +1984,9 @@ currida.*
 
 d) adjuntet al *participie presentic* secun § 82:
 
-*-ie:* statú in durada: *tolerantie, provenientie, existentie.*
+// XXX FIXED -- "statú" -> "statu":
+
+*-ie:* statu in durada: *tolerantie, provenientie, existentie.*
 
 §{nbsp}137. *Personal sufixes.*
 
@@ -1994,7 +2005,9 @@ savagion, spiona, pedon.*
 
 *-ard:* persones con mal qualitá: *falsard, dinamitard, mentard.*
 
-*-astr-:* persones de valore interiori: *medicastro, poetastra.*
+// XXX FIXED -- "interiori" -> "inferiori":
+
+*-astr-:* persones de valore inferiori: *medicastro, poetastra.*
 
 *-es-:* habitante (anc adjectivic): *francese, franceso, francesa,
 francesi, borgeso.*
@@ -2127,8 +2140,10 @@ archifripon.*
 
 *auto-:* self: *automobile, autodidacte.*
 
+// XXX FIXED -- "pseudomala-die" -> pseudomaladie":
+
 *pseudo-:* fals, semblant: *pseudoscientie, pseudocrist,
-pseudomala-die.*
+pseudomaladie.*
 
 *-isme:* doctrin, sistema, movement: *catolicisme, centralisme,
 socialisme.*

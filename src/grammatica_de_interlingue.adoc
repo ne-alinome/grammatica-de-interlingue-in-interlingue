@@ -13,7 +13,7 @@ endif::[]
 // This Asciidoctor version by Marcos Cruz (programandala.net) for
 // http://ne.alinome.net, 2019.
 
-// Last modified 201902090020
+// Last modified 201902090024
 
 :dot: .
 
@@ -517,7 +517,7 @@ minu grand quam su fratre. Il es plu grand quam yo. Li plu grand libre.
 Li maxim grand del libres. Li minim grand libre.
 ====
 
-[[par36,§36]]§36. Por li *superlative absolut on* usa: *tre,* o li sufix:
+[[par36,§36]]§36. Por li *superlative absolut on* usa: *tre,* o li sufix
 *-issim*.
 
 ====
@@ -705,8 +705,8 @@ ne save, quant il ha dat le. Quant vive, tant espera.
 
 === Pronómines índefinit
 
-[[par54,§54]]§54. Li prefix: *al-* da pronómines indicant alquó índeterminat, li
-prefix: *ne-* tales indicant li absentie, li negation, e li sufix:
+[[par54,§54]]§54. Li prefix *al-* da pronómines indicant alquó índeterminat, li
+prefix *ne-* tales indicant li absentie, li negation, e li sufix
 *-cunc* fa definit pronómines relativ índefinit.
 
 |===

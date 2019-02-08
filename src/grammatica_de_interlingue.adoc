@@ -18,7 +18,7 @@ endif::[]
 // This Asciidoctor version by Marcos Cruz (programandala.net) for
 // http://ne.alinome.net, 2019.
 
-// Last modified 201902081435
+// Last modified 201902081437
 
 :dot: .
 
@@ -538,7 +538,7 @@ adjectives.
 *Substantivic pronómines* sta vice un substantive; ili posse prender li
 plurale, quam substantives, si necessi.
 
-Pronómines personal.
+=== Pronómines personal
 
 §{nbsp}39. It existe *du formes,* li un por li *subject* (nominative), li
 altri por li *object* (acusative o dative, casu obliqui).

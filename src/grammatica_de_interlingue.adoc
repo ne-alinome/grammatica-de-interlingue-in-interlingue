@@ -13,7 +13,7 @@ endif::[]
 // This Asciidoctor version by Marcos Cruz (programandala.net) for
 // http://ne.alinome.net, 2019.
 
-// Last modified 201902082355
+// Last modified 201902082357
 
 :dot: .
 
@@ -1076,7 +1076,7 @@ in omni altri casus li rest self es li tema perfectic.
 
 // XXX FIXED -- "ye li verbes" -> "e che li verbes":
 
-On posse anc dir, que li sufixes: *-ion, -or, o-ri, -iv* e *-ura* es adjuntet
+On posse anc dir, que li sufixes: *-ion, -or, -ori, -iv* e *-ura* es adjuntet
 che li verbes con *ar* e *ir* al participie passat, e che li verbes con
 *er* al
 radica, intercalante *t* pos vocal final e mutante un final *d* o *r* a

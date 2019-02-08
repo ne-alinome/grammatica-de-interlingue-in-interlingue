@@ -13,7 +13,7 @@ endif::[]
 // This Asciidoctor version by Marcos Cruz (programandala.net) for
 // http://ne.alinome.net, 2019.
 
-// Last modified 201902082357
+// Last modified 201902090010
 
 :dot: .
 
@@ -312,33 +312,30 @@ Paul, London, Pacifico, Anglia, Danubio, li Senior, su Majestie.
 
 // XXX FIXED -- "pm" -> "pm."
 
-[width="100%"]
-|===
-| sr. o Sr.     | senior
-| resp.         | respectivmen
-| sra. o Sra.   | seniora
-| p. ex.        | por exemple
-| srta. o Srta. | senioretta
-| i. e.         | it es
-| dr. o Dr.     | doctor
-| pl.           | ples
-| etc.          | etcétera
-| pl. t.        | ples tornar
-| PS.           | pos-scripte
-| h.            | hora(s)
-| v.            | vide
-| am.           | ante midí
-| pg.           | págine
-| pm.           | pos midí
-| cf.           | confronta
-| a. c.         | annu current
-| sq.           | e sequentes
-| m. c.         | mensu current
-| nró.          | numeró
-| a. p.         | annu passat
-| conc.         | concernent
-| m. p.         | mensu passat
-|===
+sr. o Sr.:: senior
+resp.:: respectivmen
+sra. o Sra.:: seniora
+p. ex.:: por exemple
+srta. o Srta.:: senioretta
+i. e.:: it es
+dr. o Dr.:: doctor
+pl.:: ples
+etc.:: etcétera
+pl. t.:: ples tornar
+PS.:: pos-scripte
+h.:: hora(s)
+v.:: vide
+am.:: ante midí
+pg.:: págine
+pm.:: pos midí
+cf.:: confronta
+a. c.:: annu current
+sq.:: e sequentes
+m. c.:: mensu current
+nró.:: numeró
+a. p.:: annu passat
+conc.:: concernent
+m. p.:: mensu passat
 
 == Articul
 

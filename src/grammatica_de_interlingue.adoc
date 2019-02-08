@@ -18,7 +18,7 @@ endif::[]
 // This Asciidoctor version by Marcos Cruz (programandala.net) for
 // http://ne.alinome.net, 2019.
 
-// Last modified 201902081506
+// Last modified 201902081524
 
 :dot: .
 
@@ -1342,145 +1342,315 @@ prepara un viage. Il prepara se por un viage.
 
 §{nbsp}102. Li *maxim frequent prepositiones* es:
 
-*a:* (in combinationes anc ad.) Il dat li flores a su amata. Yo dat un
+// XXX FIXED -- "sedet intra li fable" -> "sedet infra li table"
+// XXX FIXED -- "ínfra" -> "infra"
+// XXX FIXED -- "ami'cos" -> "amicos":
+// XXX FIXED -- ínterlingue -> Interlingue
+
+a::
+
+(In combinationes anc *ad*.)
++
+====
+Il dat li flores a su amata. Yo dat un
 libre a Paul. Yo dat le un libre. Yo dat un libre a le. Un
 epistul a nor societé. Yo viagea a New York. Li vapornave ea
 a Lisboa. Clar a departer. Un error a regretar. Quo vu di pri
 mi arm a foy? Yo selectet it de tri armes a frs. 40.—. Yo va
 atender vos a tri horas al exeada nord del station.
-ad posse esser combinat con altri prepositiones e adverbies
-por far plu clar li sens: adavan, adsur, adin, ad-in, etc.
+====
++
+*ad* posse esser combinat con altri prepositiones e adverbies
+por far plu clar li sens:
++
+====
+adavan, adsur, adin, ad-in, etc.
+====
 
-*along:* Ili promenat along li rive del lago.
+along::
++
+====
+Ili promenat along li rive del lago.
+====
 
-*ante* (temporal): Il vivet ante Christ. Li sestra venit tri semanes
+ante (temporal)::
++
+====
+Il vivet ante Christ. Li sestra venit tri semanes
 ante su fratre, ante tri mensus (o tri mensus ante nu). Ella va departer
 ante fine de tri mensus. Felicitá veni ante richesse. Il incontrat le
 ante li dom.
+====
 
-*apu:* Li dom sta proxim li eclesia, ma ne apu it. Li turre de nor
+apu::
++
+====
+Li dom sta proxim li eclesia, ma ne apu it. Li turre de nor
 eclesia sta apu li eclesia, ma ne al eclesia, proque it ne tucha li
 eclesia self, ma lassa un passage inter li du. Li dolore fisic es nequó
 apu li dolore mental.
+====
 
-*avan* (local): Li patre promenat avan li dom. Li patre promenat a avan
+avan (local)::
++
+====
+Li patre promenat avan li dom. Li patre promenat a avan
 li dom. Li patre venit de avan li dom. Il incontrat le avan li dom.
+====
 
-*caus:* Caus vor intervention yo arivat ante minocte avan mi dom.
+caus::
++
+====
+Caus vor intervention yo arivat ante minocte avan mi dom.
+====
 
-*che:* Il logiat che su fratre. Durante long témpor il vivet che li
+che::
++
+====
+Il logiat che su fratre. Durante long témpor il vivet che li
 negres. Che li canes on distincte divers rasses.
+====
 
-*circum:* Circum li eclesia stat alt árbores. Li terra torna circum li
+circum::
++
+====
+Circum li eclesia stat alt árbores. Li terra torna circum li
 sole.
+====
 
-*cis:* Francia es situat cis li Pirenés.
+cis::
++
+====
+Francia es situat cis li Pirenés.
+====
 
-*con:* Li filio ea con su patre along li fluvie. Ella stat con lacrimes
+con::
++
+====
+Li filio ea con su patre along li fluvie. Ella stat con lacrimes
 in li ocules con su marito avan li station.
+====
 
-*contra:* Li unes laborat contra li altres. Il exchangea su bicicle
+contra::
++
+====
+Li unes laborat contra li altres. Il exchangea su bicicle
 contra combustibiles. Li aeroplan aviat contra li gratta-ciel.
+====
 
-*de:* Li dom de mi patre. Li dramas de Schiller. Un senior de Paris.
+de::
++
+====
+Li dom de mi patre. Li dramas de Schiller. Un senior de Paris.
 Li maxim grand de omnis. Un vase de aure. Ti lettres es scrit
 de un poet per scri-machine. Li moné de un povri vidua ha
 esset furtet per un escapate del prison, nascet de rich genito
 res. Il vivet lontan de su patre, de quel il nequande audít
 alquó.
+====
 
-*desde:* Desde du annus il neplu posse laborar. Il vendi chapeles desde
+desde::
++
+====
+Desde du annus il neplu posse laborar. Il vendi chapeles desde
 frs. 20.—. Il prendet li tren de Roma desde Milano.
+====
 
-*detra:* Detra li dom esset un grand corte.
+detra::
++
+====
+Detra li dom esset un grand corte.
+====
 
-*durante:* Durante li estive li infantes ludet sur li plazza. Li un de
+durante::
++
+====
+Durante li estive li infantes ludet sur li plazza. Li un de
 su filios studiat medícina, durante que li altri ne volet studiar.
+====
 
-*ex:* Il venit ex su chambre. Yo trinca ex li glass. Traductet ex german
+ex::
++
+====
+Il venit ex su chambre. Yo trinca ex li glass. Traductet ex german
 a Interlingue. Li vestiment es fat ex pur lan. Noi audit in
 li radio un concert de Beethoven ex London.
+====
 
-*extra:* Il vivet extra su patria. Soledí ili devet luder extra li
+extra::
++
+====
+Il vivet extra su patria. Soledí ili devet luder extra li
 audir-distantie.
+====
 
-*in:* Mult persones vive in li cité. Multís vell preferer viver in li
+in::
++
+====
+Mult persones vive in li cité. Multís vell preferer viver in li
 rure. In omni ocasion il eat al forest vice al scol, adminim decivez in
 min quam un annu.
+====
 
-// XXX FIXED -- "sedet intra li fable" -> "sedet infra li table"
-
-// XXX FIXED -- "ínfra" -> "infra"
-
-*infra:* Li aviones vola infra li stratosfere. Il sedet infra li table,
+infra::
++
+====
+Li aviones vola infra li stratosfere. Il sedet infra li table,
 e li patre supra. Sub li table esset un can. Súper li table esset li
 lampe e sur li table un libre.
+====
 
-// XXX FIXED -- "ami'cos" -> "amicos":
-
-*inter:* Ili esset li sol tranquil scoleros inter mult bruiosi. Inter
+inter::
++
+====
+Ili esset li sol tranquil scoleros inter mult bruiosi. Inter
 New York e Paris. Inter du e tri horas. Un conversation inter du
 amicos. Divider un heredage inter li filios. Un guerre inter du
 nationes.
+====
 
-*intra:* Ili ne posset penetrar intra li mures del cité. Yo va
+intra::
++
+====
+Ili ne posset penetrar intra li mures del cité. Yo va
 retrovenir intra tri hores.
+====
 
-*malgré:* Malgré su grand efortíes il ne posset perforar li mur. med:
+malgré::
++
+====
+Malgré su grand efortíes il ne posset perforar li mur. med:
 Med un bon instruction on va plu bon successar in li vive.
+====
 
-*per* (medie): Il defendet se per un gladíe. Il salvat se per natar. Li
+per (medie)::
++
+====
+Il defendet se per un gladíe. Il salvat se per natar. Li
 moné esset furtet per un ínconosset hom.
+====
 
-*por* (scope): Un libre por omnes e por nequí. On manja por viver, on ne
+por (scope)::
++
+====
+Un libre por omnes e por nequí. On manja por viver, on ne
 vive por manjar. Yo comprat un libre por frs. 10.—, grand por su precie.
 It sufice por long, ne solmen por deman.
+====
 
-*pri* (dominia): Noi parlat pri politica. Yo ha mult pensat pri vos.
+pri (dominia)::
++
+====
+Noi parlat pri politica. Yo ha mult pensat pri vos.
+====
 
-*pro* (cause): Ella plorat pro joya. Yo mersía pro vor auxilie.
+pro (cause)::
++
+====
+Ella plorat pro joya. Yo mersía pro vor auxilie.
+====
 
-*pos:* Pos quelc dies ili tamen atinget lor scope. Li capitano vení pos
+pos::
++
+====
+Pos quelc dies ili tamen atinget lor scope. Li capitano vení pos
 li major.
+====
 
-*préter:* Ili passat préter li dom de mi patre.
+préter::
++
+====
+Ili passat préter li dom de mi patre.
+====
 
-*proxim:* Il habitat proxím li cité.
+proxim::
++
+====
+Il habitat proxím li cité.
+====
 
-*secun:* Secun li prescription to ne es permisset.
+secun::
++
+====
+Secun li prescription to ne es permisset.
+====
 
-*sin:* Il fat to sín saver pro quo.
+sin::
++
+====
+Il fat to sín saver pro quo.
+====
 
-*sub:* Sub li árbor on trovat mult fructes sur li table. Li carre
+sub::
++
+====
+Sub li árbor on trovat mult fructes sur li table. Li carre
 vacilat sub li carga. Il havet plu quam 100 persones sub su autoritá. Il
 scrit sub un pseudonim, que mem sub Napoleon on ne devet laborar sub tal
 mal conditiones.
+====
 
-*súper:* Súper li árbor volat un avie; quelc altris sedet sur it e celat
+súper::
++
+====
+Súper li árbor volat un avie; quelc altris sedet sur it e celat
 se detra e sub su folies.
+====
 
-*sur:* It venit de sub li table súper it e poy sedet sur it.
+sur::
++
+====
+It venit de sub li table súper it e poy sedet sur it.
+====
 
-*til:* Yo laborat til decidu horas. Til li extrem fine del munde, su
+til::
++
+====
+Yo laborat til decidu horas. Til li extrem fine del munde, su
 influentie es sentibil, til que un altri va vicear le.
+====
 
-*tra:* Yo ha videt le tra li fenestre promenar tra li campes.
+tra::
++
+====
+Yo ha videt le tra li fenestre promenar tra li campes.
+====
 
-*trans:* Li tren ea tra li túnnel del Sanct Gotthard trans li Alpes.
+trans::
++
+====
+Li tren ea tra li túnnel del Sanct Gotthard trans li Alpes.
+====
 
-// XXX FIXED -- ínterlingue -> Interlingue
+ultra::
++
+====
+Ultra francesi e german il parla anc Interlingue.
+====
 
-*ultra:* Ultra francesi e german il parla anc Interlingue.
+vers::
++
+====
+Li avie volat vers li sole.
+====
 
-*vers:* Li avie volat vers li sole.
-
-*vice:* Il venit vice su patre, ma solmen pos tri semanes vice intra du
+vice::
++
+====
+Il venit vice su patre, ma solmen pos tri semanes vice intra du
 semanes.
+====
 
-*vis a vis:* Vis a vis li eclesia on vide li scola.
+vis a vis::
++
+====
+Vis a vis li eclesia on vide li scola.
+====
 
-*ye* es usat, si exceptionalmen null altri preposition es apt:
+ye::
 
+It es usat, si exceptionalmen null altri preposition es apt:
++
 ====
 Ye (in) omni ocasion il eat in li forest vice al scol. Yo va atender vos
 precisi ye (a) tri horas sur li plazza del scola. Yo vide la ye (che,

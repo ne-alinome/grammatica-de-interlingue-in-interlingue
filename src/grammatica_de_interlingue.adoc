@@ -101,7 +101,7 @@ ponderar.*
 
 *y* pos un vocal, e in li comensa de un parol anc avan un vocal, és
 consonantic, altriloc vocalic.
-*y vocalic* es pronunciat quam Int (Interlingué) *i. physica.*
+*y vocalic* es pronunciat quam Interlingue *i: physica.*
 
 De du o pluri *vocales succedent* chascun es pronunciat. Inaccentuat *i*
 e *u* avan vocales e in li combinationes *au* e *eu* (*u* anc li *a* e
@@ -162,8 +162,8 @@ guvernar, grisi, suggestion, magnific.*
 
 *h* sempre aspirat quam AG. *hom, adherer.*
 
-*j* quam F, A: vision, G: dulci sch quam Journal, dunc quam Int g avan
-e. *jurnalist, manjar, jokey.*
+*j* quam F, A: vision, G: dulci sch quam Journal, dunc quam
+Interlingue g avan e. *jurnalist, manjar, jokey.*
 
 *k e kh* quam c dur. *kilogramm, Khedive.*
 
@@ -196,7 +196,7 @@ altriloc quam AFGHI. *tolerantie, tentar, tentation, hostie.*
 
 *v* quam AFI, G: w. *venir, dever, nive.*
 
-*w* rar, quam A, curt Int: u. *west.*
+*w* rar, quam A, curt Interlingue: u. *west.*
 
 *x* dur o dulci, quam AFG, H: examinar. *examinar, extra.*
 

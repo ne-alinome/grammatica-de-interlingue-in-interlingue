@@ -18,7 +18,7 @@ endif::[]
 // This Asciidoctor version by Marcos Cruz (programandala.net) for
 // http://ne.alinome.net, 2019.
 
-// Last modified 201902081503
+// Last modified 201902081506
 
 :dot: .
 
@@ -1169,10 +1169,14 @@ o *e:*
 
 [width="100%"]
 |===
-| criticar    | lavar     | furter   | spiar
-| criticachar | lavera    | furtard  | spion
-| valer       | reservar  | rafinar  | viver
-| valore      | reservuor | rafinage | vìvaci
+| criticar | criticachar
+| furter   | furtard
+| lavar    | lavera
+| rafinar  | rafinage
+| reservar | reservuor
+| spiar    | spion
+| valer    | valore
+| viver    | vìvaci
 |===
 
 §{nbsp}87. *Substantivation direct:* On posse anc usar quam substantive li

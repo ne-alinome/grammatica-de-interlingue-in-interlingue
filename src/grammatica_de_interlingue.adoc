@@ -129,11 +129,13 @@ mönte, atàcca, fòsse, transpòrt, idê, burô, cön, ë, li, më.
 (*) Signes ilustrativ, ne a scrir: ê: long e cludet, ë: curt e cludet, è:
 curt e apert.
 
-*§ 5. Li consonantes* es pronunciat quam seque:
+§{nbsp}5. *Li consonantes* es pronunciat quam seque:
 
 *b, d, f, I, m, n, p* quam in AFGI, H (b = b in boca).
 
-_bon, editer, fratre, long, matre, null, pede._
+====
+bon, editer, fratre, long, matre, null, pede.
+====
 
 De *duplic consonantes* li duesim es pronunciat solmen si it es
 pronunciat altrimen quam li prim. *acceptar, suggester.*
@@ -231,6 +233,7 @@ altri casus por garantir li desirat accentuation.
 In *parol-compositiones* (anc autonom paroles con prefixes) li principal
 parte seque ti regules, li altres posse reciver un accentu secundari.
 
+====
 Li pòríu(*), familie, àvie, doctòr, formàr, li formàt, li formàte,
 formànt; duràbil, elèctric, lògic, li lògica, li lògico, pràctic, li
 práctíca, il práctica, il ìndica, il èxplica, dùplic, il dùplica,
@@ -244,6 +247,7 @@ micro-còsmo, anglosaxònic, agricultùra, centimètre, postcàrte,
 manuscrìte, genú-articulation, unifòrm, li unifòrme, il unifòrma, il
 internationalìsa, ínpracticàbil, índubitàbilmen, li fèrro-vìa, il ínvìa,
 it inflùe, il subtràe, hodíe, il contradí, il retrovèni.
+====
 
 (*) In vocabulariums e manuales li scrition del acut es obligatori, ti del
 gravis recomendat quam medie didactic por accentus ínscrit: ínscrit, il
@@ -333,37 +337,50 @@ Yo vide un avie. Yo vide avies.
 §{nbsp}17. Li articul *li* posse *prender li plurale,* si null altri parol
 expresse it.
 
-_On deve metter punctus sur lis i._ _Ma mult i ne havet punctus._
+====
+On deve metter punctus sur lis i. Ma mult i ne havet punctus.
+====
 
 §{nbsp}18. *A li* es contractet a *al*, *de li* a *del*.
 
+====
 Il eat al scol. Li árbores del forest es alt.
+====
 
-§{nbsp}19. Un *articul partitiv* ne existe. _Il trinca aqua. Noi manja
-fructes._
+§{nbsp}19. Un *articul partitiv* ne existe.
+
+====
+Il trinca aqua. Noi manja fructes.
+====
 
 §{nbsp}20. Li articul *definit* indica alquó ja mentionat o conosset, o li
 tot specie, li articul *índefinit* alquó ínconosset o ne ancor tractat.
 
+====
 Li can quel vu conosse es fidel. Canes es fidel. Li can es fidel.
 Fidelitá és un qualitá del tot specie can. Un can de mi fratre es
 mordaci, ma li altris ne es tal. Fidelitá es un valorosi qualitá. Li
 fidelitá del can (o del canes) es pruvat.
+====
 
 == Substantive
 
 §{nbsp}21. Interlingue lassa al paroles lor *desinenties natural,* e ne
 prescri cert vocales final por cert classes de paroles.
 
+====
 Cangurú, villa, radio, matre, midí.
+====
 
 §{nbsp}22. Li *neutral vocal final -e* trova se in mult substantives por
 fixar li corect pronunciation del final consonant, pro eufonie, o por
 distincter li substantive del adjectivic o verbal form simil.
 
+====
 Pace, image, rose, libre, cable, altruisme, curve, centre, central,
 centrale, directiv, directive, marine, circulare, cantate, infinite,
 tangente.
+====
 
 §{nbsp}23. Un *génere grammatical* ne existe. Omni substantives es
 masculin, feminin o neutri secun lor signification.
@@ -371,7 +388,9 @@ masculin, feminin o neutri secun lor signification.
 §{nbsp}24. On posse indicar li génere in li nómines por entes: *-o* indica li
 masculin, *-a* li feminin.
 
+====
 Anglese, angleso, anglesa, cavall, cavallo, cavalla.
+====
 
 Paroles quam patre, matre etc. ne besona finales de sexu, proque ili es
 masculin o feminin per se self.
@@ -380,36 +399,46 @@ In altri substantives *-o* indica lu special, individual, singulari,
 concret, *-a* lu general, extendet, colectiv, comun, anc action, loc e
 témpor.
 
+====
 rosiero, rosiera, lago, aqua, promenada, plazza, pasca.
+====
 
 §{nbsp}25. Quelc substantives forma derivates per adjunter *u* resp. *at* al
 radica; ili conserva li *u* resp. *a* anc in li nederivat formes.
 
+====
 manu, manual, sexu, sexual, sexualitá, gradu, gradual, graduation,
 sistema, sistematic, sistematico, sistematisar, sistematisation, dogma,
 dogmatic, dogmatisme, drama, dramatic, dramaturgo, aqua, aquatic, clima,
 climatic, climatolog, climatologie, climatologic.
+====
 
 §{nbsp}26. Por indicar li *plurale* on adjunte *-s*, pos consonantes
 intercalante un *-e-* eufonic, u to es possibil sin changear li
 pronunciation del parol.
 
+====
 un líbre, du libres, un angul, tri angules, li person, li persones, li
 tric, li trics, li plug, li plugs, li album, pluri albums, li tram, du
 trams.
+====
 
 §{nbsp}27. Li substantive resta ínmutat in omni *casus grammatical.* Es
 distinctet solmen li genitive per li preposition *de*, e li dative per
 li preposition *a*.
 
+====
 Yo vide li sapates de mi fratre.Yo dat li sapates a mi fratre.
+====
 
 §{nbsp}28. *Propri nómines* es changeat minim possibil. Por li principal
 nómines geografic es selectet in Interlingue li maxim international
 parol; altrivez on prende maxim possibil li scrition original.
 
+====
 Goethe, Shakespeare; Alpes, Danubio, Germania; London, Berlin, Milano,
 Moskwa, Kharkow, Hoang-ho.
+====
 
 == Adjective
 
@@ -418,17 +447,23 @@ adjectives, precipue por fixar li corect pronunciation del ultim
 consonant, e pro distinction pos tipic finales substantivic e
 infinitivic.
 
+====
 felici, sagi, porosi, organisatori, amari.
+====
 
 §{nbsp}30. Mult adjectives posse facilmen esser *substantivat* per adjuntion
 del finales *-e, -o, -a.*
 
+====
 yun, yune, yunes, yunos, yunas.
+====
 
 §{nbsp}31. Por formar un substantive expressent li *general idé* de un qualitá
 on adjunte li finale *-um.*
 
+====
 li novum, li bellum.
+====
 
 §{nbsp}32. Li adjective es *ínvariabil* in génere e númere. _li grand filio,
 li grand filia, li grand filios, li grand filias._
@@ -438,7 +473,9 @@ rasones indicar li *plurale,* on adjunte *-s*, pos consonantes
 intercalante li *-i-* eufonic, u to es possibil sin changear li
 pronunciation.
 
+====
 Vi pomes, prende li maturis.
+====
 
 §{nbsp}34. Por li *comparative* on indica
 
@@ -454,20 +491,28 @@ minu grand quam su fratre. Il es plu grand quam yo. Li plu grand libre.
 - li *majoritá* per *maxim* (max)
 - li *minoritá per minim.*
 
+====
 Li maxim grand del libres. Li minim grand libre.
+====
 
 §{nbsp}36. Por li *superlative absolut on* usa: *tre,* o li sufix:
 *-issim*.
 
-*tre grand, grandissim*.
+====
+tre grand, grandissim.
+====
 
 Por comparar tri o pluri gradus on usa:
 
+====
 grand, plu grand, mem plu grand, plu grand ancor, mem plu grand ancor.
+====
 
 §{nbsp}37. In omni comparationes on usa: *quam.*
 
+====
 egalmen quam, altrimen quam.
+====
 
 == Pronómines
 
@@ -507,15 +552,19 @@ quel expresse un cert intimitá o parentitá.
 §{nbsp}41. Li pronómin *índefinit* es: *on,* li *reflexiv: se,* li *reciproc:
 unaltru.*
 
+====
 On vide se. Ili vide se. Ili vide nos. Vu vide nos. Vu vide vos. Ili
 vide unaltru. Noi vide unaltru.
+====
 
 §{nbsp}42. *Pos prepositiones* on usa li acusative, o li nominative except
 yo e tu.
 
+====
 Veni con me! Yo veni con te. Noi ea con le (o il). Vu ea con ella (o
 la). Noi parla pri it. On parla pri nos. Yo veni pos vos. Yo labora por
 les (o ili).
+====
 
 === Pronómines possessiv
 
@@ -529,12 +578,14 @@ lingue matrin, e ili prende li *plurale,* si necessi.
 |mi | tui | su | nor | vor | lor
 |===
 
+====
 To es mi. To es li mi. To es mi libres. To es li mis. To es tui. To es
-li tui. To es lor. To es li lor. To es li lores. Vi nor parapluvies; Li
+li tui. To es lor. To es li lor. To es li lores. Vi nor parapluvies. Li
 mi es plu grand quam vor, o: quam li vor. Vidente nor canes yo constata
 que li tuis súpera li mis in vìvacitá, o: que tuis súpera mís in
 vivacitá, etc. To es lores; to es li lores. Ples far lu tui. Ples da me
 tui libre. Il deve far li su.
+====
 
 === Pronómines demonstrativ
 
@@ -546,32 +597,42 @@ necessi.
 indicar explicitmen li proximitá o lontanitá on adjunte li adverbies
 *ci* o *ta* med un strec ligant.
 
+====
 Ti libre es bell. Yo vide ti libres. Yo vide tís. Ti-ci table es solid.
 Ti-ci tables es solid. Tis-ci es solid, ma tis-ta ne es tal.
+====
 
 Li *sexu* posse exceptionalmen esser indicat per li pronómin personal.
 
+====
 il-ti, il-ci, ella-ti, illos-ci, ellas-ta.
+====
 
 §{nbsp}46. *Ti, tal e tant* es li corelatives de *quel, qual e quant.* (Tant
 ne posse prender li plurale, proque it self indica li plurale.)
 
+====
 Quel libres vu prefere? Ti libres, queles anc vu ama. Qual libres vu
 prefere? Tal libres, queles raconta de viages. Yo ama tal homes. Yo ama
 tales. Il es sempre tal. Quant persones esset ci? Tant quam yer. Tant
 quant yer.
+====
 
 §{nbsp}47. Li *neutri form* por coses e factes es: *to,* respondent al
 question: *quo,* de quel on forma: to-ci e to-ta.
 
+====
 To es mi libre. Yo save to (li facte, que to es tui líbre).
+====
 
 §{nbsp}48. Li *pronómin o articul lu* servi por expresser to quo es
 impersonal, neutri o abstract. It significa generalmen: to quo es
 (li)...
 
+====
 De lu sublim a lu comic es sovente solmen un passu. Lu nov de ti
 conception es...
+====
 
 === Pronómines relativ e interrogativ
 
@@ -581,29 +642,37 @@ substantivic.
 §{nbsp}50. Li *maxim general es: quel* (plural: *queles),* usat por coses,
 factes e persones.
 
+====
 Quel cité es li maxim grand? Quel es li maxím grand cité? Queles es li
 maxim grand cités? Quel cités es li maxim grand? Li maxim bell flore
 quel yo conosse es li rose. Li maxim grand cités queles yo conosse es
 New York e London. Il ne save, quel grand cités il va vider.
+====
 
 §{nbsp}51. Por *coses e factes* on usa: *quo,* por *persones: qui.*
 
-Quo vu víde? Quo vu vole far? Yo ne save, quo yo vole far. Yo ne
+// XXX FIXED -- víde -> vide
+
+====
+Quo vu vide? Quo vu vole far? Yo ne save, quo yo vole far. Yo ne
 comprende to quo il ha dit. Qui es ta? De qui es ti chapel? A qui tu dat
 li moné? Qui vu saluta? Qui saluta vos? Li amico, a qui vu dat li libre,
 esset content. Beat es tis, qui (o queles) ne vide, ma támen crede. Nor
 lingue fa un constant progress, quo (quel facte) tre joya me.
+====
 
 §{nbsp}52. Si *pluri relationes* de un pronómin relativ es possibil, li
 ínmediat vale. Si un altri deve valer, on indica to per pronómines
 personal o demonstrativ, o per comma.
 
+====
 Yo videt li fratre de mi amico quel arivat yer. Yo videt li fratre de mi
 amico, il quel (o il qui) arivat yer. To es li sestra de mi amico, ella
 qui arivat yer. Yer yo videt li possessor del dom, qui (o il qui, o ti
 qui, o li quel, o ti quel) es in li cité. Yer yo videt li possessor del
 dom quel es in li cité. Yer yo videt li possessor del dom, quel es in Ii
 cíté.
+====
 
 §{nbsp}53. Por expresser li *qualitá* on usa: *qual,* por li *quantitá:
 quant.*
@@ -621,10 +690,12 @@ prefix: *ne-* tales indicant li absentie, li negation, e li sufix:
 alquel, alqual, alquant, alquó, alquí, alcun, nequel, nequal, nequó,
 nequí, necos, necun, quelcunc, qualcunc, quantcunc, quocunc, quicunc.
 
+====
 Si alcun fémina parla pri alquó, ella pensa pri alquí. Quicunc va venir,
 yo ne es in hem. Quocunc vu di, ples dir li veritá! Quelcunc labor vu
 fa, e in qualcunc maniere e por quicunc, ples far it bon! A quicunc tu
 da li moné, da it solmen contra quittantie.
+====
 
 §{nbsp}55. Altri *pronómines índefinit es:*
 
@@ -632,12 +703,14 @@ On, self, li sam, quelc, null, chascun, omni, omnicos, ambi, altri,
 altricos, céteri, pluri, mult, poc, un poc, cert, un cert, mani, singul,
 tot.
 
+====
 Yo prefere far it self. Ili retornat in li sam loc. Chascun hom es
 forjero de su propri fortun. Ples dar me quelc libres; yo have quelc
 líber hores por leer. Pleser a omnes on ne posse, es arte quel nequí
 conosse. Ja pluri annus yo vive in ti cité. Il have poc espera. Il have
 un poc espera. Yo conosse un cert senior Blanc; ma yo ne es cert, esque
 il es ci. It es tot egal, ca vu vide li tot munde o quelc partes de it.
+====
 
 == Numerales
 
@@ -666,7 +739,7 @@ million 1000001 un million un ... 2000000 du milliones ...
 - 1 000 000^3^ = un million billiones = un trillion
 - 1 000 000^4^ = un million trilliones = un quadrillion
 
-*§* 57. Li *númeres ordinal* es format per adjunter li finale:
+§{nbsp}57. Li *númeres ordinal* es format per adjunter li finale:
 *-esim. unesim* (apu *prim), duesim* (apu *secund), triesim,* etc.
 
 §{nbsp}58. Li *númeres fractionari* es egal al ordinales, ma ordinarimen
@@ -674,7 +747,7 @@ on vicea li unesim quar per: un *tot,* un *demí, un ters,* un *quart.*
 
 du ters, tri quart, quar quinesim, etc.
 
-*§* 59. Li *fractiones decimal* es pronunciat
+§{nbsp}59. Li *fractiones decimal* es pronunciat
 
 - 3,78349 = tri comma sett ott tri quar nin,
 - 0,25 = null comma du quin.
@@ -682,9 +755,11 @@ du ters, tri quart, quar quinesim, etc.
 §{nbsp}60. Li *numerales multiplicativ* es format per adjunter li finale
 *-uplic* (pos vocales: -plic):
 
+====
 unuplic (simplic), duplic, triplic, quaruplic (quadruplic), quinuplic
 (quintuplic), sixuplic, settuplic, ottuplic, ninuplic, deciplic,
 deciunuplic, deciduplic, duantuplic, centuplic, centunuplic, etc.
+====
 
 §{nbsp}61. Li *numerales iterativ* es format per: *vez.*
 
@@ -696,8 +771,10 @@ li unité, pare, triene, quarene, quinene, decene, deciduene, centene.
 
 §{nbsp}63. *Altri numeral expressiones es p. ex.:*
 
+====
 chascun triesim vez, tri e tri, quar e quar. Li soldates marcha quar e
 quar.
+====
 
 §{nbsp}64. *Calcul aritmetic.*
 
@@ -712,7 +789,6 @@ Division: 69 : 3 = 23 sixantnin sur tri, o dividet per tri es duanttri.
 
 Potentiation: 6^2^ = 36 six quadrat, o six in duesim potentie, o six in
 duesim es triantsix.
-
 2^3^ = 8 du in cub, o du in triesim potentie, o du in triesim es ott.
 
 Radication: √49 = 7
@@ -777,44 +853,58 @@ adjunter *-t* al tema presentic:
 
 Li participie passat es usat anc quam *passate simplic*:
 
-*noi fabricat vu expedit ili constructet*
+====
+noi fabricat, vu expedit, ili constructet.
+====
 
 §{nbsp}71. Omni *composit témpores passat* es format per li verb auxiliari
 *har*. lli indica actiones terminat.
 
 Li *passate composit* es:
 
-*yo ha fabricat tu ha expedit il ha constructet*
+====
+yo ha fabricat, tu ha expedit, il ha constructet.
+====
 
 Li *passate anteriori* es:
 
+====
 - Noi hat fabricat.
 - Vu hat expedit.
 - Ili hat constructet.
+====
 
 §{nbsp}72. Li *future simplic* es format per li auxiliare *va:*
 
+====
 - Il va fabricar.
 - Ella va expedir.
 - On va constructer.
+====
 
 Li *future anteriori* es:
 
+====
 - Yo va har fabricat.
 - Tu va har expedit
 - Il va har constructet.
+====
 
 §{nbsp}73. Li *conditionale simplic* es format per li auxiliare *vell*:
 
+====
 - Noi vell laborar.
 - Vu vell expedir.
 - Ili vell constructer*
+====
 
 Li *conditionale passat* es:
 
+====
 - Il vell har fabricat.
 - Il vell har expedit
 - Ili vell har constructet.
+====
 
 §{nbsp}74. Li *participie presentic* (anc *participie activ)* es format
 per adjunter *-nt* al tema presentic:
@@ -874,6 +964,7 @@ li *hortative* per *lass:*
 
 §{nbsp}77. Li *formes passiv* es format per li verb auxiliari *esser:*
 
+====
 - it es perlaborat
 - ili hat esset expedit
 - ili esset perlaborat
@@ -883,21 +974,26 @@ li *hortative* per *lass:*
 - it vell esser constructet
 - ili vell har esset constructet
 - it mey esser constructet
+====
 
 Ti maniere formar li passive es comun al maxim mult lingues national. Ma
 quelcvez it es necessi distincter, ca un action dura ancor o es ja
 finit. In ti casus on usa altri verbes, p. ex.:
 
+====
 - Li dom ea constructet. Li dom sta constructet.
 - Li libre eat printat. Li libre stat printat.
+====
 
 In mult casus li passive posse esser expresset per substantives o per li
 form reflexiv:
 
+====
 - Li dom es in construction.
 - Li libre esset in printation.
 - Li jurnal printa se rapid.
 - Li cose explica se simplicmen.
+====
 
 §{nbsp}78. *Vice li subjuntive* on usa in general li indicative. Solmen in
 rar casus exceptional (p. ex. in juristic documentes) on posse usar un
@@ -1022,7 +1118,9 @@ presentic
 
 Si li radica de un verb con *er* fini per vocal, li e desapari:
 
-*arguer argument compleer complement*
+====
+arguer, argument, compleer, complement.
+====
 
 §{nbsp}85. Du sufixes adjunte se al radica verbal in du formes diferent secun
 li vocal caracteristic: *-abil, -ada* ye *a* resp. *-ibil, -ida* ye *i*
@@ -1034,7 +1132,7 @@ o *e:*
 | durabil | promenada | audibil | vomida | possibil | currida
 |===
 
-*§86. Li altri sufixes* es adjuntet directmen al radica verbal:
+§{nbsp}86. *Li altri sufixes* es adjuntet directmen al radica verbal:
 
 [width="100%"]
 |===
@@ -1044,7 +1142,7 @@ o *e:*
 | valore      | reservuor | rafinage | vìvaci
 |===
 
-*§ 87. Substantivation direct:* On posse anc usar quam substantive li
+§{nbsp}87. *Substantivation direct:* On posse anc usar quam substantive li
 radica verbal con li desinenties substantivic, o li tema perfectic con o
 sin desinentie substantivic:
 
@@ -1053,7 +1151,9 @@ response, li vise, li flut, lì resultat, li extracte, li tribut.
 
 Li tema perfectic sin finale es usat anc quam *adjective:*
 
-*_devot, apert, pervers._*
+====
+devot, apert, pervers.
+====
 
 == Adverbies
 
@@ -1094,14 +1194,17 @@ qualmen, quam, talmen, tam, alquam, nequam, solmen, apen, tot, totalmen,
 totmen, ne totmen, totmen ne, presc, poc, poc a poc, mem, precipue,
 junt, anc, denove, tamen, malgré to, dunc.
 
+====
 Yo ne save, qualmen il posse laborar tam rapidmen quam un machine, nam
 il fa tant rapid, que on presc ne posse sequer. Il dit to quam rey. Il
 ne acte quam un rey. It es impossibíl far it talmen. Il ha fat it alquam
-= in alcun maniere. Il posse far it nequam = in necun maniere. It es tot
+(={nbsp}in alcun maniere). Il posse far it nequam (={nbsp}in necun
+maniere). It es tot
 egal, esque vu vide li tot munde o quelc partes de it. Il ha totalmen
 miscomprendet ti libre. Ma tamen on ne deve judicar solmen la, proque
 ella ne totmen comprende li lingue, e to es totmen ne su propri culpa.
 On posse mem dir que to es precipue li culpa del altris.
+====
 
 §{nbsp}95. Li *adverbies de quantitá* responde al question: *quant?*
 
@@ -1111,10 +1214,12 @@ sempre plu mult, sempre plu mult ancor, min, plu o min, maxim, admaxim,
 minim, adminim, maxim possibil, minim possibil, maximal, minimal,
 proxim, ancor, plus, minus.
 
+====
 Quant persones esset ci? Tant quant yer. Circa duant persones sedet
 circum li table, adminim tri persones tro mult, proque li table havet
 plazza solmen por admaxim 17 persones. Poc a poc ili va observar un poc,
 que ili labora per un metode poc apt por ti scop.
+====
 
 §{nbsp}96. Li *adverbies de loc* responde al question: *u,* *a u,* *de* *u?*
 (Li preposition *a* es in combinationes viceat per *ad.*)
@@ -1123,12 +1228,14 @@ u, ci, ta, alcú, necú, partú, ucunc, supra, infra, circum, éxter, extra,
 intra, ínter, detra, levul, dextri, proxim, lontan. A ci, a ta, adavan,
 retro, up = adsupra, a bass, adinfra, de infra, préter.
 
+====
 U vu ha comprat ti libre? In un librería u on trova sempre li maxim
 recent libres. Alcú vu certmen va trovar li tant serchat flor. Ma ucunc
 vu sercha, ples nequande obliviar, que partú es bell flores. Yo espera
 que to es finalmen partú sat conosset. In vor proxim lettre vu deve
 scrir un poc plu del eclesia proxim vor dom. Il venit de infra, passat
 préter nos, e eat adsupra. Ma fórsan il va bentost ear retro in su cava.
+====
 
 §{nbsp}97. Li *adverbies de témpor* responde al question: *quande?*
 
@@ -1138,6 +1245,7 @@ solmen, ne ante, sovente, sempre, ne plu, antey, poy, depoy, desde, in
 ante, ja, ancor, ne ancor, adplu, ulteriori, hodíe, ho-annu, ho-témpor,
 deman, posdeman, yer, anteyer, unvez, durante, finalmen, in fine.
 
+====
 Quande yo visitat le, il racontat me, que unquande il ha incontrat la,
 ma nequande plu desde alor. Nu il es old e ínterim il ha mult laborat.
 Just nu vu posse far it, proque vu es tost, ma bentost it vell esser tro
@@ -1145,12 +1253,15 @@ tard. Presc sempre il es ci, solmen deman il va departer e retornar ne
 ante deci horas del vésper, e fórsan solmen posdeman. In ante yo posse
 dir vos solmen to, nam it es ancor íncert, ca il ne deve subitmen
 changear su projectes.
+====
 
 §{nbsp}98. Li *adverbies de afirmation, negation, dúbit* es: *yes, no, ne, ne
 plu, si, ya, fórsan, sin dúbit.*
 
+====
 Esque vu ne ha videt le? Si, il esset ya in li scol e sin dúbit ne plu
 va retornar ante midí.
+====
 
 == Prepositiones
 
@@ -1174,9 +1285,11 @@ p. ex. usat maxim possibil sin preposition, con ínmediatmen sequent
 object, si li relation es clar; ma li usation de un sensconform
 preposition es sempre permisset.
 
+====
 Il intrat li chambre. Il intrat in li chambre. Il montat li monte. Il
 montat sur li monte. Yo memora li cose. Yo memora pri li cose. Il
 prepara un viage. Il prepara se por un viage.
+====
 
 §{nbsp}102. Li *maxim frequent prepositiones* es:
 
@@ -1333,32 +1446,36 @@ chambre ínter su infantes.
 
 §{nbsp}104, Conjunctiones de coordination es:
 
-====
 e, e ... e, o, o ... o, ni, ni ... ni, sive ... sive, ma, nam, tamen,
 ergo, dunc, plu ... plu, nu, nu ... nu.
-====
 
+====
 E li patre e li matre devenit ciec. O il veni o noi deve cluder li
 porta. Il certmen ne va manjar ni trincar, nam il ni manja carne, ni
 trinca alcohol. Sive tu consenti, sive tu ne consenti, noi tamen va far
 it; ma plu tu obstina te, plu tu va esser isolat. Nu, tu posse far quo
 tu vole. Il ne plu es normal in li cap, nam nu il ride, nu il plora sin
 visibil motive.
+====
 
 §{nbsp}105. Conjunctiones de *subordination* es: *que, si, quam, esque, ca,
 quasi, benque, etsí.*
 
+====
 On ne posse saver, ca il veni o ne, nam benque il es li marito, il es
 quasi li sclavo de su marita. Si il veni, on ne deve questionar le pri
 to, quam si on vell saver nequó. Il ne posse dir in ante, si il posse
 venir; nam ca il posse venir o ne, to depende de su marita.
+====
 
 §{nbsp}106. Mult conjunctiones e conjunctional expressiones es *composit* ex
 prepositiones o prepositional expressiones o adverbies o adverbial
 expressiones con *que* e *quam.*
 
+====
 per que, por que, pro que, pos que, ante que, durante que, sam quam,
 desde que, sin que, tant que, suposit que, in condition que.
+====
 
 == Interjectiones
 
@@ -1366,13 +1483,16 @@ desde que, sin que, tant que, suposit que, in condition que.
 lingues, queles es comprensibil per se self o es internationalmen
 conosset.
 
+====
 Halló! Holá! Hé! Huzza! Hurrá! Yuhé! Huhú! Hu, Hu! Ba! Ay! Uf! Via! Nu!
 Hopp! Hoppla! Ve! Ho ve! Sus! Psit! Pst! Shut! Sht! Crac! Paf! Plump!
 Hm! Hum! Fi!
+====
 
 Anc paroles de altri grammatical categories posse esser usat quam
 interjectiones: p. ex.
 
+====
 Bon! Ad-avan! Retro! For! A-bass! Ad-up! Halt! Auxilie! Adío! Silentie!
 Corage! Bravo! Vi! Vive! Mey viver! Salve! Salute!
 
@@ -1381,6 +1501,7 @@ che me! Ba! quo to fa, si il ne vole venir! Uf! finit ti desagreabil
 labor! Ay! quel dolore! Sus! Sus! al bestie! Subitmen yo audit, que un
 person dit pst! detra me. Ma ho ve! il ne atentet e plump! il cadet in
 li aqua. Shut (o shit!) vi li professor, silentie! Fi! quel malodore!
+====
 
 == Sintax
 
@@ -1403,88 +1524,112 @@ Li bon patre sovente voluntarimen da bell libres a su diligent filio.
 o sequer ínmediatmen li substantive relativ. In general it precede, si
 it es curt o caracteristic, ma seque, si it es long o complementari.
 
+====
 Il prefere li delicat fructes del Sud. Ti mann, clar in su pensas e pur
 in su intentiones. Su patre e su matre hat fat omni arangeamentes
 necessi por su viage. Yo just nu recivet li maxim recent raport
 aproximativ pri merces, importat in nor land durante ti estive.
+====
 
 §{nbsp}111. Li *adverbies: ne, tre, tro, solmen* e *anc* deve sempre *preceder
 ínmediatmen* li parol concernent, che témpores composit ordinarimen li
 verb auxiliari; li altri adverbies posse ínmediatmen preceder o sequer
 li parol concernent.
 
+====
 - Ne *yo* ha prendet vor libre — ma un *altri* person.
 - Yo ne *ha* prendet vor libre — ma yo *va* prender it.
 - Yo ha ne *prendet* vor libre — ma on ha *dat* it a me.
 - Yo ha prendet ne *vor* libre — ma un *aItri*.
 - Anc *yo* ama vos. Yo anc *ama* vos. Yo ama anc *vos*.
+====
 
 §{nbsp}112. Li *verbes auxiliari* (anc: dever, posser, voler etc.) deve sempre
 preceder li participie respectivmen li infinitive ínmediatmen, o esser
 separat solmen per concernent adverbies.
 
+====
 Nor amícos hat mult laborat, ma ne posset completmen finir lor ovre. Yo
 deve aprender ex memorie ti paroles. Yo deve rapidmen aprender ex
 memorie ti paroles. Yo strax deve aprender ex memorie ti paroles.
+====
 
 §{nbsp}113. Negativ pronómines e adverbies recive li sens positiv solmen si
 *ne* sta ínmediatmen avan les. Li talnominat duplic negation es
 permisset, ma ne recomendat.
 
+====
 Yo videt necos. Yo ne videt necos. Yo videt ne necos, ma solmen tre poc.
+====
 
 §{nbsp}114. Anc in li *frases relativ* on usa li *sam órdine* del frase-partes
 e li indicative quam in li frases principal. Li subjuntive es usat
 solmen in rar casus u li distinction es important, p. ex. in juristic
 documentes; in cert casus on posse anc usar li optative.
 
+====
 Il di, que il es malad. Il pensat que yo ha venit. On esperat, que il
 bentost va venir. Ella questionat, pro quo yo es tam gay. Il di, que il
 haye amat la. Yo desira que il mey venir.
+====
 
 Por indicar li *condition,* on deve sempre usar: *si*.
 
+====
 Si ella vell har savet, quo ella save hodíe, ella vell har actet
 altrimen. Si yo vell esser malad, yo vell restar in hem.
+====
 
 *Indirect frases* es comensat per: *ca* (viceat sovente per *esque).*
 
+====
 Yo ne save, ca yo comprende vos corect. Ca il veni o ne, noi va
 comensar. Esque vu savet, ca il va venir? Si on vell saver, ca il veni!
+====
 
 Por *vicear relativ frases* on posse multvez usar li infinitive
 ínmediatmen pos li verb.
 
+====
 Yo crede que yo ha videt le. Yo crede har videt le. Yo crede vider le.
+====
 
-*§ 115.* Li *acusativ pronómin* seque ínmediatmen li verb; li *dativ
+§{nbsp}115. Li *acusativ pronómin* seque ínmediatmen li verb; li *dativ
 pronómin* precede it ínmediatmen o seque li acusativ pronómin, con o sin
 li preposition *a.*
 
+====
 Yo videt le. Yo te dat it. Yo dat it te. Yo dat it a te.
+====
 
 §{nbsp}116. Li regules indicat por frases direct vale anc por *frases
 interrogativ* queles es format per *esque* o altri paroles interrogativ.
 Sin li “esque” on posse formar frases interrogativ per posir li subjecte
 pos li predicate, resp. pos li verb auxiliari.
 
+====
 Esque vu ha comprendet me? Ha vu comprendet me? Quant persones tu crede
 vider? Crede tu vider mult persones? Qui tu vide? Qui vide te? Posse vu
 audir me? Pensa vu o dormi?
+====
 
 §{nbsp}117. Verbes es usat maxim possibil *transitivmen, personalmen* e
 *activ;* ma it sempre es permisset usar un sensconform preposition.
 
+====
 Yo mersía vos. Ples auxiliar li povri mann. Il menaciat su ínamicos. Yo
 memora li cose tre bon. Il prepara un viage. Il prepara se por un viage.
 To il solmen imágina. Yo es conscient pri to. Yo senti dolore. Yo
 regreta. Yo cale, yo frige. Yo successat far it. On dansat e ludet.
+====
 
 Ye li impersonal verbes li pronómin *it* posse esser omisset, si li sens
 permisse to.
 
+====
 Yo crede que pluvia. Existe mult exceptiones. Pluvia. It pluvia. It
 deveni frigid (li temperatura o un cert cose).
+====
 
 == Interpunction
 
@@ -1506,8 +1651,10 @@ Por hodíe il es content; nam noi laborat del matin til li vésper.
 separar li divers partes de un frase composit, o divers frases coherent
 tam mult, que on ne vole separar les per un punctu o punctu-comma.
 
+====
 Por hodíe il es content, ma certmen deman noi va dever continuar li
 labor, si li tempe va permisser to.
+====
 
 Per li comma it es in mult casus possibil far plu clar li sens de un
 frase, per indicar, ca li paroles es a separar in un cert loc o in un
@@ -1515,6 +1662,7 @@ altri, o ne es a separar. Specialmen on deve atenter, que atributes,
 queles es necessi por definir un cert notion, es adjuntet sin comma,
 tales queles descripte solmen, es separat per comma.
 
+====
 - Il ha racontat me to quo li altris ne deve saver.
 - Il ha racontat me to, quo li altris ne deve saver (que il ha
   racontat it a me).
@@ -1522,12 +1670,15 @@ tales queles descripte solmen, es separat per comma.
 - Il ne ama li infantes, queles fa brui si ili ne es controlat.
 - Il ne ama li infantes queles fa brui, si ili ne es controlat.
 - Il ne ama li infantes, queles fa brui, si ili ne es controlat.
+====
 
 §{nbsp}122. Por indicar li paroles maxim important del frase on posse usar li
 *accentu scrit.*
 
+====
 Yó ea con la (ne tú). Yo éa con la (yo ne fa quam li altris, queles né
 ea con la). Yo ea con élla (ne con li áltris). Save vu, de u il veni?
+====
 
 §{nbsp}123. Li *altri signes de interpunction:*
 
@@ -1572,33 +1723,47 @@ final* de Interlingue:
 corect pronunciation del precedent consonant, pro eufonie o distinction
 de simil paroles (precipue de substantives del egalform adjective).
 
-Pace, image, rose, libre, cable, altruisme, curve, centre, central,
+====
+pace, image, rose, libre, cable, altruisme, curve, centre, central,
 centrale, directiv, directive, marine, circulare, cantate, infinite,
 tangente, adherente, manjante, denove.
+====
 
 *-a* trova se in paroles indicant activitá, loc o témpor de it, alquó
 extendet, universal, colectiv, con vivent entes lu feminin.
 
+====
 dansa, dansada, plazza, imperia, era, pasca, rosiera, liga, secta,
 posta, americana, filia, studianta, cavalla.
+====
 
 *-o* trova se in paroles indicant lu concret, material, special,
 individual, con vivent entes lu masculin.
 
+====
 forso, humo, rosiero, posto, americano, filio, cavallo.
+====
 
 *-u* indica alquó abstract, neutri, un relativitá, o es usat por reciver
 li international derivates.
 
+====
 statu, casu, unaltru, manu, gradu.
+====
 
 *-i* es li finale adjectivic, por fixar li corect pronunciation del
 consonant final, pro eufonie o por distinction de simil paroles.
 
+====
 felici, sagi, porosi, organisatori, amari, curvi, vacui.
+====
 
-e, a, o, u, i: rose, rosi, rosiero, rosiera; porte, porta, portu,
+e, a, o, u, i:
+
+====
+rose, rosi, rosiero, rosiera; porte, porta, portu,
 portuari, portale; posta, posto.
+====
 
 === Adjuntion de prefixes
 
@@ -1607,12 +1772,17 @@ expressiones perdi su ultim consonant o assimila it al sequent
 consonant; in ti casu duplic consonantes es viceat secun § 10 per
 simplics, exceptet pos ín- (ma anc li altri ortografies es permisset).
 
-// XXX TODO -- Tidy:
-
-adtracter — attracter — atracter, conlaborar — collaborar — colaborar,
-conoperativ — cooperativ, conposition — composition, disfuser — diffuser
-— difuser, exmigrar — emmigrar — emigrar, coneducation — coeducation,
-ínregulari — irregulari, ínlegal — illegal.
+====
+- adtracter — attracter — atracter
+- conlaborar — collaborar — colaborar,
+- conoperativ — cooperativ
+- conposition — composition
+- disfuser — diffuser, difuser
+- exmigrar — emmigrar — emigrar
+- coneducation — coeducation
+- ínregulari — irregulari
+- ínlegal — illegal.
+====
 
 §{nbsp}128. Li *prefixes* es:
 
@@ -1650,17 +1820,21 @@ misdirecter.*
 §{nbsp}129. Quam prefixes on usa anc *prepositiones, adverbies e li presente*
 de quelc verbes:
 
+====
 adaptar, abreviar, atirar, antedatar, avanbrass, circumscription,
 consentir, coeducation, coroder, compresser, contrasignar, depender,
 excluder, expectar, extraordinari, forear, infiltrar, iluminar,
 importar, intervenir, preterpassar, retromarchar, retroactiv,
 selfconfidentie, submisser, transportar, transpirar, tradition,
 ultraclerical, vicepresidente, parapluvie, portamoné, tirabuton.
+====
 
 §{nbsp}130. Mult international paroles es format per *grec prefixes:*
 
+====
 decametre, decilitre, hectolitre, hemisfere, hipermodern, kilometre,
 monoplan, panslavisme, pseudocrist, telefonar.
+====
 
 === Adjuntion de sufixes
 
@@ -1671,11 +1845,13 @@ alquel desinenties facultativ.
 On posse adjunter pluri sufixes in li sam parol.
 
 §{nbsp}132. In mult international parolformationes existe un *contraction* de
-du simil succedent sones o songruppes a un sol.
+du simil succedent sones o songruppes a un sol. P. ex.:
 
-p{dot} ex. minera(lo)logie, popular(i)isar, pacif(ic)isme,
+====
+minera(lo)logie, popular(i)isar, pacif(ic)isme,
 infanter(i)ist, ambiti(on)osi, religi(on)osi, ident(ic)itá,
 nu(tri)tresse, mum(i)ificar.
+====
 
 §{nbsp}133. *Taxant sufixes.*
 
@@ -1927,20 +2103,26 @@ avan li substantive resp. li verb, con o sin strec ligativ.
 
 // XXX TODO -- Markup this and all examples with an example block:
 
-scri-table = table por scrir, vent-moline = moline movet del vent,
-chapel-bux, nota-librette, postcarte, scrimachine, tippmachine,
-mult-lateral, circumnavigar, contraproposition.
+====
+scri-table (={nbsp}table por scrir), vent-moline (={nbsp}moline movet
+del vent), chapel-bux, nota-librette, postcarte, scrimachine,
+tippmachine, mult-lateral, circumnavigar,contraproposition.
+====
 
 In nov-formationes it es recomendat ligar li du paroles per un strec
 ligativ. In compositiones ja international li du paroles multvez es
 ligat per un *o* o *i.*
 
+====
 ferrovia, agricultura, uníform, li uniforme, aeroplan, electromotor.
+====
 
 Pro simplicitá e plu grand comprensibilitá e claritá it recomenda se in
 mult casus usar atributes vice compositiones.
 
+====
 animale domestic, premie de assecurantie, comunication per vapornaves.
+====
 
 == Frases sistematic por omni essential regules grammatical
 
@@ -2020,7 +2202,9 @@ vocabul**a**rium de Interl**i**ngue es facil**i**ssim e repres**e**nta
 
 == Li lingue vermen international
 
-Textu de un disco de grammofon recivibil del Interlingue-Centrale
+Textu de un disco de grammofon recivibil del Interlingue-Centrale:
+
+____
 
 Car auditores!
 
@@ -2086,3 +2270,4 @@ del munde con relationes international. E proque nequí va serchar
 paroles plu international quam li paroles international self, nequí va
 far un proposition por un nov projecte de lingue international, pos li
 seriosi studie de Interlingue li sol lingue vermen international.
+____

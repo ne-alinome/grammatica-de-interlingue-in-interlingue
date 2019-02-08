@@ -13,7 +13,7 @@ endif::[]
 // This Asciidoctor version by Marcos Cruz (programandala.net) for
 // http://ne.alinome.net, 2019.
 
-// Last modified 201902090024
+// Last modified 201902090032
 
 :dot: .
 
@@ -754,19 +754,19 @@ duant 121 cent duantun ... 130 cent triant ... 199 cent niantnin 200
 ducent 201 ducent un ... 210 ducent deci 300 tricent ... 999 nincent
 ninantnin 1000 mill 1001 mill un ... 1099 mill ninantnin 1100 mill cent
 1101 mill cent un ... 1999 mill nincent ninantnin 2000 du mill 2001 du
-mill un ... 2345 du mill tricent quarantquin ... 99000 ninantnin
-mill ... 100 000 cent mill ... 100 999 cent mill nincent ninantnin
-200000 ducent mill ... 201 000 ducent un mill ... 299 999 ducent
+mill un ... 2345 du mill tricent quarantquin ... 99{nbsp}000 ninantnin
+mill ... 100{nbsp}000 cent mill ... 100{nbsp}999 cent mill nincent ninantnin
+200{nbsp}000 ducent mill ... 201{nbsp}000 ducent un mill ... 299{nbsp}999 ducent
 ninantnin mill nincent ninantnin ...
-456 789 quarcent quinantsix mill settcent ottantnin ... 1 000 000 un
-million 1000001 un million un ... 2000000 du milliones ...
+456{nbsp}789 quarcent quinantsix mill settcent ottantnin ... 1{nbsp}000{nbsp}000 un
+million 1{nbsp}000{nbsp}001 un million un ... 2{nbsp}000{nbsp}000 du milliones ...
 
 - mill milliones = un milliard
 - un million milliones = un billion
-- 1 000000 = un million
-- 1 000 000^2^ = 1 000000000000 = un billion
-- 1 000 000^3^ = un million billiones = un trillion
-- 1 000 000^4^ = un million trilliones = un quadrillion
+- 1{nbsp}000{nbsp}000 = un million
+- 1{nbsp}000{nbsp}000^2^ = 1{nbsp}000{nbsp}000{nbsp}000{nbsp}000 = un billion
+- 1{nbsp}000{nbsp}000^3^ = un million billiones = un trillion
+- 1{nbsp}000{nbsp}000^4^ = un million trilliones = un quadrillion
 
 [[par57,§57]]§57. Li *númeres ordinal* es format per adjunter li finale:
 *-esim. unesim* (apu *prim), duesim* (apu *secund), triesim,* etc.

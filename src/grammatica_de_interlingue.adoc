@@ -1088,7 +1088,7 @@ radica, intercalante *t* pos vocal final e mutante un final *d* o *r* a
 | creatura | garnitura  | structura
 |===
 
-/ XXX TODO -- Join these tables.
+// XXX TODO -- Join these tables.
 
 [width="100%"]
 |===

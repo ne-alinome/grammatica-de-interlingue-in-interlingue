@@ -2,9 +2,11 @@
 :author: Marcos Cruz (programandala.net)
 :revdate: 2019-02-08
 
-- Tidy ordered and unordered lists.
-- Markup list of terms with definition lists.
 - Link the references.
 - Create style for class "informalexample", added by dbtoepub/xlstproc
   from DocBook's `<informalexample>` tag.
 - Homogenize examples in tables and in lists.
+- Update notation of money? E.g. "frs. 20.---" > "frs. 20".
+- Typo? "prefixial" -> "prefixal".
+- Markup the EPUB files by dbtoepub/xsltproc with lang "ie".
+- Markup ordered lists that use alpha numbering.

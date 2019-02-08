@@ -18,7 +18,7 @@ endif::[]
 // This Asciidoctor version by Marcos Cruz (programandala.net) for
 // http://ne.alinome.net, 2019.
 
-// Last modified 201902081636
+// Last modified 201902081644
 
 :dot: .
 
@@ -1919,12 +1919,11 @@ in li fine del frase, ne anc in li comensa.)
 
 [[par124,§124]]§124. *Nov paroles* es format per:
 
-// XXX TODO -- Link:
-
-- Adjuntion de desinenties.
-- Adjuntion de prefixes.
-- Adjuntion de sufixes.
-- Composition de du o pluri paroles.
+- <<_adjuntion_de_desinenties, Adjuntion de desinenties>>.
+- <<_adjuntion_de_prefixes, Adjuntion de prefixes>>.
+- <<_adjuntion_de_sufixes, Adjuntion de sufixes>>.
+- <<_composition_de_du_o_pluri_paroles, Composition de du o pluri
+  paroles>>.
 
 === Adjuntion de desinenties
 

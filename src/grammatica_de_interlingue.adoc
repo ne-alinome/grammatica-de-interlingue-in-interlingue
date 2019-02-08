@@ -18,7 +18,7 @@ endif::[]
 // This Asciidoctor version by Marcos Cruz (programandala.net) for
 // http://ne.alinome.net, 2019.
 
-// Last modified 201902081703
+// Last modified 201902081713
 
 :dot: .
 
@@ -1106,9 +1106,13 @@ international formes:
 
 [width="100%"]
 |===
-| seder        | ceder   | verter  | venir    | tener
-| session      | cession | version | vention  | tention
-| vice: sesion | cesion  | vertion | venition | tenion
+| Infinitive | Derivate | Vice
+
+| seder      | session  | sesion
+| ceder      | cession  | cesion
+| verter     | version  | vertion
+| venir      | vention  | venition
+| tener      | tention  | tenion
 |===
 
 [[par81,§81]]§81. Che li tri verbes: *far, dir, scrir* on posse formar li derivates

@@ -18,7 +18,7 @@ endif::[]
 // This Asciidoctor version by Marcos Cruz (programandala.net) for
 // http://ne.alinome.net, 2019.
 
-// Last modified 201902081524
+// Last modified 201902081557
 
 :dot: .
 
@@ -2015,37 +2015,35 @@ simplics, exceptet pos ín- (ma anc li altri ortografies es permisset).
 
 §{nbsp}128. Li *prefixes* es:
 
-// XXX FIXME -- Make definition list.
+bel-:: Parentitá per maritage: *belfratre, belfilio.*
 
-*bel-:* parentitá per maritage: *belfratre, belfilio.*
+des-:: Cessation, contrarie: *desabonnar, desinfecter, desavantage.*
 
-*des-:* cessation, contrarie: *desabonnar, desinfecter, desavantage.*
+dis-:: Separation, dispersion: *dismembrar, dissemar.*
 
-*dis-:* separation, dispersion: *dismembrar, dissemar.*
+ex-:: Ancian: *expresidente, eximperator.*
 
-*ex-:* ancian: *expresidente, eximperator.*
+ho-:: Sam témpor: *hodíe, hosemane, hoannu.*
 
-*ho-:* sam témpor: *hodíe, hosemane, hoannu.*
-
-*ín-:* negation in adjectives: *ínoficial, ínvisibil* (ne a confuser al
+ín-:: Negation in adjectives: *ínoficial, ínvisibil* (ne a confuser al
 inaccentuat preposition: in-: inpaccar).
 
-*mi-:* curt form de demí: *midí, minocte, mihor, mifratre.*
+mi-:: Curt form de demí: *midí, minocte, mihor, mifratre.*
 
-*mis-:* fals, ínconvenient, fallient: *miscomprender, misalliantie,
+mis-:: Fals, ínconvenient, fallient: *miscomprender, misalliantie,
 misdirecter.*
 
-*non-:* negation in substantives: *nonsens, nonfumator.*
+non-:: Negation in substantives: *nonsens, nonfumator.*
 
-*per-:* tra, til fine: *perforar, percurrer.*
+per-:: Tra, til fine: *perforar, percurrer.*
 
-*pre-:* in ante, avan: *previder, preparar, prehistorie, presider.*
+pre-:: In ante, avan: *previder, preparar, prehistorie, presider.*
 
-*pro-:* ad avan, ad extra: *progression, producter.*
+pro-:: Ad avan, ad extra: *progression, producter.*
 
-*re-:* denove, ad comensa: *revider, revenir.*
+re-:: Denove, ad comensa: *revider, revenir.*
 
-*step-:* parentitá per un duesim maritage: *stepmatre, stepfilio.*
+step-:: Parentitá per un duesim maritage: *stepmatre, stepfilio.*
 
 §{nbsp}129. Quam prefixes on usa anc *prepositiones, adverbies e li presente*
 de quelc verbes:
@@ -2085,15 +2083,15 @@ nu(tri)tresse, mum(i)ificar.
 
 §{nbsp}133. *Taxant sufixes.*
 
-*-ett:* diminutive, frequentative, micri objectes: *filietto, statuette,
+-ett:: Diminutive, frequentative, micri objectes: *filietto, statuette,
 cigarrette, pincette, inflammette, rosette, foliettar, volettar,
 saltettar.*
 
-*-illio, -innia:* caressiv: *fratrillio, matrinnia, carinnia.*
+-illio, -innia:: Caressiv: *fratrillio, matrinnia, carinnia.*
 
-*-issim:* in maxim alt gradu: *grandissim, bellissim.*
+-issim:: In maxim alt gradu: *grandissim, bellissim.*
 
-*-ach:* pejorativ, despreciant: *cavallacho, linguache, criticachar.*
+-ach:: Pejorativ, despreciant: *cavallacho, linguache, criticachar.*
 
 ==== Verbal sufixes
 
@@ -2122,208 +2120,204 @@ besonar, cure, curar, risca, riscar, don, donar, matur, maturar.*
 
 §{nbsp}135. *Altri verbal finales.*
 
-*-isar:* far tal, far quam: *electrisar, idealisar, canalisar,
+-isar:: Far tal, far quam: *electrisar, idealisar, canalisar,
 terrorisar, rivalisar, judeisar.*
 
-*-ificar:* far tal, constatar quam: *verificar, simplificar, mumificar,
+-ificar:: Far tal, constatar quam: *verificar, simplificar, mumificar,
 pacificar.* forma anc adjectives: *pacific, magnific, specific.*
 
-*-ijar:* devenir, far se: *verdijar, rubijar.*
+-ijar:: Devenir, far se: *verdijar, rubijar.*
 
-*-ear:* statu dinamic de vade e retro: *flammear, verdear, undear.*
+-ear:: Statu dinamic de vade e retro: *flammear, verdear, undear.*
 
-// XXX TODO -- Separate all para numbers from headings:
+
+// XXX FIXED -- "statú" -> "statu"
+// XXX FIXED -- "interiori" -> "inferiori"
+// XXX FIXED -- "pseudomala-die" -> pseudomaladie"
+// XXX TODO -- Separate all para numbers from headings
 
 §{nbsp}136. *Sufixes por verbal substantives.*
 
 a) adjuntet al *tema perfectic* secun § 80:
 
-*-ion:* action, anc resultat e loc de it: *administration, expedition,
+-ion:: Action, anc resultat e loc de it: *administration, expedition,
 construction, distribution, explosion.*
 
-*-or:* actent person, cose o factor: *administrator, expeditor,
+-or:: Actent person, cose o factor: *administrator, expeditor,
 distributor, constructor, ventilator, compressor, divisor.*
 
-*-ura:* concretisat action e su resultate: *reparatura, garnitura,
+-ura:: Concretisat action e su resultate: *reparatura, garnitura,
 lectura, creatura.*
 
 b) adjuntet al *tema presentic* secun § 84:
 
-*-ment:* concret action o su resultate, o servient a, servient quam:
+-ment:: Concret action o su resultate, o servient a, servient quam:
 *fundament, nutriment, movement.*
 
 c) adjuntet al *radica verbal* secun § 85:
 
-*-ida* (verbes in -ar: -*ada*): action in durada: *promenada, perdida,
+-ida (verbes in *-ar*: -*ada*):: Action in durada: *promenada, perdida,
 currida.*
 
 d) adjuntet al *participie presentic* secun § 82:
 
-// XXX FIXED -- "statú" -> "statu":
-
-*-ie:* statu in durada: *tolerantie, provenientie, existentie.*
+-ie:: Statu in durada: *tolerantie, provenientie, existentie.*
 
 §{nbsp}137. *Personal sufixes.*
 
-*-er-:* person professional: *molinero, lavera, librero, vitrero.*
+-er-:: Person professional: *molinero, lavera, librero, vitrero.*
 
-*-ist:* person ocupant se pri, adherente de: *calvinist, socialist,
+-ist:: Person ocupant se pri, adherente de: *calvinist, socialist,
 librist, telegrafista.*
 
 -*or:* cp. §136.
 
-*-ari-:* person caracterisat per alquó external, p. ex. un function:
+-ari-:: Person caracterisat per alquó external, p. ex. un function:
 *millionario, functionaria, bibliotecario, pensionaria.*
 
-*-on:* person caracterisat per un intern o natural qualitá: *dormon,
+-on:: Person caracterisat per un intern o natural qualitá: *dormon,
 savagion, spiona, pedon.*
 
-*-ard:* persones con mal qualitá: *falsard, dinamitard, mentard.*
+-ard:: Persones con mal qualitá: *falsard, dinamitard, mentard.*
 
-// XXX FIXED -- "interiori" -> "inferiori":
+-astr-:: Persones de valore inferiori: *medicastro, poetastra.*
 
-*-astr-:* persones de valore inferiori: *medicastro, poetastra.*
+-es-:: Habitante (anc adjectivic): *francese, franceso, francesa,
+francesi, borgeso.* *-ane, -ano, -ana*: cp. § 140.
 
-*-es-:* habitante (anc adjectivic): *francese, franceso, francesa,
-francesi, borgeso.*
-
-*-ane,* -ano, -ana: cp. § 140.
-
-*-essa:* féminas con special dignitá o function: *princessa, diaconessa,
+-essa:: Féminas con special dignitá o function: *princessa, diaconessa,
 actressa, imperatressa.*
 
-*-ell:* yun animale: *agnell, leonello.*
+-ell:: Yun animale: *agnell, leonello.*
 
 §{nbsp}138. *Qualitativ sufixes.*
 
-*-ie:* abstract substantives, statu (cp. §82, 136): *anatomie, maladie,
+-ie:: Abstract substantives, statu (cp. §82, 136): *anatomie, maladie,
 elegantie, existentie, furie, tirannie.*
 
-*-itá* (-etá, si li radica fini per i): qualitá: *homanitá, yunitá,
+-itá (*-etá*, si li radica fini per *i*):: Qualitá: *homanitá, yunitá,
 quantitá, proprietá, ebrietá.*
 
-*-ore:* de verbes: statu, de adjectives: qualitá mesurabil: *amore,
+-ore:: De verbes: statu; de adjectives: qualitá mesurabil: *amore,
 terrore, calore, longore, grandore.*
 
-*-esse:* pregnant qualitá o statu: *altesse, grandesse, finesse,
+-esse:: Pregnant qualitá o statu: *altesse, grandesse, finesse,
 yunesse, delicatesse.*
 
 §{nbsp}139. *Local e colectiv sufixes.*
 
-*-ia:* loc, land: *dormitoria, Germania, dominia, abatia.*
+-ia:: Loc, land: *dormitoria, Germania, dominia, abatia.*
 
-*-eríe:* profession e su productes (-er + -ie), metaforicmen anc maniere
+-eríe:: Profession e su productes (*-er* + *-ie*), metaforicmen anc maniere
 de acter, caractere: *vitreríe, potteríe, bigotteríe, diaboleríe.*
 
-*-ería:* loc de profession (-er + -ia): *librería, juvelería, vitrería.*
+-ería:: Loc de profession (-er + -ia): *librería, juvelería, vitrería.*
 
-*-iera:* vast loc contenent alquo: *torfiera, pisciera, rosiera.*
+-iera:: Vast loc contenent alquo: *torfiera, pisciera, rosiera.*
 
-*-iere:* vase etc. contenent alquo: *incriere, tabaciere, butoniere.*
+-iere:: Vase etc., contenent alquo: *incriere, tabaciere, butoniere.*
 
-*-iero:* portant alquo: *rosiero, candeliero, pomiero.*
+-iero:: Portant alquo: *rosiero, candeliero, pomiero.*
 
-*-atu:* institution o situation social o legal, dignitá, anc loc, témpor
+-atu:: Institution o situation social o legal, dignitá, anc loc, témpor
 o dominia de it: *viduatu, proletariatu, secretariatu, califatu,
 episcopatu.*
 
-*-uore:* loc, utensil: *trottuore, lavuore, reservuore, tiruore.*
+-uore:: Loc, utensil: *trottuore, lavuore, reservuore, tiruore.*
 
-*-ade:* multitá, serie, contenida: *colonade, boccade, olimpiade.*
+-ade:: Multitá, serie, contenida: *colonade, boccade, olimpiade.*
 
-*-allia:* colectives sin órdine, o despreciativ: *antiquallia,
+-allia:: Colectives sin órdine, o despreciativ: *antiquallia,
 ferrallia, canallia.*
 
-*-age:* colectives con órdine, coses fat de: *foliage, plumage, boscage,
+-age:: Colectives con órdine, coses fat de: *foliage, plumage, boscage,
 tonnage, plantage, lanage, linage.*
 
 de verbes: activitá, precipue industrial o professional, anc su
 resultate, loc o témpor, anc li custas por it: *rafinage, abordage,
 luage, viage, doanage.*
 
-*-arium:* colection ordinat, precipue scientic o tecnic: *herbarium,
+-arium:: Colection ordinat, precipue scientic o tecnic: *herbarium,
 planetarium, aquarium, rosarium.*
 
-*-ité* (-eté, si li radica fini per *i*); totalité de persones o coses:
+-ité (*-eté*, si li radica fini per *i*):: Totalité de persones o coses:
 *homanité, yunité, societé.*
 
-*-un:* singul exemplare: *grelun, sablun, scalun.*
+-un:: Singul exemplare: *grelun, sablun, scalun.*
 
 §{nbsp}140. *Adjectivic sufixes.*
 
 (Li concernent substantives, format per desinenties substantivic, es
 indicat in parenteses.)
 
-*-al:* general adjectivic relation: *musical, cordial, central
+-al:: General adjectivic relation: *musical, cordial, central
 (centrale), ideal (ideale).*
 
-*-ic:* essent tal: *metallic, fanatic (fanatico), fantastic, scientic.*
-
+-ic:: Essent tal: *metallic, fanatic (fanatico), fantastic, scientic.*
++
 Grec substantives finient per *-ma* intercala *-t-,* tales finient per
 *-se* (x = cs) muta li *s* in *t: problematic, dramatic, elipse,
 eliptic, hipnose, hipnotic, sintax, sintactic (sintactico).*
-
++
 Per *-ica* on indica scienties o artes, per *-ico* lor executores:
 *fisic, fisica, fisico, aviatica, aviatico, politic, politica,
 politico.*
 
-*-an:* apartenent a: *american (americano, americana, americanes),
+-an:: Apartenent a: *american (americano, americana, americanes),
 homan.*
 
-*-at* (pos substantives): providet per: *barbat, foliat, talentat
+-at (pos substantives):: Providet per: *barbat, foliat, talentat
 (talentate).*
 
-*-ut:* tro rich in, exuberant: *barbut (barbute), armut, sandut.*
+-ut:: Tro rich in, exuberant: *barbut (barbute), armut, sandut.*
 
-*-osi:* rich in, havent: *famosi, musculosi, respectosi, spinosi.*
+-osi:: Rich in, havent: *famosi, musculosi, respectosi, spinosi.*
 
-*-aci:* inclinat a: *mordaci, tenaci, vivaci.*
+-aci:: Inclinat a: *mordaci, tenaci, vivaci.*
 
-*-ari:* conform a, convenient a: *populari, regulari, militari
+-ari:: Conform a, convenient a: *populari, regulari, militari
 (militare).*
 
-*-atri:* simil a: *spongiatri, verdatri.*
+-atri:: Simil a: *spongiatri, verdatri.*
 
-*-esc:* amemorant a, in maniere de: *infantesc (infantesco), gigantesc.*
+-esc:: Amemorant a, in maniere de: *infantesc (infantesco), gigantesc.*
 
-*-in:* consistent de, provenient de: *argentin, alpin, matrin, svinin
+-in:: Consistent de, provenient de: *argentin, alpin, matrin, svinin
 (svinine).*
 
-*-iv* (adjuntet al tema perfectic secun § 80)*:* actent talmen, capabil:
+-iv (adjuntet al tema perfectic secun § 80):: Actent talmen, capabil:
 *decorativ, obligativ, consolativ, definitiv, constructiv, ofensiv
 (ofensive), directiv (directive), alternativ (alternative).*
 
-*-ori* (adjuntet al tema perfectic secun § 80)*:* destinat a, devent
+-ori (adjuntet al tema perfectic secun § 80):: Destinat a, devent
 acter talmen (adjective de -or)*:* *decoratori, obligatori, consolatori,
 ilusori, preparatori, instructori.*
 
-*-ibil* (verbes in -ar: -abil, cp. § 85)*:* de verbes transitiv: quo on
-posse far, de verbes íntransitiv: quo posse far: *formabil, audibil,
+-ibil (verbes in *-ar*: *-abil*, cp. § 85):: De verbes transitiv: quo on
+posse far; de verbes íntransitiv: quo posse far: *formabil, audibil,
 íncredibil, visibil, explosibil, combustibil (combustibile).*
 
-*-nd* (verbes in -ir: -end) adjuntet al tema presentic: a far: *leend,
+-nd (verbes in *-ir*: *-end*) (adjuntet al tema presentic):: A far: *leend,
 dividend (dividende).*
 
 §{nbsp}141. Mult paroles international contene *grec e latin afixes:*
 
-*ab-:* for: *abducter.*
+ab-:: For: *abducter.*
 
-*anti-:* contra: *anticrist, antisocial.*
+anti-:: Contra: *anticrist, antisocial.*
 
-*arch(i)-:* gradu maxim superiori: *archangel, archiepiscop,
+arch(i)-:: Gradu maxim superiori: *archangel, archiepiscop,
 archifripon.*
 
-*auto-:* self: *automobile, autodidacte.*
+auto-:: Self: *automobile, autodidacte.*
 
-// XXX FIXED -- "pseudomala-die" -> pseudomaladie":
-
-*pseudo-:* fals, semblant: *pseudoscientie, pseudocrist,
+pseudo-:: Fals, semblant: *pseudoscientie, pseudocrist,
 pseudomaladie.*
 
-*-isme:* doctrin, sistema, movement: *catolicisme, centralisme,
+-isme:: Doctrin, sistema, movement: *catolicisme, centralisme,
 socialisme.*
 
-*-oid:* simil: *negroid (negroide), elipsoid.*
+-oid:: Simil: *negroid (negroide), elipsoid.*
 
 §{nbsp}142. Ultra li indicat *productiv afixes* existe quelc *ínproductiv
 afixes,* queles ne forma nov paroles, ma explica existent paroles

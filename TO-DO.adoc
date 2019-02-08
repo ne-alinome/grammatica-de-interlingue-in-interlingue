@@ -3,8 +3,6 @@
 :revdate: 2019-02-08
 
 - Link the references.
-- Create style for class "informalexample", added by dbtoepub/xlstproc
-  from DocBook's `<informalexample>` tag.
 - Homogenize examples in tables and in lists.
 - Update notation of money? E.g. "frs. 20.---" > "frs. 20".
 - Typo? "prefixial" -> "prefixal".

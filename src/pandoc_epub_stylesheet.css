@@ -17,3 +17,8 @@ nav#landmarks ol li { list-style-type: none; margin: 0; padding: 0; }
 a.footnote-ref { vertical-align: super; }
 em, em em em, em em em em em { font-style: italic;}
 em em, em em em em { font-style: normal; }
+
+.informalexample{
+margin-left:.5em;
+margin-right:.5em;
+}

@@ -2,7 +2,7 @@
 
 # By Marcos Cruz (programandala.net)
 
-# Last modified 201902060051
+# Last modified 201902081607
 # See change log at the end of the file
 
 # ==============================================================
@@ -56,6 +56,9 @@ pdfa4: target/$(book).adoc.a4.pdf
 .PHONY: pdfletter
 pdfletter: target/$(book).adoc.letter.pdf
 
+.PHONY: xml
+xml: tmp/$(book).adoc.xml
+
 .PHONY: clean
 clean:
 	rm -f target/* tmp/*
@@ -88,8 +91,10 @@ tmp/%.adoc.xml: src/%.adoc
 
 target/$(book).adoc.xml.dbtoepub.epub: \
 	tmp/$(book).adoc.xml \
-	src/$(book)-docinfo.xml
+	src/$(book)-docinfo.xml \
+	src/dbtoepub_stylesheet.css
 	dbtoepub \
+		--css src/dbtoepub_stylesheet.css \
 		--output $@ $<
 
 # ------------------------------------------------
@@ -139,3 +144,7 @@ target/%.adoc.xml.xsltproc.epub: tmp/%.adoc.xml
 # Change log
 
 # 2019-02-05: Start.
+#
+# 2019-02-07: Add stylesheet to dbtoepub.
+#
+# 2019-02-08: Add debugging rule `xml`.

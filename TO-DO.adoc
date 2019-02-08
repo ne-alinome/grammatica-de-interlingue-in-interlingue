@@ -8,3 +8,5 @@
 - Markup the EPUB files by dbtoepub/xsltproc with lang "ie".
 - Markup ordered lists that use alpha numbering.
 - Separate all para numbers from headings?
+- Error?: "tema verbal (radica plus prefixes e sufixes)" -> "tema
+  verbal (radica)".

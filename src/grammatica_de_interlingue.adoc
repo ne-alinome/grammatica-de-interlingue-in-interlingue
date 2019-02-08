@@ -18,7 +18,7 @@ endif::[]
 // This Asciidoctor version by Marcos Cruz (programandala.net) for
 // http://ne.alinome.net, 2019.
 
-// Last modified 201902080104
+// Last modified 201902081435
 
 :dot: .
 
@@ -158,8 +158,9 @@ guvernar, grisi, suggestion, magnific.*
 *j* quam F, A: vision, G: dulci sch quam Journal, dunc quam Int g avan
 e. *jurnalist, manjar, jokey.*
 
-*k e kh* quam c dur. *kilogramm, Khedive. ph* quam f (in grec paroles).
-*telephon.*
+*k e kh* quam c dur. *kilogramm, Khedive.*
+
+*ph* quam f (in grec paroles).  *telephon.*
 
 *qu* quam k, sempre sequet de tre curt u: AGI, F e H con u. *quar,
 aqua.*
@@ -205,7 +206,9 @@ gena li comprension. Pro to it *es permisset* pronunciar li y vocalic
 quam F: u, G: ü, *qu* quam kw, *ch* quam tsch, *j* sempre e *g* sequet
 de e, i, y quam dj.
 
+====
 cylindre, quadre, marchar, chef, jurnal, gengive.
+====
 
 Qui have desfacilitá in li pronunciation de cert combinationes de
 consonantes final con li consonantes initial del sequent parol posse
@@ -214,7 +217,9 @@ intercalar un *demimut E,* ma sin scrir it.
 §{nbsp}7. *Paroles extran* es pronunciat maxim possibil quam in li lingue de
 orígine.
 
+====
 Champagne, cognac.
+====
 
 == Accentuation
 
@@ -270,16 +275,20 @@ simplic, exceptet si ili es pronunciat diferentmen o es necessi por
 indicar que li precedent vocal es curt o que *s* ne es sonori. Duplic
 consonantes in li radica resta anc in li formes derivat.
 
+====
 access, suggester, anates, annu, annales, asserfer, aromatic, bloc,
 arogant, can, canne, car, carre, present, pressent, li atacca, il
 atacca, ataccar, cellul, cellulose, rebell, rebellion.
+====
 
 §{nbsp}11. Li *grec gruppes de consonantes: th, chl, chr, ph* es in general
 simplificat a: *t, cl, cr, f,* e vice *y* vocalic on scri i. Ma anc li
 historic ortografie es permisset.
 
+====
 tema o thema, fonograf o phonograph, cloroform o chloroform, simpatic o
 sympatic o sympathic.
+====
 
 §{nbsp}12. Li *separation sillabic* es líber; preferibil es li separation usat
 in parlada o secun li parol-componentes.
@@ -288,7 +297,9 @@ in parlada o secun li parol-componentes.
 nómines, in titulationes, e por distincter Vu, Vos, Vor quam formes de
 politesse, de vu, vos, vor, si on desira distincter to.
 
+====
 Paul, London, Pacifico, Anglia, Danubio, li Senior, su Majestie.
+====
 
 §{nbsp}14. Li *acurtationes* maxim frequent es:
 
@@ -327,12 +338,16 @@ Paul, London, Pacifico, Anglia, Danubio, li Senior, su Majestie.
 §{nbsp}15. In Interlingue existe un sol *articul definit: li,* por li
 substantives masculin, feminin e neutri, singular e plural.
 
+====
 li patre, li matre, li table, li patres, li matres, li tables.
+====
 
 §{nbsp}16. Un *articul índefinit* existe solmen por li singulare: *un.*
 Por li plurale li substantive es usat sin articul.
 
+====
 Yo vide un avie. Yo vide avies.
+====
 
 §{nbsp}17. Li articul *li* posse *prender li plurale,* si null altri parol
 expresse it.
@@ -677,9 +692,11 @@ cíté.
 §{nbsp}53. Por expresser li *qualitá* on usa: *qual,* por li *quantitá:
 quant.*
 
+====
 Qual homes esset ci? Qual es li aqua hodíe, calid o frigid? Yo ne save
 qual it es. Qual compositor, tal musica. Quant il deve dar vos ancor? Yo
 ne save, quant il ha dat le. Quant vive, tant espera.
+====
 
 === Pronómines índefinit
 
@@ -745,7 +762,9 @@ million 1000001 un million un ... 2000000 du milliones ...
 §{nbsp}58. Li *númeres fractionari* es egal al ordinales, ma ordinarimen
 on vicea li unesim quar per: un *tot,* un *demí, un ters,* un *quart.*
 
+====
 du ters, tri quart, quar quinesim, etc.
+====
 
 §{nbsp}59. Li *fractiones decimal* es pronunciat
 
@@ -763,11 +782,15 @@ deciunuplic, deciduplic, duantuplic, centuplic, centunuplic, etc.
 
 §{nbsp}61. Li *numerales iterativ* es format per: *vez.*
 
+====
 du vez o duvez, tri vez, centvez, mult vez o multvez o mult vezes.
+====
 
 §{nbsp}62. Li *numerales colectiv* es format per li finale: *-ene.*
 
+====
 li unité, pare, triene, quarene, quinene, decene, deciduene, centene.
+====
 
 §{nbsp}63. *Altri numeral expressiones es p. ex.:*
 
@@ -1000,7 +1023,9 @@ rar casus exceptional (p. ex. in juristic documentes) on posse usar un
 form subjuntivic per adjunter -ye al presente del verb o del verb
 auxiliari:
 
+====
 Il di que il la amaye. Il dit que il la haye amat.
+====
 
 === Verbal derivation
 
@@ -1146,8 +1171,10 @@ o *e:*
 radica verbal con li desinenties substantivic, o li tema perfectic con o
 sin desinentie substantivic:
 
+====
 li pense, li pensa (plu proxim al action), li vende, li crede, li
 response, li vise, li flut, lì resultat, li extracte, li tribut.
+====
 
 Li tema perfectic sin finale es usat anc quam *adjective:*
 
@@ -1160,29 +1187,39 @@ devot, apert, pervers.
 §{nbsp}88. Por *indicar un qualitá* de un substantive on usa un adjective,
 de altri paroles un adverbie.
 
+====
 Un prudent mann acte prudentmen.
+====
 
 §{nbsp}89. In Interlingue on posse usar li adjective vice li adverbie, si li
 sens es clar.
 
+====
 Il ha bon laborat. Noi serchat long.
+====
 
 §{nbsp}90. It existe *adverbies primari* sin special finale, e *adverbies
 derivat* de adjectives per adjunter li ínaccentuat finale *-men.*
 
+====
 tre, sempre, deman, natural, naturalmen, respectosi, respectosimen.
+====
 
 §{nbsp}91. Vice special adverbies on usa multvez *adverbial expressiones,*
 format per prepositiones.
 
+====
 ex memorie, in general, in fine, per hasard.
+====
 
 §{nbsp}92. Li *comparative e superlative* es format in li sam maniere quam
 in li adjectives.
 
+====
 Il parla li lingue fluentmen. Il scri in min elegant maniere. Il salutat
 le maxim respectosimen. Si vu es fatigat, vu labora min rapidmen quam si
 vu es reposat.
+====
 
 §{nbsp}93. Secun li sens on posse *gruppar li adverbies* in adverbies de
 maniere, de quantitá, de loc, de témpor, e adverbies afirmativ, negativ
@@ -1430,17 +1467,21 @@ semanes.
 
 *ye* es usat, si exceptionalmen null altri preposition es apt:
 
+====
 Ye (in) omni ocasion il eat in li forest vice al scol. Yo va atender vos
 precisi ye (a) tri horas sur li plazza del scola. Yo vide la ye (che,
 avan, al) li triesim dom. Ili pariat ye (per, de) quin francs.
+====
 
 §{nbsp}103. Mult *prepositional expressiones* es format per adverbies e
 adjectives:
 
+====
 Mersí vor auxilie, yo posset fìnir li labor ante li fixat termin,
 exceptet li ultim págines, queles ne es conform al programma, Concernent
 vor ultim question, yo posse solmen dir, que il esset in medie del
 chambre ínter su infantes.
+====
 
 == Conjunctiones
 
@@ -1518,7 +1559,9 @@ cert gradu. Ma li *regulari órdine* del frase-partes es:
 possibil proxim li parol a quel ili relate. Pro to omni frasepartes es
 ínmediatmen sequet o precedet de su atributes.
 
+====
 Li bon patre sovente voluntarimen da bell libres a su diligent filio.
+====
 
 §{nbsp}110. De to seque, que li *adjective* o atribut adjectivic deve preceder
 o sequer ínmediatmen li substantive relativ. In general it precede, si
@@ -1645,7 +1688,9 @@ por separar complet frases, expressent un pensa terminat.
 §{nbsp}120. Li *punctu-comma* (*;*) indica un stoppa min grand. It es usat por
 separar complet frases con pensas coherent.
 
+====
 Por hodíe il es content; nam noi laborat del matin til li vésper.
+====
 
 §{nbsp}121. Li *comma* (*,*) indica li minim grand stoppa. It es usat por
 separar li divers partes de un frase composit, o divers frases coherent
@@ -2093,8 +2138,10 @@ socialisme.*
 afixes,* queles ne forma nov paroles, ma explica existent paroles
 international. P. ex.: *-id, -ore.*
 
+====
 friger, frigid, frigore, valer, valid, valore, riger, rigid, rigore,
 rigiditá, rigorosí, rigorositá.
+====
 
 === Composition de du o pluri paroles
 

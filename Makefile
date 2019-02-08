@@ -2,7 +2,7 @@
 
 # By Marcos Cruz (programandala.net)
 
-# Last modified 201902081607
+# Last modified 201902081640
 # See change log at the end of the file
 
 # ==============================================================
@@ -31,12 +31,8 @@ description="Grammatica de Interlingue in Interlingue"
 .PHONY: all
 all: epub pdf
 
-# Usual formats during the development:
-.PHONY: it
-it: pdfa4 epubd
-
 .PHONY: epub
-epub: epubd epubp epubx
+epub: epubd epubx
 
 .PHONY: epubd
 epubd: target/$(book).adoc.xml.dbtoepub.epub
@@ -56,12 +52,18 @@ pdfa4: target/$(book).adoc.a4.pdf
 .PHONY: pdfletter
 pdfletter: target/$(book).adoc.letter.pdf
 
-.PHONY: xml
-xml: tmp/$(book).adoc.xml
-
 .PHONY: clean
 clean:
 	rm -f target/* tmp/*
+
+# ----------------------------------------------
+# Development
+
+.PHONY: it
+it: pdfa4 epubd
+
+.PHONY: xml
+xml: tmp/$(book).adoc.xml
 
 # ==============================================================
 # Convert Asciidoctor to PDF
@@ -99,6 +101,8 @@ target/$(book).adoc.xml.dbtoepub.epub: \
 
 # ------------------------------------------------
 # With pandoc
+
+# Deprecated: The cross references dont't work.
 
 target/$(book).adoc.xml.pandoc.epub: \
 	tmp/$(book).adoc.xml \
@@ -147,4 +151,4 @@ target/%.adoc.xml.xsltproc.epub: tmp/%.adoc.xml
 #
 # 2019-02-07: Add stylesheet to dbtoepub.
 #
-# 2019-02-08: Add debugging rule `xml`.
+# 2019-02-08: Add debugging rule `xml`. Deprecate pandoc.

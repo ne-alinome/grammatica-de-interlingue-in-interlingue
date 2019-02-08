@@ -18,7 +18,7 @@ endif::[]
 // This Asciidoctor version by Marcos Cruz (programandala.net) for
 // http://ne.alinome.net, 2019.
 
-// Last modified 201902081720
+// Last modified 201902081727
 
 :dot: .
 
@@ -1750,7 +1750,8 @@ cert gradu. Ma li *regulari órdine* del frase-partes es:
 
 [width="100%"]
 |===
-| subject  | predicate | acusativ object | dativ object
+| Subject  | Predicate | Acusativ object | Dativ object
+
 | Li patre | da        | li libre        | al filio
 |===
 

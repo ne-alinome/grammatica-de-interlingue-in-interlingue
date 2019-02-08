@@ -18,7 +18,7 @@ endif::[]
 // This Asciidoctor version by Marcos Cruz (programandala.net) for
 // http://ne.alinome.net, 2019.
 
-// Last modified 201902081644
+// Last modified 201902081655
 
 :dot: .
 
@@ -1055,13 +1055,16 @@ On supresse li *r* resp. *er* del infinitive. Si li rest fini per vocal,
 on adjunte *t*, si it fini per *d* o *r*, on vicea ti consonant per *s*,
 in omni altri casus li rest self es li tema perfectic.
 
-// XXX TODO -- Improve these tables.
-
-[width="99%"]
+[width="100%"]
 |===
-| crear | expedir | distribuer | exploder | adherer | constructer
-| crea  | expedi  | distribu   | explod   | adher   | construct
-| creat | expedit | distribut  | explos   | adhes   | construct
+| Infinitive  | ...       | Tema perfectic
+
+| adherer     | adher     | adhes
+| constructer | construct | construct
+| crear       | crea      | creat
+| distribuer  | distribu  | distribut
+| expedir     | expedi    | expedit
+| exploder    | explod    | explos
 |===
 
 On posse anc dir, que li sufixes: *-ion, -or, o-ri, -iv* e *-ura* es adjuntet
@@ -1081,7 +1084,7 @@ radica, intercalante *t* pos vocal final e mutante un final *d* o *r* a
 | creatura | garnitura  | structura
 |===
 
-// XXX TODO -- Join these tables.
+b/ XXX TODO -- Join these tables.
 
 [width="100%"]
 |===
@@ -2122,7 +2125,6 @@ pacificar.* forma anc adjectives: *pacific, magnific, specific.*
 // XXX FIXED -- "statú" -> "statu"
 // XXX FIXED -- "interiori" -> "inferiori"
 // XXX FIXED -- "pseudomala-die" -> pseudomaladie"
-// XXX TODO -- Separate all para numbers from headings
 
 [[par136,§136]]§136. *Sufixes por verbal substantives.*
 
@@ -2320,8 +2322,6 @@ rigiditá, rigorosí, rigorositá.
 
 [[par143,§143]]§143. Maxim frequent es li metode plazzar li complement sin preposition
 avan li substantive resp. li verb, con o sin strec ligativ.
-
-// XXX TODO -- Markup this and all examples with an example block:
 
 ====
 scri-table (={nbsp}table por scrir), vent-moline (={nbsp}moline movet

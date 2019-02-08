@@ -18,7 +18,7 @@ endif::[]
 // This Asciidoctor version by Marcos Cruz (programandala.net) for
 // http://ne.alinome.net, 2019.
 
-// Last modified 201902081655
+// Last modified 201902081700
 
 :dot: .
 
@@ -1067,11 +1067,15 @@ in omni altri casus li rest self es li tema perfectic.
 | exploder    | explod    | explos
 |===
 
+// XXX FIXED -- "ye li verbes" -> "e che li verbes":
+
 On posse anc dir, que li sufixes: *-ion, -or, o-ri, -iv* e *-ura* es adjuntet
-che li verbes con *ar* e *ir* al participie passat, ye li verbes con
+che li verbes con *ar* e *ir* al participie passat, e che li verbes con
 *er* al
 radica, intercalante *t* pos vocal final e mutante un final *d* o *r* a
 *s*.
+
+// XXX FIXED -- "cretiv" -> "creativ":
 
 [width="100%"]
 |===
@@ -1080,11 +1084,11 @@ radica, intercalante *t* pos vocal final e mutante un final *d* o *r* a
 | creation | expedition | construction
 | creator  | expeditor  | constructor
 | creatori | expeditori | constructori
-| cretiv   | expeditiv  | constructiv
+| creativ  | expeditiv  | constructiv
 | creatura | garnitura  | structura
 |===
 
-b/ XXX TODO -- Join these tables.
+/ XXX TODO -- Join these tables.
 
 [width="100%"]
 |===

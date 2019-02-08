@@ -13,7 +13,7 @@ endif::[]
 // This Asciidoctor version by Marcos Cruz (programandala.net) for
 // http://ne.alinome.net, 2019.
 
-// Last modified 201902090010
+// Last modified 201902090020
 
 :dot: .
 
@@ -709,8 +709,15 @@ ne save, quant il ha dat le. Quant vive, tant espera.
 prefix: *ne-* tales indicant li absentie, li negation, e li sufix:
 *-cunc* fa definit pronómines relativ índefinit.
 
-alquel, alqual, alquant, alquó, alquí, alcun, nequel, nequal, nequó,
-nequí, necos, necun, quelcunc, qualcunc, quantcunc, quocunc, quicunc.
+|===
+| alquel  | nequel  | quelcunc
+| alqual  | nequal  | qualcunc
+| alquant | nequant | quantcunc
+| alquó   | nequó   | quocunc
+| alquí   | nequí   | quicunc
+| alcun   | necun   |
+|         | necos   |
+|===
 
 ====
 Si alcun fémina parla pri alquó, ella pensa pri alquí. Quicunc va venir,

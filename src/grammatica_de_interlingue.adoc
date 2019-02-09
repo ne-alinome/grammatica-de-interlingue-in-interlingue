@@ -13,7 +13,7 @@ endif::[]
 // This Asciidoctor version by Marcos Cruz (programandala.net) for
 // http://ne.alinome.net, 2019.
 
-// Last modified 201902100026
+// Last modified 201902100036
 
 :dot: .
 
@@ -1143,9 +1143,11 @@ per li complet radicas: *fact, dict, script.*
 Che li verbes con li consonantgruppe *-ct-* on posse omisser li *c*,
 precipue in nederivat formes.
 
+====
 Contrafaction o contrafation, factor o fator, malediction o maledition,
 prescription o prescrition. Distincter o distinter, distinction o
 distintion, conjunction, conjunter.
+====
 
 [[par82,§82]]§82. Li *finale -ntie* es adjuntet al tema presentic de verbes
 expressent un statu, al talnominat *verbes static.*
@@ -1387,6 +1389,8 @@ prepara un viage. Il prepara se por un viage.
 // XXX FIXED -- ínterlingue -> Interlingue
 // XXX FIXED -- "to sín saver" -> "to sin saver"
 // XXX FIXED -- "rich genito res" -> rich genitores"
+// XXX FIXED -- "Multís vell prefer viver in li rure" ->
+// "Mult vell prefer viver in li rure" ->
 
 a::
 
@@ -1528,7 +1532,7 @@ audir-distantie.
 in::
 +
 ====
-Mult persones vive in li cité. Multís vell preferer viver in li
+Mult persones vive in li cité. Mult vell preferer viver in li
 rure. In omni ocasion il eat al forest vice al scol, adminim decivez in
 min quam un annu.
 ====
@@ -1560,7 +1564,12 @@ retrovenir intra tri hores.
 malgré::
 +
 ====
-Malgré su grand efortíes il ne posset perforar li mur. med:
+Malgré su grand efortíes il ne posset perforar li mur.
+====
+
+med::
++
+====
 Med un bon instruction on va plu bon successar in li vive.
 ====
 

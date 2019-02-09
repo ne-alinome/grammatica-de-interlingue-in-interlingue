@@ -13,7 +13,7 @@ endif::[]
 // This Asciidoctor version by Marcos Cruz (programandala.net) for
 // http://ne.alinome.net, 2019.
 
-// Last modified 201902090047
+// Last modified 201902091515
 
 :dot: .
 
@@ -870,9 +870,11 @@ distinctet solmen per li pronómin; li verb self resta ínmutat.
 
 [[par69,§69]]§69. Li *presente* es egal al tema presentic:
 
+// XXX FIXED -- "il constructer" -> "il constructe"
+
 [width="100%"]
 |===
-| yo fabrica | tu expedi | il constructer
+| yo fabrica | tu expedi | il constructe
 |===
 
 Li verb *esser* have un special abreviat form del presente: *es,* vice
@@ -1049,9 +1051,11 @@ tam ínregularimen, que li maxim conosset anteriori lingues international
 ha renunciat incorporar les in su sistema de derivation e ha viceat les
 per artificial constructiones.
 
+// XXX FIXED -- "internàtional radicas" -> "international radicas"
+
 Al creator de Interlingue, *Prof. Edgar de Wahl,* reveni li merite, har
 decovrit quelc simplic regules por formar ti paroles internationalmen
-conosset per adjunter international finales a internàtional radicas.
+conosset per adjunter international finales a international radicas.
 
 [[par80,§80]]§80. Li sufixes: *ion, or, ori, iv, ura* ne es adjuntet al tema verbal o
 al tema presentic, ma al *tema perfectic.*
@@ -1193,6 +1197,8 @@ o *e:*
 
 [[par86,§86]]§86. *Li altri sufixes* es adjuntet directmen al radica verbal:
 
+// XXX FIXED -- "vìvaci" -> "vivaci"
+
 [width="100%"]
 |===
 | criticar | criticachar
@@ -1202,16 +1208,18 @@ o *e:*
 | reservar | reservuor
 | spiar    | spion
 | valer    | valore
-| viver    | vìvaci
+| viver    | vivaci
 |===
 
 [[par87,§87]]§87. *Substantivation direct:* On posse anc usar quam substantive li
 radica verbal con li desinenties substantivic, o li tema perfectic con o
 sin desinentie substantivic:
 
+// XXX FIXED -- "lì resultat" -> "li resultat"
+
 ====
 li pense, li pensa (plu proxim al action), li vende, li crede, li
-response, li vise, li flut, lì resultat, li extracte, li tribut.
+response, li vise, li flut, li resultat, li extracte, li tribut.
 ====
 
 Li tema perfectic sin finale es usat anc quam *adjective:*
@@ -1370,8 +1378,10 @@ prepara un viage. Il prepara se por un viage.
 
 // XXX FIXED -- "sedet intra li fable" -> "sedet infra li table"
 // XXX FIXED -- "ínfra" -> "infra"
-// XXX FIXED -- "ami'cos" -> "amicos":
+// XXX FIXED -- "ami'cos" -> "amicos"
 // XXX FIXED -- ínterlingue -> Interlingue
+// XXX FIXED -- "to sín saver" -> "to sin saver"
+// XXX FIXED -- "rich genito res" -> rich genitores"
 
 a::
 
@@ -1470,8 +1480,8 @@ de::
 Li dom de mi patre. Li dramas de Schiller. Un senior de Paris.
 Li maxim grand de omnis. Un vase de aure. Ti lettres es scrit
 de un poet per scri-machine. Li moné de un povri vidua ha
-esset furtet per un escapate del prison, nascet de rich genito
-res. Il vivet lontan de su patre, de quel il nequande audít
+esset furtet per un escapate del prison, nascet de rich genitores.
+Il vivet lontan de su patre, de quel il nequande audít
 alquó.
 ====
 
@@ -1604,7 +1614,7 @@ Secun li prescription to ne es permisset.
 sin::
 +
 ====
-Il fat to sín saver pro quo.
+Il fat to sin saver pro quo.
 ====
 
 sub::

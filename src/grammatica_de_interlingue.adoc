@@ -13,7 +13,7 @@ endif::[]
 // This Asciidoctor version by Marcos Cruz (programandala.net) for
 // http://ne.alinome.net, 2019.
 
-// Last modified 201902091515
+// Last modified 201902100023
 
 :dot: .
 
@@ -900,7 +900,9 @@ noi fabricat, vu expedit, ili constructet.
 Li *passate composit* es:
 
 ====
-yo ha fabricat, tu ha expedit, il ha constructet.
+- Yo ha fabricat.
+- Tu ha expedit.
+- Il ha constructet.
 ====
 
 Li *passate anteriori* es:

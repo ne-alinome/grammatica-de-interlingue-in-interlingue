@@ -13,7 +13,7 @@ endif::[]
 // This Asciidoctor version by Marcos Cruz (programandala.net) for
 // http://ne.alinome.net, 2019.
 
-// Last modified 201902100023
+// Last modified 201902100026
 
 :dot: .
 
@@ -849,8 +849,11 @@ conjugation.
 
 [width="100%"]
 |===
-| Tema verbal:    | fabric  | exped  | construct
-| Tema presentic: | fabrica | expedi | constructe
+| Tema verbal | Tema presentic
+
+| fabric      | fabrica
+| exped       | expedi
+| construct   | constructe
 |===
 
 Li concernent vocal caracteristic apari in omni formes del conjugation;

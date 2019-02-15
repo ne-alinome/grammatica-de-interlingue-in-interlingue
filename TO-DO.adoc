@@ -1,6 +1,6 @@
 = TO-DO of _Grammatica de Interlingue_
 :author: Marcos Cruz (programandala.net)
-:revdate: 2019-02-09
+:revdate: 2019-02-14
 
 - Homogenize examples in tables and in lists.
 - Update notation of money? E.g. "frs. 20.---" > "frs. 20".
@@ -13,3 +13,8 @@
 - Add URL of the Belitzky's version.
 - Make URLs visible in links, for devices that don't follow them.
 - Improve notation of single letters in the pronunciation.
+- Fix: "pràctic, li práctíca, il práctica".
+- Fix: "il ínvìa".
+- Fix: "Tis qui ha laborat maxim mult, recive li maxim grand fructes;
+  tis queles ha laborat poc, recive li min grand fructes." (tis
+  qui/tis queles).

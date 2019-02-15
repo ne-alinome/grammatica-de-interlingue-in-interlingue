@@ -13,10 +13,11 @@ endif::[]
 // This Asciidoctor version by Marcos Cruz (programandala.net) for
 // http://ne.alinome.net, 2019.
 
-// Last modified 201902141638
+// Last modified 201902151854
 
 :dot: .
 
+// Credites {{{1
 == Credites
 
 _Grammatica de Interlingue_
@@ -33,6 +34,7 @@ ifdef::backend-pdf[]
 toc::[]
 endif::[]
 
+// Anteparol {{{1
 == Anteparol
 
 Ti grammatica es complet in li sens, que it contene omni essential
@@ -71,6 +73,7 @@ Wahl* esset 1949 viceat per li nómine *Interlingue,* sin changear li
 lingue self, por evitar li politic aspecte del nómine
 “Occidental-Union”.
 
+// Alfabet {{{1
 == Alfabet
 
 [[par1,§1]]§1. Interlingue es scrit per 26 *lítteres latin: a, b, c, d, e, f, g,
@@ -81,6 +84,7 @@ h, i, j, k, I, m, n, o, p, q, r, s, t, u, v, w, x, y, z.*
 a, be, ce, de, e, ef, ge, ha, i, jot, ka, el, em, en, o, pe, qu, er, es,
 te, u, ve, duplic ve, ix, ypsilon, zet.
 
+// Pronunciation {{{1
 == Pronunciation
 
 [[par3,§3]]§3. *Li vocales* es sempre clarmen pronunciat quam seque:
@@ -228,6 +232,7 @@ orígine.
 Champagne, cognac.
 ====
 
+// Accentuation {{{1
 == Accentuation
 
 [[par8,§8]]§8. *Li accentu primari* sta sur li vocal ante li ultim consonant, ma
@@ -274,6 +279,7 @@ On posse sèmpre aplicar ti règules secun necessitá. Si on vole accentuàr
 un cert vocàl, on posse mem accentuar còntra li regul grammaticàl; it
 esset un medicà, ne un medicò.
 
+// Ortografie {{{1
 == Ortografie
 
 [[par10,§10]]§10. Interlingue conserva maxim possibil li *aspect international* del
@@ -337,6 +343,7 @@ a. p.:: annu passat
 conc.:: concernent
 m. p.:: mensu passat
 
+// Articul {{{1
 == Articul
 
 [[par15,§15]]§15. In Interlingue existe un sol *articul definit: li,* por li
@@ -382,6 +389,7 @@ mordaci, ma li altris ne es tal. Fidelitá es un valorosi qualitá. Li
 fidelitá del can (o del canes) es pruvat.
 ====
 
+// Substantive {{{1
 == Substantive
 
 [[par21,§21]]§21. Interlingue lassa al paroles lor *desinenties natural,* e ne
@@ -462,6 +470,7 @@ Goethe, Shakespeare; Alpes, Danubio, Germania; London, Berlin, Milano,
 Moskwa, Kharkow, Hoang-ho.
 ====
 
+// Adjective {{{1
 == Adjective
 
 [[par29,§29]]§29. Li caracteristic vocal final *-i* trova se in mult
@@ -536,6 +545,7 @@ grand, plu grand, mem plu grand, plu grand ancor, mem plu grand ancor.
 egalmen quam, altrimen quam.
 ====
 
+// Pronómines {{{1
 == Pronómines
 
 [[par38,§38]]§38. *Adjectivic pronómines* es tales queles sta avan o pos un
@@ -545,6 +555,7 @@ adjectives.
 *Substantivic pronómines* sta vice un substantive; ili posse prender li
 plurale, quam substantives, si necessi.
 
+// Pronómines personal {{{2
 === Pronómines personal
 
 [[par39,§39]]§39. It existe *du formes,* li un por li *subject* (nominative), li
@@ -586,6 +597,7 @@ la). Noi parla pri it. On parla pri nos. Yo veni pos vos. Yo labora por
 les (o ili).
 ====
 
+// Pronómines possessiv {{{2
 === Pronómines possessiv
 
 [[par43,§43]]§43. Li formes *adjectivic e substantivic* es egal; ma por li
@@ -607,6 +619,7 @@ vivacitá, etc. To es lores; to es li lores. Ples far lu tui. Ples da me
 tui libre. Il deve far li su.
 ====
 
+// Pronómines demonstrativ {{{2
 === Pronómines demonstrativ
 
 [[par44,§44]]§44. Li formes *adjectivic e substantivic* es egal; ma li substantivics
@@ -654,6 +667,7 @@ De lu sublim a lu comic es sovente solmen un passu. Lu nov de ti
 conception es...
 ====
 
+// Pronómines relativ e interrogativ {{{2
 === Pronómines relativ e interrogativ
 
 [[par49,§49]]§49. On usa li sam pronómines, relativ e interrogativ, adjectivic e
@@ -703,6 +717,7 @@ qual it es. Qual compositor, tal musica. Quant il deve dar vos ancor? Yo
 ne save, quant il ha dat le. Quant vive, tant espera.
 ====
 
+// Pronómines índefinit {{{2
 === Pronómines índefinit
 
 [[par54,§54]]§54. Li prefix *al-* da pronómines indicant alquó índeterminat, li
@@ -741,6 +756,7 @@ un poc espera. Yo conosse un cert senior Blanc; ma yo ne es cert, esque
 il es ci. It es tot egal, ca vu vide li tot munde o quelc partes de it.
 ====
 
+// Numerales {{{1
 == Numerales
 
 [[par56,§56]]§56. Li *númeres cardinal* es:
@@ -831,6 +847,7 @@ radica quadratic, o duesim radica ex quarantnin es sett.
 ∛8 = 2 radica cubic, o
 triesim radica de ott es du.
 
+// Verb {{{1
 == Verb
 
 [[par65,§65]]§65. In Interlingue existe *un sol* e *unitari conjugation* per
@@ -1046,6 +1063,7 @@ auxiliari:
 Il di que il la amaye. Il dit que il la haye amat.
 ====
 
+// Verbal derivation {{{2
 === Verbal derivation
 
 // XXX FIXED -- "millenes" -> "milles":
@@ -1235,6 +1253,7 @@ Li tema perfectic sin finale es usat anc quam *adjective:*
 devot, apert, pervers.
 ====
 
+// Adverbies {{{1
 == Adverbies
 
 [[par88,§88]]§88. Por *indicar un qualitá* de un substantive on usa un adjective,
@@ -1355,6 +1374,7 @@ Esque vu ne ha videt le? Si, il esset ya in li scol e sin dúbit ne plu
 va retornar ante midí.
 ====
 
+// Prepositiones {{{1
 == Prepositiones
 
 [[par99,§99]]§99. Omni prepositiones sta *ínmediatmen avan lor complement.* lli es
@@ -1719,6 +1739,7 @@ vor ultim question, yo posse solmen dir, que il esset in medie del
 chambre ínter su infantes.
 ====
 
+// Conjunctiones {{{1
 == Conjunctiones
 
 [[par104,§104]]§104, Conjunctiones de *coordination* es:
@@ -1754,6 +1775,7 @@ per que, por que, pro que, pos que, ante que, durante que, sam quam,
 desde que, sin que, tant que, suposit que, in condition que.
 ====
 
+// Interjectiones {{{1
 == Interjectiones
 
 [[par107,§107]]§107, Quam interjectiones on posse usar omni interjectiones del national
@@ -1780,6 +1802,7 @@ person dit pst! detra me. Ma ho ve! il ne atentet e plump! il cadet in
 li aqua. Shut (o shit!) vi li professor, silentie! Fi! quel malodore!
 ====
 
+// Sintax {{{1
 == Sintax
 
 [[par108,§108]]§108. Li *position* del paroles in li frase es in general *líber* til un
@@ -1911,6 +1934,7 @@ Yo crede que pluvia. Existe mult exceptiones. Pluvia. It pluvia. It
 deveni frigid (li temperatura o un cert cose).
 ====
 
+// Interpunction {{{1
 == Interpunction
 
 [[par118,§118]]§118. Li signes de interpunction deve esser usat talmen, que li
@@ -1970,6 +1994,7 @@ imbrassamentes({ }), strec ligant (-), strec separant (—), signes
 (?) e apostrof (') es usat plu o min internationalmen. (! e ? sta solmen
 in li fine del frase, ne anc in li comensa.)
 
+// Parolformation {{{1
 == Parolformation
 
 [[par124,§124]]§124. *Nov paroles* es format per:
@@ -1980,6 +2005,7 @@ in li fine del frase, ne anc in li comensa.)
 - <<_composition_de_du_o_pluri_paroles, Composition de du o pluri
   paroles>>.
 
+// Adjuntion de desinenties {{{2
 === Adjuntion de desinenties
 
 [[par125,§125]]§125. Li adjuntion de desinenties es ja tractat in li concernent
@@ -2041,6 +2067,7 @@ rose, rosi, rosiero, rosiera; porte, porta, portu,
 portuari, portale; posta, posto.
 ====
 
+// Adjuntion de prefixes {{{2
 === Adjuntion de prefixes
 
 [[par127,§127]]§127. In mult international parolformationes li prefixes e prefixial
@@ -2111,6 +2138,7 @@ decametre, decilitre, hectolitre, hemisfere, hipermodern, kilometre,
 monoplan, panslavisme, pseudocrist, telefonar.
 ====
 
+// Adjuntion de sufixes {{{2
 === Adjuntion de sufixes
 
 [[par131,§131]]§131. Li sufixes adjunte se al radica ínmediatmen o med vocales o
@@ -2140,6 +2168,7 @@ saltettar.*
 
 -ach:: Pejorativ, despreciant: *cavallacho, linguache, criticachar.*
 
+// Verbal sufixes {{{3
 ==== Verbal sufixes
 
 [[par134,§134]]§134. *Finale -ar.* Omni modern formationes de verbes fini per -ar, ne
@@ -2370,6 +2399,7 @@ friger, frigid, frigore, valer, valid, valore, riger, rigid, rigore,
 rigiditá, rigorosí, rigorositá.
 ====
 
+// Composition de du o pluri paroles {{{2
 === Composition de du o pluri paroles
 
 [[par143,§143]]§143. Maxim frequent es li metode plazzar li complement sin preposition
@@ -2396,6 +2426,7 @@ mult casus usar atributes vice compositiones.
 animale domestic, premie de assecurantie, comunication per vapornaves.
 ====
 
+// Frases sistematic por omni essential regules grammatical {{{1
 == Frases sistematic por omni essential regules grammatical
 
 Li sequent unic págine de frases in Interlingue contene por chascun
@@ -2472,6 +2503,7 @@ vocabul**a**rium de Interl**i**ngue es facil**i**ssim e repres**e**nta
 
 // XXX FIXED -- "Ll lingue" -> "Li lingue"
 
+// Li lingue vermen international {{{1
 == Li lingue vermen international
 
 Textu de un disco de grammofon recivibil del Interlingue-Centrale:

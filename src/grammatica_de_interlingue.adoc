@@ -13,7 +13,7 @@ endif::[]
 // This Asciidoctor version by Marcos Cruz (programandala.net) for
 // http://ne.alinome.net, 2019.
 
-// Last modified 201902151854
+// Last modified 201902180003
 
 :dot: .
 
@@ -22,7 +22,7 @@ endif::[]
 
 _Grammatica de Interlingue_
 
-Author: Dr. Fritz Haas.
+Autor: Dr. Fritz Haas.
 
 Digitalisat de S. Belitzky (ex edition de Interlingue-Servicie
 Winterthur, Svissia, 1956).
@@ -125,8 +125,8 @@ del <<par4>> quam recomendation, ma ne quam regul strict o complet.
 
 [[par4,§4]]§4. In general *vocales accentuat* es passabilmen *long;* ma avan *c
 final, ch, x,* o avan pluri consonantes (exceptet r o I con precedent
-diferent consonant), e in li curt grammatical paroles ili es *curt.
-Vocales ínaccentuat* es plu o min *curt.*
+diferent consonant), e in li curt grammatical paroles ili es *curt*.
+*Vocales ínaccentuat* es plu o min *curt.*
 
 *A, i, u* have sempre un medial sonalitá bon distinctibil del altri
 vocales. *Accentuat e* e *o* es *cludet,* si ili es long, e avan *m* e
@@ -155,7 +155,6 @@ pronunciat altrimen quam li prim. *acceptar, suggester.*
 concert, acceptar, electric, electricitá.*
 
 *ch* F, A: sh, G: sch, permisset anc A: ch, H: ch, ma ne recomendat;
-
 avan consonantes quam k. *machine, marchar, chec; chloroform.*
 
 *g* avan e, i, y: AFI, G: dulci sch quam in generös, altriloc AFGHI (gn
@@ -2156,7 +2155,10 @@ infanter(i)ist, ambiti(on)osi, religi(on)osi, ident(ic)itá,
 nu(tri)tresse, mum(i)ificar.
 ====
 
-[[par133,§133]]§133. *Taxant sufixes.*
+// Taxant sufixes {{{3
+==== Taxant sufixes
+
+[[par133,§133]]§133.
 
 -ett:: Diminutive, frequentative, micri objectes: *filietto, statuette,
 cigarrette, pincette, inflammette, rosette, foliettar, volettar,
@@ -2202,12 +2204,14 @@ pacificar.* forma anc adjectives: *pacific, magnific, specific.*
 
 -ear:: Statu dinamic de vade e retro: *flammear, verdear, undear.*
 
-
 // XXX FIXED -- "statú" -> "statu"
 // XXX FIXED -- "interiori" -> "inferiori"
 // XXX FIXED -- "pseudomala-die" -> pseudomaladie"
 
-[[par136,§136]]§136. *Sufixes por verbal substantives.*
+// Sufixes por verbal substantives {{{3
+==== Sufixes por verbal substantives
+
+[[par136,§136]]§136.
 
 a) adjuntet al *tema perfectic* secun <<par80>>:
 
@@ -2234,7 +2238,10 @@ d) adjuntet al *participie presentic* secun <<par82>>:
 
 -ie:: Statu in durada: *tolerantie, provenientie, existentie.*
 
-[[par137,§137]]§137. *Personal sufixes.*
+// Personal sufixes {{{3
+==== Personal sufixes
+
+[[par137,§137]]§137.
 
 -er-:: Person professional: *molinero, lavera, librero, vitrero.*
 
@@ -2261,7 +2268,10 @@ actressa, imperatressa.*
 
 -ell:: Yun animale: *agnell, leonello.*
 
-[[par138,§138]]§138. *Qualitativ sufixes.*
+// Qualitativ sufixes {{{3
+==== Qualitativ sufixes
+
+[[par138,§138]]§138.
 
 -ie:: Abstract substantives, statu (cp. <<par82>>, <<par136>>): *anatomie, maladie,
 elegantie, existentie, furie, tirannie.*
@@ -2275,7 +2285,10 @@ terrore, calore, longore, grandore.*
 -esse:: Pregnant qualitá o statu: *altesse, grandesse, finesse,
 yunesse, delicatesse.*
 
-[[par139,§139]]§139. *Local e colectiv sufixes.*
+// Local e colectiv sufixes {{{3
+==== Local e colectiv sufixes
+
+[[par139,§139]]§139.
 
 -ia:: Loc, land: *dormitoria, Germania, dominia, abatia.*
 
@@ -2316,7 +2329,10 @@ planetarium, aquarium, rosarium.*
 
 -un:: Singul exemplare: *grelun, sablun, scalun.*
 
-[[par140,§140]]§140. *Adjectivic sufixes.*
+// Adjectivic sufixes {{{3
+==== Adjectivic sufixes
+
+[[par140,§140]]§140.
 
 (Li concernent substantives, format per desinenties substantivic, es
 indicat in parenteses.)

@@ -13,7 +13,7 @@ endif::[]
 // This Asciidoctor version by Marcos Cruz (programandala.net) for
 // http://ne.alinome.net, 2019.
 
-// Last modified 201902180003
+// Last modified 201902260002
 
 :dot: .
 
@@ -79,7 +79,7 @@ lingue self, por evitar li politic aspecte del nómine
 [[par1,§1]]§1. Interlingue es scrit per 26 *lítteres latin: a, b, c, d, e, f, g,
 h, i, j, k, I, m, n, o, p, q, r, s, t, u, v, w, x, y, z.*
 
-[[par2,§2]]§2. Li alfabet es *pronunciat:*
+[[par2,§2]]§2. Li alfabet es *pronunciat*:
 
 a, be, ce, de, e, ef, ge, ha, i, jot, ka, el, em, en, o, pe, qu, er, es,
 te, u, ve, duplic ve, ix, ypsilon, zet.
@@ -123,8 +123,10 @@ del vocales ne existe. Preferibil es li pronunciationes simil a FGHI.
 Qui ne conosse alcun de ti pronunciationes posse sequer li indicationes
 del <<par4>> quam recomendation, ma ne quam regul strict o complet.
 
+// XXX FIXED -- "r o I" -> "r o l"
+
 [[par4,§4]]§4. In general *vocales accentuat* es passabilmen *long;* ma avan *c
-final, ch, x,* o avan pluri consonantes (exceptet r o I con precedent
+final, ch, x,* o avan pluri consonantes (exceptet r o l con precedent
 diferent consonant), e in li curt grammatical paroles ili es *curt*.
 *Vocales ínaccentuat* es plu o min *curt.*
 
@@ -274,8 +276,17 @@ rèsta.
 [[par9,§9]]§9. In li *fluent parlada* on ne accentua chascun parol secun li
 regul precedent, ma solmen li maxim important paroles del frase.
 
-On posse sèmpre aplicar ti règules secun necessitá. Si on vole accentuàr
-un cert vocàl, on posse mem accentuar còntra li regul grammaticàl; it
+// XXX REMARK -- In the English version, the following paragraph is
+// part of the previous one.
+
+// XXX FIXED -- Removed the useless accent marks of the explanation
+// itself, because they have no sense. The example usage is the last
+// sentence: "it esset un medicà, ne un medicò":
+
+// XXX FIXED -- ";" -> ":"
+
+On posse sempre aplicar ti regules secun necessitá. Si on vole accentuar
+un cert vocal, on posse mem accentuar contra li regul grammatical: it
 esset un medicà, ne un medicò.
 
 // Ortografie {{{1
@@ -509,17 +520,21 @@ Vi pomes, prende li maturis.
 
 [[par34,§34]]§34. Por li *comparative* on indica
 
+// XXX FIXED -- "minu (min)" -> "minu
+
 - li *egalitá* per *tam - quam*
 - li *majoritá* per *plu - quam*
-- li *minoritá* per *minu (min) - quam*
+- li *minoritá* per *minu - quam*
 
 Il es tam grand quam su fratre; il es plu grand quam su fratre; il es
 minu grand quam su fratre. Il es plu grand quam yo. Li plu grand libre.
 
 [[par35,§35]]§35 Por li *superlative* on indica
 
-- li *majoritá* per *maxim* (max)
-- li *minoritá per minim.*
+// XXX FIXED -- "maxim (max)" -> "maxim (o max)", plu clar
+
+- li *majoritá* per *maxim* (o *max*)
+- li *minoritá* per *minim*
 
 ====
 Li maxim grand del libres. Li minim grand libre.
@@ -740,7 +755,7 @@ fa, e in qualcunc maniere e por quicunc, ples far it bon! A quicunc tu
 da li moné, da it solmen contra quittantie.
 ====
 
-[[par55,§55]]§55. Altri *pronómines índefinit es:*
+[[par55,§55]]§55. Altri *pronómines índefinit es*:
 
 On, self, li sam, quelc, null, chascun, omni, omnicos, ambi, altri,
 altricos, céteri, pluri, mult, poc, un poc, cert, un cert, mani, singul,
@@ -932,7 +947,7 @@ Li *passate anteriori* es:
 - Ili hat constructet.
 ====
 
-[[par72,§72]]§72. Li *future simplic* es format per li auxiliare *va:*
+[[par72,§72]]§72. Li *future simplic* es format per li auxiliare *va*:
 
 ====
 - Il va fabricar.
@@ -983,7 +998,7 @@ per adjunter *-e*:
 | fabricante | expediente | constructente
 |===
 
-Existe anc *formes progressiv:*
+Existe anc *formes progressiv*:
 
 [width="100%"]
 |===
@@ -1013,14 +1028,14 @@ Existe un *form de politesse per ples* (de pleser) con infinitive:
 | il mey fabricar | il mey expedir | il mey constructer
 |===
 
-li *hortative* per *lass:*
+li *hortative* per *lass*:
 
 [width="100%"]
 |===
 | lass nos fabricar | lass nos expedir | lass nos constructer
 |===
 
-[[par77,§77]]§77. Li *formes passiv* es format per li verb auxiliari *esser:*
+[[par77,§77]]§77. Li *formes passiv* es format per li verb auxiliari *esser*:
 
 ====
 - It es perlaborat.
@@ -1207,7 +1222,7 @@ arguer, argument, compleer, complement.
 
 [[par85,§85]]§85. Du sufixes adjunte se al radica verbal in du formes diferent secun
 li vocal caracteristic: *-abil, -ada* ye *a* resp. *-ibil, -ida* ye *i*
-o *e:*
+o *e*:
 
 [width="99%"]
 |===
@@ -1236,7 +1251,7 @@ o *e:*
 |===
 
 [[par87,§87]]§87. *Substantivation direct:* On posse anc usar quam substantive li
-radica verbal con li desinenties substantivic, o li tema perfectic con o
+radica verbal con li desinenties substantivic, o li <<par80,tema perfectic>> con o
 sin desinentie substantivic:
 
 // XXX FIXED -- "lì resultat" -> "li resultat"
@@ -1246,7 +1261,7 @@ li pense, li pensa (plu proxim al action), li vende, li crede, li
 response, li vise, li flut, li resultat, li extracte, li tribut.
 ====
 
-Li tema perfectic sin finale es usat anc quam *adjective:*
+Li <<par80,tema perfectic>> sin finale es usat anc quam *adjective*:
 
 ====
 devot, apert, pervers.
@@ -1490,10 +1505,12 @@ cis::
 Francia es situat cis li Pirenés.
 ====
 
+// XXX FIXED -- "lacrimes" -> "lácrimes"
+
 con::
 +
 ====
-Li filio ea con su patre along li fluvie. Ella stat con lacrimes
+Li filio ea con su patre along li fluvie. Ella stat con lácrimes
 in li ocules con su marito avan li station.
 ====
 
@@ -1633,6 +1650,8 @@ préter::
 ====
 Ili passat préter li dom de mi patre.
 ====
+
+// XXX FIX -- "proxim/proxím"
 
 proxim::
 +
@@ -1985,7 +2004,7 @@ Yó ea con la (ne tú). Yo éa con la (yo ne fa quam li altris, queles né
 ea con la). Yo ea con élla (ne con li áltris). Save vu, de u il veni?
 ====
 
-[[par123,§123]]§123. Li *altri signes de interpunction:*
+[[par123,§123]]§123. Li *altri signes de interpunction*:
 
 Colon (:), punctus suspensiv (...), parentese ({nbsp}), crampones ([{nbsp}]),
 imbrassamentes({ }), strec ligant (-), strec separant (—), signes
@@ -2130,7 +2149,7 @@ selfconfidentie, submisser, transportar, transpirar, tradition,
 ultraclerical, vicepresidente, parapluvie, portamoné, tirabuton.
 ====
 
-[[par130,§130]]§130. Mult international paroles es format per *grec prefixes:*
+[[par130,§130]]§130. Mult international paroles es format per *grec prefixes*:
 
 ====
 decametre, decilitre, hectolitre, hemisfere, hipermodern, kilometre,
@@ -2387,7 +2406,7 @@ posse far; de verbes íntransitiv: quo posse far: *formabil, audibil,
 -nd (verbes in *-ir*: *-end*) (adjuntet al tema presentic):: A far: *leend,
 dividend (dividende).*
 
-[[par141,§141]]§141. Mult paroles international contene *grec e latin afixes:*
+[[par141,§141]]§141. Mult paroles international contene *grec e latin afixes*:
 
 ab-:: For: *abducter.*
 

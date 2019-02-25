@@ -19,3 +19,4 @@
   tis queles ha laborat poc, recive li min grand fructes." (tis
   qui/tis queles).
 - Fix: "It anc es un fructe" -> "Anc it es un fructe".
+- Fix: "exceptet r o I".

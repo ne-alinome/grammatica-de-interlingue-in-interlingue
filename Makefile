@@ -2,7 +2,7 @@
 
 # By Marcos Cruz (programandala.net)
 
-# Last modified 201902082342
+# Last modified 201902211744
 # See change log at the end of the file
 
 # ==============================================================
@@ -21,6 +21,7 @@ VPATH=./src:./target
 
 book=grammatica_de_interlingue
 title="Grammatica de Interlingue"
+lang="ie"
 editor="Marcos Cruz (programandala.net)"
 publisher="ne.alinome"
 description="Grammatica de Interlingue in Interlingue"
@@ -118,8 +119,8 @@ target/$(book).adoc.xml.pandoc.epub: \
 		--template=src/pandoc_epub_template.txt \
 		--css=src/pandoc_epub_stylesheet.css \
 		--variable=lang:$(lang) \
-		--variable=editor:$(author) \
-		--variable=publisher:$(editor) \
+		--variable=editor:$(editor) \
+		--variable=publisher:$(publisher) \
 		--variable=description:$(description) \
 		--output $@ $<
 
@@ -159,8 +160,8 @@ target/$(book).adoc.xml.pandoc.odt: \
 		--to odt \
 		--template=src/pandoc_odt_template.txt \
 		--variable=lang:$(lang) \
-		--variable=editor:$(author) \
-		--variable=publisher:$(editor) \
+		--variable=editor:$(editor) \
+		--variable=publisher:$(publisher) \
 		--variable=description:$(description) \
 		--output $@ $<
 
@@ -173,3 +174,6 @@ target/$(book).adoc.xml.pandoc.odt: \
 #
 # 2019-02-08: Add debugging rule `xml`. Deprecate pandoc to make the EPUB.
 # Make an OpenDocument version.
+#
+# 2019-02-21: Fix: set `lang` variable. Fix metadata parameters in pandoc
+# commands.

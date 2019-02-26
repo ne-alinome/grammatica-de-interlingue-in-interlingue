@@ -2,7 +2,7 @@
 
 # By Marcos Cruz (programandala.net)
 
-# Last modified 201902270019
+# Last modified 201902270024
 # See change log at the end of the file
 
 # ==============================================================
@@ -57,6 +57,9 @@ pdfa4: target/$(book).adoc.a4.pdf
 .PHONY: pdfletter
 pdfletter: target/$(book).adoc.letter.pdf
 
+.PHONY: xml
+xml: target/$(book).adoc.xml
+
 .PHONY: clean
 clean:
 	rm -fr target/* tmp/*
@@ -68,7 +71,7 @@ clean:
 it: epubd pdfa4 
 
 .PHONY: xml
-xml: tmp/$(book).adoc.xml
+xml: target/$(book).adoc.xml
 
 # ==============================================================
 # Convert Asciidoctor to PDF
@@ -85,9 +88,7 @@ target/%.adoc.letter.pdf: src/%.adoc
 # ==============================================================
 # Convert Asciidoctor to DocBook
 
-.SECONDARY: tmp/$(book).adoc.xml
-
-tmp/%.adoc.xml: src/%.adoc
+target/%.adoc.xml: src/%.adoc
 	asciidoctor --backend=docbook5 --out-file=$@ $<
 
 # ==============================================================
@@ -97,7 +98,7 @@ tmp/%.adoc.xml: src/%.adoc
 # With dbtoepub
 
 target/$(book).adoc.xml.dbtoepub.epub: \
-	tmp/$(book).adoc.xml \
+	target/$(book).adoc.xml \
 	src/$(book)-docinfo.xml \
 	src/dbtoepub_stylesheet.css
 	dbtoepub \
@@ -131,7 +132,7 @@ target/$(book).adoc.xml.pandoc.epub: \
 # Deactivated by default: Its result is identical to that of dbtoepub, which is
 # a layer on it.
 
-target/%.adoc.xml.xsltproc.epub: tmp/%.adoc.xml
+target/%.adoc.xml.xsltproc.epub: target/%.adoc.xml
 	rm -fr tmp/xsltproc/* && \
 	xsltproc \
 		--output tmp/xsltproc/ \
@@ -156,7 +157,7 @@ target/%.adoc.xml.xsltproc.epub: tmp/%.adoc.xml
 # Convert DocBook to OpenDocument
 
 target/$(book).adoc.xml.pandoc.odt: \
-	tmp/$(book).adoc.xml \
+	target/$(book).adoc.xml \
 	src/$(book)-docinfo.xml \
 	src/pandoc_odt_template.txt
 	pandoc \
@@ -182,4 +183,5 @@ target/$(book).adoc.xml.pandoc.odt: \
 # 2019-02-21: Fix: set `lang` variable. Fix metadata parameters in pandoc
 # commands.
 #
-# 2019-02-27: Don't use xsltproc by default.
+# 2019-02-27: Don't use xsltproc by default. Make clean recursive. Consider
+# DocBook a target, not an intermediate step.

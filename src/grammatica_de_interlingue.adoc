@@ -13,7 +13,7 @@ endif::[]
 // This Asciidoctor version by Marcos Cruz (programandala.net) for
 // http://ne.alinome.net, 2019.
 
-// Last modified 201902270013
+// Last modified 201902270030
 
 :dot: .
 
@@ -38,8 +38,8 @@ Cruz, ye http://ne.alinome.net[ne.alinome.net], 2019.
 
 Ti grammatica es complet in li sens, que it contene omni essential
 regules usat in li textus de Cosmoglotta, li oficial organ del
-Interlingue Union, e in li _Complet Cursu de Interlingue_ de A. Matejka.
-In plu omni decisiones del Interlingue Academie es egardat.
+Interlingue-Union, e in li _Complet Cursu de Interlingue_ de A. Matejka.
+In plu omni decisiones del Interlingue-Academie es egardat.
 
 // XXX FIXED -- usar Idiotismes -> usar idiotismes
 
@@ -2553,7 +2553,7 @@ Car auditores!
 St. Gallen 7, Svissia.
 
 Yo parla a vos in li lingue international Interlingue. Li centre del
-international Interlingue Union ha fat li edition de ti disco de
+international Interlingue-Union ha fat li edition de ti disco de
 grammofon por demonstrar a omni interessates, que Interlingue ne sona
 quam un lingue artificial e constructet, ma quam un lingue tot natural e
 simil al lingues national. E si vu studia un textu in Interlingue, vu va

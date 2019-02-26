@@ -13,7 +13,7 @@ endif::[]
 // This Asciidoctor version by Marcos Cruz (programandala.net) for
 // http://ne.alinome.net, 2019.
 
-// Last modified 201902270047
+// Last modified 201902270054
 
 :dot: .
 
@@ -2395,19 +2395,23 @@ homan*.
 -in:: Consistent de, provenient de: *argentin, alpin, matrin, svinin
 (svinine)*.
 
--iv (adjuntet al tema perfectic secun <<par80>>):: Actent talmen, capabil:
+-iv::
+Adjuntet al tema perfectic secun <<par80>>. Actent talmen, capabil:
 *decorativ, obligativ, consolativ, definitiv, constructiv, ofensiv
 (ofensive), directiv (directive), alternativ (alternative)*.
 
--ori (adjuntet al tema perfectic secun <<par80>>):: Destinat a, devent
+-ori::
+Adjuntet al tema perfectic secun <<par80>>. Destinat a, devent
 acter talmen (adjective de <<_or,*-or*>>): *decoratori, obligatori, consolatori,
 ilusori, preparatori, instructori*.
 
--ibil (verbes in *-ar*: *-abil*, cp. <<par85>>):: De verbes transitiv: quo on
+-ibil::
+Verbes in *-ar*: *-abil*, cp. <<par85>>. De verbes transitiv: quo on
 posse far; de verbes íntransitiv: quo posse far: *formabil, audibil,
 íncredibil, visibil, explosibil, combustibil (combustibile)*.
 
--nd (verbes in *-ir*: *-end*) (adjuntet al tema presentic):: A far: *leend,
+-nd::
+Verbes in *-ir*: *-end*. Adjuntet al tema presentic. A far: *leend,
 dividend (dividende)*.
 
 [[par141,§141]]§141. Mult paroles international contene *grec e latin afixes*:

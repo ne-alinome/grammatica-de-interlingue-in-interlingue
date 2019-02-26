@@ -13,32 +13,32 @@ endif::[]
 // This Asciidoctor version by Marcos Cruz (programandala.net) for
 // http://ne.alinome.net, 2019.
 
-// Last modified 201902262349
+// Last modified 201902270002
 
 :dot: .
 
-// Credites {{{1
-== Credites
+// Pri ti ci libre {{{1
+== Pri ti ci libre
 
-_Grammatica de Interlingue_
+Titul:: Grammatica de Interlingue
 
 Autor:: Dr. Fritz Haas.
 
 Edition original:: Interlingue-Servicie Winterthur, Svissia, 1956.
 
-Digitalisaton:: S. Belitzky.
+Digitalisation:: S. Belitzky.
 
 Adaptation a HTML 4.01:: Sebastian Hartwig, 2009.
 
-Conversion a Asciidoctor e ti ci edition quam libre digital:: Marcos
-Cruz, por http://ne.alinome.net[ne.alinome], 2019.
+Conversion a Asciidoctor, e ti ci edition quam libre digital:: Marcos
+Cruz, ye http://ne.alinome.net[ne.alinome.net], 2019.
 
 // Anteparol {{{1
 == Anteparol
 
 Ti grammatica es complet in li sens, que it contene omni essential
 regules usat in li textus de Cosmoglotta, li oficial organ del
-Interlingue Union, e in li Complet Cursu de Interlingue de A. Matejka.
+Interlingue Union, e in li _Complet Cursu de Interlingue_ de A. Matejka.
 In plu omni decisiones del Interlingue Academie es egardat.
 
 // XXX FIXED -- usar Idiotismes -> usar idiotismes

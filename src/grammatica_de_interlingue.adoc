@@ -13,7 +13,7 @@ endif::[]
 // This Asciidoctor version by Marcos Cruz (programandala.net) for
 // http://ne.alinome.net, 2019.
 
-// Last modified 201902270030
+// Last modified 201902270045
 
 :dot: .
 
@@ -237,7 +237,7 @@ Champagne, cognac.
 
 [[par8,§8]]§8. *Li accentu primari* sta sur li vocal ante li ultim consonant, ma
 ne sur li quar síllabes *bil, ic, im, ul*, queles porta li accentu al
-precedent síllab, mem si ti-ci es bil, ic, im, ul. Un simplic *s* e li
+precedent síllab, mem si ti-ci es *bil, ic, im, ul*. Un simplic *s* e li
 du síllabes *men* e *um* in li fine del parol ne changea li accentuation
 del precedent parol-parte. Si ti regules ne es aplicabil, on accentua li
 prim vocal del parol.
@@ -778,12 +778,14 @@ il es ci. It es tot egal, ca vu vide li tot munde o quelc partes de it.
 
 [[par56,§56]]§56. Li *númeres cardinal* es:
 
+// XXX FIXED -- niantnin -> ninantnin
+
 0 null 1 un 2 du 3 tri 4 quar 5 quin 6 six 7 sett 8 ott 9 nin 10 deci 11
 deciun 12 decidu 13 decitri 14 deciquar 15 deciquin ... 19 decinin 20
 duant 21 duantun 22 duantdu . .. 30 triant 40 quarant 50 quinant 60
 sixant ... 90 ninant ... 99 ninantnin 100 cent 101 cent un 102
 centdu... 110 centdeci 111 cent deciun ... 119 cent decinin 120 cent
-duant 121 cent duantun ... 130 cent triant ... 199 cent niantnin 200
+duant 121 cent duantun ... 130 cent triant ... 199 cent ninantnin 200
 ducent 201 ducent un ... 210 ducent deci 300 tricent ... 999 nincent
 ninantnin 1000 mill 1001 mill un ... 1099 mill ninantnin 1100 mill cent
 1101 mill cent un ... 1999 mill nincent ninantnin 2000 du mill 2001 du
@@ -1652,12 +1654,12 @@ préter::
 Ili passat préter li dom de mi patre.
 ====
 
-// XXX FIX -- "proxim/proxím"
+// XXX FIXED -- "proxím" -> "proxim" (in li exemple)
 
 proxim::
 +
 ====
-Il habitat proxím li cité.
+Il habitat proxim li cité.
 ====
 
 secun::
@@ -2317,7 +2319,7 @@ yunesse, delicatesse*.
 -eríe:: Profession e su productes (*-er* + *-ie*), metaforicmen anc maniere
 de acter, caractere: *vitreríe, potteríe, bigotteríe, diaboleríe*.
 
--ería:: Loc de profession (-er + -ia): *librería, juvelería, vitrería*.
+-ería:: Loc de profession (*-er* + *-ia*): *librería, juvelería, vitrería*.
 
 -iera:: Vast loc contenent alquo: *torfiera, pisciera, rosiera*.
 
@@ -2338,8 +2340,7 @@ ferrallia, canallia*.
 
 -age:: Colectives con órdine, coses fat de: *foliage, plumage, boscage,
 tonnage, plantage, lanage, linage*.
-
-de verbes: activitá, precipue industrial o professional, anc su
+De verbes: activitá, precipue industrial o professional, anc su
 resultate, loc o témpor, anc li custas por it: *rafinage, abordage,
 luage, viage, doanage*.
 
@@ -2453,8 +2454,10 @@ In nov-formationes it es recomendat ligar li du paroles per un strec
 ligativ. In compositiones ja international li du paroles multvez es
 ligat per un *o* o *i*.
 
+// XXX FIXED -- uníform -> uniform
+
 ====
-ferrovia, agricultura, uníform, li uniforme, aeroplan, electromotor.
+ferrovia, agricultura, uniform, li uniforme, aeroplan, electromotor.
 ====
 
 Pro simplicitá e plu grand comprensibilitá e claritá it recomenda se in

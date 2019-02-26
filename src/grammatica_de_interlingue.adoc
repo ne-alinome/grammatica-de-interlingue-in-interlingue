@@ -13,7 +13,7 @@ endif::[]
 // This Asciidoctor version by Marcos Cruz (programandala.net) for
 // http://ne.alinome.net, 2019.
 
-// Last modified 201902260002
+// Last modified 201902262319
 
 :dot: .
 
@@ -22,17 +22,16 @@ endif::[]
 
 _Grammatica de Interlingue_
 
-Autor: Dr. Fritz Haas.
+Autor:: Dr. Fritz Haas.
 
-Digitalisat de S. Belitzky (ex edition de Interlingue-Servicie
-Winterthur, Svissia, 1956).
+Edition original:: Interlingue-Servicie Winterthur, Svissia, 1956.
 
-Conversion a Asciidoctor, EPUB, PDF e ODT de Marcos Cruz por
-http://ne.alinome.net[ne.alinome], 2019.
+Digitalisaton:: S. Belitzky.
 
-ifdef::backend-pdf[]
-toc::[]
-endif::[]
+Adaptation a HTML 4.01:: Sebastian Hartwig, 2009.
+
+Conversion a Asciidoctor e ti ci edition quam libre digital:: Marcos
+Cruz, por http://ne.alinome.net[ne.alinome], 2019.
 
 // Anteparol {{{1
 == Anteparol

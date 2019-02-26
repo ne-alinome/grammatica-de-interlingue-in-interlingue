@@ -1,6 +1,6 @@
 = TO-DO of _Grammatica de Interlingue_
 :author: Marcos Cruz (programandala.net)
-:revdate: 2019-02-18
+:revdate: 2019-02-26
 
 - Homogenize examples in tables and in lists.
 - Update notation of money? E.g. "frs. 20.---" > "frs. 20".
@@ -20,3 +20,4 @@
   qui/tis queles).
 - Fix: "It anc es un fructe" -> "Anc it es un fructe".
 - Fix: "exceptet r o I".
+- Add the URL of the HTML version.

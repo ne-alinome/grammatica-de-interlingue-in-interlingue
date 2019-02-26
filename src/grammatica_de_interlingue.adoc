@@ -13,7 +13,7 @@ endif::[]
 // This Asciidoctor version by Marcos Cruz (programandala.net) for
 // http://ne.alinome.net, 2019.
 
-// Last modified 201902262347
+// Last modified 201902262349
 
 :dot: .
 
@@ -870,18 +870,11 @@ triesim radica de ott es du.
 [[par65,§65]]§65. In Interlingue existe *un sol* e *unitari conjugation* per
 adjuntion de cert consonantes al tema presentic.
 
-[[par66,§66]]§66. Li *tema presentic* es format per adjunter un del tri vocales
-
-// XXX TODO -- Simplifica, remove li tabele:
-
-[width="100%"]
-|===
-| a | i | e
-|===
-
 // XXX FIXED -- "al tema verbal (radica plus prefixes e sufixes)" ->
-// "al tema verbal"
+// "al tema verbal":
 
+[[par66,§66]]§66. Li *tema presentic* es format per adjunter un del tri vocales
+"a", "i", "e"
 al tema verbal. Ti vocal es
 caracteristic por chascun verb e resta ínvariabil in omni formes del
 conjugation.

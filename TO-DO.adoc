@@ -4,7 +4,6 @@
 
 - Homogenize examples in tables and in lists.
 - Update notation of money? E.g. "frs. 20.---" > "frs. 20".
-- Markup the EPUB files by dbtoepub/xsltproc with lang "ie".
 - Markup ordered lists that use alpha numbering.
 - Separate all para numbers from headings?
 - Add URL of the Belitzky's HTML version.
@@ -13,5 +12,6 @@
   tis queles ha laborat poc, recive li min grand fructes." (tis
   qui/tis queles).
 - Fix: "It anc es un fructe" -> "Anc it es un fructe".
-- Fix "Li pòríu".
+- Confirm "Li pòríu".
 - Confirm "Interlingue(-)Union" and "Interlingue(-)Academie".
+- Add version number and release.

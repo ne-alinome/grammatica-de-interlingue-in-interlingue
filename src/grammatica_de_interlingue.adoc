@@ -13,7 +13,7 @@ endif::[]
 // This Asciidoctor version by Marcos Cruz (programandala.net) for
 // http://ne.alinome.net, 2019.
 
-// Last modified 201902270045
+// Last modified 201902270047
 
 :dot: .
 
@@ -2242,7 +2242,7 @@ a) adjuntet al *tema perfectic* secun <<par80>>:
 -ion:: Action, anc resultat e loc de it: *administration, expedition,
 construction, distribution, explosion*.
 
--or:: Actent person, cose o factor: *administrator, expeditor,
+[[_or]]-or:: Actent person, cose o factor: *administrator, expeditor,
 distributor, constructor, ventilator, compressor, divisor*.
 
 -ura:: Concretisat action e su resultate: *reparatura, garnitura,
@@ -2400,7 +2400,7 @@ homan*.
 (ofensive), directiv (directive), alternativ (alternative)*.
 
 -ori (adjuntet al tema perfectic secun <<par80>>):: Destinat a, devent
-acter talmen (adjective de *-or*): *decoratori, obligatori, consolatori,
+acter talmen (adjective de <<_or,*-or*>>): *decoratori, obligatori, consolatori,
 ilusori, preparatori, instructori*.
 
 -ibil (verbes in *-ar*: *-abil*, cp. <<par85>>):: De verbes transitiv: quo on

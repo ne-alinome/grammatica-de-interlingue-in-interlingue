@@ -4,20 +4,14 @@
 
 - Homogenize examples in tables and in lists.
 - Update notation of money? E.g. "frs. 20.---" > "frs. 20".
-- Typo? "prefixial" -> "prefixal".
 - Markup the EPUB files by dbtoepub/xsltproc with lang "ie".
 - Markup ordered lists that use alpha numbering.
 - Separate all para numbers from headings?
-- Error?: "tema verbal (radica plus prefixes e sufixes)" -> "tema
-  verbal (radica)".
-- Add URL of the Belitzky's version.
+- Add URL of the Belitzky's HTML version.
 - Make URLs visible in links, for devices that don't follow them.
 - Improve notation of single letters in the pronunciation.
-- Fix: "pràctic, li práctíca, il práctica".
-- Fix: "il ínvìa".
 - Fix: "Tis qui ha laborat maxim mult, recive li maxim grand fructes;
   tis queles ha laborat poc, recive li min grand fructes." (tis
   qui/tis queles).
 - Fix: "It anc es un fructe" -> "Anc it es un fructe".
-- Fix: "exceptet r o I".
-- Add the URL of the HTML version.
+- Fix "Li pòríu".

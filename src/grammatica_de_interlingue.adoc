@@ -13,7 +13,7 @@ endif::[]
 // This Asciidoctor version by Marcos Cruz (programandala.net) for
 // http://ne.alinome.net, 2019.
 
-// Last modified 201902262319
+// Last modified 201902262347
 
 :dot: .
 
@@ -250,10 +250,14 @@ altri casus por garantir li desirat accentuation.
 In *parol-compositiones* (anc autonom paroles con prefixes) li principal
 parte seque ti regules, li altres posse reciver un accentu secundari.
 
+// XXX FIXED -- ínvìa -> invìa
+// XXX FIXED -- li práctíca -> li pràctica
+// XXX FIXED -- il práctica -> il pràctica
+
 ====
 Li pòríu(*), familie, àvie, doctòr, formàr, li formàt, li formàte,
 formànt; duràbil, elèctric, lògic, li lògica, li lògico, pràctic, li
-práctíca, il práctica, il ìndica, il èxplica, dùplic, il dùplica,
+práctica, il pràctica, il ìndica, il èxplica, dùplic, il dùplica,
 multìplic, il multìplica, centùplic, il centùplica, specìfic, il
 specìfica, felìci, ùltim, règul, hercùlic, li artìcul, il artìcula;
 mìnus, ìris, fòrmes, families, àvies, generàlmen, enèrgicmen, li
@@ -262,7 +266,7 @@ tùi, vìa, il tràe, it flùe; qualitá, heróe, li logí, il logía, li
 fúlmine, it fúlmina, li córpor, il incórpora, li dúbit, il dúbita;
 micro-còsmo, anglosaxònic, agricultùra, centimètre, postcàrte,
 manuscrìte, genú-articulation, unifòrm, li unifòrme, il unifòrma, il
-internationalìsa, ínpracticàbil, índubitàbilmen, li fèrro-vìa, il ínvìa,
+internationalìsa, ínpracticàbil, índubitàbilmen, li fèrro-vìa, il invìa,
 it inflùe, il subtràe, hodíe, il contradí, il retrovèni.
 ====
 
@@ -868,12 +872,17 @@ adjuntion de cert consonantes al tema presentic.
 
 [[par66,§66]]§66. Li *tema presentic* es format per adjunter un del tri vocales
 
+// XXX TODO -- Simplifica, remove li tabele:
+
 [width="100%"]
 |===
 | a | i | e
 |===
 
-al tema verbal (radica plus prefixes e sufixes). Ti vocal es
+// XXX FIXED -- "al tema verbal (radica plus prefixes e sufixes)" ->
+// "al tema verbal"
+
+al tema verbal. Ti vocal es
 caracteristic por chascun verb e resta ínvariabil in omni formes del
 conjugation.
 
@@ -2087,7 +2096,9 @@ portuari, portale; posta, posto.
 // Adjuntion de prefixes {{{2
 === Adjuntion de prefixes
 
-[[par127,§127]]§127. In mult international parolformationes li prefixes e prefixial
+// XXX FIXED -- prefixial -> prefixal
+
+[[par127,§127]]§127. In mult international parolformationes li prefixes e prefixal
 expressiones perdi su ultim consonant o assimila it al sequent
 consonant; in ti casu duplic consonantes es viceat secun <<par10>> per
 simplics, exceptet pos ín- (ma anc li altri ortografies es permisset).

@@ -2,7 +2,7 @@
 
 # By Marcos Cruz (programandala.net)
 
-# Last modified 201902211744
+# Last modified 201902270019
 # See change log at the end of the file
 
 # ==============================================================
@@ -11,6 +11,7 @@
 # - asciidoctor
 # - asciidoctor-pdf
 # - dbtoepub
+# - make
 # - pandoc
 # - xsltproc
 
@@ -33,7 +34,7 @@ description="Grammatica de Interlingue in Interlingue"
 all: epub odt pdf
 
 .PHONY: epub
-epub: epubd epubx
+epub: epubd
 
 .PHONY: epubd
 epubd: target/$(book).adoc.xml.dbtoepub.epub
@@ -58,7 +59,7 @@ pdfletter: target/$(book).adoc.letter.pdf
 
 .PHONY: clean
 clean:
-	rm -f target/* tmp/*
+	rm -fr target/* tmp/*
 
 # ----------------------------------------------
 # Development
@@ -127,6 +128,9 @@ target/$(book).adoc.xml.pandoc.epub: \
 # ------------------------------------------------
 # With xsltproc
 
+# Deactivated by default: Its result is identical to that of dbtoepub, which is
+# a layer on it.
+
 target/%.adoc.xml.xsltproc.epub: tmp/%.adoc.xml
 	rm -fr tmp/xsltproc/* && \
 	xsltproc \
@@ -177,3 +181,5 @@ target/$(book).adoc.xml.pandoc.odt: \
 #
 # 2019-02-21: Fix: set `lang` variable. Fix metadata parameters in pandoc
 # commands.
+#
+# 2019-02-27: Don't use xsltproc by default.

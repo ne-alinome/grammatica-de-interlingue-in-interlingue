@@ -1,5 +1,6 @@
 = Grammatica de Interlingue
 :author: Dr. Fritz Haas
+:revnumber: 0.1.0-pre.0+20190306
 :description: Grammatica de Interlingue in Interlingue
 :lang: ie
 :docinfo: private
@@ -13,12 +14,12 @@ endif::[]
 // This Asciidoctor version by Marcos Cruz (programandala.net) for
 // http://ne.alinome.net, 2019.
 
-// Last modified 201902270054
+// Last modified 201903060040
 
 :dot: .
 
-// Pri ti ci libre {{{1
-== Pri ti ci libre
+// Pri ti libre {{{1
+== Pri ti libre
 
 Titul:: Grammatica de Interlingue
 
@@ -28,10 +29,15 @@ Edition original:: Interlingue-Servicie Winterthur, Svissia, 1956.
 
 Digitalisation:: S. Belitzky.
 
-Adaptation a HTML 4.01:: Sebastian Hartwig, 2009.
+Adaptation a HTML 4.01:: Sebastian Hartwig, 2009. Obtenibil in
+http://interlingue.narod.ru/interlingue.narod.ru] e
+http://ie-munde.com[ie-munde.com].
 
-Conversion a Asciidoctor, e ti ci edition quam libre digital:: Marcos
-Cruz, ye http://ne.alinome.net[ne.alinome.net], 2019.
+Conversion a Asciidoctor, e edition quam libre digital:: Marcos Cruz,
+2019{dot} Obtenibil in http://ne.alinome.net[ne.alinome.net] ye
+formates EPUB, PDF e altris.
+
+Version of this edition:: {revnumber}.
 
 // Anteparol {{{1
 == Anteparol
@@ -1123,6 +1129,9 @@ in omni altri casus li rest self es li tema perfectic.
 |===
 
 // XXX FIXED -- "ye li verbes" -> "e che li verbes":
+
+// XXX TODO -- Copy the explanation about the verb stems into the individual
+// entries:
 
 On posse anc dir, que li sufixes: *-ion, -or, -ori, -iv* e *-ura* es adjuntet
 che li verbes con *ar* e *ir* al participie passat, e che li verbes con
@@ -2255,7 +2264,7 @@ b) adjuntet al *tema presentic* secun <<par84>>:
 
 c) adjuntet al *radica verbal* secun <<par85>>:
 
--ida (verbes in *-ar*: -*ada*):: Action in durada: *promenada, perdida,
+-ida (verbes in *-ar*: *-ada*):: Action in durada: *promenada, perdida,
 currida*.
 
 d) adjuntet al *participie presentic* secun <<par82>>:

@@ -1,6 +1,6 @@
 = Grammatica de Interlingue
 :author: Dr. Fritz Haas
-:revnumber: 0.1.0-pre.0+20190306
+:revnumber: 0.1.0-pre.1+20190307
 :description: Grammatica de Interlingue in Interlingue
 :lang: ie
 :docinfo: private
@@ -14,7 +14,7 @@ endif::[]
 // This Asciidoctor version by Marcos Cruz (programandala.net) for
 // http://ne.alinome.net, 2019.
 
-// Last modified 201903060040
+// Last modified 201903070025
 
 :dot: .
 
@@ -30,7 +30,7 @@ Edition original:: Interlingue-Servicie Winterthur, Svissia, 1956.
 Digitalisation:: S. Belitzky.
 
 Adaptation a HTML 4.01:: Sebastian Hartwig, 2009. Obtenibil in
-http://interlingue.narod.ru/interlingue.narod.ru] e
+http://interlingue.narod.ru[interlingue.narod.ru] e
 http://ie-munde.com[ie-munde.com].
 
 Conversion a Asciidoctor, e edition quam libre digital:: Marcos Cruz,
@@ -2041,12 +2041,17 @@ in li fine del frase, ne anc in li comensa.)
 [[par125,§125]]§125. Li adjuntion de desinenties es ja tractat in li concernent
 paragrafes del grammatica:
 
-1. *Desinenties substantivic: -e* (<<par22>>, <<par30>>, <<par87>>)
-* *-a* (<<par24>>, <<par30>>, <<par87>>)
-* *-o* (<<par24>>, <<par30>>)
-* *-u* (<<par25>>) *-um* (<<par31>>)
-2. *Desinenties adjectivic: -i* (<<par29>>).
-3. *Desinenties adverbial: -e* (<<par74>>) *-men* (<<par90>>).
+1. Desinenties substantivic:
+* *-e* (<<par22>>, <<par30>>, <<par87>>).
+* *-a* (<<par24>>, <<par30>>, <<par87>>).
+* *-o* (<<par24>>, <<par30>>).
+* *-u* (<<par25>>).
+* *-um* (<<par31>>).
+2. Desinentie adjectivic:
+* *-i* (<<par29>>).
+3. Desinenties adverbial:
+* *-e* (<<par74>>).
+* *-men* (<<par90>>).
 
 [[par126,§126]]§126. Ti desinenties es un consequentie del *caracterisant vocales
 final* de Interlingue:

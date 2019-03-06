@@ -1,6 +1,6 @@
 = Grammatica de Interlingue
 :author: Dr. Fritz Haas
-:revnumber: 0.1.0-pre.1+20190307
+:revnumber: 0.1.0-pre.2+20190307
 :description: Grammatica de Interlingue in Interlingue
 :lang: ie
 :docinfo: private
@@ -37,7 +37,7 @@ Conversion a Asciidoctor, e edition quam libre digital:: Marcos Cruz,
 2019{dot} Obtenibil in http://ne.alinome.net[ne.alinome.net] ye
 formates EPUB, PDF e altris.
 
-Version of this edition:: {revnumber}.
+Version de ti edition:: {revnumber}.
 
 // Anteparol {{{1
 == Anteparol

@@ -1,6 +1,6 @@
 = Grammatica de Interlingue
 :author: Dr. Fritz Haas
-:revnumber: 0.1.0-pre.2+20190307
+:revnumber: 0.1.0-pre.3+20190307
 :description: Grammatica de Interlingue in Interlingue
 :lang: ie
 :docinfo: private
@@ -14,7 +14,7 @@ endif::[]
 // This Asciidoctor version by Marcos Cruz (programandala.net) for
 // http://ne.alinome.net, 2019.
 
-// Last modified 201903070025
+// Last modified 201903071953
 
 :dot: .
 
@@ -33,11 +33,20 @@ Adaptation a HTML 4.01:: Sebastian Hartwig, 2009. Obtenibil in
 http://interlingue.narod.ru[interlingue.narod.ru] e
 http://ie-munde.com[ie-munde.com].
 
-Conversion a Asciidoctor, e edition quam libre digital:: Marcos Cruz,
-2019{dot} Obtenibil in http://ne.alinome.net[ne.alinome.net] ye
-formates EPUB, PDF e altris.
+Conversion a Asciidoctor, revision, e edition quam libre digital::
+Marcos Cruz, 2019{dot} Obtenibil in
+http://ne.alinome.net[ne.alinome.net] ye formates EPUB, PDF e altris.
+
+Principal changes fat in ti edition::
+
+- Omni trovat erras ha esset corectet.
+- Tabelles, listes e altri partes ha esset modificat por ameliorar lor
+  leibilitá in omni formates.
 
 Version de ti edition:: {revnumber}.
+
+Contributiones:: Corectiones e suggestiones por sequent versiones es
+benevenit che http://ne.alinome.net[ne.alinome.net].
 
 // Anteparol {{{1
 == Anteparol

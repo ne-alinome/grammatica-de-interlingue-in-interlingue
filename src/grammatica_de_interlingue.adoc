@@ -1,6 +1,6 @@
 = Grammatica de Interlingue
 :author: Dr. Fritz Haas
-:revnumber: 0.1.0-pre.7+20190307
+:revnumber: 0.1.0-pre.8+20190307
 :description: Grammatica de Interlingue in Interlingue
 :lang: ie
 :docinfo: private
@@ -14,7 +14,7 @@ endif::[]
 // This Asciidoctor version by Marcos Cruz (programandala.net) for
 // http://ne.alinome.net, 2019.
 
-// Last modified 201903072301
+// Last modified 201903072329
 
 :dot: .
 
@@ -154,7 +154,7 @@ del <<par4>> quam recomendation, ma ne quam regul strict o complet.
 // XXX FIXED -- "r o I" -> "r o l"
 
 [[par4,§4]]§4. In general *vocales accentuat* es passabilmen *long*; ma avan *c
-final*, *ch, *x*, o avan pluri consonantes (exceptet *r* o *l* con precedent
+final*, *ch*, *x*, o avan pluri consonantes (exceptet *r* o *l* con precedent
 diferent consonant), e in li curt grammatical paroles ili es *curt*.
 *Vocales ínaccentuat* es plu o min *curt*.
 

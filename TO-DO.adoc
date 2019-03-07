@@ -1,6 +1,6 @@
 = TO-DO of _Grammatica de Interlingue_
 :author: Marcos Cruz (programandala.net)
-:revdate: 2019-02-26
+:revdate: 2019-03-07
 
 - Homogenize examples in tables and in lists.
 - Update notation of money? E.g. "frs. 20.---" > "frs. 20".
@@ -13,6 +13,7 @@
   qui/tis queles).
 - Fix: "It anc es un fructe" -> "Anc it es un fructe".
 - Confirm "Li pòríu".
-- Add version number and release.
 - Consult: "for" is mentioned in "ab-" and as an interjection, but
   it's not included in the prepositions.
+- Notation: "-er-" and "-ist": "-ist-"?
+- Separate the alphabet.

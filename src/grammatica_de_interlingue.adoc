@@ -1,6 +1,6 @@
 = Grammatica de Interlingue
 :author: Dr. Fritz Haas
-:revnumber: 0.1.0-pre.3+20190307
+:revnumber: 0.1.0-pre.4+20190307
 :description: Grammatica de Interlingue in Interlingue
 :lang: ie
 :docinfo: private
@@ -14,7 +14,7 @@ endif::[]
 // This Asciidoctor version by Marcos Cruz (programandala.net) for
 // http://ne.alinome.net, 2019.
 
-// Last modified 201903071953
+// Last modified 201903071958
 
 :dot: .
 
@@ -25,7 +25,7 @@ Titul:: Grammatica de Interlingue
 
 Autor:: Dr. Fritz Haas.
 
-Edition original:: Interlingue-Servicie Winterthur, Svissia, 1956.
+Edition original:: Interlingue-Servicie, Winterthur, Svissia, 1956.
 
 Digitalisation:: S. Belitzky.
 
@@ -75,7 +75,7 @@ vale anc in Interlingue.
 On posse dunc dir sin exageration, que Interlingue es mult plu facil
 quam li precedent projectes de lingue international e íncomparabilmen
 plu simplic quam omni lingues national, mem in simplificat form. To vale
-ne solmen por li comprension, ma anc por li aprensíon e specialmen anc
+ne solmen por li comprension, ma anc por li aprension e specialmen anc
 por li aplication del lingue.
 
 Winterthur (Svissia), octobre 1956.
@@ -122,7 +122,7 @@ consonantic, altriloc vocalic.
 *y vocalic* es pronunciat quam Interlingue *i: physica*.
 
 De du o pluri *vocales succedent* chascun es pronunciat. Inaccentuat *i*
-e *u* avan vocales e in li combinationes *au* e *eu* (*u* anc li *a* e
+e *u* avan vocales e in li combinationes *au* e *eu* (u anc li *a* e
 li *e* es curt) es tre curt, presc consonantic, e ne posse formar propri
 síllabes.
 
@@ -140,7 +140,7 @@ del <<par4>> quam recomendation, ma ne quam regul strict o complet.
 // XXX FIXED -- "r o I" -> "r o l"
 
 [[par4,§4]]§4. In general *vocales accentuat* es passabilmen *long*; ma avan *c
-final*, *ch, *x*, o avan pluri consonantes (exceptet r o l con precedent
+final*, *ch, *x*, o avan pluri consonantes (exceptet *r* o *l* con precedent
 diferent consonant), e in li curt grammatical paroles ili es *curt*.
 *Vocales ínaccentuat* es plu o min *curt*.
 
@@ -184,7 +184,7 @@ guvernar, grisi, suggestion, magnific*.
 *j* quam F, A: vision, G: dulci sch quam Journal, dunc quam
 Interlingue g avan e. *jurnalist, manjar, jokey*.
 
-*k e kh* quam c dur. *kilogramm, Khedive*.
+*k* e *kh* quam c dur. *kilogramm, Khedive*.
 
 *ph* quam f (in grec paroles).  *telephon*.
 

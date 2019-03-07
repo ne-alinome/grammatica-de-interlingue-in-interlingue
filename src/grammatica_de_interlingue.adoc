@@ -1,6 +1,6 @@
 = Grammatica de Interlingue
 :author: Dr. Fritz Haas
-:revnumber: 0.1.0-pre.4+20190307
+:revnumber: 0.1.0-pre.5+20190307
 :description: Grammatica de Interlingue in Interlingue
 :lang: ie
 :docinfo: private
@@ -14,14 +14,14 @@ endif::[]
 // This Asciidoctor version by Marcos Cruz (programandala.net) for
 // http://ne.alinome.net, 2019.
 
-// Last modified 201903071958
+// Last modified 201903072236
 
 :dot: .
 
 // Pri ti libre {{{1
 == Pri ti libre
 
-Titul:: Grammatica de Interlingue
+Titul:: Grammatica de Interlingue.
 
 Autor:: Dr. Fritz Haas.
 
@@ -37,11 +37,23 @@ Conversion a Asciidoctor, revision, e edition quam libre digital::
 Marcos Cruz, 2019{dot} Obtenibil in
 http://ne.alinome.net[ne.alinome.net] ye formates EPUB, PDF e altris.
 
-Principal changes fat in ti edition::
+Principal changes in ti edition::
+- Corection de omni trovat erras.
+- Amelioration del leibilitá por omni formates, precipue de tabelles e
+  listes.
+- Creation de intern ligamentes.
 
-- Omni trovat erras ha esset corectet.
-- Tabelles, listes e altri partes ha esset modificat por ameliorar lor
-  leibilitá in omni formates.
+Edition fat solmen per líber programas:: 
+http://debian.org[Debian],
+http://vim.org[Vim],
+http://asciidoctor.org[Asciidoctor],
+https://github.com/asciidoctor/asciidoctor-pdf[asciidoctor-pdf],
+http://pandoc.org[pandoc],
+dbtoepub,
+http://xmlsoft.org/XSLT/[xsltproc],
+make,
+http://git-scm.com/[Git],
+http://http://jonas.nitro.dk/tig[Tig]...
 
 Version de ti edition:: {revnumber}.
 
@@ -684,7 +696,7 @@ quant yer.
 ====
 
 [[par47,§47]]§47. Li *neutri form* por coses e factes es: *to*, respondent al
-question: *quo*, de quel on forma: to-ci e to-ta.
+question: *quo*, de quel on forma: *to-ci* e *to-ta*.
 
 ====
 To es mi libre. Yo save to (li facte, que to es tui libre).
@@ -773,7 +785,7 @@ fa, e in qualcunc maniere e por quicunc, ples far it bon! A quicunc tu
 da li moné, da it solmen contra quittantie.
 ====
 
-[[par55,§55]]§55. Altri *pronómines índefinit es*:
+[[par55,§55]]§55. Altri *pronómines índefinit* es:
 
 On, self, li sam, quelc, null, chascun, omni, omnicos, ambi, altri,
 altricos, céteri, pluri, mult, poc, un poc, cert, un cert, mani, singul,
@@ -819,7 +831,7 @@ million 1{nbsp}000{nbsp}001 un million un ... 2{nbsp}000{nbsp}000 du milliones .
 - 1{nbsp}000{nbsp}000^4^ = un million trilliones = un quadrillion
 
 [[par57,§57]]§57. Li *númeres ordinal* es format per adjunter li finale
-*-esim*: unesim* (apu *prim*), *duesim* (apu *secund*), *triesim*, etc.
+*-esim*: *unesim* (apu *prim*), *duesim* (apu *secund*), *triesim*, etc.
 
 [[par58,§58]]§58. Li *númeres fractionari* es egal al ordinales, ma ordinarimen
 on vicea li unesim quar per: un *tot*, un *demí, un ters*, un *quart*.
@@ -1191,9 +1203,9 @@ international formes:
 [[par81,§81]]§81. Che li tri verbes: *far, dir, scrir* on posse formar li derivates
 per li complet radicas: *fact, dict, script*.
 
-// XXX FIXED -- "consonantgruppe -nct-" -> "consonantgruppe -ct-":
+// XXX FIXED -- "consonantgruppe -nct-" -> "consonant-gruppe -ct-":
 
-Che li verbes con li consonantgruppe *-ct-* on posse omisser li *c*,
+Che li verbes con li consonant-gruppe *-ct-* on posse omisser li *c*,
 precipue in nederivat formes.
 
 ====

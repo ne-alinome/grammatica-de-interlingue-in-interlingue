@@ -1,6 +1,6 @@
 = Grammatica de Interlingue
 :author: Dr. Fritz Haas
-:revnumber: 0.1.0-pre.6+20190307
+:revnumber: 0.1.0-pre.7+20190307
 :description: Grammatica de Interlingue in Interlingue
 :lang: ie
 :docinfo: private
@@ -14,7 +14,7 @@ endif::[]
 // This Asciidoctor version by Marcos Cruz (programandala.net) for
 // http://ne.alinome.net, 2019.
 
-// Last modified 201903072259
+// Last modified 201903072301
 
 :dot: .
 
@@ -102,10 +102,10 @@ lingue self, por evitar li politic aspecte del nómine
 // Alfabet {{{1
 == Alfabet
 
-[[par1,§1]]§1. Interlingue es scrit per 26 *lítteres latin:
+[[par1,§1]]§1. Interlingue es scrit per 26 *lítteres latin*:
 
 a, b, c, d, e, f, g, h, i, j, k, I, m, n, o, p, q, r, s, t, u, v, w,
-x, y, z*.
+x, y, z.
 
 [[par2,§2]]§2. Li alfabet es *pronunciat*:
 

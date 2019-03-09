@@ -1,44 +1,136 @@
 = Grammatica de Interlingue
 :author: Marcos Cruz (programandala.net)
-:revdate: 2019-02-18
+:revdate: 2019-03-09
+:toc:
+:toc-levels: 2
+:toc-title: Contents/Contenete/Enhavo
+
+// This file is part of the project
+// _Grammatica de Interlingue_
+// (http://ne.alinome.net)
+//
+// By Marcos Cruz (programandala.net)
 
 == English
 
-Goal of this project:: Make an EPUB version of _Grammatica de
-Interlingue_ by Dr. F. Haas, digitalizaded by S.  Belitzky out of the
-edition of Interlingue-Servicie Winterthur (Suiza), 1956.
+=== About this project
 
-Author:: Marcos Cruz (programandala.net).
+Goal:: Make a e-book (in EPUB and other formats) of _Grammatica de
+Interlingue_ by Dr. F. Haas, digitalizaded by S.  Belitzky out of the
+edition of Interlingue-Servicie, Winterthur (Switzerland), 1956
+
+Author:: Marcos Cruz (programandala.net), 2019.
 
 Website:: http://ne.alinome.net.
 
-== Español
+=== How to build the book
 
-Objetivo de este proyecto:: Crear un versión en formato EPUB de
-_Grammatica de Interlingue_, de Dr. F. Haas, digitalizado por S.
-Belitzky de la edición de Interlingue-Servicie Winterthur (Suiza),
-1956.
+If you cannot wait the release of the next version, you can build the
+book files yourself.
 
-Autor:: Marcos Cruz (programandala.net).
+First, make sure the programs listed under the "Requirements" section
+of the <Makefile> file are installed in your system.
 
-Sede:: http://ne.alinome.net.
+Then enter the project's directory and give the `make` command as
+follows:
 
-== Esperanto
+|===
+| Command             | Effect
 
-Celo de ĉi projekto:: Krei EPUB-formatan bitlibron el _Grammatica de
-Interlingue_, de Dr. F. Haas, bitigita de S.  Belitzky el la eldono de
-Interlingue-Servicie Winterthur (Suiza), 1956.
+| make                | Build all formats and variants
+| make all            | Build all formats and variants
+| make epub           | Build the EPUB format (most variants)
+| make epubd          | Build the EPUB format with dbtoepub
+| make epubp          | Build the EPUB format with pandoc
+| make epubx          | Build the EPUB format with xsltproc
+| make odt            | Build the OpenDocument format
+| make pdf            | Build the PDF format (both sizes)
+| make pdfa4          | Build the DIN A4 size PDF format
+| make pdfl           | Build the letter size PDF format
+| make xml            | Build the DocBook format
+|===
 
-Aŭtoro:: Marcos Cruz (programandala.net).
-
-Retpaĝaro:: http://ne.alinome.net.
+The documents are built in the <target> directory.
 
 == Interlingue
 
-Scope de ti projecte:: Crear un EPUB-libre de _Grammatica de
-Interlingue_, de Dr. F. Haas, digitalizita de S.  Belitzky ex li
-edition de Interlingue-Servicie Winterthur (Suiza), 1956.
+=== Pri ti projecte
 
-Autor:: Marcos Cruz (programandala.net).
+Scope:: Crear un libre digital (in EPUB e altri formates) de
+_Grammatica de Interlingue_, de Dr. F. Haas, digitalizita de S.
+Belitzky ex li edition de Interlingue-Servicie, Winterthur (Svissia),
+1956.
 
-Loc web:: http://ne.alinome.net.
+Autor:: Marcos Cruz (programandala.net), 2019.
+
+Web-loc:: http://ne.alinome.net.
+
+=== Qualmen constructer li libre
+
+Si vu ne posse atender li liberation de li sequente version, vu self
+posse constructer li libre-documentes.
+
+In prim, ples confirmar que li programes listat in li section
+"Requirements" (besones) del document <Makefile> es installat in vor
+sistema.
+
+Tande ples intrar li documentiere del projecte e comandar `make` secun
+ti exemples:
+
+|===
+| Comande             | Efecte
+
+| make                | Constructer omni formates e variantes
+| make all            | Constructer omni formates e variantes
+| make epub           | Constructer li formate EPUB (max mult variantes)
+| make epub1d         | Constructer li formate EPUB per dbtoepub
+| make epub1p         | Constructer li formate EPUB per pandoc
+| make epub1x         | Constructer li formate EPUB per xsltproc
+| make odt            | Constructer li formate OpenDocument
+| make pdf            | Constructer li formate PDF (ambi grandores)
+| make pdfa4          | Constructer li formate PDF ye grandore DIN A4
+| make pdfl           | Constructer li formate PDF ye grandore "letter"
+| make xml            | Constructer li formate DocBook
+|===
+
+Li documentes es creat in li documentiere <target> (scope).
+
+== Esperanto
+
+=== Pri ĉi projekto
+
+Celo:: Krei bitlibron (EPUB-an kaj ali-formatan) el _Grammatica de
+Interlingue_, de Dr. F. Haas, bitigita de S.  Belitzky el la eldono de
+Interlingue-Servicie, Winterthur (Svislando), 1956.
+
+Aŭtoro:: Marcos Cruz (programandala.net), 2019.
+
+Retpaĝaro:: http://ne.alinome.net.
+
+=== Kiel konstrui la libron
+
+Se vi ne povas atendi la publikigon de la venonta versio, vi mem povas
+konstrui la libro-dosierojn.
+
+Unue, certiĝu ke la programoj enlistigitaj en la fako "Requirements"
+(necesaĵoj) de la dosiero <Makefile> estas instalitaj en via sistemo.
+
+Poste eniru la dosierujon de la projekto kaj uzu la ordonon `make`
+jene:
+
+|===
+| Ordono              | Efiko
+
+| make                | Konstrui ĉiujn formatojn kaj variantojn
+| make all            | Konstrui ĉiujn formatojn kaj variantojn
+| make epub           | Konstrui la formaton EPUB (plej multajn variantojn)
+| make epubd          | Konstrui la formaton EPUB per dbtoepub
+| make epubp          | Konstrui la formaton EPUB per pandoc
+| make epubx          | Konstrui la formaton EPUB per xsltproc
+| make pdf            | Konstrui la formaton PDF (ambaŭ grandojn)
+| make pdfa4          | Konstrui la formaton PDF je grando DIN A4
+| make pdfl           | Konstrui la formaton PDF je grando "letter"
+| make xml            | Konstrui la formaton DocBook
+|===
+
+La dosieroj estos kreitaj en la dosierujo <target> (celo).

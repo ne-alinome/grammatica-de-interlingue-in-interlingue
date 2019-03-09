@@ -2,7 +2,7 @@
 
 # By Marcos Cruz (programandala.net)
 
-# Last modified 201902270024
+# Last modified 201903091726
 # See change log at the end of the file
 
 # ==============================================================
@@ -34,7 +34,7 @@ description="Grammatica de Interlingue in Interlingue"
 all: epub odt pdf
 
 .PHONY: epub
-epub: epubd
+epub: epubd epubp epubx
 
 .PHONY: epubd
 epubd: target/$(book).adoc.xml.dbtoepub.epub
@@ -185,3 +185,6 @@ target/$(book).adoc.xml.pandoc.odt: \
 #
 # 2019-02-27: Don't use xsltproc by default. Make clean recursive. Consider
 # DocBook a target, not an intermediate step.
+#
+# 2019-03-09: Build all EPUB variants by default. This makes instructions
+# clearer.

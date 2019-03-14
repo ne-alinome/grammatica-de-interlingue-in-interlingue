@@ -5,8 +5,8 @@
 - Homogenize examples in tables and in lists.
 - Update notation of money? E.g. "frs. 20.---" > "frs. 20".
 - Markup ordered lists that use alpha numbering.
-- Separate all para numbers from headings?
-- Add URL of the Belitzky's HTML version.
+- Separate all paragraph numbers from headings?
+- Add URL of the Belitzky's version.
 - Improve notation of single letters in the pronunciation.
 - Fix: "Tis qui ha laborat maxim mult, recive li maxim grand fructes;
   tis queles ha laborat poc, recive li min grand fructes." (tis

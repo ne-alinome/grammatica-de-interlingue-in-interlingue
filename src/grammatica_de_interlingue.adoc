@@ -1,6 +1,6 @@
 = Grammatica de Interlingue
 :author: Dr. Fritz Haas
-:revnumber: 0.1.0-pre.10+20190320
+:revnumber: 0.1.0-pre.11+20190320
 :version-label: Version de edition digital
 :description: Grammatica de Interlingue in Interlingue
 :lang: ie
@@ -15,7 +15,7 @@ endif::[]
 // This Asciidoctor version by Marcos Cruz (programandala.net) for
 // http://ne.alinome.net, 2019.
 
-// Last modified 201903201610
+// Last modified 201903201644
 
 :dot: .
 
@@ -2697,9 +2697,8 @@ vocabul**a**rium de Interl**i**ngue es facil**i**ssim e repres**e**nta
 // Li lingue vermen international {{{1
 == Li lingue vermen international
 
-Textu de un disco de grammofon recivibil del Interlingue-Centrale:
-
-____
+.Textu de un disco de grammofon recivibil del Interlingue-Centrale
+--
 
 Car auditores!
 
@@ -2765,4 +2764,4 @@ del munde con relationes international. E proque nequí va serchar
 paroles plu international quam li paroles international self, nequí va
 far un proposition por un nov projecte de lingue international, pos li
 seriosi studie de Interlingue li sol lingue vermen international.
-____
+--

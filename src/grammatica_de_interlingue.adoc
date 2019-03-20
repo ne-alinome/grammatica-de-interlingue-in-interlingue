@@ -1,6 +1,6 @@
 = Grammatica de Interlingue
 :author: Dr. Fritz Haas
-:revnumber: 0.1.0-pre.12+20190320
+:revnumber: 0.1.0-pre.13+20190320
 :version-label: Version de edition digital
 :description: Grammatica de Interlingue in Interlingue
 :lang: ie
@@ -15,7 +15,7 @@ endif::[]
 // This Asciidoctor version by Marcos Cruz (programandala.net) for
 // http://ne.alinome.net, 2019.
 
-// Last modified 201903201739
+// Last modified 201903201836
 
 :dot: .
 
@@ -957,7 +957,7 @@ du ters, tri quart, quar quinesim, etc.
 - 0,25 = null comma du quin.
 
 [[par60,§60]]§60. Li *numerales multiplicativ* es format per adjunter li finale
-*-uplic* (pos vocales: -plic):
+*-uplic* (pos vocales: *-plic*):
 
 ====
 unuplic (simplic), duplic, triplic, quaruplic (quadruplic), quinuplic
@@ -2343,10 +2343,10 @@ saltettar*.
 // Verbal sufixes {{{3
 ==== Verbal sufixes
 
-[[par134,§134]]§134. *Finale -ar*. Omni modern formationes de verbes fini per -ar, ne
-per -ir e ne per -er. Li maxim mult verbes es derivat de altri paroles
-per li *ínmediat derivation*, to es per adjunter li finale del
-infinitive *-ar*, sin sufix.
+[[par134,§134]]§134. *Finale -ar*. Omni modern formationes de verbes
+fini per *-ar*, ne per *-ir* e ne per *-er*. Li maxim mult verbes es
+derivat de altri paroles per li *ínmediat derivation*, to es per
+adjunter li finale del infinitive *-ar*, sin sufix.
 
 Ti verbes derivat have divers significationes:
 

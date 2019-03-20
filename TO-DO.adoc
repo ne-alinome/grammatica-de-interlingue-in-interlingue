@@ -1,6 +1,6 @@
 = TO-DO of _Grammatica de Interlingue_
 :author: Marcos Cruz (programandala.net)
-:revdate: 2019-03-07
+:revdate: 2019-03-20
 
 - Homogenize examples in tables and in lists.
 - Update notation of money? E.g. "frs. 20.---" > "frs. 20".
@@ -21,5 +21,3 @@
 - Improve notation of "y" vocalic/consonantic.
 - Quote words mentioned in the text, e.g. "vice tu", "except yo e tu",
   etc.
-- Change "von Wahl" "de Wahl", which is the commonly used form, also
-  in the rest of the book.

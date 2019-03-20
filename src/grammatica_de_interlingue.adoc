@@ -1,6 +1,6 @@
 = Grammatica de Interlingue
 :author: Dr. Fritz Haas
-:revnumber: 0.1.0-pre.11+20190320
+:revnumber: 0.1.0-pre.12+20190320
 :version-label: Version de edition digital
 :description: Grammatica de Interlingue in Interlingue
 :lang: ie
@@ -15,7 +15,7 @@ endif::[]
 // This Asciidoctor version by Marcos Cruz (programandala.net) for
 // http://ne.alinome.net, 2019.
 
-// Last modified 201903201644
+// Last modified 201903201739
 
 :dot: .
 
@@ -95,8 +95,8 @@ Winterthur (Svissia), octobre 1956.
 
 Dr. phil. Fritz Haas
 
-Li nómine *Occidental* del lingue international creat de *Edgar von
-Wahl* esset 1949 viceat per li nómine *Interlingue*, sin changear li
+Li nómine *Occidental* del lingue international creat de Edgar de
+Wahl esset 1949 viceat per li nómine *Interlingue*, sin changear li
 lingue self, por evitar li politic aspecte del nómine
 “Occidental-Union”.
 
@@ -1231,7 +1231,7 @@ per artificial constructiones.
 
 // XXX FIXED -- "internàtional radicas" -> "international radicas"
 
-Al creator de Interlingue, *Prof. Edgar de Wahl*, reveni li merite, har
+Al creator de Interlingue, Prof. Edgar de Wahl, reveni li merite, har
 decovrit quelc simplic regules por formar ti paroles internationalmen
 conosset per adjunter international finales a international radicas.
 
@@ -2747,7 +2747,7 @@ Pro to Edgar de Wahl, professor in Tallinn, Estonia, separat se del
 lingue-projectes artificial e serchat li solution del problema in un
 altri direction. Il studiat denov li lingues national self, e serchat li
 paroles e li regules grammatical ja existent in li maxim mult lingues
-cultural. Per li decovrition del talnominat “Regul de Wahl” il
+cultural. Per li decovrition del talnominat "`Regul de Wahl`" il
 regularisat milles de extrem frequent paroles, queles li precedent
 projectes de lingue international devet excluder e vicear per artificial
 parol-constructiones. Ti Regul de Wahl es li miraculosi clave al sol

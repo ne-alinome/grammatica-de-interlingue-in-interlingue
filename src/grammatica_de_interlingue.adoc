@@ -1,7 +1,7 @@
 = Grammatica de Interlingue
 :author: Dr. Fritz Haas
-:revnumber: 0.1.0-pre.13+20190320
-:version-label: Version de edition digital
+:revnumber: 0.1.0-pre.14+20190321
+:version-label: Version de ti edition digital:
 :description: Grammatica de Interlingue in Interlingue
 :lang: ie
 :docinfo: private
@@ -15,7 +15,7 @@ endif::[]
 // This Asciidoctor version by Marcos Cruz (programandala.net) for
 // http://ne.alinome.net, 2019.
 
-// Last modified 201903201836
+// Last modified 201903210039
 
 :dot: .
 
@@ -40,11 +40,11 @@ http://ne.alinome.net[ne.alinome.net] ye formates EPUB, PDF e altris.
 
 Principal changes in ti edition::
 - Corection de omni trovat erras.
-- Amelioration del leibilitá por omni formates, precipue de tabelles e
-  listes.
+- Amelioration del leibilitá, precipue de tabelles e listes, por omni
+  formates.
 - Creation de intern ligamentes.
 
-Edition fat solmen per líber programas:: 
+Libre digital fat solmen per líber programas:: 
 http://asciidoctor.org[Asciidoctor],
 https://github.com/asciidoctor/asciidoctor-pdf[asciidoctor-pdf],
 dbtoepub,
@@ -73,9 +73,9 @@ In plu omni decisiones del Interlingue-Academie es egardat.
 
 In contrast a omni lingues national, on posse dir de Interlingue: Qui
 aplica li regules de ti grammatica e usa li adequat paroles, parla e
-scri Interlingue corectmen. Il ne deve timer audir: Yes, on ne trova un
+scri Interlingue corectmen. Il ne deve timer audir: "`Yes, on ne trova un
 erra grammatical in vor lettre, ma null anglese vell expresser su pensas
-per ti paroles o per ti frase-constructiones! E to constitue li grand
+per ti paroles o per ti frase-constructiones!`" E to constitue li grand
 facilitá de Interlingue: Chascun nation posse expresser su pensas in li
 cadre del poc regules grammatical in li maniere acustomat, e deve solmen
 far atention, ne usar idiotismes íncomprensibil al altri nationes per
@@ -95,10 +95,12 @@ Winterthur (Svissia), octobre 1956.
 
 Dr. phil. Fritz Haas
 
+****
 Li nómine *Occidental* del lingue international creat de Edgar de
 Wahl esset 1949 viceat per li nómine *Interlingue*, sin changear li
 lingue self, por evitar li politic aspecte del nómine
 “Occidental-Union”.
+****
 
 // Alfabet {{{1
 == Alfabet
@@ -1782,10 +1784,12 @@ pro (cause)::
 Ella plorat pro joya. Yo mersía pro vor auxilie.
 ====
 
+// XXX FIXED -- "vení" --> "veni"
+
 pos::
 +
 ====
-Pos quelc dies ili tamen atinget lor scope. Li capitano vení pos
+Pos quelc dies ili tamen atinget lor scope. Li capitano veni pos
 li major.
 ====
 
@@ -2666,8 +2670,8 @@ qualmen distribuer li fructes. Ti metode functiona bon; it es corect.
 
 7. Hodíe yo labora ci. Yer yo ha arivat. Yo arivat per li tren de
 Paris, u yo hat laborat antey. Deman yo va departer per auto pos har
-finit mi labor. Yo vell restar plu long, ma on telegrafat me: Veni tam
-bentost quam possibil! Dunc lass nos finir nor maxim urgent labores. Li
+finit mi labor. Yo vell restar plu long, ma on telegrafat me: "`Veni tam
+bentost quam possibil!`" Dunc lass nos finir nor maxim urgent labores. Li
 altri labores queles yo ancor vell har devet far, yo va dever far plu
 tard; ples excusar to. Quande yo fa bon mi labores, yo es estimat e yo
 va esser bon payat. In Paris yo hat esset honorat per un special premie.

@@ -1,6 +1,6 @@
 = Grammatica de Interlingue
 :author: Dr. Fritz Haas
-:revnumber: 0.1.0-pre.9+20190309
+:revnumber: 0.1.0-pre.10+20190320
 :version-label: Version de edition digital
 :description: Grammatica de Interlingue in Interlingue
 :lang: ie
@@ -15,7 +15,7 @@ endif::[]
 // This Asciidoctor version by Marcos Cruz (programandala.net) for
 // http://ne.alinome.net, 2019.
 
-// Last modified 201903091835
+// Last modified 201903201610
 
 :dot: .
 
@@ -118,33 +118,41 @@ te, u, ve, duplic ve, ix, ypsilon, zet.
 
 [[par3,§3]]§3. *Li vocales* es sempre clarmen pronunciat quam seque:
 
-*a* quam in F (francesi), o G (german), o H (hispan), o I (italian), o A
-(anglesi): father. *vase, batte, batter*.
+a:: Quam in F (francesi), o G (german), o H (hispan), o I (italian), o
+A (anglesi): _father_. *vase, batte, batter*.
 
-*e* apert o cludet, quam GHI, A: bed, yes, F: é o è. *pena, mensu,
-pelle, venir*.
+e:: Apert o cludet, quam GHI, A: _bed, yes_, F: "`é`" o "`è`". *pena,
+mensu, pelle, venir*.
 
-*i* quam FGHI, A: machine. *nive, six, minute*.
+i:: Quam FGHI, A: _machine_. *nive, six, minute*.
 
-*o* apert o cludet, quam FGHI, A: door, hot. *modic, póndere, porta,
+o:: Apert o cludet, quam FGHI, A: _door, hot_. *modic, póndere, porta,
 ponderar*.
 
-*u* quam GHI, A: rule, pull, F: ou; pos q tre curt, presc consonantic
-(w). *brun, mult, sudar, quar*.
+u:: Quam GHI, A: _rule, pull_, F: "`ou`"; pos "`q`" tre curt, presc
+consonantic ("`w`"). *brun, mult, sudar, quar*.
 
-*y* pos un vocal, e in li comensa de un parol anc avan un vocal, és
-consonantic, altriloc vocalic.
-*y vocalic* es pronunciat quam Interlingue *i: physica*.
+// XXX FIXED -- "quam Interlingue i" -> "quam in Interlingue i"
 
-De du o pluri *vocales succedent* chascun es pronunciat. Inaccentuat *i*
-e *u* avan vocales e in li combinationes *au* e *eu* (u anc li *a* e
-li *e* es curt) es tre curt, presc consonantic, e ne posse formar propri
-síllabes.
+// XXX FIXED -- "és" -> "es" (not strictly an error, but unnecessary
+// and confusing in a text book, anyway only 2 "és" were used in the
+// book). 
 
+y:: Pos un vocal, e in li comensa de un parol anc avan un vocal, es
+consonantic, altriloc vocalic.  *y vocalic* es pronunciat quam in
+Interlingue "`i`": *physica*.
+
+De du o pluri *vocales succedent* chascun es pronunciat. Inaccentuat
+"`i`" e "`u`" avan vocales e in li combinationes "`au`" e "`eu`" (u
+anc li "`a`" e li "`e`" es curt) es tre curt, presc consonantic, e ne
+posse formar propri síllabes.
+
+====
 leôn(*), creatôr, mêdie, mediôcri, mêdium, lìngue, linguâl, lìnguìstic,
 trottuôre, càude, neutrâl, arcâic, vîa, revûe.
 
-(*) Signes ilustrativ, ne a scrir: ê: long, è: curt.
+(*) Signes ilustrativ, ne a scrir: "`ê`": long, "`è`": curt.
+====
 
 In plu un strict regul pri li pronunciation long o curt, cludet o apert
 del vocales ne existe. Preferibil es li pronunciationes simil a FGHI.
@@ -154,27 +162,30 @@ del <<par4>> quam recomendation, ma ne quam regul strict o complet.
 
 // XXX FIXED -- "r o I" -> "r o l"
 
-[[par4,§4]]§4. In general *vocales accentuat* es passabilmen *long*; ma avan *c
-final*, *ch*, *x*, o avan pluri consonantes (exceptet *r* o *l* con precedent
-diferent consonant), e in li curt grammatical paroles ili es *curt*.
-*Vocales ínaccentuat* es plu o min *curt*.
+[[par4,§4]]§4. In general *vocales accentuat* es passabilmen *long*;
+ma avan "`c`" final, "`ch`", "`x`", o avan pluri consonantes (exceptet
+"`r`" o "`l`" con precedent diferent consonant), e in li curt
+grammatical paroles ili es *curt*.  *Vocales ínaccentuat* es plu o min
+*curt*.
 
-*A, i, u* have sempre un medial sonalitá bon distinctibil del altri
-vocales. *Accentuat e* e *o* es *cludet*, si ili es long, e avan *m* e
-*n, apert* in omni altri casus. *E* e *o ínaccentuat* es plu o min
-*cludet*.
+"`A`", "`i`", "`u`" have sempre un medial sonalitá bon distinctibil
+del altri vocales. Accentuat "`e`" e "`o`" es cludet, si ili es long,
+e avan "`m`" e "`n`", apert in omni altri casus. "`E`" e "`o`"
+ínaccentuat es plu o min cludet.
 
+====
 marchâr(*), vidêr, venîr, sonôri, constructôr, constructiôn, chèc, iràc,
 depèche, paradòx, pâtre, splìttre, câble, pèlle, dilëmma, cömma, mënte,
 mönte, atàcca, fòsse, transpòrt, idê, burô, cön, ë, li, më.
 
-(*) Signes ilustrativ, ne a scrir: ê: long e cludet, ë: curt e cludet, è:
-curt e apert.
+(*) Signes ilustrativ, ne a scrir: "`ê`": long e cludet, "`ë`": curt e
+cludet, "`è`": curt e apert.
+====
 
 [[par5,§5]]§5. *Li consonantes* es pronunciat quam seque:
 
-*b, d, f, I, m, n, p* quam in AFGI, H (b = b in boca).
-
+b, d, f, I, m, n, p:: Quam in AFGI, H ("`b`" in _boca_).
++
 ====
 bon, editer, fratre, long, matre, null, pede.
 ====
@@ -182,70 +193,161 @@ bon, editer, fratre, long, matre, null, pede.
 De *duplic consonantes* li duesim es pronunciat solmen si it es
 pronunciat altrimen quam li prim. *acceptar, suggester*.
 
-*c* avan e, i, y = ts, altriloc quam k. *centre, reciver, cilindre,
-concert, acceptar, electric, electricitá*.
+c:: Avan "`e`", "`i`", "`y`" = "`ts`", altriloc quam "`k`".
++
+====
+centre, reciver, cilindre, concert, acceptar, electric, electricitá.
+====
 
-*ch* F, A: sh, G: sch, permisset anc A: ch, H: ch, ma ne recomendat;
-avan consonantes quam k. *machine, marchar, chec; chloroform*.
+ch:: F, A: "`sh`", G: "`sch`", permisset anc A: "`ch`", H: "`ch`", ma
+ne recomendat; avan consonantes quam "`k`".
++
+====
+machine, marchar, chec, chloroform.
+====
 
-*g* avan e, i, y: AFI, G: dulci sch quam in generös, altriloc AFGHI (gn
-maxim possibil g-n, ne nye). *gage, gigant, garage, gimnastica,
-guvernar, grisi, suggestion, magnific*.
+g:: Avan "`e`", "`i`", "`y`": AFI, G: dulci "`sch`" quam in _generös_,
+altriloc AFGHI ("`gn`" maxim possibil "`g-n`", ne "`nye`").
++
+====
+gage, gigant, garage, gimnastica, guvernar, grisi, suggestion, magnific.
+====
 
-*gh* in quelc rar paroles avan e, i, y quam g avan a. *ghetto*.
+gh:: In quelc rar paroles avan "`e`", "`i`", "`y`" quam "`g`" avan
+"`a`".
++
+====
+ghetto.
+====
 
-*h* sempre aspirat quam AG. *hom, adherer*.
+h:: Sempre aspirat quam AG.
++
+====
+hom, adherer.
+====
 
-*j* quam F, A: vision, G: dulci sch quam Journal, dunc quam
-Interlingue g avan e. *jurnalist, manjar, jokey*.
+// XXX FIXED -- "quam Interlingue" -> "quam in Interlingue"
 
-*k* e *kh* quam c dur. *kilogramm, Khedive*.
+j:: Quam F, A: _vision_, G: dulci "`sch`" quam _Journal_, dunc quam in
+Interlingue "`g`" avan "`e`".
++
+====
+jurnalist, manjar, jokey.
+====
 
-*ph* quam f (in grec paroles).  *telephon*.
+k, kh:: Quam "`c`" dur.
++
+====
+kilogramm, Khedive.
+====
 
-*qu* quam k, sempre sequet de tre curt u: AGI, F e H con u. *quar,
-aqua*.
+ph:: Quam "`f`" (in grec paroles).
++
+====
+telephon.
+====
 
-*r* FGHI. *radie, merce*.
+qu:: Quam "`k`", sempre sequet de tre curt "`u`": AGI, F e H con
+"`u`".
++
+====
+quar, aqua.
+====
 
-*rh* quam r (in grec paroles). *rheumatisme*.
+r:: FGHI.
++
+====
+radie, merce.
+====
 
-// XXX FIXED -- Removed "altesse".
+rh:: Quam "`r`" (in grec paroles).
++
+====
+rheumatisme.
+====
 
-*s* sonori inter vocales, dur in omni altri casus. *cose, position, pos,
-es, roses, divers, sospirar, posta*.
+// XXX FIXED -- Moved "altesse".
 
-*ss* quam s dur. *casse*.
+s:: Sonori inter vocales, dur in omni altri casus.
++
+====
+cose, position, pos, es, roses, divers, sospirar, posta.
+====
 
-*sh, sch* quam A: sh, F: ch, G: sch (existe solmen in quelc paroles por
-conservar li natural aspecte). *shrapnell, schema*.
+ss:: Quam "`s`" dur.
++
+====
+casse, altesse.
+====
 
-*t* es sibilant (quam ts) avan ia, ie, io, iu, si ne un s precede,
-altriloc quam AFGHI. *tolerantie, tentar, tentation, hostie*.
+sh, sch:: Quam A: "`sh`", F: "`ch`", G: "`sch`". Existe solmen in
+quelc paroles por conservar li natural aspecte.
++
+====
+shrapnell, schema.
+====
 
-*th* quam t (in grec paroles). *theosoph, lithograph*.
+t:: Es sibilant (quam "`ts`") avan "`ia`", "`ie`", "`io`", "`iu`", si
+ne un "`s`" precede, altriloc quam AFGHI.
++
+====
+tolerantie, tentar, tentation, hostie.
+====
+
+th:: Quam "`t`" (in grec paroles).
++
+====
+theosoph, lithograph.
+====
 
 // XXX FIXED -- Removed "H". The sound of "v" in Spanish usually is
 // "b".
 
-*v* quam AFI, G: w. *venir, dever, nive*.
+v:: Quam AFI, G: "`w`".
++
+====
+venir, dever, nive.
+====
 
-*w* rar, quam A, curt Interlingue: u. *west*.
+// XXX FIXED -- "curt Interlingue: u" -> curt u in Interlingue"
 
-*x* dur o dulci, quam AFG, H: examinar. *examinar, extra*.
+w:: Rar, quam A, curt "`u`" in Interlingue.
++
+====
+west.
+====
 
-*y consonantic* quam A, F: yeux, G: j, H: ayustar. *yes, rayon, antey*.
+x:: Dur o dulci, quam AFG, H: _examinar_.
++
+====
+examinar, extra.
+====
 
-*z* dulci (ds), si possibil, altrimen dur (ts). *zefir*.
+y consonantic:: Quam A, F: yeux, G: "`j`", H: _ayustar_.
++
+====
+yes, rayon, antey.
+====
 
-*zz* dur (ts). *plazza*.
+z:: Dulci ("`ds`"), si possibil, altrimen dur ("`ts`").
++
+====
+zefir.
+====
+
+zz:: Dur ("`ts`").
++
+====
+plazza.
+====
 
 // XXX FIXED -- "G: ù" -> "G: ü"
 
-[[par6,§6]]§6. Li experientie pruva que *litt variationes* in li pronunciation ne
-gena li comprension. Pro to it *es permisset* pronunciar li y vocalic
-quam F: u, G: ü, *qu* quam kw, *ch* quam tsch, *j* sempre e *g* sequet
-de e, i, y quam dj.
+[[par6,§6]]§6. Li experientie pruva que *litt variationes* in li
+pronunciation ne gena li comprension. Pro to it *es permisset*
+pronunciar li "`y`" vocalic quam F: "`u`", G: "`ü`", *qu* quam "`kw`",
+*ch* quam "`tsch`", *j* sempre e *g* sequet de "`e`", "`i`", "`y`"
+quam "`dj`".
 
 ====
 cylindre, quadre, marchar, chef, jurnal, gengive.
@@ -253,13 +355,15 @@ cylindre, quadre, marchar, chef, jurnal, gengive.
 
 Qui have desfacilitá in li pronunciation de cert combinationes de
 consonantes final con li consonantes initial del sequent parol posse
-intercalar un *demimut E*, ma sin scrir it.
+intercalar un *demimut "`e`"*, ma sin scrir it.
 
-[[par7,§7]]§7. *Paroles extran* es pronunciat maxim possibil quam in li lingue de
-orígine.
+[[par7,§7]]§7. *Paroles extran* es pronunciat maxim possibil quam in
+li lingue de orígine.
+
+// XXX FIXED -- Champagne -> champagne
 
 ====
-Champagne, cognac.
+champagne, cognac.
 ====
 
 // Accentuation {{{1
@@ -273,9 +377,9 @@ del precedent parol-parte. Si ti regules ne es aplicabil, on accentua li
 prim vocal del parol.
 
 Si li natural accentuation ne seque ti regul, it es marcat per un
-*accentu scrit* (preferibilmen quam in é, tolerat anc è o ê). On posse
-omisser li accentu scrit, exceptet sur vocales final, o usar it anc in
-altri casus por garantir li desirat accentuation.
+*accentu scrit* (preferibilmen quam in "`é`", tolerat anc "`è`" o
+"`ê`"). On posse omisser li accentu scrit, exceptet sur vocales final,
+o usar it anc in altri casus por garantir li desirat accentuation.
 
 In *parol-compositiones* (anc autonom paroles con prefixes) li principal
 parte seque ti regules, li altres posse reciver un accentu secundari.
@@ -298,13 +402,13 @@ micro-còsmo, anglosaxònic, agricultùra, centimètre, postcàrte,
 manuscrìte, genú-articulation, unifòrm, li unifòrme, il unifòrma, il
 internationalìsa, ínpracticàbil, índubitàbilmen, li fèrro-vìa, il invìa,
 it inflùe, il subtràe, hodíe, il contradí, il retrovèni.
-====
 
 (*) In vocabulariums e manuales li scrition del acut es obligatori, ti del
 gravis recomendat quam medie didactic por accentus ínscrit: ínscrit, il
 inscrí, ìris, ottùplic, il rèplica, il multìplica, specìfic, pacìfic, il
 artìcula, il inspùla, il ànima, li ferrovìa, li relvìa, il refá, it
 rèsta.
+====
 
 [[par9,§9]]§9. In li *fluent parlada* on ne accentua chascun parol secun li
 regul precedent, ma solmen li maxim important paroles del frase.
@@ -328,7 +432,7 @@ esset un medicà, ne un medicò.
 [[par10,§10]]§10. Interlingue conserva maxim possibil li *aspect international* del
 paroles; ma it es recomendat vicear li *duplic consonantes* per li
 simplic, exceptet si ili es pronunciat diferentmen o es necessi por
-indicar que li precedent vocal es curt o que *s* ne es sonori. Duplic
+indicar que li precedent vocal es curt o que "`s`" ne es sonori. Duplic
 consonantes in li radica resta anc in li formes derivat.
 
 ====
@@ -425,9 +529,13 @@ Il trinca aqua. Noi manja fructes.
 [[par20,§20]]§20. Li articul *definit* indica alquó ja mentionat o conosset, o li
 tot specie, li articul *índefinit* alquó ínconosset o ne ancor tractat.
 
+// XXX FIXED -- "és" -> "es" (not strictly an error, but unnecessary
+// and confusing in a text book, anyway only 2 "és" were used in the
+// book). 
+
 ====
 Li can quel vu conosse es fidel. Canes es fidel. Li can es fidel.
-Fidelitá és un qualitá del tot specie can. Un can de mi fratre es
+Fidelitá es un qualitá del tot specie can. Un can de mi fratre es
 mordaci, ma li altris ne es tal. Fidelitá es un valorosi qualitá. Li
 fidelitá del can (o del canes) es pruvat.
 ====
@@ -906,7 +1014,7 @@ adjuntion de cert consonantes al tema presentic.
 // "al tema verbal":
 
 [[par66,§66]]§66. Li *tema presentic* es format per adjunter un del tri vocales
-"a", "i", "e"
+"`a`", "`i`", "`e`"
 al tema verbal. Ti vocal es
 caracteristic por chascun verb e resta ínvariabil in omni formes del
 conjugation.

@@ -1,6 +1,6 @@
 = Grammatica de Interlingue
 :author: Dr. Fritz Haas
-:revnumber: 0.1.0-pre.14+20190321
+:revnumber: 0.1.0-pre.15+20190321
 :version-label: Version de ti edition digital:
 :description: Grammatica de Interlingue in Interlingue
 :lang: ie
@@ -15,7 +15,7 @@ endif::[]
 // This Asciidoctor version by Marcos Cruz (programandala.net) for
 // http://ne.alinome.net, 2019.
 
-// Last modified 201903210039
+// Last modified 201903210210
 
 :dot: .
 
@@ -170,7 +170,9 @@ ma avan "`c`" final, "`ch`", "`x`", o avan pluri consonantes (exceptet
 grammatical paroles ili es *curt*.  *Vocales ínaccentuat* es plu o min
 *curt*.
 
-"`A`", "`i`", "`u`" have sempre un medial sonalitá bon distinctibil
+// XXX FIXED -- "i, u" -> "i, e u"
+
+"`A`", "`i`", e "`u`" have sempre un medial sonalitá bon distinctibil
 del altri vocales. Accentuat "`e`" e "`o`" es cludet, si ili es long,
 e avan "`m`" e "`n`", apert in omni altri casus. "`E`" e "`o`"
 ínaccentuat es plu o min cludet.
@@ -787,8 +789,11 @@ necessi.
 indicar explicitmen li proximitá o lontanitá on adjunte li adverbies
 *ci* o *ta* med un strec ligant.
 
+// XXX FIXED -- "Yo vide tís" -> "Yo vide tis"
+// Not strictly an error, but strange in a text book.
+
 ====
-Ti libre es bell. Yo vide ti libres. Yo vide tís. Ti-ci table es solid.
+Ti libre es bell. Yo vide ti libres. Yo vide tis. Ti-ci table es solid.
 Ti-ci tables es solid. Tis-ci es solid, ma tis-ta ne es tal.
 ====
 
@@ -2606,7 +2611,7 @@ tippmachine, mult-lateral, circumnavigar,contraproposition.
 
 In nov-formationes it es recomendat ligar li du paroles per un strec
 ligativ. In compositiones ja international li du paroles multvez es
-ligat per un *o* o *i*.
+ligat per un "`o`" o "`i`".
 
 // XXX FIXED -- uníform -> uniform
 

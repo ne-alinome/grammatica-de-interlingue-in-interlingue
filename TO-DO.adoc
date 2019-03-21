@@ -21,3 +21,7 @@
 - Improve notation of "y" vocalic/consonantic.
 - Quote words mentioned in the text, e.g. "vice tu", "except yo e tu",
   etc.
+- Consult: r like Spanish in "radie, merce", but in Spanish "r-" and
+  "-r-" are different.
+- Consult: "un simplic s e li du sillabes...": "s" beside plural?
+- Consult: the pronunciation of "g" in English is incomplete.

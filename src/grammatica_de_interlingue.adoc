@@ -1,6 +1,6 @@
 = Grammatica de Interlingue
 :author: Dr. Fritz Haas
-:revnumber: 0.1.0-pre.15+20190321
+:revnumber: 0.1.0-pre.16+20190324
 :version-label: Version de ti edition digital:
 :description: Grammatica de Interlingue in Interlingue
 :lang: ie
@@ -15,7 +15,7 @@ endif::[]
 // This Asciidoctor version by Marcos Cruz (programandala.net) for
 // http://ne.alinome.net, 2019.
 
-// Last modified 201903210210
+// Last modified 201904081152
 
 :dot: .
 
@@ -107,7 +107,7 @@ lingue self, por evitar li politic aspecte del nómine
 
 [[par1,§1]]§1. Interlingue es scrit per 26 *lítteres latin*:
 
-a, b, c, d, e, f, g, h, i, j, k, I, m, n, o, p, q, r, s, t, u, v, w,
+a, b, c, d, e, f, g, h, i, j, k, i, m, n, o, p, q, r, s, t, u, v, w,
 x, y, z.
 
 [[par2,§2]]§2. Li alfabet es *pronunciat*:
@@ -736,8 +736,8 @@ altri por li *object* (acusative o dative, casu obliqui).
 
 Li formes in parenteses es usat solmen in casu de necessitá.
 
-[[par40,§40]]§40. Li pronómin de *politesse* es: *vu* (cf. <<par13>>). On usa it vice tu,
-quel expresse un cert intimitá o parentitá.
+[[par40,§40]]§40. Li pronómin de *politesse* es: *vu* (cf. <<par13>>).
+On usa it vice "`tu`", quel expresse un cert intimitá o parentitá.
 
 [[par41,§41]]§41. Li pronómin *índefinit* es: *on*, li *reflexiv: se*, li *reciproc:
 unaltru*.
@@ -747,8 +747,8 @@ On vide se. Ili vide se. Ili vide nos. Vu vide nos. Vu vide vos. Ili
 vide unaltru. Noi vide unaltru.
 ====
 
-[[par42,§42]]§42. *Pos prepositiones* on usa li acusative, o li nominative except
-yo e tu.
+[[par42,§42]]§42. *Pos prepositiones* on usa li acusative, o li
+nominative except "`yo`" e "`tu`".
 
 ====
 Veni con me! Yo veni con te. Noi ea con le (o il). Vu ea con ella (o

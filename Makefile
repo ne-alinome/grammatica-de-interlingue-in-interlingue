@@ -2,7 +2,7 @@
 
 # By Marcos Cruz (programandala.net)
 
-# Last modified 201903091726
+# Last modified 201908022106
 # See change log at the end of the file
 
 # ==============================================================
@@ -111,7 +111,7 @@ target/$(book).adoc.xml.dbtoepub.epub: \
 # Deprecated: The cross references dont't work.
 
 target/$(book).adoc.xml.pandoc.epub: \
-	tmp/$(book).adoc.xml \
+	target/$(book).adoc.xml \
 	src/$(book)-docinfo.xml \
 	src/pandoc_epub_template.txt \
 	src/pandoc_epub_stylesheet.css
@@ -188,3 +188,5 @@ target/$(book).adoc.xml.pandoc.odt: \
 #
 # 2019-03-09: Build all EPUB variants by default. This makes instructions
 # clearer.
+#
+# 2019-08-02: Fix directory of the DocBook file.

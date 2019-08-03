@@ -3,7 +3,6 @@
 :revdate: 2019-04-08
 
 - Homogenize examples in tables and in lists.
-- Update notation of money? E.g. "frs. 20.---" > "frs. 20".
 - Markup ordered lists that use alpha numbering.
 - Separate all paragraph numbers from headings?
 - Add URL of the Belitzky's version.
@@ -16,8 +15,6 @@
   it's not included in the prepositions.
 - Notation: "-er-" and "-ist": "-ist-"?
 - Confirm Spanish "ayustar".
-- Check rendering of "." in the list of abbreviations. If needed, use
-  an attribute instead.
 - Improve notation of "y" vocalic/consonantic.
 - Quote words mentioned in the text, e.g. "vice tu", "except yo e tu",
   etc.

@@ -1,6 +1,6 @@
 = Grammatica de Interlingue
 :author: Dr. Fritz Haas
-:revnumber: 0.1.0-pre.16+20190324
+:revnumber: 0.1.0-pre.17+20190806
 :version-label: Version de ti edition digital:
 :description: Grammatica de Interlingue in Interlingue
 :lang: ie
@@ -15,7 +15,7 @@ endif::[]
 // This Asciidoctor version by Marcos Cruz (programandala.net) for
 // http://ne.alinome.net, 2019.
 
-// Last modified 201904081152
+// Last modified 201908061210
 
 :dot: .
 
@@ -1278,6 +1278,10 @@ che li verbes con *ar* e *ir* al participie passat, e che li verbes con
 radica, intercalante *t* pos vocal final e mutante un final *d* o *r* a
 *s*.
 
+////
+
+// XXX OLD -- Original layout, two tables, with mixed forms:
+
 // XXX FIXED -- "cretiv" -> "creativ":
 
 [width="100%"]
@@ -1304,8 +1308,32 @@ radica, intercalante *t* pos vocal final e mutante un final *d* o *r* a
 | scritura     | tonsura   |
 |===
 
+////
+
+// XXX NEW -- New layout, one table, with all forms completed:
+
+[width="100%"]
+|===
+| Infinitive  | Tema perfectic | -ion         | -or         | -ori         | -iv         | -ura
+
+| adherer     | adhes          | adhesion     | adhesor     | adhesori     | adhesiv     | adhesura
+| constructer | construct      | construction | constructor | constructori | constructiv | structura
+| crear       | creat          | creation     | creator     | creatori     | creativ     | creatura
+| currer      | curs           | cursion      | cursor      | cursori      | cursiv      | cursura
+| distribuer  | distribut      | distribution | distributor | distributori | distributiv | distributura
+| expedir     | expedit        | expedition   | expeditor   | expeditori   | expeditiv   | expeditura
+| exploder    | explos         | explosion    | explosor    | explosori    | explosiv    | explosura
+| garnir      | garnit         | garnition    | garnitor    | garnitori    | garnitiv    | garnitura
+| revider     | revis          | revision     | revisor     | revisori     | revisiv     | revisatura
+| scrir       | scrit          | scrition     | scritor     | scritori     | scritiv     | scritura
+| tonder      | tons           | tonsion      | tonsor      | tonsori      | tonsiv      | tonsura
+|===
+
 *Quin verbes* forma ti derivates un poc diferentmen, usante li
 international formes:
+
+// XXX TODO -- Also all derivates? I.e. should the table show the alternative
+// "tema perfectiv", e.g. "sess", "cess", "vers", "tent"?
 
 [width="100%"]
 |===

@@ -1,6 +1,6 @@
 = TO-DO of _Grammatica de Interlingue_
 :author: Marcos Cruz (programandala.net)
-:revdate: 2019-08-03
+:revdate: 2019-08-06
 
 - Homogenize examples in tables and in lists.
 - Markup ordered lists that use alpha numbering.
@@ -18,5 +18,3 @@
   "-r-" are different.
 - Consult: "un simplic s e li du sillabes...": "s" beside plural?
 - Consult: the pronunciation of "g" in English is incomplete.
-- Note: The original title is _Grammatica de Interlingue in
-  Interlingue_.

@@ -1,6 +1,6 @@
 = Grammatica de Interlingue
 :author: Dr. Fritz Haas
-:revnumber: 0.1.0-pre.17+20190806
+:revnumber: 0.1.0-pre.18+20190808
 :version-label: Version de ti edition digital:
 :description: Grammatica de Interlingue in Interlingue
 :lang: ie
@@ -23,6 +23,8 @@ endif::[]
 == Pri ti libre
 
 Titul:: Grammatica de Interlingue.
+
+Titul original:: Grammatica de Interlingue in Interlingue.
 
 Autor:: Dr. Fritz Haas.
 

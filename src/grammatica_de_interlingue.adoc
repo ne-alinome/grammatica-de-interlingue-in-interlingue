@@ -15,7 +15,7 @@ endif::[]
 // This Asciidoctor version by Marcos Cruz (programandala.net) for
 // http://ne.alinome.net, 2019.
 
-// Last modified 201908061210
+// Last modified 201908090230
 
 :dot: .
 
@@ -1297,8 +1297,6 @@ radica, intercalante *t* pos vocal final e mutante un final *d* o *r* a
 | creatura | garnitura  | structura
 |===
 
-// XXX TODO -- Join these tables.
-
 [width="100%"]
 |===
 | distribuer   | exploder  | adherer
@@ -1467,8 +1465,6 @@ Il ha bon laborat. Noi serchat long.
 
 [[par90,§90]]§90. It existe *adverbies primari* sin special finale, e *adverbies
 derivat* de adjectives per adjunter li ínaccentuat finale *-men*.
-
-// XXX FIXME -- Remove adjectives: natural, respectosi:
 
 ====
 tre, sempre, deman, natural, naturalmen, respectosi, respectosimen.

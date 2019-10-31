@@ -1,6 +1,6 @@
 = Grammatica de Interlingue
 :author: Dr. Fritz Haas
-:revnumber: 0.1.0-pre.19+20190923
+:revnumber: 0.1.0-pre.20+20191031
 :version-label: Version de ti edition digital:
 :description: Grammatica de Interlingue in Interlingue
 :lang: ie
@@ -2454,8 +2454,10 @@ pacificar*. forma anc adjectives: *pacific, magnific, specific*.
 
 [[par136,§136]]§136.
 
-a) adjuntet al *tema perfectic* secun <<par80>>:
-
+[loweralpha]
+. adjuntet al *tema perfectic* secun <<par80>>:
++
+--
 -ion:: Action, anc resultat e loc de it: *administration, expedition,
 construction, distribution, explosion*.
 
@@ -2464,20 +2466,27 @@ distributor, constructor, ventilator, compressor, divisor*.
 
 -ura:: Concretisat action e su resultate: *reparatura, garnitura,
 lectura, creatura*.
+--
 
-b) adjuntet al *tema presentic* secun <<par84>>:
-
+. adjuntet al *tema presentic* secun <<par84>>:
++
+--
 -ment:: Concret action o su resultate, o servient a, servient quam:
 *fundament, nutriment, movement*.
+--
 
-c) adjuntet al *radica verbal* secun <<par85>>:
-
+. adjuntet al *radica verbal* secun <<par85>>:
++
+--
 -ida (verbes in *-ar*: *-ada*):: Action in durada: *promenada, perdida,
 currida*.
+--
 
-d) adjuntet al *participie presentic* secun <<par82>>:
-
+. adjuntet al *participie presentic* secun <<par82>>:
++
+--
 -ie:: Statu in durada: *tolerantie, provenientie, existentie*.
+--
 
 // Personal sufixes {{{3
 ==== Personal sufixes

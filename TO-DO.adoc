@@ -2,8 +2,7 @@
 :author: Marcos Cruz (programandala.net)
 :revdate: 2019-08-08
 
-- Homogenize examples in tables and in lists.
-- Markup ordered lists that use alpha numbering.
+- Homogenize examples in tables and lists.
 - Separate all paragraph numbers from headings?
 - Add URL of the Belitzky's version.
 - Confirm "Li pòríu".

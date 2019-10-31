@@ -1,6 +1,6 @@
 = TO-DO of _Grammatica de Interlingue_
 :author: Marcos Cruz (programandala.net)
-:revdate: 2019-08-08
+:revdate: 2019-10-31
 
 - Homogenize examples in tables and lists.
 - Separate all paragraph numbers from headings?
@@ -8,11 +8,9 @@
 - Confirm "Li pòríu".
 - Consult: "for" is mentioned in "ab-" and as an interjection, but
   it's not included in the prepositions.
-- Notation: "-er-" and "-ist": "-ist-"?
 - Confirm Spanish "ayustar".
 - Improve notation of "y" vocalic/consonantic.
-- Quote words mentioned in the text, e.g. "vice tu", "except yo e tu",
-  etc.
+- Quote words mentioned in the text.
 - Consult: r like Spanish in "radie, merce", but in Spanish "r-" and
   "-r-" are different.
 - Add a footnote at "un simplic s" to make clear it's about the

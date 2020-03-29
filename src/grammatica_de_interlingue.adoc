@@ -15,7 +15,7 @@ endif::[]
 // This Asciidoctor version by Marcos Cruz (programandala.net) for
 // http://ne.alinome.net, 2019.
 
-// Last modified 201912011607
+// Last modified 202002271753
 
 :dot: .
 
@@ -46,10 +46,10 @@ Principal changes in ti edition::
   formates.
 - Creation de intern ligamentes.
 
-Libre digital fat solmen per líber programas:: 
+Libre digital fat solmen per líber programas::
 http://asciidoctor.org[Asciidoctor],
 https://github.com/asciidoctor/asciidoctor-pdf[asciidoctor-pdf],
-dbtoepub,
+http://docbook.sourceforge.net/release/xsl/current/epub/README[dbtoepub],
 http://debian.org[Debian],
 http://git-scm.com/[Git],
 https://www.gnu.org/software/make/[GNU make],
@@ -101,7 +101,7 @@ Dr. phil. Fritz Haas
 Li nómine *Occidental* del lingue international creat de Edgar de
 Wahl esset 1949 viceat per li nómine *Interlingue*, sin changear li
 lingue self, por evitar li politic aspecte del nómine
-“Occidental-Union”.
+«Occidental-Union».
 ****
 
 // Alfabet {{{1
@@ -158,7 +158,7 @@ brun, mult, sudar, quar.
 
 // XXX FIXED -- "és" -> "es" (not strictly an error, but unnecessary
 // and confusing in a text book, anyway only 2 "és" were used in the
-// book). 
+// book).
 
 y:: Pos un vocal, e in li comensa de un parol anc avan un vocal, es
 consonantic, altriloc vocalic.  *y vocalic* es pronunciat quam in
@@ -573,7 +573,7 @@ tot specie, li articul *índefinit* alquó ínconosset o ne ancor tractat.
 
 // XXX FIXED -- "és" -> "es" (not strictly an error, but unnecessary
 // and confusing in a text book, anyway only 2 "és" were used in the
-// book). 
+// book).
 
 ====
 Li can quel vu conosse es fidel. Canes es fidel. Li can es fidel.
@@ -800,7 +800,6 @@ les (o ili).
 [[par43,§43]]§43. Li formes *adjectivic e substantivic* es egal; ma por li
 substantivic on posse usar li *articul*, secun li nuancie o li regul del
 lingue matrin, e ili prende li *plurale*, si necessi.
-
 
 [width="100%"]
 |===
@@ -2140,7 +2139,7 @@ Yo videt le. Yo te dat it. Yo dat it te. Yo dat it a te.
 
 [[par116,§116]]§116. Li regules indicat por frases direct vale anc por *frases
 interrogativ* queles es format per *esque* o altri paroles interrogativ.
-Sin li “esque” on posse formar frases interrogativ per posir li subjecte
+Sin li «esque» on posse formar frases interrogativ per posir li subjecte
 pos li predicate, resp. pos li verb auxiliari.
 
 ====
@@ -2659,7 +2658,6 @@ socialisme*.
 
 -oid:: Simil: *negroid (negroide), elipsoid*.
 
-
 // XXX FIXME -- «-ore» es *anc* un productiv sufixe:
 
 [[par142,§142]]§142. Ultra li indicat *productiv afixes* existe quelc *ínproductiv
@@ -2721,7 +2719,7 @@ form de expression.
 fructe. Noi manja du bon fructes. Mi fratre manja prunes; il manja tri
 prunes. Mi sestra manja cereses; ella manja mult cereses. lli manja
 prunes e cereses. Vu manja pires, prunes e cereses. On manja li mult bon
-fructes. Yo prefere li dulcis. A mi patre yo di “tu”, ma tu di “vu” a mi
+fructes. Yo prefere li dulcis. A mi patre yo di «tu», ma tu di «vu» a mi
 patre. Li patre es grand e li matre anc es grand; ili es grand.
 
 2. Yo vide te. Yo da te un pir. Yo da li pir a te. Li pir es de me. Li

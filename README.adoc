@@ -1,6 +1,6 @@
 = Grammatica de Interlingue
 :author: Marcos Cruz (programandala.net)
-:revdate: 2019-03-09
+:revdate: 2020-04-01
 :toc:
 :toc-levels: 2
 :toc-title: Contents/Contenete/Enhavo
@@ -19,7 +19,7 @@ Goal:: Make a e-book (in EPUB and other formats) of _Grammatica de
 Interlingue_ by Dr. F. Haas, digitalizaded by S.  Belitzky out of the
 edition of Interlingue-Servicie, Winterthur (Switzerland), 1956
 
-Author:: Marcos Cruz (programandala.net), 2019.
+Author:: Marcos Cruz (programandala.net), 2019, 2020.
 
 Website:: http://ne.alinome.net.
 
@@ -40,6 +40,7 @@ follows:
 | make                | Build all formats and variants
 | make all            | Build all formats and variants
 | make epub           | Build the EPUB format (most variants)
+| make epuba          | Build the EPUB format with Asciidoctor EPUB3
 | make epubd          | Build the EPUB format with dbtoepub
 | make epubp          | Build the EPUB format with pandoc
 | make epubx          | Build the EPUB format with xsltproc
@@ -47,7 +48,7 @@ follows:
 | make pdf            | Build the PDF format (both sizes)
 | make pdfa4          | Build the DIN A4 size PDF format
 | make pdfl           | Build the letter size PDF format
-| make xml            | Build the DocBook format
+| make dbk            | Build the DocBook format
 |===
 
 The documents are built in the <target> directory.
@@ -61,9 +62,9 @@ _Grammatica de Interlingue_, de Dr. F. Haas, digitalizita de S.
 Belitzky ex li edition de Interlingue-Servicie, Winterthur (Svissia),
 1956.
 
-Autor:: Marcos Cruz (programandala.net), 2019.
+Autor:: Marcos Cruz (programandala.net), 2019, 2020.
 
-Web-loc:: http://ne.alinome.net.
+Web loc:: http://ne.alinome.net.
 
 === Qualmen constructer li libre
 
@@ -83,14 +84,15 @@ ti exemples:
 | make                | Constructer omni formates e variantes
 | make all            | Constructer omni formates e variantes
 | make epub           | Constructer li formate EPUB (max mult variantes)
-| make epub1d         | Constructer li formate EPUB per dbtoepub
-| make epub1p         | Constructer li formate EPUB per pandoc
+| make epuba          | Constructer li formate EPUB per Asciidoctor EPUB3
+| make epubd          | Constructer li formate EPUB per dbtoepub
+| make epubp          | Constructer li formate EPUB per pandoc
 | make epub1x         | Constructer li formate EPUB per xsltproc
 | make odt            | Constructer li formate OpenDocument
 | make pdf            | Constructer li formate PDF (ambi grandores)
 | make pdfa4          | Constructer li formate PDF ye grandore DIN A4
 | make pdfl           | Constructer li formate PDF ye grandore "letter"
-| make xml            | Constructer li formate DocBook
+| make dbk            | Constructer li formate DocBook
 |===
 
 Li documentes es creat in li documentiere <target> (scope).
@@ -103,7 +105,7 @@ Celo:: Krei bitlibron (EPUB-an kaj ali-formatan) el _Grammatica de
 Interlingue_, de Dr. F. Haas, bitigita de S.  Belitzky el la eldono de
 Interlingue-Servicie, Winterthur (Svislando), 1956.
 
-Aŭtoro:: Marcos Cruz (programandala.net), 2019.
+Aŭtoro:: Marcos Cruz (programandala.net), 2019, 2020.
 
 Retpaĝaro:: http://ne.alinome.net.
 
@@ -124,13 +126,14 @@ jene:
 | make                | Konstrui ĉiujn formatojn kaj variantojn
 | make all            | Konstrui ĉiujn formatojn kaj variantojn
 | make epub           | Konstrui la formaton EPUB (plej multajn variantojn)
+| make epuba          | Konstrui la formaton EPUB per Asciidoctor EPUB3
 | make epubd          | Konstrui la formaton EPUB per dbtoepub
 | make epubp          | Konstrui la formaton EPUB per pandoc
 | make epubx          | Konstrui la formaton EPUB per xsltproc
 | make pdf            | Konstrui la formaton PDF (ambaŭ grandojn)
 | make pdfa4          | Konstrui la formaton PDF je grando DIN A4
 | make pdfl           | Konstrui la formaton PDF je grando "letter"
-| make xml            | Konstrui la formaton DocBook
+| make dbk            | Konstrui la formaton DocBook
 |===
 
 La dosieroj estos kreitaj en la dosierujo <target> (celo).

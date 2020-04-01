@@ -1,6 +1,6 @@
 = Grammatica de Interlingue in Interlingue
 :author: Dr. Fritz Haas
-:revnumber: 0.1.0-pre.23+20200401
+:revnumber: 0.1.0-pre.24+20200401
 :version-label: Version de ti edition digital:
 :description: Grammatica del lingue auxiliar international Interlingue
 :lang: ie
@@ -15,7 +15,7 @@ endif::[]
 // This Asciidoctor version by Marcos Cruz (programandala.net) for
 // http://ne.alinome.net, 2019.
 
-// Last modified 202004011451
+// Last modified 202004011511
 
 :dot: .
 
@@ -44,14 +44,17 @@ Principal changes in ti edition::
   formates.
 - Creation de intern ligamentes.
 
-Libre digital fat solmen per líber programas::
+Programmas (omnis líber) usat por ti librification digital::
 http://asciidoctor.org[Asciidoctor],
-https://github.com/asciidoctor/asciidoctor-pdf[asciidoctor-pdf],
+https://github.com/asciidoctor/asciidoctor-epub3[asciidoctor EPUB3],
+https://github.com/asciidoctor/asciidoctor-pdf[Asciidoctor PDF],
 http://docbook.sourceforge.net/release/xsl/current/epub/README[dbtoepub],
 http://debian.org[Debian],
 http://git-scm.com/[Git],
 https://www.gnu.org/software/make/[GNU make],
-http://pandoc.org[pandoc],
+http://imagemagick.org[ImageMagick],
+https://gitlab.mister-muffin.de/josch/img2pdf[img2pdf],
+http://pandoc.org[Pandoc],
 http://http://jonas.nitro.dk/tig[Tig],
 http://vim.org[Vim],
 http://xmlsoft.org/XSLT/[xsltproc]...

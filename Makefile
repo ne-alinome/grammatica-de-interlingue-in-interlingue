@@ -1,8 +1,9 @@
 # Makefile of _Grammatica de Interlingue in Interlingue_
 
 # By Marcos Cruz (programandala.net)
+# http://ne.alinome.net
 
-# Last modified 202004011452
+# Last modified 202004011631
 # See change log at the end of the file
 
 # ==============================================================
@@ -37,13 +38,13 @@
 
 VPATH=./src:./target
 
-book=grammatica_de_interlingue
+book=grammatica_de_interlingue_in_interlingue
 book_author="Dr. Fritz Haas"
-title="Grammatica de Interlingue"
+title="Grammatica de Interlingue in Interlingue"
 lang="ie"
 editor="Marcos Cruz (programandala.net)"
 publisher="ne alinome"
-description="Grammatica de Interlingue in Interlingue"
+description="Grammatica del lingue international auxiliari Interlingue"
 
 # ==============================================================
 # Interface
@@ -288,3 +289,5 @@ tmp/book_cover_thumb.jpg: tmp/book_cover.jpg
 # 2020-03-30: Use "dkb" DocBook filename extension instead of "xml". Build an
 # EPUB also with Asciidoctor EPUB3. Update and improve the list of
 # requirements. Update the publisher.
+#
+# 2020-04-01: Update the project/book title.

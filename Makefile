@@ -3,7 +3,7 @@
 # By Marcos Cruz (programandala.net)
 # http://ne.alinome.net
 
-# Last modified 202004012108
+# Last modified 202004012242
 # See change log at the end of the file
 
 # ==============================================================
@@ -225,8 +225,8 @@ tmp/$(cover).title.png:
 		-background transparent \
 		-fill $(fill) \
 		-font $(font) \
-		-pointsize 145 \
-		-size 990x \
+		-pointsize 140 \
+		-size 890x \
 		-gravity east \
 		caption:$(title) \
 		$@
@@ -237,7 +237,7 @@ tmp/$(cover).author.png:
 		-fill $(fill) \
 		-font $(font) \
 		-pointsize 90 \
-		-size 990x \
+		-size 890x \
 		-gravity east \
 		caption:$(book_author) \
 		$@
@@ -248,8 +248,8 @@ tmp/$(cover).publisher.png:
 		-fill $(fill) \
 		-font $(font) \
 		-pointsize 24 \
-		-size 1200x \
-		-gravity center \
+		-gravity east \
+		-size 128x \
 		caption:$(publisher) \
 		$@
 
@@ -264,21 +264,29 @@ tmp/$(cover).logo.png: img/icon_plaincircle.svg
 		-resize 256% \
 		$@
 
+tmp/$(cover).decoration.png: img/decoration.png
+	convert $< \
+		-fuzz 10% \
+		-fill $(background) \
+		-opaque white \
+		-resize 48% \
+		$@
+
 # ------------------------------------------------
 # Create the cover image
-
 
 target/$(cover).jpg: \
 	tmp/$(cover).title.png \
 	tmp/$(cover).author.png \
 	tmp/$(cover).publisher.png \
 	tmp/$(cover).logo.png \
-	Makefile
+	tmp/$(cover).decoration.png
 	convert -size 1200x1600 canvas:$(background) $@
-	composite -gravity south -geometry +0+000 tmp/$(cover).logo.png $@ $@
-	composite -gravity northeast -geometry +96+096 tmp/$(cover).title.png $@ $@
-	composite -gravity northeast -geometry +96+640 tmp/$(cover).author.png $@ $@
-	composite -gravity south -geometry +0+090 tmp/$(cover).publisher.png $@ $@
+	composite -gravity south     -geometry +000+000 tmp/$(cover).logo.png $@ $@
+	composite -gravity northeast -geometry +048+048 tmp/$(cover).title.png $@ $@
+	composite -gravity northeast -geometry +048+512 tmp/$(cover).author.png $@ $@
+	composite -gravity southeast -geometry +048+048 tmp/$(cover).publisher.png $@ $@
+	composite -gravity west      -geometry +102+170 tmp/$(cover).decoration.png $@ $@
 
 # ------------------------------------------------
 # Convert the cover image to PDF
@@ -324,4 +332,4 @@ tmp/$(cover)_thumb.jpg: target/$(cover).jpg
 #
 # 2020-04-01: Update the project/book title. Improve the cover image. Add the
 # cover image to the documents. Rename the Asciidoctor PDF targets to make both
-# variants be listed together.
+# variants be listed together. Add decoration to the cover image.

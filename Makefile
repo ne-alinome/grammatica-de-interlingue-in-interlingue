@@ -3,7 +3,7 @@
 # By Marcos Cruz (programandala.net)
 # http://ne.alinome.net
 
-# Last modified 202004011631
+# Last modified 202004011830
 # See change log at the end of the file
 
 # ==============================================================
@@ -83,7 +83,7 @@ pdfletter: target/$(book).adoc.letter.pdf
 dbk: target/$(book).adoc.dbk
 
 .PHONY: cover
-cover: tmp/book_cover.jpg
+cover: target/book_cover.jpg
 
 .PHONY: clean
 clean:
@@ -210,43 +210,65 @@ background=yellow
 fill=black
 strokewidth=4
 
-tmp/book_cover.canvas.jpg:
+tmp/book_cover.title.png:
 	convert \
-		-size 1200x1600 \
-		canvas:$(background) \
-		$@
-
-tmp/book_cover.title.jpg:
-	convert \
-		-background $(background) \
+		-background transparent \
 		-fill $(fill) \
 		-font $(font) \
-		-pointsize 175 \
-		-size 1000x \
-		-gravity center \
+		-pointsize 145 \
+		-size 990x \
+		-gravity east \
 		caption:$(title) \
 		$@
 
-tmp/book_cover.author.jpg:
+tmp/book_cover.author.png:
 	convert \
-		-background $(background) \
+		-background transparent \
 		-fill $(fill) \
 		-font $(font) \
 		-pointsize 90 \
+		-size 990x \
+		-gravity east \
+		caption:$(book_author) \
+		$@
+
+tmp/book_cover.publisher.png:
+	convert \
+		-background transparent \
+		-fill $(fill) \
+		-font $(font) \
+		-pointsize 24 \
 		-size 1200x \
 		-gravity center \
-		caption:$(book_author) \
+		caption:$(publisher) \
+		$@
+
+tmp/book_cover.logo.png: img/icon_plaincircle.svg
+	convert $< \
+		-fuzz 50% \
+		-fill $(background) \
+		-opaque white \
+		-fuzz 50% \
+		-fill '#F2EB05' \
+		-opaque black \
+		-resize 256% \
 		$@
 
 # ------------------------------------------------
 # Create the cover image
- 
-tmp/book_cover.jpg: \
-	tmp/book_cover.canvas.jpg \
-	tmp/book_cover.title.jpg \
-	tmp/book_cover.author.jpg
-	composite -gravity north  -geometry +0+070 tmp/book_cover.title.jpg tmp/book_cover.canvas.jpg $@
-	composite -gravity south  -geometry +0+110 tmp/book_cover.author.jpg tmp/book_cover.jpg $@
+
+
+target/book_cover.jpg: \
+	tmp/book_cover.title.png \
+	tmp/book_cover.author.png \
+	tmp/book_cover.publisher.png \
+	tmp/book_cover.logo.png \
+	Makefile
+	convert -size 1200x1600 canvas:$(background) $@
+	composite -gravity south -geometry +0+000 tmp/book_cover.logo.png $@ $@
+	composite -gravity northeast -geometry +96+096 tmp/book_cover.title.png $@ $@
+	composite -gravity northeast -geometry +96+640 tmp/book_cover.author.png $@ $@
+	composite -gravity south -geometry +0+090 tmp/book_cover.publisher.png $@ $@
 
 # ------------------------------------------------
 # Convert the cover image to PDF
@@ -290,4 +312,4 @@ tmp/book_cover_thumb.jpg: tmp/book_cover.jpg
 # EPUB also with Asciidoctor EPUB3. Update and improve the list of
 # requirements. Update the publisher.
 #
-# 2020-04-01: Update the project/book title.
+# 2020-04-01: Update the project/book title. Improve the cover image.

@@ -2,18 +2,35 @@
 
 # By Marcos Cruz (programandala.net)
 
-# Last modified 201908022106
+# Last modified 202003300159
 # See change log at the end of the file
 
 # ==============================================================
 # Requirements
 
-# - asciidoctor
-# - asciidoctor-pdf
-# - dbtoepub
-# - make
-# - pandoc
-# - xsltproc
+# Asciidoctor (by Dan Allen, Sarah White et al.)
+#   http://asciidoctor.org
+
+# Asciidoctor EPUB3 (by Dan Allen and Sarah White)
+#   http://github.com/asciidoctor/asciidoctor-epub3
+
+# Asciidoctor PDF (by Dan Allen and Sarah White)
+#   http://github.com/asciidoctor/asciidoctor-pdf
+
+# dbtoepub
+#   http://docbook.sourceforge.net/release/xsl/current/epub/README
+
+# ImageMagick (by ImageMagick Studio LCC)
+#   http://imagemagick.org
+
+# img2pdf (by Johannes 'josch' Schauer)
+#   https://gitlab.mister-muffin.de/josch/img2pdf
+
+# Pandoc (by John MaFarlane)
+#   http://pandoc.org
+
+# xsltproc
+#   http://xmlsoft.org/xslt/xsltproc.html
 
 # ==============================================================
 # Config
@@ -21,10 +38,11 @@
 VPATH=./src:./target
 
 book=grammatica_de_interlingue
+book_author="Dr. Fritz Haas"
 title="Grammatica de Interlingue"
 lang="ie"
 editor="Marcos Cruz (programandala.net)"
-publisher="ne.alinome"
+publisher="ne alinome"
 description="Grammatica de Interlingue in Interlingue"
 
 # ==============================================================
@@ -34,19 +52,22 @@ description="Grammatica de Interlingue in Interlingue"
 all: epub odt pdf
 
 .PHONY: epub
-epub: epubd epubp epubx
+epub: epuba epubd epubp epubx
+
+.PHONY: epuba
+epuba: target/$(book).adoc.epub
 
 .PHONY: epubd
-epubd: target/$(book).adoc.xml.dbtoepub.epub
+epubd: target/$(book).adoc.dbk.dbtoepub.epub
 
 .PHONY: epubp
-epubp: target/$(book).adoc.xml.pandoc.epub
+epubp: target/$(book).adoc.dbk.pandoc.epub
 
 .PHONY: epubx
-epubx: target/$(book).adoc.xml.xsltproc.epub
+epubx: target/$(book).adoc.dbk.xsltproc.epub
 
 .PHONY: odt
-odt: target/$(book).adoc.xml.pandoc.odt
+odt: target/$(book).adoc.dbk.pandoc.odt
 
 .PHONY: pdf
 pdf: pdfa4 pdfletter
@@ -57,8 +78,11 @@ pdfa4: target/$(book).adoc.a4.pdf
 .PHONY: pdfletter
 pdfletter: target/$(book).adoc.letter.pdf
 
-.PHONY: xml
-xml: target/$(book).adoc.xml
+.PHONY: dbk
+dbk: target/$(book).adoc.dbk
+
+.PHONY: cover
+cover: tmp/book_cover.jpg
 
 .PHONY: clean
 clean:
@@ -69,9 +93,6 @@ clean:
 
 .PHONY: it
 it: epubd pdfa4 
-
-.PHONY: xml
-xml: target/$(book).adoc.xml
 
 # ==============================================================
 # Convert Asciidoctor to PDF
@@ -86,9 +107,16 @@ target/%.adoc.letter.pdf: src/%.adoc
 		--out-file=$@ $<
 
 # ==============================================================
+# Convert Asciidoctor to EPUB
+
+target/%.adoc.epub: src/%.adoc
+	asciidoctor-epub3 \
+		--out-file=$@ $<
+
+# ==============================================================
 # Convert Asciidoctor to DocBook
 
-target/%.adoc.xml: src/%.adoc
+target/%.adoc.dbk: src/%.adoc
 	asciidoctor --backend=docbook5 --out-file=$@ $<
 
 # ==============================================================
@@ -97,8 +125,8 @@ target/%.adoc.xml: src/%.adoc
 # ------------------------------------------------
 # With dbtoepub
 
-target/$(book).adoc.xml.dbtoepub.epub: \
-	target/$(book).adoc.xml \
+target/$(book).adoc.dbk.dbtoepub.epub: \
+	target/$(book).adoc.dbk \
 	src/$(book)-docinfo.xml \
 	src/dbtoepub_stylesheet.css
 	dbtoepub \
@@ -110,8 +138,8 @@ target/$(book).adoc.xml.dbtoepub.epub: \
 
 # Deprecated: The cross references dont't work.
 
-target/$(book).adoc.xml.pandoc.epub: \
-	target/$(book).adoc.xml \
+target/$(book).adoc.dbk.pandoc.epub: \
+	target/$(book).adoc.dbk \
 	src/$(book)-docinfo.xml \
 	src/pandoc_epub_template.txt \
 	src/pandoc_epub_stylesheet.css
@@ -132,7 +160,7 @@ target/$(book).adoc.xml.pandoc.epub: \
 # Deactivated by default: Its result is identical to that of dbtoepub, which is
 # a layer on it.
 
-target/%.adoc.xml.xsltproc.epub: target/%.adoc.xml
+target/%.adoc.dbk.xsltproc.epub: target/%.adoc.dbk
 	rm -fr tmp/xsltproc/* && \
 	xsltproc \
 		--output tmp/xsltproc/ \
@@ -156,8 +184,8 @@ target/%.adoc.xml.xsltproc.epub: target/%.adoc.xml
 # ==============================================================
 # Convert DocBook to OpenDocument
 
-target/$(book).adoc.xml.pandoc.odt: \
-	target/$(book).adoc.xml \
+target/$(book).adoc.dbk.pandoc.odt: \
+	target/$(book).adoc.dbk \
 	src/$(book)-docinfo.xml \
 	src/pandoc_odt_template.txt
 	pandoc \
@@ -171,14 +199,78 @@ target/$(book).adoc.xml.pandoc.odt: \
 		--output $@ $<
 
 # ==============================================================
+# Create the cover image
+
+# ------------------------------------------------
+# Create the canvas and texts of the cover image
+
+font=Helvetica
+background=yellow
+fill=black
+strokewidth=4
+
+tmp/book_cover.canvas.jpg:
+	convert \
+		-size 1200x1600 \
+		canvas:$(background) \
+		$@
+
+tmp/book_cover.title.jpg:
+	convert \
+		-background $(background) \
+		-fill $(fill) \
+		-font $(font) \
+		-pointsize 175 \
+		-size 1000x \
+		-gravity center \
+		caption:$(title) \
+		$@
+
+tmp/book_cover.author.jpg:
+	convert \
+		-background $(background) \
+		-fill $(fill) \
+		-font $(font) \
+		-pointsize 90 \
+		-size 1200x \
+		-gravity center \
+		caption:$(book_author) \
+		$@
+
+# ------------------------------------------------
+# Create the cover image
+ 
+tmp/book_cover.jpg: \
+	tmp/book_cover.canvas.jpg \
+	tmp/book_cover.title.jpg \
+	tmp/book_cover.author.jpg
+	composite -gravity north  -geometry +0+070 tmp/book_cover.title.jpg tmp/book_cover.canvas.jpg $@
+	composite -gravity south  -geometry +0+110 tmp/book_cover.author.jpg tmp/book_cover.jpg $@
+
+# ------------------------------------------------
+# Convert the cover image to PDF
+
+# This is needed in order to make sure the cover image ocuppies the whole page
+# in the PDF versions of the book.
+
+tmp/book_cover.pdf: tmp/book_cover.jpg
+	img2pdf --output $@ --border 0 $<
+
+# ------------------------------------------------
+# Create a thumb version of the cover image
+
+tmp/book_cover_thumb.jpg: tmp/book_cover.jpg
+	convert $< -resize 190x $@
+
+# ==============================================================
 # Change log
 
 # 2019-02-05: Start.
 #
 # 2019-02-07: Add stylesheet to dbtoepub.
 #
-# 2019-02-08: Add debugging rule `xml`. Deprecate pandoc to make the EPUB.
-# Make an OpenDocument version.
+# 2019-02-08: Add debugging rule `xml`. Deprecate pandoc to make the EPUB. Make
+# an OpenDocument version.
 #
 # 2019-02-21: Fix: set `lang` variable. Fix metadata parameters in pandoc
 # commands.
@@ -190,3 +282,9 @@ target/$(book).adoc.xml.pandoc.odt: \
 # clearer.
 #
 # 2019-08-02: Fix directory of the DocBook file.
+#
+# 2020-02-24: Add a cover image.
+#
+# 2020-03-30: Use "dkb" DocBook filename extension instead of "xml". Build an
+# EPUB also with Asciidoctor EPUB3. Update and improve the list of
+# requirements. Update the publisher.

@@ -3,7 +3,7 @@
 # By Marcos Cruz (programandala.net)
 # http://ne.alinome.net
 
-# Last modified 202004012242
+# Last modified 202004020117
 # See change log at the end of the file
 
 # ==============================================================
@@ -50,8 +50,11 @@ description="Grammatica del lingue international auxiliari Interlingue"
 # ==============================================================
 # Interface
 
+.PHONY: default
+default: epuba pdf
+
 .PHONY: all
-all: epub odt pdf
+all: dbk epub odt pdf
 
 .PHONY: epub
 epub: epuba epubd epubp epubx
@@ -125,7 +128,7 @@ target/%.adoc.dbk: src/%.adoc
 # Convert DocBook to EPUB
 
 # ------------------------------------------------
-# With dbtoepub
+# Convert DocBook to EPUB with dbtoepub
 
 # XXX TODO -- Add the cover image. There's no parameter to do it.
 
@@ -138,9 +141,9 @@ target/$(book).adoc.dbk.dbtoepub.epub: \
 		--output $@ $<
 
 # ------------------------------------------------
-# With pandoc
+# Convert DocBook to EPUB with pandoc
 
-# Deprecated: The cross references dont't work.
+# XXX REMARK -- Deactivated by default. The cross references dont't work.
 
 target/$(book).adoc.dbk.pandoc.epub: \
 	target/$(book).adoc.dbk \
@@ -160,10 +163,23 @@ target/$(book).adoc.dbk.pandoc.epub: \
 		--output $@ $<
 
 # ------------------------------------------------
-# With xsltproc
+# Convert DocBook to EPUB with xsltproc
 
-# Deactivated by default: Its result is identical to that of dbtoepub, which is
-# a layer on it.
+# XXX REMARK -- Deactivated by default. Its result is identical to that of
+# dbtoepub, which is a layer above xsltproc.
+
+# XXX TODO -- Add the cover image. Beside copying the image, the files
+# <toc.ncx> and <content.opf> must be modified:
+#
+#	cp -f target/$(cover).jpg tmp/xsltproc/OEBPS/cover-image.jpg && \
+
+# XXX TODO -- Find out how to pass parameters and their names, from the XLS:
+#    --param epub.ncx.filename testing.ncx \
+
+# XXX TODO -- Add the stylesheet. The XLS must be modified first,
+# or the resulting XHTML must be modified at the end.
+#  cp -f src/xsltproc/stylesheet.css tmp/xsltproc/OEBPS/ && \
+
 
 target/%.adoc.dbk.xsltproc.epub: target/%.adoc.dbk target/$(cover).jpg
 	rm -fr tmp/xsltproc/* && \
@@ -178,18 +194,6 @@ target/%.adoc.dbk.xsltproc.epub: target/%.adoc.dbk target/$(cover).jpg
 	zip -rg9 ../../$@.zip OEBPS && \
 	cd - && \
 	mv $@.zip $@
-
-# XXX TODO -- Add the cover image. Beside copying the image, the files
-# <toc.ncx> and <content.opf> must be modified:
-#
-#	cp -f target/$(cover).jpg tmp/xsltproc/OEBPS/cover-image.jpg && \
-
-# XXX TODO -- Find out how to pass parameters and their names, from the XLS:
-#    --param epub.ncx.filename testing.ncx \
-
-# XXX TODO -- Add the stylesheet. The XLS must be modified first,
-# or the resulting XHTML must be modified at the end.
-#  cp -f src/xsltproc/stylesheet.css tmp/xsltproc/OEBPS/ && \
 
 # ==============================================================
 # Convert DocBook to OpenDocument
@@ -333,3 +337,5 @@ tmp/$(cover)_thumb.jpg: target/$(cover).jpg
 # 2020-04-01: Update the project/book title. Improve the cover image. Add the
 # cover image to the documents. Rename the Asciidoctor PDF targets to make both
 # variants be listed together. Add decoration to the cover image.
+#
+# 2020-04-02: Build only the recommended formats by default.

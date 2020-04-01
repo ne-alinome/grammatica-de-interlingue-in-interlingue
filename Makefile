@@ -3,7 +3,7 @@
 # By Marcos Cruz (programandala.net)
 # http://ne.alinome.net
 
-# Last modified 202004011830
+# Last modified 202004011919
 # See change log at the end of the file
 
 # ==============================================================
@@ -209,6 +209,7 @@ font=Helvetica
 background=yellow
 fill=black
 strokewidth=4
+logo='\#FFD700' # gold
 
 tmp/book_cover.title.png:
 	convert \
@@ -249,7 +250,7 @@ tmp/book_cover.logo.png: img/icon_plaincircle.svg
 		-fill $(background) \
 		-opaque white \
 		-fuzz 50% \
-		-fill '#F2EB05' \
+		-fill $(logo) \
 		-opaque black \
 		-resize 256% \
 		$@

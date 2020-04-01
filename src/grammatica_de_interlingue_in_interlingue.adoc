@@ -1355,6 +1355,8 @@ radica, intercalante *t* pos vocal final e mutante un final *d* o *r* a
 
 // XXX NEW -- New layout, one table, with all forms completed:
 
+// XXX FIXME -- This table is fine for PDF, but too wide for EPUB.
+
 [width="100%"]
 |===
 | Infinitive  | Tema perfectic | -ion         | -or         | -ori         | -iv         | -ura

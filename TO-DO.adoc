@@ -16,3 +16,4 @@
 - Add a footnote at "un simplic s" to make clear it's about the
   plural?
 - Consult: the pronunciation of "g" in English is incomplete.
+- Expand "resp."?

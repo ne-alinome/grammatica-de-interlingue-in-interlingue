@@ -3,7 +3,7 @@
 # By Marcos Cruz (programandala.net)
 # http://ne.alinome.net
 
-# Last modified 202004012043
+# Last modified 202004012108
 # See change log at the end of the file
 
 # ==============================================================
@@ -39,6 +39,7 @@
 VPATH=./src:./target
 
 book=grammatica_de_interlingue_in_interlingue
+cover=$(book)_cover
 book_author="Dr. Fritz Haas"
 title="Grammatica de Interlingue in Interlingue"
 lang="ie"
@@ -74,16 +75,16 @@ odt: target/$(book).adoc.dbk.pandoc.odt
 pdf: pdfa4 pdfletter
 
 .PHONY: pdfa4
-pdfa4: target/$(book).adoc.a4.pdf
+pdfa4: target/$(book).adoc._a4.pdf
 
 .PHONY: pdfletter
-pdfletter: target/$(book).adoc.letter.pdf
+pdfletter: target/$(book).adoc._letter.pdf
 
 .PHONY: dbk
 dbk: target/$(book).adoc.dbk
 
 .PHONY: cover
-cover: target/book_cover.jpg
+cover: target/$(cover).jpg
 
 .PHONY: clean
 clean:
@@ -98,11 +99,11 @@ it: epubd pdfa4
 # ==============================================================
 # Convert Asciidoctor to PDF
 
-target/%.adoc.a4.pdf: src/%.adoc tmp/book_cover.pdf
+target/%.adoc._a4.pdf: src/%.adoc tmp/$(cover).pdf
 	asciidoctor-pdf \
 		--out-file=$@ $<
 
-target/%.adoc.letter.pdf: src/%.adoc tmp/book_cover.pdf
+target/%.adoc._letter.pdf: src/%.adoc tmp/$(cover).pdf
 	asciidoctor-pdf \
 		--attribute pdf-page-size=letter \
 		--out-file=$@ $<
@@ -110,7 +111,7 @@ target/%.adoc.letter.pdf: src/%.adoc tmp/book_cover.pdf
 # ==============================================================
 # Convert Asciidoctor to EPUB
 
-target/%.adoc.epub: src/%.adoc target/book_cover.jpg
+target/%.adoc.epub: src/%.adoc target/$(cover).jpg
 	asciidoctor-epub3 \
 		--out-file=$@ $<
 
@@ -155,7 +156,7 @@ target/$(book).adoc.dbk.pandoc.epub: \
 		--variable=editor:$(editor) \
 		--variable=publisher:$(publisher) \
 		--variable=description:$(description) \
-		--epub-cover-image=target/book_cover.jpg \
+		--epub-cover-image=target/$(cover).jpg \
 		--output $@ $<
 
 # ------------------------------------------------
@@ -164,7 +165,7 @@ target/$(book).adoc.dbk.pandoc.epub: \
 # Deactivated by default: Its result is identical to that of dbtoepub, which is
 # a layer on it.
 
-target/%.adoc.dbk.xsltproc.epub: target/%.adoc.dbk target/book_cover.jpg
+target/%.adoc.dbk.xsltproc.epub: target/%.adoc.dbk target/$(cover).jpg
 	rm -fr tmp/xsltproc/* && \
 	xsltproc \
 		--output tmp/xsltproc/ \
@@ -181,7 +182,7 @@ target/%.adoc.dbk.xsltproc.epub: target/%.adoc.dbk target/book_cover.jpg
 # XXX TODO -- Add the cover image. Beside copying the image, the files
 # <toc.ncx> and <content.opf> must be modified:
 #
-#	cp -f target/book_cover.jpg tmp/xsltproc/OEBPS/cover-image.jpg && \
+#	cp -f target/$(cover).jpg tmp/xsltproc/OEBPS/cover-image.jpg && \
 
 # XXX TODO -- Find out how to pass parameters and their names, from the XLS:
 #    --param epub.ncx.filename testing.ncx \
@@ -219,7 +220,7 @@ fill=black
 strokewidth=4
 logo='\#FFD700' # gold
 
-tmp/book_cover.title.png:
+tmp/$(cover).title.png:
 	convert \
 		-background transparent \
 		-fill $(fill) \
@@ -230,7 +231,7 @@ tmp/book_cover.title.png:
 		caption:$(title) \
 		$@
 
-tmp/book_cover.author.png:
+tmp/$(cover).author.png:
 	convert \
 		-background transparent \
 		-fill $(fill) \
@@ -241,7 +242,7 @@ tmp/book_cover.author.png:
 		caption:$(book_author) \
 		$@
 
-tmp/book_cover.publisher.png:
+tmp/$(cover).publisher.png:
 	convert \
 		-background transparent \
 		-fill $(fill) \
@@ -252,7 +253,7 @@ tmp/book_cover.publisher.png:
 		caption:$(publisher) \
 		$@
 
-tmp/book_cover.logo.png: img/icon_plaincircle.svg
+tmp/$(cover).logo.png: img/icon_plaincircle.svg
 	convert $< \
 		-fuzz 50% \
 		-fill $(background) \
@@ -267,17 +268,17 @@ tmp/book_cover.logo.png: img/icon_plaincircle.svg
 # Create the cover image
 
 
-target/book_cover.jpg: \
-	tmp/book_cover.title.png \
-	tmp/book_cover.author.png \
-	tmp/book_cover.publisher.png \
-	tmp/book_cover.logo.png \
+target/$(cover).jpg: \
+	tmp/$(cover).title.png \
+	tmp/$(cover).author.png \
+	tmp/$(cover).publisher.png \
+	tmp/$(cover).logo.png \
 	Makefile
 	convert -size 1200x1600 canvas:$(background) $@
-	composite -gravity south -geometry +0+000 tmp/book_cover.logo.png $@ $@
-	composite -gravity northeast -geometry +96+096 tmp/book_cover.title.png $@ $@
-	composite -gravity northeast -geometry +96+640 tmp/book_cover.author.png $@ $@
-	composite -gravity south -geometry +0+090 tmp/book_cover.publisher.png $@ $@
+	composite -gravity south -geometry +0+000 tmp/$(cover).logo.png $@ $@
+	composite -gravity northeast -geometry +96+096 tmp/$(cover).title.png $@ $@
+	composite -gravity northeast -geometry +96+640 tmp/$(cover).author.png $@ $@
+	composite -gravity south -geometry +0+090 tmp/$(cover).publisher.png $@ $@
 
 # ------------------------------------------------
 # Convert the cover image to PDF
@@ -285,13 +286,13 @@ target/book_cover.jpg: \
 # This is needed in order to make sure the cover image ocuppies the whole page
 # in the PDF versions of the book.
 
-tmp/book_cover.pdf: target/book_cover.jpg
+tmp/$(cover).pdf: target/$(cover).jpg
 	img2pdf --output $@ --border 0 $<
 
 # ------------------------------------------------
 # Create a thumb version of the cover image
 
-tmp/book_cover_thumb.jpg: target/book_cover.jpg
+tmp/$(cover)_thumb.jpg: target/$(cover).jpg
 	convert $< -resize 190x $@
 
 # ==============================================================
@@ -322,4 +323,5 @@ tmp/book_cover_thumb.jpg: target/book_cover.jpg
 # requirements. Update the publisher.
 #
 # 2020-04-01: Update the project/book title. Improve the cover image. Add the
-# cover image to the documents.
+# cover image to the documents. Rename the Asciidoctor PDF targets to make both
+# variants be listed together.

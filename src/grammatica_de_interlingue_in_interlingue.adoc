@@ -10,19 +10,19 @@ ifdef::backend-pdf[]
 :toc: macro
 :toclevels: 3
 :toc-title: Contenete
-:front-cover-image: ../tmp/book_cover.pdf
+:front-cover-image: ../tmp/grammatica_de_interlingue_in_interlingue_cover.pdf
 endif::[]
 ifdef::backend-epub3[]
 :doctype: book
 :toclevels: 3
 :toc-title: Contenete
-:front-cover-image: ../target/book_cover.jpg
+:front-cover-image: ../target/grammatica_de_interlingue_in_interlingue_cover.jpg
 endif::[]
 
 // This Asciidoctor version by Marcos Cruz (programandala.net) for
 // http://ne.alinome.net, 2019.
 
-// Last modified 202004012054
+// Last modified 202004012106
 
 :dot: .
 

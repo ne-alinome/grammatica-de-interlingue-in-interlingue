@@ -3,7 +3,7 @@
 # By Marcos Cruz (programandala.net)
 # http://ne.alinome.net
 
-# Last modified 202004011919
+# Last modified 202004012043
 # See change log at the end of the file
 
 # ==============================================================
@@ -98,11 +98,11 @@ it: epubd pdfa4
 # ==============================================================
 # Convert Asciidoctor to PDF
 
-target/%.adoc.a4.pdf: src/%.adoc
+target/%.adoc.a4.pdf: src/%.adoc tmp/book_cover.pdf
 	asciidoctor-pdf \
 		--out-file=$@ $<
 
-target/%.adoc.letter.pdf: src/%.adoc
+target/%.adoc.letter.pdf: src/%.adoc tmp/book_cover.pdf
 	asciidoctor-pdf \
 		--attribute pdf-page-size=letter \
 		--out-file=$@ $<
@@ -110,7 +110,7 @@ target/%.adoc.letter.pdf: src/%.adoc
 # ==============================================================
 # Convert Asciidoctor to EPUB
 
-target/%.adoc.epub: src/%.adoc
+target/%.adoc.epub: src/%.adoc target/book_cover.jpg
 	asciidoctor-epub3 \
 		--out-file=$@ $<
 
@@ -125,6 +125,8 @@ target/%.adoc.dbk: src/%.adoc
 
 # ------------------------------------------------
 # With dbtoepub
+
+# XXX TODO -- Add the cover image. There's no parameter to do it.
 
 target/$(book).adoc.dbk.dbtoepub.epub: \
 	target/$(book).adoc.dbk \
@@ -153,6 +155,7 @@ target/$(book).adoc.dbk.pandoc.epub: \
 		--variable=editor:$(editor) \
 		--variable=publisher:$(publisher) \
 		--variable=description:$(description) \
+		--epub-cover-image=target/book_cover.jpg \
 		--output $@ $<
 
 # ------------------------------------------------
@@ -161,7 +164,7 @@ target/$(book).adoc.dbk.pandoc.epub: \
 # Deactivated by default: Its result is identical to that of dbtoepub, which is
 # a layer on it.
 
-target/%.adoc.dbk.xsltproc.epub: target/%.adoc.dbk
+target/%.adoc.dbk.xsltproc.epub: target/%.adoc.dbk target/book_cover.jpg
 	rm -fr tmp/xsltproc/* && \
 	xsltproc \
 		--output tmp/xsltproc/ \
@@ -174,6 +177,11 @@ target/%.adoc.dbk.xsltproc.epub: target/%.adoc.dbk
 	zip -rg9 ../../$@.zip OEBPS && \
 	cd - && \
 	mv $@.zip $@
+
+# XXX TODO -- Add the cover image. Beside copying the image, the files
+# <toc.ncx> and <content.opf> must be modified:
+#
+#	cp -f target/book_cover.jpg tmp/xsltproc/OEBPS/cover-image.jpg && \
 
 # XXX TODO -- Find out how to pass parameters and their names, from the XLS:
 #    --param epub.ncx.filename testing.ncx \
@@ -277,13 +285,13 @@ target/book_cover.jpg: \
 # This is needed in order to make sure the cover image ocuppies the whole page
 # in the PDF versions of the book.
 
-tmp/book_cover.pdf: tmp/book_cover.jpg
+tmp/book_cover.pdf: target/book_cover.jpg
 	img2pdf --output $@ --border 0 $<
 
 # ------------------------------------------------
 # Create a thumb version of the cover image
 
-tmp/book_cover_thumb.jpg: tmp/book_cover.jpg
+tmp/book_cover_thumb.jpg: target/book_cover.jpg
 	convert $< -resize 190x $@
 
 # ==============================================================
@@ -313,4 +321,5 @@ tmp/book_cover_thumb.jpg: tmp/book_cover.jpg
 # EPUB also with Asciidoctor EPUB3. Update and improve the list of
 # requirements. Update the publisher.
 #
-# 2020-04-01: Update the project/book title. Improve the cover image.
+# 2020-04-01: Update the project/book title. Improve the cover image. Add the
+# cover image to the documents.

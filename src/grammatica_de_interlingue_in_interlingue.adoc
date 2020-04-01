@@ -1,8 +1,8 @@
-= Grammatica de Interlingue
+= Grammatica de Interlingue in Interlingue
 :author: Dr. Fritz Haas
-:revnumber: 0.1.0-pre.22+20191201
+:revnumber: 0.1.0-pre.23+20200401
 :version-label: Version de ti edition digital:
-:description: Grammatica de Interlingue in Interlingue
+:description: Grammatica del lingue auxiliar international Interlingue
 :lang: ie
 :docinfo: private
 ifdef::backend-pdf[]
@@ -15,16 +15,14 @@ endif::[]
 // This Asciidoctor version by Marcos Cruz (programandala.net) for
 // http://ne.alinome.net, 2019.
 
-// Last modified 202002271753
+// Last modified 202004011451
 
 :dot: .
 
 // Pri ti libre {{{1
 == Pri ti libre
 
-Titul:: Grammatica de Interlingue.
-
-Titul original:: Grammatica de Interlingue in Interlingue.
+Titul:: Grammatica de Interlingue in Interlingue.
 
 Autor:: Dr. Fritz Haas.
 

@@ -1,6 +1,6 @@
-= TO-DO of _Grammatica de Interlingue_
+= TO-DO of _Grammatica de Interlingue in Interlingue_
 :author: Marcos Cruz (programandala.net)
-:revdate: 2019-10-31
+:revdate: 2020-04-01
 
 - Homogenize examples in tables and lists.
 - Separate all paragraph numbers from headings?

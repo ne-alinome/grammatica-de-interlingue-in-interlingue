@@ -1,4 +1,4 @@
-= Grammatica de Interlingue
+= Grammatica de Interlingue in Interlingue
 :author: Marcos Cruz (programandala.net)
 :revdate: 2020-04-01
 :toc:

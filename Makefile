@@ -1,8 +1,8 @@
-# Makefile of _Grammatica de Interlingue_
+# Makefile of _Grammatica de Interlingue in Interlingue_
 
 # By Marcos Cruz (programandala.net)
 
-# Last modified 202003300159
+# Last modified 202004011452
 # See change log at the end of the file
 
 # ==============================================================

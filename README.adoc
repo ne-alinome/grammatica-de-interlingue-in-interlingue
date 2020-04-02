@@ -17,10 +17,9 @@
 // About this project {{{2
 === About this project
 
-Goal:: Make a e-book (in EPUB and other formats) of _Grammatica de
-Interlingue in Interlingue_ by Dr. F. Haas, digitalizaded by S.
-Belitzky out of the edition of Interlingue-Servicie, Winterthur
-(Switzerland), 1956
+Goal:: Make a e-book (in EPUB and other formats) of _Grammatica de Interlingue
+in Interlingue_ by Dr. F. Haas, published by Interlingue-Servicie, Winterthur
+(Switzerland), 1956.
 
 Author:: Marcos Cruz (programandala.net), 2019, 2020.
 
@@ -63,9 +62,9 @@ The documents are built in the <target> directory.
 // Pri ĉi projekto {{{2
 === Pri ĉi projekto
 
-Celo:: Krei bitlibron (EPUB-an kaj ali-formatan) el _Grammatica de
-Interlingue in Interlingue_, de Dr. F. Haas, bitigita de S.  Belitzky
-el la eldono de Interlingue-Servicie, Winterthur (Svislando), 1956.
+Celo:: Krei bitlibron (EPUB-an kaj ali-formatan) el _Grammatica de Interlingue
+in Interlingue_, de Dr. F. Haas, publikigita de Interlingue-Servicie,
+Winterthur (Svislando), 1956.
 
 Aŭtoro:: Marcos Cruz (programandala.net), 2019, 2020.
 
@@ -108,9 +107,8 @@ La dosieroj estos kreitaj en la dosierujo <target> (celo).
 // Acerca de este proyecto {{{2
 === Acerca de este proyecto
 
-Objetivo:: Crear un libro digital (en EPUB y otros formatos) de
-__Grammatica de Interlingue in Interlingue_, de Dr. F. Haas,
-digitalizado por S. Belitzky a partir de la edición de
+Objetivo:: Crear un libro digital (en EPUB y otros formatos) de __Grammatica de
+Interlingue in Interlingue_, de Dr. F. Haas, publicado por
 Interlingue-Servicie, Winterthur (Suiza), 1956.
 
 Autor:: Marcos Cruz (programandala.net), 2019, 2020.
@@ -155,9 +153,8 @@ Los ficheros se crearán en el directorio <target> (objetivo).
 // Pri ti projecte {{{2
 === Pri ti projecte
 
-Scope:: Crear un libre digital (in EPUB e altri formates) de
-_Grammatica de Interlingue in Interlingue_, de Dr. F. Haas,
-digitalizita de S. Belitzky ex li edition de Interlingue-Servicie,
+Scope:: Crear un libre digital (in EPUB e altri formates) de _Grammatica de
+Interlingue in Interlingue_, de Dr. F. Haas, publicat de Interlingue-Servicie,
 Winterthur (Svissia), 1956.
 
 Autor:: Marcos Cruz (programandala.net), 2019, 2020.

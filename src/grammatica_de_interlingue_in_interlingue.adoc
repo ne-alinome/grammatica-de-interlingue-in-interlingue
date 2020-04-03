@@ -1,6 +1,6 @@
 = Grammatica de Interlingue in Interlingue
 :author: Dr. Fritz Haas
-:revnumber: 0.1.0-pre.25+20200401
+:revnumber: 0.1.0-pre.26+20200404
 :version-label: Version de ti edition digital:
 :description: Grammatica del lingue auxiliar international Interlingue
 :lang: ie
@@ -22,7 +22,7 @@ endif::[]
 // This Asciidoctor version by Marcos Cruz (programandala.net) for
 // http://ne.alinome.net, 2019.
 
-// Last modified 202004012106
+// Last modified 202004040105
 
 :dot: .
 
@@ -47,6 +47,7 @@ Marcos Cruz, 2019, 2020{dot} Obtenibil in
 
 Principal changes in ti edition::
 - Corection de omni trovat erras.
+- Mettion de omni ínobligatori accentus.
 - Amelioration del leibilitá, precipue de tabelles e listes, por omni
   formates.
 - Creation de intern ligamentes.
@@ -405,12 +406,14 @@ champagne, cognac.
 // Accentuation {{{1
 == Accentuation
 
-[[par8,§8]]§8. *Li accentu primari* sta sur li vocal ante li ultim consonant, ma
-ne sur li quar síllabes *bil, ic, im, ul*, queles porta li accentu al
-precedent síllab, mem si ti-ci es *bil, ic, im, ul*. Un simplic *s* e li
-du síllabes *men* e *um* in li fine del parol ne changea li accentuation
-del precedent parol-parte. Si ti regules ne es aplicabil, on accentua li
-prim vocal del parol.
+[[par8,§8]]§8. *Li accentu primari* sta sur li vocal ante li ultim
+consonant, ma ne sur li quar síllabes *bil, ic, im, ul*, queles porta
+li accentu al precedent síllab, mem si ti-ci es *bil, ic, im, ul*. Un
+simplic *s* e li du síllabes *men* e *um* in li fine del parol ne
+changea li accentuation del precedent parol-parte{blank}footnote:[Li
+autor parola ne pri qualcunc parol-fine, ma pri li terminationes «-s»
+del plural, «-men» del adverbies e li sufixe «-um». Editor digital.].
+Si ti regules ne es aplicabil, on accentua li prim vocal del parol.
 
 Si li natural accentuation ne seque ti regul, it es marcat per un
 *accentu scrit* (preferibilmen quam in «é», tolerat anc «è» o
@@ -697,8 +700,11 @@ on adjunte li finale *-um*.
 li novum, li bellum.
 ====
 
-[[par32,§32]]§32. Li adjective es *ínvariabil* in génere e númere. _li grand filio,
-li grand filia, li grand filios, li grand filias._
+[[par32,§32]]§32. Li adjective es *ínvariabil* in génere e númere.
+
+====
+li grand filio, li grand filia, li grand filios, li grand filias.
+====
 
 [[par33,§33]]§33. Quande li adjective es usat sin substantive e on deve pro cert
 rasones indicar li *plurale*, on adjunte *-s*, pos consonantes
@@ -717,8 +723,10 @@ Vi pomes, prende li maturis.
 - li *majoritá* per *plu - quam*
 - li *minoritá* per *minu - quam*
 
+====
 Il es tam grand quam su fratre; il es plu grand quam su fratre; il es
 minu grand quam su fratre. Il es plu grand quam yo. Li plu grand libre.
+====
 
 [[par35,§35]]§35 Por li *superlative* on indica
 
@@ -796,9 +804,12 @@ vide unaltru. Noi vide unaltru.
 [[par42,§42]]§42. *Pos prepositiones* on usa li acusative, o li
 nominative except «yo» e «tu».
 
+// XXX FIXED -- "Yo veni pos vos" -> "Yo veni pos vu (o vos)". Ti
+// exemple esset íncoherent con li altris.
+
 ====
 Veni con me! Yo veni con te. Noi ea con le (o il). Vu ea con ella (o
-la). Noi parla pri it. On parla pri nos. Yo veni pos vos. Yo labora por
+la). Noi parla pri it. On parla pri nos. Yo veni pos vu (o vos). Yo labora por
 les (o ili).
 ====
 
@@ -814,11 +825,15 @@ lingue matrin, e ili prende li *plurale*, si necessi.
 |mi | tui | su | nor | vor | lor
 |===
 
+// XXX FIXED -- "súpera mís" -> "súpera mis". It ne es un ver erra, ma
+// li simplicitá sembla preferibil in un libre de aprension vice tal
+// casus de stil.
+
 ====
 To es mi. To es li mi. To es mi libres. To es li mis. To es tui. To es
 li tui. To es lor. To es li lor. To es li lores. Vi nor parapluvies. Li
 mi es plu grand quam vor, o: quam li vor. Vidente nor canes yo constata
-que li tuis súpera li mis in vìvacitá, o: que tuis súpera mís in
+que li tuis súpera li mis in vivacitá, o: que tuis súpera mis in
 vivacitá, etc. To es lores; to es li lores. Ples far lu tui. Ples da me
 tui libre. Il deve far li su.
 ====
@@ -848,8 +863,9 @@ Li *sexu* posse exceptionalmen esser indicat per li pronómin personal.
 il-ti, il-ci, ella-ti, illos-ci, ellas-ta.
 ====
 
-[[par46,§46]]§46. *Ti, tal e tant* es li corelatives de *quel, qual e quant*. (Tant
-ne posse prender li plurale, proque it self indica li plurale.)
+[[par46,§46]]§46. *Ti, tal e tant* es li corelatives de *quel, qual e
+quant*. («Tant» ne posse prender li plurale, proque it self indica li
+plurale.)
 
 ====
 Quel libres vu prefere? Ti libres, queles anc vu ama. Qual libres vu
@@ -906,13 +922,16 @@ lingue fa un constant progress, quo (quel facte) tre joya me.
 ínmediat vale. Si un altri deve valer, on indica to per pronómines
 personal o demonstrativ, o per comma.
 
+// XXX FIXED -- "To es li sestra de mi amíco" -> "Ti es li sestra de
+// mi amíco"; "cíté" -> "cité":
+
 ====
 Yo videt li fratre de mi amíco quel arivat yer. Yo videt li fratre de mi
-amíco, il quel (o il qui) arivat yer. To es li sestra de mi amíco, ella
+amíco, il quel (o il qui) arivat yer. Ti es li sestra de mi amíco, ella
 qui arivat yer. Yer yo videt li possessor del dom, qui (o il qui, o ti
 qui, o li quel, o ti quel) es in li cité. Yer yo videt li possessor del
 dom quel es in li cité. Yer yo videt li possessor del dom, quel es in Ii
-cíté.
+cité.
 ====
 
 [[par53,§53]]§53. Por expresser li *qualitá* on usa: *qual*, por li *quantitá:
@@ -931,6 +950,9 @@ ne save, quant il ha dat le. Quant vive, tant espera.
 prefix *ne-* tales indicant li absentie, li negation, e li sufix
 *-cunc* fa definit pronómines relativ índefinit.
 
+// XXX TODO -- Decider pri ca metter "alcos" e li pednote o ne:
+
+[cols=3]
 |===
 | alquel  | nequel  | quelcunc
 | alqual  | nequal  | qualcunc
@@ -938,7 +960,10 @@ prefix *ne-* tales indicant li absentie, li negation, e li sufix
 | alquó   | nequó   | quocunc
 | alquí   | nequí   | quicunc
 | alcun   | necun   |
-|         | necos   |
+| alcos{blank}footnote:[«alcos» mancat in li edition original.
+It esset adjuntet in ti edition nam it es un forme frequent. In contrari, «cuncunc» e
+«coscunc» nequande esset usat. Editor digital]
+| necos   |
 |===
 
 ====
@@ -1158,8 +1183,11 @@ Li *future anteriori* es:
 
 [[par73,§73]]§73. Li *conditionale simplic* es format per li auxiliare *vell*:
 
+// XXX FIXED -- "Noi vell laborar" -> "Noi vell fabricar", secun omni
+// altri exemples.
+
 ====
-- Noi vell laborar.
+- Noi vell fabricar.
 - Vu vell expedir.
 - Ili vell constructer.
 ====
@@ -1183,7 +1211,8 @@ per adjunter *-nt* al tema presentic:
 Li verbes con *-i* prende *-ent* vice *-nt* por retrovar li derivates
 international, p. ex. convenientie, provenientie.
 
-Li *adverbial form* es usat quam *gerundie* (= durant que o per to que)
+Li *adverbial form* es usat quam *gerundie* (= «durant que» o «per to
+que»)
 per adjunter *-e*:
 
 [width="100%"]
@@ -1391,6 +1420,8 @@ international formes:
 | tener      | tention  | tenion
 |===
 
+// XXX TODO -- Pednote pri li tot contenete del punctu 81:
+
 [[par81,§81]]§81. Che li tri verbes: *far, dir, scrir* on posse formar li derivates
 per li complet radicas: *fact, dict, script*.
 
@@ -1537,9 +1568,11 @@ e de dúbit.
 
 [[par94,§94]]§94. Li *adverbies de maniere* responde al question: *qualmen?*
 
+// XXX FIXED -- omni "tamen" in li libre -> "támen":
+
 qualmen, quam, talmen, tam, alquam, nequam, solmen, apen, tot, totalmen,
 totmen, ne totmen, totmen ne, presc, poc, poc a poc, mem, precipue,
-junt, anc, denove, tamen, malgré to, dunc.
+junt, anc, denove, támen, malgré to, dunc.
 
 ====
 Yo ne save, qualmen il posse laborar tam rapidmen quam un machine, nam
@@ -1548,7 +1581,7 @@ ne acte quam un rey. It es impossibíl far it talmen. Il ha fat it alquam
 (={nbsp}in alcun maniere). Il posse far it nequam (={nbsp}in necun
 maniere). It es tot
 egal, esque vu vide li tot munde o quelc partes de it. Il ha totalmen
-miscomprendet ti libre. Ma tamen on ne deve judicar solmen la, proque
+miscomprendet ti libre. Ma támen on ne deve judicar solmen la, proque
 ella ne totmen comprende li lingue, e to es totmen ne su propri culpa.
 On posse mem dir que to es precipue li culpa del altris.
 ====
@@ -1865,7 +1898,7 @@ Ella plorat pro joya. Yo mersía pro vor auxilie.
 pos::
 +
 ====
-Pos quelc dies ili tamen atinget lor scope. Li capitano veni pos
+Pos quelc dies ili támen atinget lor scope. Li capitano veni pos
 li major.
 ====
 
@@ -1986,13 +2019,13 @@ chambre ínter su infantes.
 
 [[par104,§104]]§104, Conjunctiones de *coordination* es:
 
-e, e ... e, o, o ... o, ni, ni ... ni, sive ... sive, ma, nam, tamen,
+e, e ... e, o, o ... o, ni, ni ... ni, sive ... sive, ma, nam, támen,
 ergo, dunc, plu ... plu, nu, nu ... nu.
 
 ====
 E li patre e li matre devenit ciec. O il veni o noi deve cluder li
 porta. Il certmen ne va manjar ni trincar, nam il ni manja carne, ni
-trinca alcohol. Sive tu consenti, sive tu ne consenti, noi tamen va far
+trinca alcohol. Sive tu consenti, sive tu ne consenti, noi támen va far
 it; ma plu tu obstina te, plu tu va esser isolat. Nu, tu posse far quo
 tu vole. Il ne plu es normal in li cap, nam nu il ride, nu il plora sin
 visibil motive.
@@ -2720,7 +2753,7 @@ international, que un mult plu grand circul de persones es capabil
 realmen mastrisar ti simplic mecanisme sin exceptiones, quam to vell
 esser possibil in alquel lingue national con su mult plu complicat
 regules e con omni li exceptiones e li amasse de special manieres de
-expression. Tamen Interlingue possede li plen expressivitá del lingues
+expression. Támen Interlingue possede li plen expressivitá del lingues
 national; nam it ne renuncia a cert possibilitás de expression, it
 solmen selecte in chascun punctu li maxim simplic o li maxim conosset
 form de expression.

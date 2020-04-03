@@ -171,8 +171,8 @@ In prim, ples confirmar que li programes listat in li section
 "Requirements" (besones) del document <Makefile> es installat in vor
 sistema.
 
-Tande ples intrar li documentiere del projecte e comandar `make` por crear li
-formates recomandat.
+Tande ples intrar li documentiere del projecte e comandar `make` 
+secun lu sequent:
 
 |===
 | Comande             | Efecte

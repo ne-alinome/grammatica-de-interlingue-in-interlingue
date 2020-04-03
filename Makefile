@@ -3,11 +3,11 @@
 # By Marcos Cruz (programandala.net)
 # http://ne.alinome.net
 
-# Last modified 202004020117
+# Last modified 202004022222
 # See change log at the end of the file
 
 # ==============================================================
-# Requirements
+# Requirements {{{1
 
 # Asciidoctor (by Dan Allen, Sarah White et al.)
 #   http://asciidoctor.org
@@ -34,13 +34,13 @@
 #   http://xmlsoft.org/xslt/xsltproc.html
 
 # ==============================================================
-# Config
+# Config {{{1
 
 VPATH=./src:./target
 
 book=grammatica_de_interlingue_in_interlingue
 cover=$(book)_cover
-book_author="Dr. Fritz Haas"
+author="Dr. Fritz Haas"
 title="Grammatica de Interlingue in Interlingue"
 lang="ie"
 editor="Marcos Cruz (programandala.net)"
@@ -48,13 +48,13 @@ publisher="ne alinome"
 description="Grammatica del lingue international auxiliari Interlingue"
 
 # ==============================================================
-# Interface
+# Interface {{{1
 
 .PHONY: default
-default: epuba pdf
+default: epuba pdf thumb
 
 .PHONY: all
-all: dbk epub odt pdf
+all: dbk epub odt pdf thumb
 
 .PHONY: epub
 epub: epuba epubd epubp epubx
@@ -87,20 +87,37 @@ pdfletter: target/$(book).adoc._letter.pdf
 dbk: target/$(book).adoc.dbk
 
 .PHONY: cover
+cover: target/$(cover).jpg target/$(cover)_thumb.jpg
+
+.PHONY: cover
 cover: target/$(cover).jpg
+
+.PHONY: thumb
+thumb: target/$(cover)_thumb.jpg
 
 .PHONY: clean
 clean:
 	rm -fr target/* tmp/*
 
-# ----------------------------------------------
-# Development
-
-.PHONY: it
-it: epubd pdfa4 
+.PHONY: cleancover
+cleancover:
+	rm -f target/*.jpg tmp/*.png
 
 # ==============================================================
-# Convert Asciidoctor to PDF
+# Convert Asciidoctor to EPUB {{{1
+
+target/%.adoc.epub: src/%.adoc target/$(cover).jpg
+	asciidoctor-epub3 \
+		--out-file=$@ $<
+
+# ==============================================================
+# Convert Asciidoctor to DocBook {{{1
+
+target/%.adoc.dbk: src/%.adoc
+	asciidoctor --backend=docbook5 --out-file=$@ $<
+
+# ==============================================================
+# Convert Asciidoctor to PDF {{{1
 
 target/%.adoc._a4.pdf: src/%.adoc tmp/$(cover).pdf
 	asciidoctor-pdf \
@@ -112,23 +129,10 @@ target/%.adoc._letter.pdf: src/%.adoc tmp/$(cover).pdf
 		--out-file=$@ $<
 
 # ==============================================================
-# Convert Asciidoctor to EPUB
-
-target/%.adoc.epub: src/%.adoc target/$(cover).jpg
-	asciidoctor-epub3 \
-		--out-file=$@ $<
-
-# ==============================================================
-# Convert Asciidoctor to DocBook
-
-target/%.adoc.dbk: src/%.adoc
-	asciidoctor --backend=docbook5 --out-file=$@ $<
-
-# ==============================================================
-# Convert DocBook to EPUB
+# Convert DocBook to EPUB {{{1
 
 # ------------------------------------------------
-# Convert DocBook to EPUB with dbtoepub
+# Convert DocBook to EPUB with dbtoepub {{{2
 
 # XXX TODO -- Add the cover image. There's no parameter to do it.
 
@@ -141,7 +145,7 @@ target/$(book).adoc.dbk.dbtoepub.epub: \
 		--output $@ $<
 
 # ------------------------------------------------
-# Convert DocBook to EPUB with pandoc
+# Convert DocBook to EPUB with pandoc {{{2
 
 # XXX REMARK -- Deactivated by default. The cross references dont't work.
 
@@ -149,7 +153,8 @@ target/$(book).adoc.dbk.pandoc.epub: \
 	target/$(book).adoc.dbk \
 	src/$(book)-docinfo.xml \
 	src/pandoc_epub_template.txt \
-	src/pandoc_epub_stylesheet.css
+	src/pandoc_epub_stylesheet.css \
+	target/$(cover).jpg
 	pandoc \
 		--from docbook \
 		--to epub3 \
@@ -163,7 +168,7 @@ target/$(book).adoc.dbk.pandoc.epub: \
 		--output $@ $<
 
 # ------------------------------------------------
-# Convert DocBook to EPUB with xsltproc
+# Convert DocBook to EPUB with xsltproc {{{2
 
 # XXX REMARK -- Deactivated by default. Its result is identical to that of
 # dbtoepub, which is a layer above xsltproc.
@@ -196,7 +201,7 @@ target/%.adoc.dbk.xsltproc.epub: target/%.adoc.dbk target/$(cover).jpg
 	mv $@.zip $@
 
 # ==============================================================
-# Convert DocBook to OpenDocument
+# Convert DocBook to OpenDocument {{{1
 
 target/$(book).adoc.dbk.pandoc.odt: \
 	target/$(book).adoc.dbk \
@@ -213,10 +218,10 @@ target/$(book).adoc.dbk.pandoc.odt: \
 		--output $@ $<
 
 # ==============================================================
-# Create the cover image
+# Create the cover image {{{1
 
 # ------------------------------------------------
-# Create the canvas and texts of the cover image
+# Create the canvas and texts of the cover image {{{2
 
 font=Helvetica
 background=yellow
@@ -243,7 +248,7 @@ tmp/$(cover).author.png:
 		-pointsize 90 \
 		-size 890x \
 		-gravity east \
-		caption:$(book_author) \
+		caption:$(author) \
 		$@
 
 tmp/$(cover).publisher.png:
@@ -268,7 +273,7 @@ tmp/$(cover).logo.png: img/icon_plaincircle.svg
 		-resize 256% \
 		$@
 
-tmp/$(cover).decoration.png: img/decoration.png
+tmp/$(cover).decoration.png: img/$(book)_cover_decoration.png
 	convert $< \
 		-fuzz 10% \
 		-fill $(background) \
@@ -277,7 +282,7 @@ tmp/$(cover).decoration.png: img/decoration.png
 		$@
 
 # ------------------------------------------------
-# Create the cover image
+# Create the cover image {{{2
 
 target/$(cover).jpg: \
 	tmp/$(cover).title.png \
@@ -293,7 +298,7 @@ target/$(cover).jpg: \
 	composite -gravity west      -geometry +102+170 tmp/$(cover).decoration.png $@ $@
 
 # ------------------------------------------------
-# Convert the cover image to PDF
+# Convert the cover image to PDF {{{2
 
 # This is needed in order to make sure the cover image ocuppies the whole page
 # in the PDF versions of the book.
@@ -302,13 +307,13 @@ tmp/$(cover).pdf: target/$(cover).jpg
 	img2pdf --output $@ --border 0 $<
 
 # ------------------------------------------------
-# Create a thumb version of the cover image
+# Create a thumb version of the cover image {{{2
 
-tmp/$(cover)_thumb.jpg: target/$(cover).jpg
+%_thumb.jpg: %.jpg
 	convert $< -resize 190x $@
 
 # ==============================================================
-# Change log
+# Change log {{{1
 
 # 2019-02-05: Start.
 #
@@ -338,4 +343,6 @@ tmp/$(cover)_thumb.jpg: target/$(cover).jpg
 # cover image to the documents. Rename the Asciidoctor PDF targets to make both
 # variants be listed together. Add decoration to the cover image.
 #
-# 2020-04-02: Build only the recommended formats by default.
+# 2020-04-02: Build only the recommended formats by default. Add rule
+# "cleancover". Make the thumb cover by default. Fix: make Pandoc require the
+# cover image to build the EPUB.

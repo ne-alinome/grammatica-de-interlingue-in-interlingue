@@ -18,4 +18,3 @@
 - Consult: the pronunciation of "g" in English is incomplete.
 - Expand "resp."?
 - Usar un majuscule initial in exemple-blocs con parol-listes?
-- Add a table of contents to the PDF version.

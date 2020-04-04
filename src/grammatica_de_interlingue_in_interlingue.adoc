@@ -1,28 +1,25 @@
 = Grammatica de Interlingue in Interlingue
 :author: Dr. Fritz Haas
-:revnumber: 0.1.0-pre.34+20200405
+:revnumber: 0.1.0-pre.35+20200405
 :version-label: Version de ti edition digital:
 :description: Grammatica del lingue auxiliar international Interlingue
 :lang: ie
 :docinfo: private
-ifdef::backend-pdf[]
 :doctype: book
-:toc: auto
 :toclevels: 3
 :toc-title: Contenete
+ifdef::backend-pdf[]
+:toc: auto
 :front-cover-image: ../tmp/grammatica_de_interlingue_in_interlingue_cover.pdf
 endif::[]
 ifdef::backend-epub3[]
-:doctype: book
-:toclevels: 3
-:toc-title: Contenete
 :front-cover-image: ../target/grammatica_de_interlingue_in_interlingue_cover.jpg
 endif::[]
 
 // This Asciidoctor version by Marcos Cruz (programandala.net) for
 // http://ne.alinome.net, 2019.
 
-// Last modified 202004050101
+// Last modified 202004050104
 
 :dot: .
 

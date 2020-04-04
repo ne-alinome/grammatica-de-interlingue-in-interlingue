@@ -1,6 +1,6 @@
 = Grammatica de Interlingue in Interlingue
 :author: Dr. Fritz Haas
-:revnumber: 0.1.0-pre.31+20200404
+:revnumber: 0.1.0-pre.32+20200405
 :version-label: Version de ti edition digital:
 :description: Grammatica del lingue auxiliar international Interlingue
 :lang: ie
@@ -22,7 +22,7 @@ endif::[]
 // This Asciidoctor version by Marcos Cruz (programandala.net) for
 // http://ne.alinome.net, 2019.
 
-// Last modified 202004042207
+// Last modified 202004050044
 
 :dot: .
 
@@ -434,7 +434,7 @@ parte seque ti regules, li altres posse reciver un accentu secundari.
 // XXX FIXED -- "genú-articulation" -> "genú-articulatiòn"
 // XXX FIXED -- "ferrovìa" -> "fèrrovìa" (hay anc "fèrro-vìa", quel esset bon)
 
-// XXX FIXME -- 2019-08-09: Li comensa original esset:
+// XXX TODO -- 2019-08-09: Li comensa original esset:
 //
 //    Li pòríu(*), familie, àvie, doctòr, formàr, li formàt, li formàte,
 //
@@ -969,8 +969,6 @@ ne save, quant il ha dat le. Quant vive, tant espera.
 prefix *ne-* tales indicant li absentie, li negation, e li sufix
 *-cunc* fa definit pronómines relativ índefinit.
 
-// XXX TODO -- Decider pri ca metter "alcos" e li pednote o ne:
-
 [cols=3]
 |===
 | alquel  | nequel  | quelcunc
@@ -979,8 +977,8 @@ prefix *ne-* tales indicant li absentie, li negation, e li sufix
 | alquó   | nequó   | quocunc
 | alquí   | nequí   | quicunc
 | alcun   | necun   |
-| alcos{blank}footnote:[«alcos» mancat in li edition original.
-It esset adjuntet in ti edition nam it es un forme frequent. In contrari, «cuncunc» e
+| alcos{blank}footnote:[Li forme «alcos» mancat in li edition original.
+It esset adjuntet in ti edition nam it es usat. In contrari, «cuncunc» e
 «coscunc» nequande esset usat. Editor digital]
 | necos   |
 |===
@@ -1364,9 +1362,6 @@ in omni altri casus li rest self es li tema perfectic.
 
 // XXX FIXED -- "ye li verbes" -> "e che li verbes":
 
-// XXX TODO -- Copy the explanation about the verb stems into the individual
-// entries:
-
 On posse anc dir, que li sufixes: *-ion, -or, -ori, -iv* e *-ura* es adjuntet
 che li verbes con *ar* e *ir* al participie passat, e che li verbes con
 *er* al
@@ -1661,8 +1656,7 @@ ordinarimen ne usat. Editor digital. \
 *Quin verbes* forma ti derivates un poc diferentmen, usante li
 international formes:
 
-// XXX TODO -- Also all derivates? I.e. should the table show the alternative
-// "tema perfectiv", e.g. "sess", "cess", "vers", "tent"?
+////
 
 [width="100%"]
 |===
@@ -1675,6 +1669,26 @@ international formes:
 | tener      | tention  | tenion
 |===
 
+////
+
+// XXX NEW -- Plu clar alternative, con temas perfectic regulari e
+// ínregulari:
+
+:pednote1677: Por claritá, anc li temas perfectic, regulari e \
+ínregulari, es includet in li tabelle in ti edition. Editor digital.
+
+
+[width="100%"]
+|===
+| Infinitive{blank}footnote:[{pednote1677}] | Tema perfectic | Vice | -ion | Vice
+
+| seder      | sess           | _ses_   | session | _sesion_
+| ceder      | cess           | _ces_   | cession | _cesion_
+| verter     | vers           | _vert_  | version | _vertion_
+| venir      | vent           | _venit_ | vention | _venition_
+| tener      | tent           | _ten_   | tention | _tenion_
+|===
+
 // XXX TODO -- Pednote pri li tot contenete del punctu 81:
 
 [[par81,§81]]§81. Che li tri verbes: *far, dir, scrir* on posse formar li derivates
@@ -1682,13 +1696,16 @@ per li complet radicas: *fact, dict, script*.
 
 // XXX FIXED -- "consonantgruppe -nct-" -> "consonant-gruppe -ct-":
 
-Che li verbes con li consonant-gruppe *-ct-* on posse omisser li *c*,
-precipue in nederivat formes.
+Che li verbes con li consonant-gruppe *-ct-* on posse omisser li *c*.
+footnote:[Por claritá, in ti edition ti paragraf esset un poc
+simplificat, su sequent exemples esset completat, e «prescription o
+prescrition» esset deletet ex ili, nam it ne relatet al afere. Editor
+digital.]
 
 ====
 Contrafaction o contrafation, factor o fator, malediction o maledition,
-prescription o prescrition. Distincter o distinter, distinction o
-distintion, conjunction, conjunter.
+distincter o distinter, distinction o
+distintion, conjuncter o conjunter, conjunction o conjuntion.
 ====
 
 [[par82,§82]]§82. Li *finale -ntie* es adjuntet al tema presentic de verbes
@@ -3073,8 +3090,6 @@ yo es tam gay. Yo desira que il mey venir. Si yo vell esser malad, yo
 vell restar in hem. Yo ne save, ca yo comprende vos corect. Ca il veni o
 ne, noi va comensar, Si on vell saver, ca il veni! Yo crede que yo ha
 videt le. Yo crede har videt le. Yo crede vider le.
-
-// XXX TODO -- Use uppercase instead?:
 
 Accentuati**o**n: Li p**o**c art**i**cules del gramm**a**tica e li
 vocabul**a**rium de Interl**i**ngue es facil**i**ssim e repres**e**nta

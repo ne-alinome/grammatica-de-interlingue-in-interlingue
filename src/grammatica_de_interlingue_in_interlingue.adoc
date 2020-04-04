@@ -1,6 +1,6 @@
 = Grammatica de Interlingue in Interlingue
 :author: Dr. Fritz Haas
-:revnumber: 0.1.0-pre.28+20200404
+:revnumber: 0.1.0-pre.29+20200404
 :version-label: Version de ti edition digital:
 :description: Grammatica del lingue auxiliar international Interlingue
 :lang: ie
@@ -22,7 +22,7 @@ endif::[]
 // This Asciidoctor version by Marcos Cruz (programandala.net) for
 // http://ne.alinome.net, 2019.
 
-// Last modified 202004040150
+// Last modified 202004041913
 
 :dot: .
 
@@ -1325,7 +1325,9 @@ Al creator de Interlingue, Prof. Edgar de Wahl, reveni li merite, har
 decovrit quelc simplic regules por formar ti paroles internationalmen
 conosset per adjunter international finales a international radicas.
 
-[[par80,§80]]§80. Li sufixes: *ion, or, ori, iv, ura* ne es adjuntet al tema verbal o
+// XXX FIXED -- Notation de sufixes:
+
+[[par80,§80]]§80. Li sufixes: *-ion, -or, -ori, -iv, -ura* ne es adjuntet al tema verbal o
 al tema presentic, ma al *tema perfectic*.
 
 Ti unesim gruppe de finales es adjuntet a verbes expressent un action o
@@ -2582,7 +2584,7 @@ elegantie, existentie, furie, tirannie*.
 -itá (*-etá*, si li radica fini per *i*):: Qualitá: *homanitá, yunitá,
 quantitá, proprietá, ebrietá*.
 
--ore:: De verbes: statu; de adjectives: qualitá mesurabil: *amore,
+[[sufixe_ore,«-ore»]]-ore:: De verbes: statu; de adjectives: qualitá mesurabil: *amore,
 terrore, calore, longore, grandore*.
 
 -esse:: Pregnant qualitá o statu: *altesse, grandesse, finesse,
@@ -2642,7 +2644,10 @@ indicat in parenteses.)
 -al:: General adjectivic relation: *musical, cordial, central
 (centrale), ideal (ideale)*.
 
--ic:: Essent tal: *metallic, fanatic (fanatico), fantastic, scientic*.
+[[sufixe_ic,«-ic»]]-ic:: Essent tal: *metallic, fantastic,
+scientic*.footnote:[In li edition original, anc «fanatic (fanatico)»
+esset ínter li exemples, ma it ha esset movet al section <<par142>>,
+nam in ti radica li afixe «ic» es ínproductiv. Editor digital.]
 +
 Grec substantives finient per *-ma* intercala *-t-*, tales finient per
 *-se* (x = cs) muta li *s* in *t: problematic, dramatic, elipse,
@@ -2716,13 +2721,13 @@ socialisme*.
 
 [[par142,§142]]§142. Ultra li indicat *productiv afixes* existe quelc
 *ínproductiv afixes*, queles ne forma nov paroles, ma explica existent
-paroles international. P. ex.: *-id, -ore*{blank}footnote:[«-ore» es
-un ínproductiv afixe in cert casus, ma it es anc un productiv afixe.
-Vide <<par138>>. Editor digital.].
-
-// XXX REMARK -- Li tri ultim exemples ne rilate li explication:
+paroles international. P. ex.: *-ic, -id,
+-ore*{blank}footnote:[<<sufixe_ic>> e <<sufixe_ore>> es anc productiv
+afixes. In li edition original, «-ic» esset mentionat solmen in
+<<par140>>. Editor digital.].
 
 ====
+fanatic (fanatico),
 friger, frigid, frigore, valer, valid, valore, riger, rigid, rigore,
 rigiditá, rigorosi, rigorositá.
 ====

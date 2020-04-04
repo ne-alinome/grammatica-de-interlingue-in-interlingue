@@ -1,6 +1,6 @@
 = Grammatica de Interlingue in Interlingue
 :author: Dr. Fritz Haas
-:revnumber: 0.1.0-pre.29+20200404
+:revnumber: 0.1.0-pre.30+20200404
 :version-label: Version de ti edition digital:
 :description: Grammatica del lingue auxiliar international Interlingue
 :lang: ie
@@ -22,7 +22,7 @@ endif::[]
 // This Asciidoctor version by Marcos Cruz (programandala.net) for
 // http://ne.alinome.net, 2019.
 
-// Last modified 202004041913
+// Last modified 202004042045
 
 :dot: .
 
@@ -426,38 +426,48 @@ parte seque ti regules, li altres posse reciver un accentu secundari.
 // XXX FIXED -- ínvìa -> invìa
 // XXX FIXED -- li práctíca -> li pràctica
 // XXX FIXED -- il práctica -> il pràctica
+// XXX FIXED -- families -> famìlies
+// XXX FIXED -- fenòmen -> fenomèn
+// XXX FIXED -- micro-còsmo -> mìcro-còsmo
+// XXX FIXED -- hodíe -> hodìe
+// XXX FIXED -- omni ";" in li liste -> ","
+// XXX FIXED -- "genú-articulation" -> "genú-articulatiòn"
+// XXX FIXED -- "ferrovìa" -> "fèrrovìa" (hay anc "fèrro-vìa", quel esset bon)
 
 // XXX FIXME -- 2019-08-09: Li comensa original esset:
 //
 //    Li pòríu(*), familie, àvie, doctòr, formàr, li formàt, li formàte,
 //
 // Ma "Li pòríu" esset deletet, nam it es misscrit e li correct parole es ancor
-// íntrovabil. E li note esset rescrit e convertet in pednote, por claritá.
+// íntrovabil.
+
+In vocabulariums e manuales li scrition del acut es obligatori, ti del
+gravis recomendat quam medie didactic por accentus ínscrit, quam in li
+sequent exemples{blank}footnote:[In li edition original, ti paragraf
+esset un note pos li exemples, quel includet li prim 15 exemples, de
+«inscrìt» til «it rèsta». Por claritá, li note del autor ha esset un
+poc modificat e movet ante li complet liste de exemples. Editor
+digital]:
 
 ====
-Li famìlie(*){blank}footnote:[In ti exemples, li autor usa li accentu acut por
-marcar accentus scrit, quo es li usation normal in Interlingue, e li accentu
-grav por monstrar li accentus ínscrit. Editor digital.], àvie, doctòr, formàr,
-li formàt, li formàte, formànt; duràbil, elèctric, lògic, li lògica, li lògico,
-pràctic, li práctica, il pràctica, il ìndica, il èxplica, dùplic, il dùplica,
+inscrìt, il
+inscrì, ìris, ottùplic, il rèplica, il multìplica, specìfic, pacìfic, il
+artìcula, il inspùla, il ànima, li fèrrovìa, li relvìa, il refà, it
+rèsta,
+li famìlie,
+àvie, doctòr, formàr,
+li formàt, li formàte, formànt, duràbil, elèctric, lògic, li lògica, li lògico,
+pràctic, li pràctica, il pràctica, il ìndica, il èxplica, dùplic, il dùplica,
 multìplic, il multìplica, centùplic, il centùplica, specìfic, il specìfica,
-fèlici, ùltim, règul, hercùlic, li artìcul, il artìcula; mìnus, ìris, fòrmes,
-families, àvies, generàlmen, enèrgicmen, li fenòmen, màximum, ultimàtum, li
-legùme; il plìca, il rùla, dìe, dèo, tùi, vìa, il tràe, it flùe; qualitá,
+fèlici, ùltim, règul, hercùlic, li artìcul, il artìcula, mìnus, ìris, fòrmes,
+famìlies, àvies, generàlmen, enèrgicmen, li fenomèn, màximum, ultimàtum, li
+legùme, il plìca, il rùla, dìe, dèo, tùi, vìa, il tràe, it flùe, qualitá,
 heróe, li logí, il logía, li fúlmine, it fúlmina, li córpor, il incórpora, li
-dúbit, il dúbita; micro-còsmo, anglosaxònic, agricultùra, centimètre,
-postcàrte, manuscrìte, genú-articulation, unifòrm, li unifòrme, il unifòrma, il
+dúbit, il dúbita, mìcro-còsmo, anglosaxònic, agricultùra, centimètre,
+postcàrte, manuscrìte, genú-articulatiòn, unifòrm, li unifòrme, il unifòrma, il
 internationalìsa, ínpracticàbil, índubitàbilmen, li fèrro-vìa, il invìa, it
-inflùe, il subtràe, hodíe, il contradí, il retrovèni.
+inflùe, il subtràe, hodìe, il contradí, il retrovèni.
 
-// XXX TODO -- Confirmar «inscrí» o «ìnscri»: to es, esque prefixes ne
-// changea li accentuation?
-
-(*) In vocabulariums e manuales li scrition del acut es obligatori, ti del
-gravis recomendat quam medie didactic por accentus ínscrit: inscrìt, il
-inscrí, ìris, ottùplic, il rèplica, il multìplica, specìfic, pacìfic, il
-artìcula, il inspùla, il ànima, li ferrovìa, li relvìa, il refá, it
-rèsta.
 ====
 
 [[par9,§9]]§9. In li *fluent parlada* on ne accentua chascun parol secun li

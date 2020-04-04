@@ -1,6 +1,6 @@
 = Grammatica de Interlingue in Interlingue
 :author: Dr. Fritz Haas
-:revnumber: 0.1.0-pre.27+20200404
+:revnumber: 0.1.0-pre.28+20200404
 :version-label: Version de ti edition digital:
 :description: Grammatica del lingue auxiliar international Interlingue
 :lang: ie
@@ -43,7 +43,7 @@ http://ie-munde.com[ie-munde.com].
 
 Conversion a Asciidoctor, revision, e edition quam libre digital::
 Marcos Cruz, 2019, 2020{dot} Obtenibil in
-(http://ne.alinome.net[_ne alinome_ (ne.alinome.net)]) ye formates EPUB, PDF e altris.
+http://ne.alinome.net[_ne alinome_ (ne.alinome.net)] ye formates EPUB, PDF e altris.
 
 Principal changes in ti edition::
 - Corection de omni trovat erras.
@@ -1502,13 +1502,15 @@ o *e*:
 
 // XXX FIXED -- "vìvaci" -> "vivaci"
 
+// XXX FIXED -- "reservour" -> "reservuore"
+
 [width="100%"]
 |===
 | criticar | criticachar
 | furter   | furtard
 | lavar    | lavera
 | rafinar  | rafinage
-| reservar | reservuor
+| reservar | reservuore
 | spiar    | spion
 | valer    | valore
 | viver    | vivaci
@@ -2710,13 +2712,15 @@ socialisme*.
 
 -oid:: Simil: *negroid (negroide), elipsoid*.
 
-// XXX FIXME -- «-ore» es *anc* un productiv sufixe:
+// XXX FIXED -- Pednote: «-ore» es *anc* un productiv sufixe:
 
-[[par142,§142]]§142. Ultra li indicat *productiv afixes* existe quelc *ínproductiv
-afixes*, queles ne forma nov paroles, ma explica existent paroles
-international. P. ex.: *-id, -ore*.
+[[par142,§142]]§142. Ultra li indicat *productiv afixes* existe quelc
+*ínproductiv afixes*, queles ne forma nov paroles, ma explica existent
+paroles international. P. ex.: *-id, -ore*{blank}footnote:[«-ore» es
+un ínproductiv afixe in cert casus, ma it es anc un productiv afixe.
+Vide <<par138>>. Editor digital.].
 
-// XXX REMARK -- Li tre ultim exemples ne rilate li explication:
+// XXX REMARK -- Li tri ultim exemples ne rilate li explication:
 
 ====
 friger, frigid, frigore, valer, valid, valore, riger, rigid, rigore,

@@ -1,6 +1,6 @@
 = Grammatica de Interlingue in Interlingue
 :author: Dr. Fritz Haas
-:revnumber: 0.1.0-pre.33+20200405
+:revnumber: 0.1.0-pre.34+20200405
 :version-label: Version de ti edition digital:
 :description: Grammatica del lingue auxiliar international Interlingue
 :lang: ie
@@ -22,7 +22,7 @@ endif::[]
 // This Asciidoctor version by Marcos Cruz (programandala.net) for
 // http://ne.alinome.net, 2019.
 
-// Last modified 202004050054
+// Last modified 202004050101
 
 :dot: .
 
@@ -360,10 +360,13 @@ x:: Dur o dulci, quam AFG, H: _examinar_.
 examinar, extra.
 ====
 
-y consonantic:: Quam A, F: yeux, G: «j», H: _ayustar_.
+// XXX FIXED -- "antey" remplazzat per "anteyan, nam ti "y" de "antey"
+// ne es consonantic:
+
+y consonantic:: Quam A, F: _yeux_, G: «j», H: _ayustar_.
 +
 ====
-yes, rayon, antey.
+yes, rayon, anteyan.
 ====
 
 z:: Dulci («ds»), si possibil, altrimen dur («ts»).

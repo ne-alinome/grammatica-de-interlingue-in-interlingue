@@ -1,6 +1,6 @@
 = Grammatica de Interlingue in Interlingue
 :author: Dr. Fritz Haas
-:revnumber: 0.1.0-pre.30+20200404
+:revnumber: 0.1.0-pre.31+20200404
 :version-label: Version de ti edition digital:
 :description: Grammatica del lingue auxiliar international Interlingue
 :lang: ie
@@ -22,7 +22,7 @@ endif::[]
 // This Asciidoctor version by Marcos Cruz (programandala.net) for
 // http://ne.alinome.net, 2019.
 
-// Last modified 202004042045
+// Last modified 202004042207
 
 :dot: .
 
@@ -1405,24 +1405,258 @@ radica, intercalante *t* pos vocal final e mutante un final *d* o *r* a
 
 // XXX NEW -- New layout, one table, with all forms completed:
 
-// XXX FIXME -- This table is fine for PDF, but too wide for EPUB.
+// XXX REMARK -- This table is fine for PDF, but too wide for EPUB.
 
-[width="100%"]
+:pednote1450: Li edition original monstrat du litt tabelles con solmen \
+quelc usat derivates del 11 verbes. Por claritá, ti-ci edition \
+have un sol grand tabelle con omni possibil derivates, mem tis \
+ordinarimen ne usat. Editor digital. \
+
+[cols=7, width="100%"]
 |===
-| Infinitive  | Tema perfectic | -ion         | -or         | -ori         | -iv         | -ura
+| Infinitive{blank}footnote:[{pednote1450}] | Tema perfectic | -ion | -or | -ori | -iv | -ura
 
 | adherer     | adhes          | adhesion     | adhesor     | adhesori     | adhesiv     | adhesura
-| constructer | construct      | construction | constructor | constructori | constructiv | structura
+| constructer | construct      | construction | constructor | constructori | constructiv | constructura
 | crear       | creat          | creation     | creator     | creatori     | creativ     | creatura
 | currer      | curs           | cursion      | cursor      | cursori      | cursiv      | cursura
 | distribuer  | distribut      | distribution | distributor | distributori | distributiv | distributura
 | expedir     | expedit        | expedition   | expeditor   | expeditori   | expeditiv   | expeditura
 | exploder    | explos         | explosion    | explosor    | explosori    | explosiv    | explosura
 | garnir      | garnit         | garnition    | garnitor    | garnitori    | garnitiv    | garnitura
-| revider     | revis          | revision     | revisor     | revisori     | revisiv     | revisatura
+| revider     | revis          | revision     | revisor     | revisori     | revisiv     | revisura
 | scrir       | scrit          | scrition     | scritor     | scritori     | scritiv     | scritura
 | tonder      | tons           | tonsion      | tonsor      | tonsori      | tonsiv      | tonsura
 |===
+
+
+////
+
+// XXX OLD -- 2020-04-04: Prova. Tabelles individual, ancor con omni
+// possibil combinationes. Ti metode es rejectet, nam it es minu
+// legibil quam un sol tabelle.
+
+|===
+| Infinitive     | adherer
+| Tema perfectic | adhes
+| -ion           | adhesion
+| -or            | adhesor
+| -ori           | adhesori
+| -iv            | adhesiv
+| -ura           | adhesura
+|===
+
+|===
+| Infinitive     | constructer
+| Tema perfectic | construct
+| -ion           | construction
+| -or            | constructor
+| -ori           | constructori
+| -iv            | constructiv
+| -ura           | structura
+|===
+
+|===
+| Infinitive     | crear
+| Tema perfectic | creat
+| -ion           | creation
+| -or            | creator
+| -ori           | creatori
+| -iv            | creativ
+| -ura           | creatura
+|===
+
+|===
+| Infinitive     | currer
+| Tema perfectic | curs
+| -ion           | cursion
+| -or            | cursor
+| -ori           | cursori
+| -iv            | cursiv
+| -ura           | cursura
+|===
+
+|===
+| Infinitive     | distribuer
+| Tema perfectic | distribut
+| -ion           | distribution
+| -or            | distributor
+| -ori           | distributori
+| -iv            | distributiv
+| -ura           | distributura
+|===
+
+|===
+| Infinitive     | expedir
+| Tema perfectic | expedit
+| -ion           | expedition
+| -or            | expeditor
+| -ori           | expeditori
+| -iv            | expeditiv
+| -ura           | expeditura
+|===
+
+|===
+| Infinitive     | exploder
+| Tema perfectic | explos
+| -ion           | explosion
+| -or            | explosor
+| -ori           | explosori
+| -iv            | explosiv
+| -ura           | explosura
+|===
+
+|===
+| Infinitive     | garnir
+| Tema perfectic | garnit
+| -ion           | garnition
+| -or            | garnitor
+| -ori           | garnitori
+| -iv            | garnitiv
+| -ura           | garnitura
+|===
+
+|===
+| Infinitive     | revider
+| Tema perfectic | revis
+| -ion           | revision
+| -or            | revisor
+| -ori           | revisori
+| -iv            | revisiv
+| -ura           | revisura
+|===
+
+|===
+| Infinitive     | scrir
+| Tema perfectic | scrit
+| -ion           | scrition
+| -or            | scritor
+| -ori           | scritori
+| -iv            | scritiv
+| -ura           | scritura
+|===
+
+|===
+| Infinitive     | tonder
+| Tema perfectic | tons
+| -ion           | tonsion
+| -or            | tonsor
+| -ori           | tonsori
+| -iv            | tonsiv
+| -ura           | tonsura
+|===
+
+////
+
+
+////
+
+// XXX OLD -- 2020-04-04: Ancor un prova de tabelles individual, ma
+// con combinationes ínutil deletet. Ti metode es rejectet, nam it es
+// minu legibil quam un sol tabelle.
+
+|===
+| Infinitive     | adherer
+| Tema perfectic | adhes
+| -ion           | adhesion
+| -or            | adhesor
+| -ori           | adhesori
+| -iv            | adhesiv
+|===
+
+|===
+| Infinitive     | constructer
+| Tema perfectic | construct
+| -ion           | construction
+| -or            | constructor
+| -ori           | constructori
+| -iv            | constructiv
+|===
+
+|===
+| Infinitive     | crear
+| Tema perfectic | creat
+| -ion           | creation
+| -or            | creator
+| -ori           | creatori
+| -iv            | creativ
+| -ura           | creatura
+|===
+
+|===
+| Infinitive     | currer
+| Tema perfectic | curs
+| -or            | cursor
+| -ori           | cursori
+| -iv            | cursiv
+|===
+
+|===
+| Infinitive     | distribuer
+| Tema perfectic | distribut
+| -ion           | distribution
+| -or            | distributor
+| -ori           | distributori
+| -iv            | distributiv
+|===
+
+|===
+| Infinitive     | expedir
+| Tema perfectic | expedit
+| -ion           | expedition
+| -or            | expeditor
+| -ori           | expeditori
+| -iv            | expeditiv
+|===
+
+|===
+| Infinitive     | exploder
+| Tema perfectic | explos
+| -ion           | explosion
+| -or            | explosor
+| -ori           | explosori
+| -iv            | explosiv
+| -ura           | explosura
+|===
+
+|===
+| Infinitive     | garnir
+| Tema perfectic | garnit
+| -ion           | garnition
+| -or            | garnitor
+| -ori           | garnitori
+| -iv            | garnitiv
+| -ura           | garnitura
+|===
+
+|===
+| Infinitive     | revider
+| Tema perfectic | revis
+| -ion           | revision
+| -or            | revisor
+| -ori           | revisori
+|===
+
+|===
+| Infinitive     | scrir
+| Tema perfectic | scrit
+| -ion           | scrition
+| -or            | scritor
+| -ori           | scritori
+| -ura           | scritura
+|===
+
+|===
+| Infinitive     | tonder
+| Tema perfectic | tons
+| -ion           | tonsion
+| -or            | tonsor
+| -ori           | tonsori
+| -iv            | tonsiv
+| -ura           | tonsura
+|===
+
+////
 
 *Quin verbes* forma ti derivates un poc diferentmen, usante li
 international formes:

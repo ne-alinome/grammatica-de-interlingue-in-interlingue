@@ -3,7 +3,7 @@
 # By Marcos Cruz (programandala.net)
 # http://ne.alinome.net
 
-# Last modified 202004022222
+# Last modified 202004062211
 # See change log at the end of the file
 
 # ==============================================================
@@ -40,8 +40,8 @@ VPATH=./src:./target
 
 book=grammatica_de_interlingue_in_interlingue
 cover=$(book)_cover
-author="Dr. Fritz Haas"
-title="Grammatica de Interlingue in Interlingue"
+cover_author="Dr. Fritz Haas"
+cover_title="Grammatica\nde Interlingue\nin Interlingue"
 lang="ie"
 editor="Marcos Cruz (programandala.net)"
 publisher="ne alinome"
@@ -234,10 +234,10 @@ tmp/$(cover).title.png:
 		-background transparent \
 		-fill $(fill) \
 		-font $(font) \
-		-pointsize 140 \
-		-size 890x \
+		-pointsize 128 \
+		-size 1200x \
 		-gravity east \
-		caption:$(title) \
+		caption:$(cover_title) \
 		$@
 
 tmp/$(cover).author.png:
@@ -245,10 +245,10 @@ tmp/$(cover).author.png:
 		-background transparent \
 		-fill $(fill) \
 		-font $(font) \
-		-pointsize 90 \
-		-size 890x \
+		-pointsize 72 \
+		-size 896x \
 		-gravity east \
-		caption:$(author) \
+		caption:$(cover_author) \
 		$@
 
 tmp/$(cover).publisher.png:
@@ -346,3 +346,5 @@ tmp/$(cover).pdf: target/$(cover).jpg
 # 2020-04-02: Build only the recommended formats by default. Add rule
 # "cleancover". Make the thumb cover by default. Fix: make Pandoc require the
 # cover image to build the EPUB.
+#
+# 2020-04-06: Adjust the size and layout of the cover texts.

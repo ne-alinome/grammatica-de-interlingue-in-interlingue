@@ -1,6 +1,6 @@
 = Grammatica de Interlingue in Interlingue
 :author: Dr. Fritz Haas
-:revnumber: 0.1.0-pre.38+20200712
+:revnumber: 0.1.0-pre.39+20200712
 :version-label: Version de ti edition digital:
 :description: Grammatica del lingue auxiliar international Interlingue
 :lang: ie
@@ -16,13 +16,13 @@ ifdef::backend-epub3[]
 :front-cover-image: ../target/grammatica_de_interlingue_in_interlingue_cover.jpg
 endif::[]
 
-// Version by Marcos Cruz (programandala.net), 2019, 2020 
+// Version by Marcos Cruz (programandala.net), 2019, 2020
 // http://ne.alinome.net
 
 // This file is in Asciidoctor format
 // http://asciidoctor.org
 
-// Last modified 202007121732
+// Last modified 202007121742
 
 :dot: .
 
@@ -1137,19 +1137,21 @@ distinctet solmen per li pronómin; li verb self resta ínmutat.
 
 [[par68,§68]]§68. Li *infinitive* es format per adjunter *-r* al tema presentic:
 
-[width="100%"]
-|===
-| fabricar | expedir | constructer
-|===
+====
+- fabricar
+- expedir
+- constructer
+====
 
 [[par69,§69]]§69. Li *presente* es egal al tema presentic:
 
 // XXX FIXED -- "il constructer" -> "il constructe"
 
-[width="100%"]
-|===
-| yo fabrica | tu expedi | il constructe
-|===
+====
+- Yo fabrica.
+- Tu expedi.
+- Il constructe.
+====
 
 Li verb *esser* have un special abreviat form del presente: *es*, vice
 esse, pro su grand frequentitá.
@@ -1157,15 +1159,18 @@ esse, pro su grand frequentitá.
 [[par70,§70]]§70. *Li participie passat* (anc *participie passiv*) es format per
 adjunter *-t* al tema presentic:
 
-[width="100%"]
-|===
-| fabricat | expedit | constructet
-|===
+====
+- fabricat
+- expedit
+- constructet
+====
 
 Li participie passat es usat anc quam *passate simplic*:
 
 ====
-noi fabricat, vu expedit, ili constructet.
+- Noi fabricat.
+- Vu expedit.
+- Ili constructet.
 ====
 
 [[par71,§71]]§71. Omni *composit témpores passat* es format per li verb auxiliari
@@ -1225,10 +1230,11 @@ Li *conditionale passat* es:
 [[par74,§74]]§74. Li *participie presentic* (anc *participie activ*) es format
 per adjunter *-nt* al tema presentic:
 
-[width="100%"]
-|===
-| fabricant | expedient | constructent
-|===
+====
+- fabricant
+- expedient
+- constructent
+====
 
 Li verbes con *-i* prende *-ent* vice *-nt* por retrovar li derivates
 international, p. ex. convenientie, provenientie.
@@ -1237,47 +1243,53 @@ Li *adverbial form* es usat quam *gerundie* (= «durant que» o «per to
 que»)
 per adjunter *-e*:
 
-[width="100%"]
-|===
-| fabricante | expediente | constructente
-|===
+====
+- fabricante
+- expediente
+- constructente
+====
 
 Existe anc *formes progressiv*:
 
-[width="100%"]
-|===
-| il es fabricant  | il es expedient | il es constructent
-|===
+====
+- Il es fabricant.
+- Il es expedient.
+- Il es constructent.
+====
 
 [[par75,§75]]§75. Li *imperative* es egal al presente sin pronómin:
 
-[width="100%"]
-|===
-| fabrica! | expedi!  | constructe!
-|===
+====
+- Fabrica!
+- Expedi!
+- Constructe!
+====
 
 Del verb *esser* on prende li complet form: *esse*.
 
 Existe un *form de politesse per ples* (de «pleser») con infinitive:
 
-[width="100%"]
-|===
-| ples fabricar | ples expedir | ples constructer
-|===
+====
+- Ples fabricar.
+- Ples expedir.
+- Ples constructer.
+====
 
 [[par76,§76]]§76. Li *optative* es format per *mey* con infinitive:
 
-[width="100%"]
-|===
-| il mey fabricar | il mey expedir | il mey constructer
-|===
+====
+- Il mey fabricar.
+- Il mey expedir.
+- Il mey constructer.
+====
 
 li *hortative* per *lass*:
 
-[width="100%"]
-|===
-| lass nos fabricar | lass nos expedir | lass nos constructer
-|===
+====
+- Lass nos fabricar.
+- Lass nos expedir.
+- Lass nos constructer.
+====
 
 [[par77,§77]]§77. Li *formes passiv* es format per li verb auxiliari *esser*:
 
@@ -1732,10 +1744,9 @@ presentic
 
 [[par83,§83]]§83. In analog maniere adjunte se li sufix *-nd* al tema presentic:
 
-[width="100%"]
-|===
-| demonstrand | vendiend | leend
-|===
+====
+demonstrand, vendiend, leend.
+====
 
 [[par84,§84]]§84. Li sufix *-ment* anc es adjuntet al tema presentic:
 

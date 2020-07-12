@@ -1,15 +1,13 @@
 = TO-DO of _Grammatica de Interlingue in Interlingue_
 :author: Marcos Cruz (programandala.net)
-:revdate: 2020-04-05
+:revdate: 2020-07-12
 
-- Homogenize examples in tables and lists.
 - Separate all paragraph numbers from headings?
 - Add URL of the Belitzky's version.
 - Confirm "Li pòríu".
 - Consult: "for" is mentioned in "ab-" and as an interjection, but
   it's not included in the prepositions.
 - Improve notation of "y" vocalic/consonantic.
-- Quote words mentioned in the text.
 - Consult: r like Spanish in "radie, merce", but in Spanish "r-" and
   "-r-" are different.
 - Add a footnote at "un simplic s" to make clear it's about the
@@ -17,3 +15,8 @@
 - Consult: the pronunciation of "g" in English is incomplete.
 - Expand "resp."?
 - Usar un majuscule initial in exemple-blocs con parol-listes?
+- Adjunter articul ex Cosmoglatto pri pronunciation de «sh».
+- Ameliorar explication pri li pronunciation de "y" consonantic in
+  hispan.
+- Aclarar li textual transcrition del calcules aritmetic, por exemple
+  ínter parenteses.  

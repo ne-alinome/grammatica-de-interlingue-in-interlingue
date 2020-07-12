@@ -22,7 +22,7 @@ endif::[]
 // This file is in Asciidoctor format
 // http://asciidoctor.org
 
-// Last modified 202007121750
+// Last modified 202007121924
 
 :dot: .
 
@@ -1427,7 +1427,7 @@ radica, intercalante *t* pos vocal final e mutante un final *d* o *r* a
 
 // XXX NEW -- New layout, one table, with all forms completed:
 
-// XXX REMARK -- This table is fine for PDF, but too wide for EPUB.
+// XXX FIXME -- This table is fine for PDF, but too wide for EPUB.
 
 :pednote1450: Li edition original monstrat du litt tabelles con solmen \
 quelc usat derivates del 11 verbes. Por claritá, ti-ci edition \
@@ -1916,6 +1916,8 @@ u, ci, ta, alcú, necú, partú, ucunc, supra, infra, circum, éxter, extra,
 intra, ínter, detra, levul, dextri, proxim, lontan. A ci, a ta, adavan,
 retro, up = adsupra, a bass, adinfra, de infra, préter.
 
+// XXX TODO -- del eclesia -> pri li eclesia ?
+
 ====
 U vu ha comprat ti libre? In un librería u on trova sempre li maxim
 recent libres. Alcú vu certmen va trovar li tant serchat flor. Ma ucunc
@@ -1945,6 +1947,8 @@ changear su projectes.
 
 [[par98,§98]]§98. Li *adverbies de afirmation, negation, dúbit* es: *yes, no, ne, ne
 plu, si, ya, fórsan, sin dúbit*.
+
+// XXX TODO -- yes/si
 
 ====
 Esque vu ne ha videt le? Si, il esset ya in li scol e sin dúbit ne plu

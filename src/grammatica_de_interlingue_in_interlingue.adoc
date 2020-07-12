@@ -1,6 +1,6 @@
 = Grammatica de Interlingue in Interlingue
 :author: Dr. Fritz Haas
-:revnumber: 0.1.0-pre.35+20200405
+:revnumber: 0.1.0-pre.36+20200712
 :version-label: Version de ti edition digital:
 :description: Grammatica del lingue auxiliar international Interlingue
 :lang: ie
@@ -16,10 +16,13 @@ ifdef::backend-epub3[]
 :front-cover-image: ../target/grammatica_de_interlingue_in_interlingue_cover.jpg
 endif::[]
 
-// This Asciidoctor version by Marcos Cruz (programandala.net) for
-// http://ne.alinome.net, 2019.
+// Version by Marcos Cruz (programandala.net), 2019, 2020 
+// http://ne.alinome.net
 
-// Last modified 202004050104
+// This file is in Asciidoctor format
+// http://asciidoctor.org
+
+// Last modified 202007121449
 
 :dot: .
 
@@ -517,8 +520,8 @@ sympatic o sympathic.
 in parlada o secun li parol-componentes.
 
 [[par13,§13]]§13. *Majuscules* es usat solmen in li comensa del frases, in propri
-nómines, in titulationes, e por distincter Vu, Vos, Vor quam formes de
-politesse, de vu, vos, vor, si on desira distincter to.
+nómines, in titulationes, e por distincter «Vu, Vos, Vor» quam formes de
+politesse, de «vu, vos, vor», si on desira distincter to.
 
 ====
 Paul, London, Pacifico, Anglia, Danubio, li Senior, su Majestie.
@@ -2658,7 +2661,7 @@ ho-:: Sam témpor: *hodíe, hosemane, hoannu*.
 ín-:: Negation in adjectives: *ínoficial, ínvisibil* (ne a confuser al
 inaccentuat preposition: in-: inpaccar).
 
-mi-:: Curt form de demí: *midí, minocte, mihor, mifratre*.
+mi-:: Curt form de «demí»: *midí, minocte, mihor, mifratre*.
 
 mis-:: Fals, ínconvenient, fallient: *miscomprender, misalliantie,
 misdirecter*.

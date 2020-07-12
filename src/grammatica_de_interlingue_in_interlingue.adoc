@@ -22,7 +22,7 @@ endif::[]
 // This file is in Asciidoctor format
 // http://asciidoctor.org
 
-// Last modified 202007121924
+// Last modified 202007122023
 
 :dot: .
 
@@ -501,6 +501,8 @@ It esset un medicá, ne un medicó.
 
 // Ortografie {{{1
 == Ortografie
+
+// XXX TODO -- «indicar que li precedent [ACCENTUAT] vocal es curt».
 
 [[par10,§10]]§10. Interlingue conserva maxim possibil li *aspect international* del
 paroles; ma it es recomendat vicear li *duplic consonantes* per li

@@ -20,3 +20,5 @@
   hispan.
 - Aclarar li textual transcrition del calcules aritmetic, por exemple
   ínter parenteses.  
+- Annexe con complet tabelle: unquande, alquande, nequande, ucunc,
+  alcú...  

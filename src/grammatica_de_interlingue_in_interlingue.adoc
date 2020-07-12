@@ -1,6 +1,6 @@
 = Grammatica de Interlingue in Interlingue
 :author: Dr. Fritz Haas
-:revnumber: 0.1.0-pre.40+20200712
+:revnumber: 0.1.0-pre.41+20200713
 :version-label: Version de ti edition digital:
 :description: Grammatica del lingue auxiliar international Interlingue
 :lang: ie
@@ -22,7 +22,7 @@ endif::[]
 // This file is in Asciidoctor format
 // http://asciidoctor.org
 
-// Last modified 202007122023
+// Last modified 202007130040
 
 :dot: .
 
@@ -540,6 +540,7 @@ Paul, London, Pacifico, Anglia, Danubio, li Senior, su Majestie.
 
 // XXX FIXED -- "pm" -> "pm."
 
+[width=100%]
 |===
 | sr. o Sr.     | senior
 | resp.         | respectivmen
@@ -801,7 +802,6 @@ plurale, quam substantives, si necessi.
 [[par39,§39]]§39. It existe *du formes*, li un por li *subject* (nominative), li
 altri por li *object* (acusative o dative, casu obliqui).
 
-[width="100%"]
 |===
 | Subject            | Object
 
@@ -847,7 +847,7 @@ les (o ili).
 substantivic on posse usar li *articul*, secun li nuancie o li regul del
 lingue matrin, e ili prende li *plurale*, si necessi.
 
-[width="100%"]
+[width=100%]
 |===
 | Subject            | Possesiv
 
@@ -986,7 +986,7 @@ ne save, quant il ha dat le. Quant vive, tant espera.
 prefix *ne-* tales indicant li absentie, li negation, e li sufix
 *-cunc* fa definit pronómines relativ índefinit.
 
-[cols=3]
+[width=100% cols=3]
 |===
 | alquel  | nequel  | quelcunc
 | alqual  | nequal  | qualcunc
@@ -1130,7 +1130,7 @@ al tema verbal. Ti vocal es
 caracteristic por chascun verb e resta ínvariabil in omni formes del
 conjugation.
 
-[width="100%"]
+[width=100%]
 |===
 | Tema verbal | Tema presentic
 
@@ -1377,7 +1377,7 @@ On supresse li *r* resp. *er* del infinitive. Si li rest fini per vocal,
 on adjunte *t*, si it fini per *d* o *r*, on vicea ti consonant per *s*,
 in omni altri casus li rest self es li tema perfectic.
 
-[width="100%"]
+[width=100%]
 |===
 | Infinitive  | ...       | Tema perfectic
 
@@ -1403,7 +1403,6 @@ radica, intercalante *t* pos vocal final e mutante un final *d* o *r* a
 
 // XXX FIXED -- "cretiv" -> "creativ":
 
-[width="100%"]
 |===
 | crear    | expedir    | constructer
 | creat    | expedit    | construct
@@ -1414,7 +1413,6 @@ radica, intercalante *t* pos vocal final e mutante un final *d* o *r* a
 | creatura | garnitura  | structura
 |===
 
-[width="100%"]
 |===
 | distribuer   | exploder  | adherer
 | distribut    | explos    | adhes
@@ -1436,7 +1434,7 @@ quelc usat derivates del 11 verbes. Por claritá, ti-ci edition \
 have un sol grand tabelle con omni possibil derivates, mem tis \
 ordinarimen ne usat. Editor digital. \
 
-[width="100%"]
+[width=100%]
 |===
 | Infinitive{blank}footnote:[{pednote1450}] | Tema perfectic | -ion | -or | -ori | -iv | -ura
 
@@ -1687,7 +1685,6 @@ international formes:
 
 ////
 
-[width="100%"]
 |===
 | Infinitive | Derivate | Vice
 
@@ -1707,7 +1704,7 @@ international formes:
 ínregulari, es includet in li tabelle in ti edition. Editor digital.
 
 
-[width="100%"]
+[width=100%]
 |===
 | Infinitive{blank}footnote:[{pednote1677}] | Tema perfectic | Vice | -ion | Vice
 
@@ -1740,7 +1737,6 @@ distintion, conjuncter o conjunter, conjunction o conjuntion.
 [[par82,§82]]§82. Li *finale -ntie* es adjuntet al tema presentic de verbes
 expressent un statu, al talnominat *verbes static*.
 
-[width="100%"]
 |===
 | tolerar  | tolerantie
 | provenir | provenientie
@@ -1756,7 +1752,7 @@ presentic
 
 [[par83,§83]]§83. In analog maniere adjunte se li sufix *-nd* al tema presentic:
 
-[width="100%"]
+[width=100%]
 |===
 | demonstrar | demonstrand
 | vendir     | vendiend
@@ -1768,7 +1764,7 @@ presentic
 
 [[par84,§84]]§84. Anc li sufix *-ment* es adjuntet al tema presentic:
 
-[width="100%"]
+[width=100%]
 |===
 | fundar  | fundament
 | mover   | movement
@@ -1777,7 +1773,7 @@ presentic
 
 Si li radica de un verb con *er* fini per vocal, li *e* desapari:
 
-[width="100%"]
+[width=100%]
 |===
 | arguer   | argument
 | compleer | complement
@@ -1787,7 +1783,7 @@ Si li radica de un verb con *er* fini per vocal, li *e* desapari:
 li vocal caracteristic: *-abil, -ada* ye *a* resp. *-ibil, -ida* ye *i*
 o *e*:
 
-[width="99%"]
+[width=100%]
 |===
 | durar    | durabil
 | promenar | promenada
@@ -1803,7 +1799,7 @@ o *e*:
 
 // XXX FIXED -- "reservour" -> "reservuore"
 
-[width="100%"]
+[width=100%]
 |===
 | criticar | criticachar
 | furter   | furtard
@@ -1831,6 +1827,7 @@ Li <<par80,tema perfectic>> sin finale es usat anc quam *adjective*:
 ====
 devot, apert, pervers.
 ====
+
 
 // Adverbies {{{1
 == Adverbies
@@ -2399,7 +2396,7 @@ cert gradu. Ma li *regulari órdine* del frase-partes es:
 
 // XXX FIXME -- Ti tabelle ne have plazza; fórsan in du columnes:
 
-[width="100%"]
+[width=100%]
 |===
 | Subject  | Predicate | Acusativ object | Dativ object
 

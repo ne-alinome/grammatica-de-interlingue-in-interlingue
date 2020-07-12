@@ -1,6 +1,6 @@
 = Grammatica de Interlingue in Interlingue
 :author: Dr. Fritz Haas
-:revnumber: 0.1.0-pre.37+20200712
+:revnumber: 0.1.0-pre.38+20200712
 :version-label: Version de ti edition digital:
 :description: Grammatica del lingue auxiliar international Interlingue
 :lang: ie
@@ -22,7 +22,7 @@ endif::[]
 // This file is in Asciidoctor format
 // http://asciidoctor.org
 
-// Last modified 202007121617
+// Last modified 202007121732
 
 :dot: .
 
@@ -531,30 +531,32 @@ Paul, London, Pacifico, Anglia, Danubio, li Senior, su Majestie.
 
 // XXX FIXED -- "pm" -> "pm."
 
-sr. o Sr.:: senior
-resp.:: respectivmen
-sra. o Sra.:: seniora
-p. ex.:: por exemple
-srta. o Srta.:: senioretta
-i. e.:: it es
-dr. o Dr.:: doctor
-pl.:: ples
-etc.:: etcétera
-pl. t.:: ples tornar
-PS.:: pos-scripte
-h.:: hora(s)
-v.:: vide
-am.:: ante midí
-pg.:: págine
-pm.:: pos midí
-cf.:: confronta
-a. c.:: annu current
-sq.:: e sequentes
-m. c.:: mensu current
-nró.:: numeró
-a. p.:: annu passat
-conc.:: concernent
-m. p.:: mensu passat
+|===
+| sr. o Sr.     | senior
+| resp.         | respectivmen
+| sra. o Sra.   | seniora
+| p. ex.        | por exemple
+| srta. o Srta. | senioretta
+| i. e.         | it es
+| dr. o Dr.     | doctor
+| pl.           | ples
+| etc.          | etcétera
+| pl. t.        | ples tornar
+| PS.           | pos-scripte
+| h.            | hora(s)
+| v.            | vide
+| am.           | ante midí
+| pg.           | págine
+| pm.           | pos midí
+| cf.           | confronta
+| a. c.         | annu current
+| sq.           | e sequentes
+| m. c.         | mensu current
+| nró.          | numeró
+| a. p.         | annu passat
+| conc.         | concernent
+| m. p.         | mensu passat
+|===
 
 // Articul {{{1
 == Articul

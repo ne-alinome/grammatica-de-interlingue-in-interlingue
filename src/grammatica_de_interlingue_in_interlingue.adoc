@@ -1,6 +1,6 @@
 = Grammatica de Interlingue in Interlingue
 :author: Dr. Fritz Haas
-:revnumber: 0.1.0-pre.36+20200712
+:revnumber: 0.1.0-pre.37+20200712
 :version-label: Version de ti edition digital:
 :description: Grammatica del lingue auxiliar international Interlingue
 :lang: ie
@@ -22,7 +22,7 @@ endif::[]
 // This file is in Asciidoctor format
 // http://asciidoctor.org
 
-// Last modified 202007121449
+// Last modified 202007121617
 
 :dot: .
 
@@ -922,7 +922,7 @@ substantivic.
 factes e persones.
 
 ====
-Quel cité es li maxim grand? Quel es li maxím grand cité? Queles es li
+Quel cité es li maxim grand? Quel es li maxim grand cité? Queles es li
 maxim grand cités? Quel cités es li maxim grand? Li maxim bell flore
 quel yo conosse es li rose. Li maxim grand cités queles yo conosse es
 New York e London. Il ne save, quel grand cités il va vider.
@@ -1854,7 +1854,7 @@ junt, anc, denove, támen, malgré to, dunc.
 ====
 Yo ne save, qualmen il posse laborar tam rapidmen quam un machine, nam
 il fa tant rapid, que on presc ne posse sequer. Il dit to quam rey. Il
-ne acte quam un rey. It es impossibíl far it talmen. Il ha fat it alquam
+ne acte quam un rey. It es impossibil far it talmen. Il ha fat it alquam
 (={nbsp}in alcun maniere). Il posse far it nequam (={nbsp}in necun
 maniere). It es tot
 egal, esque vu vide li tot munde o quelc partes de it. Il ha totalmen
@@ -2060,7 +2060,7 @@ Li dom de mi patre. Li dramas de Schiller. Un senior de Paris.
 Li maxim grand de omnis. Un vase de aure. Ti lettres es scrit
 de un poet per scri-machine. Li moné de un povri vidua ha
 esset furtet per un escapate del prison, nascet de rich genitores.
-Il vivet lontan de su patre, de quel il nequande audít
+Il vivet lontan de su patre, de quel il nequande audit
 alquó.
 ====
 
@@ -2081,7 +2081,7 @@ durante::
 +
 ====
 Durante li estive li infantes ludet sur li plazza. Li un de
-su filios studiat medícina, durante que li altri ne volet studiar.
+su filios studiat medicina, durante que li altri ne volet studiar.
 ====
 
 ex::
@@ -2134,7 +2134,7 @@ retrovenir intra tri hores.
 malgré::
 +
 ====
-Malgré su grand efortíes il ne posset perforar li mur.
+Malgré su grand eforties il ne posset perforar li mur.
 ====
 
 med::
@@ -2146,7 +2146,7 @@ Med un bon instruction on va plu bon successar in li vive.
 per (medie)::
 +
 ====
-Il defendet se per un gladíe. Il salvat se per natar. Li
+Il defendet se per un gladie. Il salvat se per natar. Li
 moné esset furtet per un ínconosset hom.
 ====
 
@@ -2335,7 +2335,7 @@ lingues, queles es comprensibil per se self o es internationalmen
 conosset.
 
 ====
-Halló! Holá! Hé! Huzza! Hurrá! Yuhé! Huhú! Hu, Hu! Ba! Ay! Uf! Via! Nu!
+Halló! Holá! He! Huzza! Hurrá! Yuhé! Huhú! Hu, Hu! Ba! Ay! Uf! Via! Nu!
 Hopp! Hoppla! Ve! Ho ve! Sus! Psit! Pst! Shut! Sht! Crac! Paf! Plump!
 Hm! Hum! Fi!
 ====
@@ -2395,7 +2395,7 @@ li parol concernent.
 - Ne *yo* ha prendet vor libre — ma un *altri* person.
 - Yo ne *ha* prendet vor libre — ma yo *va* prender it.
 - Yo ha ne *prendet* vor libre — ma on ha *dat* it a me.
-- Yo ha prendet ne *vor* libre — ma un *aItri*.
+- Yo ha prendet ne *vor* libre — ma un *altri*.
 - Anc *yo* ama vos. Yo anc *ama* vos. Yo ama anc *vos*.
 ====
 
@@ -2533,9 +2533,14 @@ tales queles descripte solmen, es separat per comma.
 [[par122,§122]]§122. Por indicar li paroles maxim important del frase on posse usar li
 *accentu scrit*.
 
+// XXX REMARK -- 2020-07-12: Li ultim exemple «Save vu...» ne havet
+// accentu, probabilmen pro un erra de tippation durante li
+// transcrition original. Ti manca esset consultat in li gruppe
+// retpostal. Ínterim «íl veni» es usat.
+
 ====
 Yó ea con la (ne tú). Yo éa con la (yo ne fa quam li altris, queles né
-ea con la). Yo ea con élla (ne con li áltris). Save vu, de u il veni?
+ea con la). Yo ea con élla (ne con li áltris). Save vu, de u íl veni?
 ====
 
 [[par123,§123]]§123. Li *altri signes de interpunction*:
@@ -3005,7 +3010,7 @@ avan li substantive resp. li verb, con o sin strec ligativ.
 ====
 scri-table (={nbsp}table por scrir), vent-moline (={nbsp}moline movet
 del vent), chapel-bux, nota-librette, postcarte, scrimachine,
-tippmachine, mult-lateral, circumnavigar,contraproposition.
+tippmachine, mult-lateral, circumnavigar, contraproposition.
 ====
 
 In nov-formationes it es recomendat ligar li du paroles per un strec
@@ -3061,7 +3066,7 @@ Li maxim grand de vor fructes es tui pir, li minim grand su cereses. Nor
 pom e pir es tam bell quam lor prunes e cereses. Nor fructes es tam bell
 quam li lores. Lu maxim bell es li bellissim composition del colores.
 
-5. Yo es ci. Tu anc es ci. Ma il es ta, Ti fructes es bell. Ti-ci pom
+5. Yo es ci. Tu anc es ci. Ma il es ta. Ti fructes es bell. Ti-ci pom
 es verd. Ma ti-ta pir es yelb. Ti-ci cereses es rubi, tis-ta es nigri.
 To es bell colores.
 
@@ -3091,7 +3096,7 @@ crede vider? Crede tu vider mult persones? Qui tu vide? Qui vide te? Il
 di que il es malad. Il pensat que yo ha venit. Ella questionat, proquo
 yo es tam gay. Yo desira que il mey venir. Si yo vell esser malad, yo
 vell restar in hem. Yo ne save, ca yo comprende vos corect. Ca il veni o
-ne, noi va comensar, Si on vell saver, ca il veni! Yo crede que yo ha
+ne, noi va comensar. Si on vell saver, ca il veni! Yo crede que yo ha
 videt le. Yo crede har videt le. Yo crede vider le.
 
 Accentuati**o**n: Li p**o**c art**i**cules del gramm**a**tica e li
@@ -3162,7 +3167,7 @@ studiat scienties exact, linguistica e bell artes. Fórsan just ti
 mixtura de interesses e saventies fat possibil, que il trovat un lingue
 ínataccabil del vispunctu scientic, e in sam témpor ne desagreabil por
 li lingual sentiment. Interlingue es un lingue autonom e harmonic, e
-contene omni essentiai elementes del principal lingues de Europa e
+contene omni essential elementes del principal lingues de Europa e
 America. It es mult plu facil quam li precedent projectes de lingue
 international e íncomparabilmen plu simplic quam omni lingues national.
 Un lettre scrit in Interlingue es ja hodíe comprendet de omni persones

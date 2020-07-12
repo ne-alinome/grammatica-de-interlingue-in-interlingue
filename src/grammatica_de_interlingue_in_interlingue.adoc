@@ -1,6 +1,6 @@
 = Grammatica de Interlingue in Interlingue
 :author: Dr. Fritz Haas
-:revnumber: 0.1.0-pre.39+20200712
+:revnumber: 0.1.0-pre.40+20200712
 :version-label: Version de ti edition digital:
 :description: Grammatica del lingue auxiliar international Interlingue
 :lang: ie
@@ -22,7 +22,7 @@ endif::[]
 // This file is in Asciidoctor format
 // http://asciidoctor.org
 
-// Last modified 202007121742
+// Last modified 202007121750
 
 :dot: .
 
@@ -1744,11 +1744,17 @@ presentic
 
 [[par83,§83]]§83. In analog maniere adjunte se li sufix *-nd* al tema presentic:
 
-====
-demonstrand, vendiend, leend.
-====
+[width="100%"]
+|===
+| demonstrar | demonstrand
+| vendir     | vendiend
+| leer       | leend
+|===
 
-[[par84,§84]]§84. Li sufix *-ment* anc es adjuntet al tema presentic:
+// XXX FIXED -- «Li sufix *-ment* anc es adjuntet al tema presentic»
+// -> «Anc li sufix *-ment* es adjuntet al tema presentic»:
+
+[[par84,§84]]§84. Anc li sufix *-ment* es adjuntet al tema presentic:
 
 [width="100%"]
 |===
@@ -1759,9 +1765,11 @@ demonstrand, vendiend, leend.
 
 Si li radica de un verb con *er* fini per vocal, li *e* desapari:
 
-====
-arguer, argument, compleer, complement.
-====
+[width="100%"]
+|===
+| arguer   | argument
+| compleer | complement
+|===
 
 [[par85,§85]]§85. Du sufixes adjunte se al radica verbal in du formes diferent secun
 li vocal caracteristic: *-abil, -ada* ye *a* resp. *-ibil, -ida* ye *i*

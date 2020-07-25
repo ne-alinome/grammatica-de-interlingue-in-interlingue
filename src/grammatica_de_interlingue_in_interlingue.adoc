@@ -1,6 +1,6 @@
 = Grammatica de Interlingue in Interlingue
 :author: Dr. Fritz Haas
-:revnumber: 0.1.0-pre.42+20200713
+:revnumber: 0.1.0-pre.43+20200725
 :version-label: Version de ti edition digital:
 :description: Grammatica del lingue auxiliar international Interlingue
 :lang: ie
@@ -22,7 +22,7 @@ endif::[]
 // This file is in Asciidoctor format
 // http://asciidoctor.org
 
-// Last modified 202007130129
+// Last modified 202007251359
 
 :dot: .
 
@@ -417,7 +417,7 @@ li accentu al precedent síllab, mem si ti-ci es *bil, ic, im, ul*. Un
 simplic *s* e li du síllabes *men* e *um* in li fine del parol ne
 changea li accentuation del precedent parol-parte{blank}footnote:[Li
 autor parola ne pri qualcunc parol-fine, ma pri li terminationes «-s»
-del plural, «-men» del adverbies e li sufixe «-um». Editor digital.].
+del plural, «-men» del adverbies e li sufixe «-um». Note del editor digital.].
 Si ti regules ne es aplicabil, on accentua li prim vocal del parol.
 
 Si li natural accentuation ne seque ti regul, it es marcat per un
@@ -996,7 +996,7 @@ prefix *ne-* tales indicant li absentie, li negation, e li sufix
 | alcun   | necun   |
 | alcos{blank}footnote:[Li forme «alcos» mancat in li edition original.
 It esset adjuntet in ti edition nam it es usat. In contrari, «cuncunc» e
-«coscunc» nequande esset usat. Editor digital]
+«coscunc» nequande esset usat. Note del editor digital]
 | necos   |
 |===
 
@@ -1430,7 +1430,7 @@ radica, intercalante *t* pos vocal final e mutante un final *d* o *r* a
 :pednote1450: Li edition original monstrat du litt tabelles con solmen \
 quelc usat derivates del 11 verbes. Ti-ci edition \
 monstra omni possibil derivates, mem tis \
-ordinarimen ne usat. Editor digital.
+ordinarimen ne usat. Note del editor digital.
 
 ifndef::backend-epub3[]
 [width=100%]
@@ -1664,7 +1664,7 @@ international formes:
 // ínregulari:
 
 :pednote1677: Por claritá, anc li temas perfectic, regulari e \
-ínregulari, es includet in li tabelle in ti edition. Editor digital.
+ínregulari, es includet in li tabelle in ti edition. Note del editor digital.
 
 
 ifndef::backend-epub3[]
@@ -2969,7 +2969,7 @@ indicat in parenteses.)
 [[sufixe_ic,«-ic»]]-ic:: Essent tal: *metallic, fantastic,
 scientic*.footnote:[In li edition original, anc «fanatic (fanatico)»
 esset ínter li exemples, ma it ha esset movet al section <<par142>>,
-nam in ti radica li afixe «ic» es ínproductiv. Editor digital.]
+nam in ti radica li afixe «ic» es ínproductiv. Note del editor digital.]
 +
 Grec substantives finient per *-ma* intercala *-t-*, tales finient per
 *-se* (x = cs) muta li *s* in *t: problematic, dramatic, elipse,
@@ -3046,7 +3046,7 @@ socialisme*.
 paroles international. P. ex.: *-ic, -id,
 -ore*{blank}footnote:[<<sufixe_ic>> e <<sufixe_ore>> es anc productiv
 afixes. In li edition original, «-ic» esset mentionat solmen in
-<<par140>>. Editor digital.].
+<<par140>>. Note del editor digital.].
 
 ====
 fanatic (fanatico),

@@ -1,6 +1,6 @@
 = Grammatica de Interlingue in Interlingue
 :author: Dr. Fritz Haas
-:revnumber: 0.1.0-pre.41+20200713
+:revnumber: 0.1.0-pre.42+20200713
 :version-label: Version de ti edition digital:
 :description: Grammatica del lingue auxiliar international Interlingue
 :lang: ie
@@ -22,7 +22,7 @@ endif::[]
 // This file is in Asciidoctor format
 // http://asciidoctor.org
 
-// Last modified 202007130040
+// Last modified 202007130129
 
 :dot: .
 
@@ -1427,13 +1427,12 @@ radica, intercalante *t* pos vocal final e mutante un final *d* o *r* a
 
 // XXX NEW -- New layout, one table, with all forms completed:
 
-// XXX FIXME -- This table is fine for PDF, but too wide for EPUB.
-
 :pednote1450: Li edition original monstrat du litt tabelles con solmen \
-quelc usat derivates del 11 verbes. Por claritá, ti-ci edition \
-have un sol grand tabelle con omni possibil derivates, mem tis \
-ordinarimen ne usat. Editor digital. \
+quelc usat derivates del 11 verbes. Ti-ci edition \
+monstra omni possibil derivates, mem tis \
+ordinarimen ne usat. Editor digital.
 
+ifndef::backend-epub3[]
 [width=100%]
 |===
 | Infinitive{blank}footnote:[{pednote1450}] | Tema perfectic | -ion | -or | -ori | -iv | -ura
@@ -1450,116 +1449,82 @@ ordinarimen ne usat. Editor digital. \
 | scrir       | scrit          | scrition     | scritor     | scritori     | scritiv     | scritura
 | tonder      | tons           | tonsion      | tonsor      | tonsori      | tonsiv      | tonsura
 |===
+endif::[]
 
-
-////
-
-// XXX OLD -- 2020-04-04: Prova. Tabelles individual, ancor con omni
-// possibil combinationes. Ti metode es rejectet, nam it es minu
-// legibil quam un sol tabelle.
-
+ifdef::backend-epub3[]
+[width=100% cols="h,"]
 |===
-| Infinitive     | adherer
+| Infinitive{blank}footnote:[{pednote1450}] | *adherer*
 | Tema perfectic | adhes
 | -ion           | adhesion
 | -or            | adhesor
 | -ori           | adhesori
 | -iv            | adhesiv
 | -ura           | adhesura
-|===
-
-|===
-| Infinitive     | constructer
+| Infinitive     | *constructer*
 | Tema perfectic | construct
 | -ion           | construction
 | -or            | constructor
 | -ori           | constructori
 | -iv            | constructiv
-| -ura           | structura
-|===
-
-|===
-| Infinitive     | crear
+| -ura           | constructura
+| Infinitive     | *crear*
 | Tema perfectic | creat
 | -ion           | creation
 | -or            | creator
 | -ori           | creatori
 | -iv            | creativ
 | -ura           | creatura
-|===
-
-|===
-| Infinitive     | currer
+| Infinitive     | *currer*
 | Tema perfectic | curs
 | -ion           | cursion
 | -or            | cursor
 | -ori           | cursori
 | -iv            | cursiv
 | -ura           | cursura
-|===
-
-|===
-| Infinitive     | distribuer
+| Infinitive     | *distribuer*
 | Tema perfectic | distribut
 | -ion           | distribution
 | -or            | distributor
 | -ori           | distributori
 | -iv            | distributiv
 | -ura           | distributura
-|===
-
-|===
-| Infinitive     | expedir
+| Infinitive     | *expedir*
 | Tema perfectic | expedit
 | -ion           | expedition
 | -or            | expeditor
 | -ori           | expeditori
 | -iv            | expeditiv
 | -ura           | expeditura
-|===
-
-|===
-| Infinitive     | exploder
+| Infinitive     | *exploder*
 | Tema perfectic | explos
 | -ion           | explosion
 | -or            | explosor
 | -ori           | explosori
 | -iv            | explosiv
 | -ura           | explosura
-|===
-
-|===
-| Infinitive     | garnir
+| Infinitive     | *garnir*
 | Tema perfectic | garnit
 | -ion           | garnition
 | -or            | garnitor
 | -ori           | garnitori
 | -iv            | garnitiv
 | -ura           | garnitura
-|===
-
-|===
-| Infinitive     | revider
+| Infinitive     | *revider*
 | Tema perfectic | revis
 | -ion           | revision
 | -or            | revisor
 | -ori           | revisori
 | -iv            | revisiv
 | -ura           | revisura
-|===
-
-|===
-| Infinitive     | scrir
+| Infinitive     | *scrir*
 | Tema perfectic | scrit
 | -ion           | scrition
 | -or            | scritor
 | -ori           | scritori
 | -iv            | scritiv
 | -ura           | scritura
-|===
-
-|===
-| Infinitive     | tonder
+| Infinitive     | *tonder*
 | Tema perfectic | tons
 | -ion           | tonsion
 | -or            | tonsor
@@ -1567,9 +1532,7 @@ ordinarimen ne usat. Editor digital. \
 | -iv            | tonsiv
 | -ura           | tonsura
 |===
-
-////
-
+endif::[]
 
 ////
 
@@ -1704,6 +1667,7 @@ international formes:
 ínregulari, es includet in li tabelle in ti edition. Editor digital.
 
 
+ifndef::backend-epub3[]
 [width=100%]
 |===
 | Infinitive{blank}footnote:[{pednote1677}] | Tema perfectic | Vice | -ion | Vice
@@ -1714,6 +1678,40 @@ international formes:
 | venir      | vent           | _venit_ | vention | _venition_
 | tener      | tent           | _ten_   | tention | _tenion_
 |===
+endif::[]
+
+// XXX TODO -- aclarar:
+
+ifdef::backend-epub3[]
+[width=100%]
+|===
+| Infinitive{blank}footnote:[{pednote1677}] | *seder*
+| Tema perfectic                            | sess
+| Vice                                      | _ses_
+| -ion                                      | session
+| Vice                                      | _sesion_
+| Infinitive                                | ceder
+| Tema perfectic                            | cess
+| Vice                                      | _ces_
+| -ion                                      | cession
+| Vice                                      | _cesion_
+| Infinitive                                | verter
+| Tema perfectic                            | vers
+| Vice                                      | _vert_
+| -ion                                      | version
+| Vice                                      | _vertion_
+| Infinitive                                | *venir*
+| Tema perfectic                            | vent
+| Vice                                      | _venit_
+| -ion                                      | vention
+| Vice                                      | _venition_
+| Infinitive                                | *tener*
+| Tema perfectic                            | tent
+| Vice                                      | _ten_
+| -ion                                      | tention
+| Vice                                      | _tenion_
+|===
+endif::[]
 
 // XXX TODO -- Pednote pri li tot contenete del punctu 81:
 
@@ -2394,14 +2392,24 @@ li aqua. Shut (o shit!) vi li professor, silentie! Fi! quel malodore!
 [[par108,§108]]§108. Li *position* del paroles in li frase es in general *líber* til un
 cert gradu. Ma li *regulari órdine* del frase-partes es:
 
-// XXX FIXME -- Ti tabelle ne have plazza; fórsan in du columnes:
-
+ifndef::backend-epub3[]
 [width=100%]
 |===
 | Subject  | Predicate | Acusativ object | Dativ object
 
 | Li patre | da        | li libre        | al filio
 |===
+endif::[]
+
+ifdef::backend-epub3[]
+[width=100% cols="h,"]
+|===
+| Subject         | Li patre
+| Predicate       | da
+| Acusativ object | li libre
+| Dativ object    | al filio
+|===
+endif::[]
 
 [[par109,§109]]§109. Li frase es maxim bon comprensibil, si omni paroles sta maxim
 possibil proxim li parol a quel ili relate. Pro to omni frasepartes es

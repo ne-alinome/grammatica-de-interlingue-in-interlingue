@@ -1,6 +1,6 @@
 = TO-DO of _Grammatica de Interlingue in Interlingue_
 :author: Marcos Cruz (programandala.net)
-:revdate: 2020-07-13
+:revdate: 2020-07-25
 
 - Separate all paragraph numbers from headings?
 - Add URL of the Belitzky's version.
@@ -23,3 +23,4 @@
 - Annexe con complet tabelle: unquande, alquande, nequande, ucunc,
   alcú...  
 - `width=100%` have nequal efect in Asciidoctor EPUB3.
+- Add headers to the table "Pronómines índefinit".

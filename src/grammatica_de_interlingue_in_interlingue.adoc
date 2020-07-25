@@ -1,6 +1,6 @@
 = Grammatica de Interlingue in Interlingue
 :author: Dr. Fritz Haas
-:revnumber: 0.1.0-pre.43+20200725
+:revnumber: 0.1.0-pre.45+20200725
 :version-label: Version de ti edition digital:
 :description: Grammatica del lingue auxiliar international Interlingue
 :lang: ie
@@ -22,7 +22,7 @@ endif::[]
 // This file is in Asciidoctor format
 // http://asciidoctor.org
 
-// Last modified 202007251359
+// Last modified 202007251410
 
 :dot: .
 
@@ -43,7 +43,7 @@ http://ie-munde.com[ie-munde.com].
 
 Conversion a Asciidoctor, revision, e edition quam libre digital::
 Marcos Cruz, 2019, 2020{dot} Obtenibil in
-http://ne.alinome.net[_ne alinome_ (ne.alinome.net)] ye formates EPUB, PDF e altris.
+http://ne.alinome.net[ne.alinome.net] ye formates EPUB, PDF e altris.
 
 Principal changes in ti edition::
 - Corection de omni trovat erras.
@@ -70,7 +70,7 @@ http://xmlsoft.org/XSLT/[xsltproc]...
 Version de ti edition:: {revnumber}.
 
 Contributiones:: Corectiones e suggestiones por sequent versiones es
-benevenit che http://ne.alinome.net[_ne alinome_ (ne.alinome.net)].
+benevenit che http://ne.alinome.net[ne.alinome.net].
 
 // Anteparol {{{1
 == Anteparol
@@ -371,7 +371,7 @@ y consonantic:: Quam A, F: _yeux_, G: «j», H: _ayustar_.
 yes, rayon, anteyan.
 ====
 
-z:: Dulci («ds»), si possibil, altrimen dur («ts»).
+z:: Dulci («ds»), si possibil; altrimen dur («ts»).
 +
 ====
 zefir.
@@ -451,7 +451,7 @@ gravis recomendat quam medie didactic por accentus ínscrit, quam in li
 sequent exemples{blank}footnote:[In li edition original, ti paragraf
 esset un note pos li exemples, quel includet li prim 15 exemples, de
 «inscrìt» til «it rèsta». Por claritá, li note del autor ha esset un
-poc modificat e movet ante li complet liste de exemples. Editor
+poc modificat e movet ante li complet liste de exemples. Note del editor
 digital.]:
 
 // XXX FIXME -- «fèlici» contradi li regul pri «ic» con son «ik».
@@ -1723,8 +1723,8 @@ per li complet radicas: *fact, dict, script*.
 Che li verbes con li consonant-gruppe *-ct-* on posse omisser li *c*.
 footnote:[Por claritá, in ti edition ti paragraf esset un poc
 simplificat, su sequent exemples esset completat, e «prescription o
-prescrition» esset deletet ex ili, nam it ne relatet al afere. Editor
-digital.]
+prescrition» esset deletet ex ili, nam it ne relatet al afere. Note
+del editor digital.]
 
 ====
 Contrafaction o contrafation, factor o fator, malediction o maledition,

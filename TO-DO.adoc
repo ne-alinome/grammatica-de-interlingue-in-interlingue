@@ -1,6 +1,6 @@
 = TO-DO of _Grammatica de Interlingue in Interlingue_
 :author: Marcos Cruz (programandala.net)
-:revdate: 2020-07-25
+:revdate: 2020-07-27
 
 - Separate all paragraph numbers from headings?
 - Add URL of the Belitzky's version.
@@ -15,7 +15,7 @@
 - Consult: the pronunciation of "g" in English is incomplete.
 - Expand "resp."?
 - Usar un majuscule initial in exemple-blocs con parol-listes?
-- Adjunter articul ex Cosmoglatto pri pronunciation de «sh».
+- Adjunter articul ex Cosmoglotta pri pronunciation de «sh».
 - Ameliorar explication pri li pronunciation de "y" consonantic in
   hispan.
 - Aclarar li textual transcrition del calcules aritmetic, por exemple
@@ -24,3 +24,4 @@
   alcú...  
 - `width=100%` have nequal efect in Asciidoctor EPUB3.
 - Add headers to the table "Pronómines índefinit".
+- Add "unene" e "duene" to §62.

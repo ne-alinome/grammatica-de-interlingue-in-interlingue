@@ -1,6 +1,6 @@
 = Grammatica de Interlingue in Interlingue
 :author: Dr. Fritz Haas
-:revnumber: 0.1.0-pre.45+20200725
+:revnumber: 0.1.0-pre.46+20200727
 :version-label: Version de ti edition digital:
 :description: Grammatica del lingue auxiliar international Interlingue
 :lang: ie
@@ -1083,6 +1083,8 @@ du vez o duvez, tri vez, centvez, mult vez o multvez o mult vezes.
 ====
 
 [[par62,§62]]§62. Li *numerales colectiv* es format per li finale: *-ene*.
+footnote:[Li paroles «unene» e «duene» es apen usat, e fórsan pro to
+li autor ne includet les in li exemples. Note del editor digital.]
 
 ====
 li unité, pare, triene, quarene, quinene, decene, deciduene, centene.

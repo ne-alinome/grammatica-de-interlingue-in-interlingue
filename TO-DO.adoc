@@ -24,4 +24,3 @@
   alcú...  
 - `width=100%` have nequal efect in Asciidoctor EPUB3.
 - Add headers to the table "Pronómines índefinit".
-- Add "unene" e "duene" to §62.

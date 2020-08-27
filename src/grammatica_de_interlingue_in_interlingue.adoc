@@ -1,6 +1,6 @@
 = Grammatica de Interlingue in Interlingue
 :author: Dr. Fritz Haas
-:revnumber: 0.1.0-pre.46+20200727
+:revnumber: 0.1.0-pre.47+20200827
 :version-label: Version de ti edition digital:
 :description: Grammatica del lingue auxiliar international Interlingue
 :lang: ie
@@ -22,7 +22,7 @@ endif::[]
 // This file is in Asciidoctor format
 // http://asciidoctor.org
 
-// Last modified 202007271725
+// Last modified 202008271922
 
 :dot: .
 
@@ -1648,96 +1648,16 @@ endif::[]
 *Quin verbes* forma ti derivates un poc diferentmen, usante li
 international formes:
 
-////
-
-|===
-| Infinitive | Derivate | Vice
-
-| seder      | session  | sesion
-| ceder      | cession  | cesion
-| verter     | version  | vertion
-| venir      | vention  | venition
-| tener      | tention  | tenion
-|===
-
-////
-
-// XXX NEW -- Plu clar alternative, con temas perfectic regulari e
-// ínregulari:
-
-:pednote1677: Por claritá, anc li temas perfectic, regulari e \
-ínregulari, es includet in li tabelle in ti edition. Note del editor digital.
-
-
-ifndef::backend-epub3[]
 [width=100%]
 |===
-| Infinitive{blank}footnote:[{pednote1677}] | Tema perfectic | Vice | -ion | Vice
+| Infinitive | Tema perfectic | -ion    | Vice
 
-| seder      | sess           | _ses_   | session | _sesion_
-| ceder      | cess           | _ces_   | cession | _cesion_
-| verter     | vers           | _vert_  | version | _vertion_
-| venir      | vent           | _venit_ | vention | _venition_
-| tener      | tent           | _ten_   | tention | _tenion_
+| seder      | sess           | session | _sesion_
+| ceder      | cess           | cession | _cesion_
+| verter     | vers           | version | _vertion_
+| venir      | vent           | vention | _venition_
+| tener      | tent           | tention | _tenion_
 |===
-endif::[]
-
-// XXX TODO -- aclarar:
-
-ifdef::backend-epub3[]
-
-// XXX TMP --
-
-[width=100%]
-|===
-| Infinitive{blank}footnote:[{pednote1677}] | *seder*
-| Tema perfectic                            | sess
-| Vice                                      | _ses_
-| -ion                                      | session
-| Vice                                      | _sesion_
-| Infinitive                                | ceder
-| Tema perfectic                            | cess
-| Vice                                      | _ces_
-| -ion                                      | cession
-| Vice                                      | _cesion_
-| Infinitive                                | verter
-| Tema perfectic                            | vers
-| Vice                                      | _vert_
-| -ion                                      | version
-| Vice                                      | _vertion_
-| Infinitive                                | *venir*
-| Tema perfectic                            | vent
-| Vice                                      | _venit_
-| -ion                                      | vention
-| Vice                                      | _venition_
-| Infinitive                                | *tener*
-| Tema perfectic                            | tent
-| Vice                                      | _ten_
-| -ion                                      | tention
-| Vice                                      | _tenion_
-|===
-
-[width=100%]
-|===
-| Infinitive{blank}footnote:[{pednote1677}] | Tema perfectic | Vice    | -ion    | Vice
-
-| seder                                     | sess           | _ses_   | session | _sesion_
-| ceder                                     | cess           | _ces_   | cession | _cesion_
-| verter                                    | vers           | _vert_  | version | _vertion_
-| venir                                     | vent           | _venit_ | vention | _venition_
-| tener                                     | tent           | _ten_   | tention | _tenion_
-|===
-
-[width=100%]
-|===
-| Infinitive{blank}footnote:[{pednote1677}] | seder    | ceder    | verter    | venir    | tener
-| Tema perfectic                            | sess     | cess     | vers      | vent     | tent
-| Vice                                      | _ses_    | _ces_    | _vert_    | _venit_  | _ten_
-| -ion                                      | session  | cession  | version   | vention  | tention
-| Vice                                      | _sesion_ | _cesion_ | _vertion_ | venition | _tenion_
-|===
-
-endif::[]
 
 // XXX TODO -- Pednote pri li tot contenete del punctu 81:
 

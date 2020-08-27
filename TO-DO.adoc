@@ -1,6 +1,6 @@
 = TO-DO of _Grammatica de Interlingue in Interlingue_
 :author: Marcos Cruz (programandala.net)
-:revdate: 2020-07-27
+:revdate: 2020-08-27
 
 - Separate all paragraph numbers from headings?
 - Add URL of the Belitzky's version.
@@ -24,3 +24,10 @@
   alcú...  
 - `width=100%` have nequal efect in Asciidoctor EPUB3.
 - Add headers to the table "Pronómines índefinit".
+- Separate languages with semicolon, e.g. "Apert o cludet, quam GHI,
+  A: _bed, yes_, F: «é» o «è».", or "Quam AFI, G: «w».".
+- Homogenize notation of pronunciation examples, e.g.   "b, d, f, I,
+  m, n, p:: Quam in AFGI, H («b» in _boca_).".
+- Check accent of "prescri".  
+- Check the footnote links. They seem to fail with the latest version
+  of Asciidoctor EPUB3. They work in HTML.

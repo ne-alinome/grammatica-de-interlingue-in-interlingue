@@ -22,7 +22,7 @@ endif::[]
 // This file is in Asciidoctor format
 // http://asciidoctor.org
 
-// Last modified 202007251410
+// Last modified 202007271725
 
 :dot: .
 
@@ -1685,6 +1685,9 @@ endif::[]
 // XXX TODO -- aclarar:
 
 ifdef::backend-epub3[]
+
+// XXX TMP --
+
 [width=100%]
 |===
 | Infinitive{blank}footnote:[{pednote1677}] | *seder*
@@ -1713,6 +1716,27 @@ ifdef::backend-epub3[]
 | -ion                                      | tention
 | Vice                                      | _tenion_
 |===
+
+[width=100%]
+|===
+| Infinitive{blank}footnote:[{pednote1677}] | Tema perfectic | Vice    | -ion    | Vice
+
+| seder                                     | sess           | _ses_   | session | _sesion_
+| ceder                                     | cess           | _ces_   | cession | _cesion_
+| verter                                    | vers           | _vert_  | version | _vertion_
+| venir                                     | vent           | _venit_ | vention | _venition_
+| tener                                     | tent           | _ten_   | tention | _tenion_
+|===
+
+[width=100%]
+|===
+| Infinitive{blank}footnote:[{pednote1677}] | seder    | ceder    | verter    | venir    | tener
+| Tema perfectic                            | sess     | cess     | vers      | vent     | tent
+| Vice                                      | _ses_    | _ces_    | _vert_    | _venit_  | _ten_
+| -ion                                      | session  | cession  | version   | vention  | tention
+| Vice                                      | _sesion_ | _cesion_ | _vertion_ | venition | _tenion_
+|===
+
 endif::[]
 
 // XXX TODO -- Pednote pri li tot contenete del punctu 81:
@@ -2483,7 +2507,7 @@ Si ella vell har savet, quo ella save hodíe, ella vell har actet
 altrimen. Si yo vell esser malad, yo vell restar in hem.
 ====
 
-// XXX TODO -- pednote pri ti frases:
+// XXX TODO -- pednote pri ti frases, quel deve esser interogativ:
 
 *Índirect frases* es comensat per: *ca* (viceat sovente per *esque*).
 

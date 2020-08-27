@@ -3,7 +3,7 @@
 # By Marcos Cruz (programandala.net)
 # http://ne.alinome.net
 
-# Last modified 202008272003
+# Last modified 202008272028
 # See change log at the end of the file
 
 # ==============================================================
@@ -57,13 +57,13 @@ description="Grammatica del lingue international auxiliari Interlingue"
 default: epuba pdfa4 thumb
 
 .PHONY: all
-all: azw3 dbk epub odt pdf thumb
+all: azw3 epub odt pdf thumb
 
 .PHONY: azw3
 azw3: target/$(book).adoc.epub.azw3
 
 .PHONY: epub
-epub: epuba epubd epubp epubx
+epub: epuba
 
 .PHONY: epuba
 epuba: target/$(book).adoc.epub
@@ -147,6 +147,8 @@ target/%.adoc._letter.pdf: src/%.adoc tmp/$(cover).pdf
 
 # ==============================================================
 # Convert DocBook to EPUB {{{1
+
+# XXX OLD Deprecated.
 
 # ------------------------------------------------
 # Convert DocBook to EPUB with dbtoepub {{{2
@@ -375,3 +377,4 @@ tmp/$(cover).pdf: target/$(cover).jpg
 # 2020-08-24: Simplify the dependency between the cover and its thumb.
 #
 # 2020-08-27: Compress the PDF with zip and gzip. Convert also EPUB to AZW3.
+# Deprecate the conversions from DocBook to EPUB.

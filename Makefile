@@ -3,7 +3,7 @@
 # By Marcos Cruz (programandala.net)
 # http://ne.alinome.net
 
-# Last modified 202008271933
+# Last modified 202008272003
 # See change log at the end of the file
 
 # ==============================================================
@@ -20,6 +20,9 @@
 
 # dbtoepub
 #   http://docbook.sourceforge.net/release/xsl/current/epub/README
+
+# ebook-convert
+#   manual.calibre-ebook.com/generated/en/ebook-convert.html
 
 # ImageMagick (by ImageMagick Studio LCC)
 #   http://imagemagick.org
@@ -51,10 +54,13 @@ description="Grammatica del lingue international auxiliari Interlingue"
 # Interface {{{1
 
 .PHONY: default
-default: epuba pdf thumb
+default: epuba pdfa4 thumb
 
 .PHONY: all
-all: dbk epub odt pdf thumb
+all: azw3 dbk epub odt pdf thumb
+
+.PHONY: azw3
+azw3: target/$(book).adoc.epub.azw3
 
 .PHONY: epub
 epub: epuba epubd epubp epubx
@@ -229,6 +235,12 @@ target/$(book).adoc.dbk.pandoc.odt: \
 		--output $@ $<
 
 # ==============================================================
+# Convert EPUB to AZW3 {{{1
+
+target/%.epub.azw3: target/%.epub
+	ebook-convert $< $@
+
+# ==============================================================
 # Create the cover image {{{1
 
 # ------------------------------------------------
@@ -362,4 +374,4 @@ tmp/$(cover).pdf: target/$(cover).jpg
 #
 # 2020-08-24: Simplify the dependency between the cover and its thumb.
 #
-# 2020-08-27: Compress the PDF with zip and gzip.
+# 2020-08-27: Compress the PDF with zip and gzip. Convert also EPUB to AZW3.

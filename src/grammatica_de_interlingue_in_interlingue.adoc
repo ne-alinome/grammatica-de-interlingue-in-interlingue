@@ -1,6 +1,6 @@
 = Grammatica de Interlingue in Interlingue
 :author: Dr. Fritz Haas
-:revnumber: 0.1.0-pre.47+20200827
+:revnumber: 0.1.0-pre.48+20200827
 :version-label: Version de ti edition digital:
 :description: Grammatica del lingue auxiliar international Interlingue
 :lang: ie
@@ -22,7 +22,7 @@ endif::[]
 // This file is in Asciidoctor format
 // http://asciidoctor.org
 
-// Last modified 202008271922
+// Last modified 202008272012
 
 :dot: .
 
@@ -46,10 +46,9 @@ Marcos Cruz, 2019, 2020{dot} Obtenibil in
 http://ne.alinome.net[ne.alinome.net] ye formates EPUB, PDF e altris.
 
 Principal changes in ti edition::
-- Corection de omni trovat erras.
+- Corection de omni erras trovat.
 - Mettion de omni ínobligatori accentus.
-- Amelioration del leibilitá, precipue de tabelles e listes, por omni
-  formates.
+- Amelioration del claritá e leibilitá, p.e. tabelles, listes, lingues…
 - Creation de intern ligamentes.
 
 Programmas (omnis líber) usat por ti librification digital::
@@ -131,32 +130,32 @@ te, u, ve, duplic ve, ix, ypsilon, zet.
 
 [[par3,§3]]§3. *Li vocales* es sempre clarmen pronunciat quam seque:
 
-a:: Quam in F (francesi), o G (german), o H (hispan), o I (italian), o
-A (anglesi): _father_.
+a:: Quam francesi, german, hispan o italian; 
+quam anglesi _father_.
 +
 ====
 vase, batte, batter.
 ====
 
-e:: Apert o cludet, quam GHI, A: _bed, yes_, F: «é» o «è».
+e:: Apert o cludet, quam german, hispan o italian; quam anglesi _bed, yes_; quam francesi «é» o «è».
 +
 ====
 pena, mensu, pelle, venir.
 ====
 
-i:: Quam FGHI, A: _machine_.
+i:: Quam francesi, german, hispan o italian; quam anglesi _machine_.
 +
 ====
 nive, six, minute.
 ====
 
-o:: Apert o cludet, quam FGHI, A: _door, hot_.
+o:: Apert o cludet, quam francesi, german, hispan o italian; quam anglesi _door, hot_.
 +
 ====
 modic, póndere, porta, ponderar.
 ====
 
-u:: Quam GHI, A: _rule, pull_, F: «ou»; pos «q» tre curt, presc
+u:: Quam german, hispan o italian; quam anglesi _rule, pull_; quam francesi «ou»; pos «q» tre curt, presc
 consonantic («w»).
 +
 ====
@@ -170,7 +169,7 @@ brun, mult, sudar, quar.
 // book).
 
 y:: Pos un vocal, e in li comensa de un parol anc avan un vocal, es
-consonantic, altriloc vocalic.  *y vocalic* es pronunciat quam in
+<<y_consonantic,consonantic>>, altriloc vocalic.  *y vocalic* es pronunciat quam in
 Interlingue «i»:
 +
 ====
@@ -192,7 +191,7 @@ trottuôre, càude, neutrâl, arcâic, vîa, revûe.
 ====
 
 In plu un strict regul pri li pronunciation long o curt, cludet o apert
-del vocales ne existe. Preferibil es li pronunciationes simil a FGHI.
+del vocales ne existe. Preferibil es li pronunciationes simil a francesi, german, hispan o italian.
 
 Qui ne conosse alcun de ti pronunciationes posse sequer li indicationes
 del <<par4>> quam recomendation, ma ne quam regul strict o complet.
@@ -223,7 +222,7 @@ cludet, «è»: curt e apert.
 
 [[par5,§5]]§5. *Li consonantes* es pronunciat quam seque:
 
-b, d, f, I, m, n, p:: Quam in AFGI, H («b» in _boca_).
+b, d, f, l, m, n, p:: Quam in anglesi, francesi, hispan («b» in _boca_), german, italian. 
 +
 ====
 bon, editer, fratre, long, matre, null, pede.
@@ -238,15 +237,15 @@ c:: Avan «e», «i», «y» = «ts», altriloc quam «k».
 centre, reciver, cilindre, concert, acceptar, electric, electricitá.
 ====
 
-ch:: F, A: «sh», G: «sch», permisset anc A: «ch», H: «ch», ma
+ch:: Quam francesi; quam anglesi «sh»; quam german «sch»; permisset anc anglesi o hispan «ch», ma
 ne recomendat; avan consonantes quam «k».
 +
 ====
 machine, marchar, chec, chloroform.
 ====
 
-g:: Avan «e», «i», «y»: AFI, G: dulci «sch» quam in _generös_,
-altriloc AFGHI («gn» maxim possibil «g-n», ne «nye»).
+g:: Avan «e», «i» o «y» quam in anglesi, francesi, italian o german (dulci «sch» quam in _generös_);
+altriloc quam anglesi, francesi, german, hispan o italian («gn» maxim possibil «g-n», ne «nye»).
 +
 ====
 gage, gigant, garage, gimnastica, guvernar, grisi, suggestion, magnific.
@@ -259,7 +258,7 @@ gh:: In quelc rar paroles avan «e», «i», «y» quam «g» avan
 ghetto.
 ====
 
-h:: Sempre aspirat quam AG.
+h:: Sempre aspirat quam anglesi o german.
 +
 ====
 hom, adherer.
@@ -267,7 +266,7 @@ hom, adherer.
 
 // XXX FIXED -- "quam Interlingue" -> "quam in Interlingue"
 
-j:: Quam F, A: _vision_, G: dulci «sch» quam _Journal_, dunc quam in
+j:: Quam francesi; quam anglesi _vision_; quam german dulci «sch», quam _Journal_; dunc quam in
 Interlingue «g» avan «e».
 +
 ====
@@ -286,14 +285,14 @@ ph:: Quam «f» (in grec paroles).
 telephon.
 ====
 
-qu:: Quam «k», sempre sequet de tre curt «u»: AGI, F e H con
+qu:: Quam «k», sempre sequet de tre curt «u»: quam anglesi, german e italian; quam francesi e hispan con
 «u».
 +
 ====
 quar, aqua.
 ====
 
-r:: FGHI.
+r:: francesi, german, hispan o italian.
 +
 ====
 radie, merce.
@@ -319,7 +318,7 @@ ss:: Quam «s» dur.
 casse, altesse.
 ====
 
-sh, sch:: Quam A: «sh», F: «ch», G: «sch». Existe solmen in
+sh, sch:: Quam anglesi «sh»; quam francesi «ch»; quam german «sch». Existe solmen in
 quelc paroles por conservar li natural aspecte.
 +
 ====
@@ -327,7 +326,7 @@ shrapnell, schema.
 ====
 
 t:: Es sibilant (quam «ts») avan «ia», «ie», «io», «iu», si
-ne un «s» precede, altriloc quam AFGHI.
+ne un «s» precede, altriloc quam anglesi, francesi, german, hispan o italian.
 +
 ====
 tolerantie, tentar, tentation, hostie.
@@ -342,7 +341,7 @@ theosoph, lithograph.
 // XXX FIXED -- Removed "H". The sound of "v" in Spanish usually is
 // "b".
 
-v:: Quam AFI, G: «w».
+v:: Quam anglesi, francesi o italian; quam german «w».
 +
 ====
 venir, dever, nive.
@@ -350,13 +349,13 @@ venir, dever, nive.
 
 // XXX FIXED -- "curt Interlingue: u" -> curt u in Interlingue"
 
-w:: Rar, quam A, curt «u» in Interlingue.
+w:: Rar, quam anglesi; curt «u» in Interlingue.
 +
 ====
 west.
 ====
 
-x:: Dur o dulci, quam AFG, H: _examinar_.
+x:: Dur o dulci, quam anglesi, francesi o german; quam hispan _examinar_.
 +
 ====
 examinar, extra.
@@ -365,7 +364,8 @@ examinar, extra.
 // XXX FIXED -- "antey" remplazzat per "anteyan, nam ti "y" de "antey"
 // ne es consonantic:
 
-y consonantic:: Quam A, F: _yeux_, G: «j», H: _ayustar_.
+[[y_consonantic]]
+y consonantic:: Quam anglesi; quam francesi _yeux_; quam german «j»; quam hispan _ayustar_.
 +
 ====
 yes, rayon, anteyan.
@@ -387,8 +387,8 @@ plazza.
 
 [[par6,§6]]§6. Li experientie pruva que *litt variationes* in li
 pronunciation ne gena li comprension. Pro to it *es permisset*
-pronunciar li «y» vocalic quam F: «u», G: «ü», *qu* quam «kw»,
-*ch* quam «tsch», *j* sempre e *g* sequet de «e», «i», «y»
+pronunciar li «y» vocalic quam francesi «u» o german «ü»; *qu* quam «kw»;
+*ch* quam «tsch»; *j* sempre e *g* sequet de «e», «i», «y»
 quam «dj».
 
 ====

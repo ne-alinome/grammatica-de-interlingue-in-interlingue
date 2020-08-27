@@ -3,7 +3,7 @@
 # By Marcos Cruz (programandala.net)
 # http://ne.alinome.net
 
-# Last modified 202008241621
+# Last modified 202008271933
 # See change log at the end of the file
 
 # ==============================================================
@@ -77,11 +77,19 @@ odt: target/$(book).adoc.dbk.pandoc.odt
 .PHONY: pdf
 pdf: pdfa4 pdfletter
 
+# NOTE: First the zip (which preserves the PDF),
+# then the gzip (which deletes it):
 .PHONY: pdfa4
-pdfa4: target/$(book).adoc._a4.pdf
+pdfa4: \
+	target/$(book).adoc._a4.pdf.zip \
+	target/$(book).adoc._a4.pdf.gz
 
+# NOTE: First the zip (which preserves the PDF),
+# then the gzip (which deletes it):
 .PHONY: pdfletter
-pdfletter: target/$(book).adoc._letter.pdf
+pdfletter: \
+	target/$(book).adoc._letter.pdf.zip \
+	target/$(book).adoc._letter.pdf.gz
 
 .PHONY: dbk
 dbk: target/$(book).adoc.dbk
@@ -124,6 +132,12 @@ target/%.adoc._letter.pdf: src/%.adoc tmp/$(cover).pdf
 	asciidoctor-pdf \
 		--attribute pdf-page-size=letter \
 		--out-file=$@ $<
+
+%.pdf.zip: %.pdf
+	zip -9 $@ $<
+
+%.pdf.gz: %.pdf
+	gzip --force $<
 
 # ==============================================================
 # Convert DocBook to EPUB {{{1
@@ -347,3 +361,5 @@ tmp/$(cover).pdf: target/$(cover).jpg
 # 2020-04-06: Adjust the size and layout of the cover texts.
 #
 # 2020-08-24: Simplify the dependency between the cover and its thumb.
+#
+# 2020-08-27: Compress the PDF with zip and gzip.

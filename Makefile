@@ -3,7 +3,7 @@
 # By Marcos Cruz (programandala.net)
 # http://ne.alinome.net
 
-# Last modified 202004062211
+# Last modified 202008241621
 # See change log at the end of the file
 
 # ==============================================================
@@ -85,9 +85,6 @@ pdfletter: target/$(book).adoc._letter.pdf
 
 .PHONY: dbk
 dbk: target/$(book).adoc.dbk
-
-.PHONY: cover
-cover: target/$(cover).jpg target/$(cover)_thumb.jpg
 
 .PHONY: cover
 cover: target/$(cover).jpg
@@ -348,3 +345,5 @@ tmp/$(cover).pdf: target/$(cover).jpg
 # cover image to build the EPUB.
 #
 # 2020-04-06: Adjust the size and layout of the cover texts.
+#
+# 2020-08-24: Simplify the dependency between the cover and its thumb.

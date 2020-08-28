@@ -1,6 +1,6 @@
 = TO-DO of _Grammatica de Interlingue in Interlingue_
 :author: Marcos Cruz (programandala.net)
-:revdate: 2020-08-27
+:revdate: 2020-08-28
 
 - Separate all paragraph numbers from headings?
 - Add URL of the Belitzky's version.
@@ -31,3 +31,23 @@
 - Check accent of "prescri".  
 - Check the footnote links. They seem to fail with the latest version
   of Asciidoctor EPUB3. They work in HTML.
+- "córam" is missing in the list of prepositions.  
+- Join "p. ex." with hard spaces.
+- Add footnote about "-ye"?
+- Link all of the affixes mentioned.
+- Order "yes, no, ne...".
+- Add footnote about "yes/sí".
+- Add annex with the usage of prepositions, extracted from
+  Cosmoglotta.
+- Add footone about the accent of "imágina".  
+- Add annex with all of the "al-", "ne-", "-cunc" words in a table.
+- Add annex with lists of affixes, by type, linked to their
+  description in the book.
+- Fix/add reference between "-es" and "-an".
+- Edit CSS to improve the look of the example blocks.
+- Improve the notation of the list of example numbers.
+- Improve the description of the programs used.
+- Use Unicode ellipsis.
+- Fix: The description of "qu" in French and Spanish is ambiguous,
+  because "con «u»" could mean "with the letter «u»", which they
+  already have; the author meant "with an added sound of «u»".

@@ -1,6 +1,6 @@
 = Grammatica de Interlingue in Interlingue
 :author: Dr. Fritz Haas
-:revnumber: 0.1.0-pre.50+20200827
+:revnumber: 0.1.0-pre.51+20200828
 :version-label: Version de ti edition digital:
 :description: Grammatica del lingue auxiliar international Interlingue
 :lang: ie
@@ -334,10 +334,9 @@ th:: Quam «t» (in grec paroles).
 theosoph, lithograph.
 ====
 
-// XXX FIXED -- Removed "H". The sound of "v" in Spanish usually is
-// "b".
-
-v:: Quam anglesi, francesi o italian; quam german «w».
+v:: Quam anglesi, francesi o italian{blank}footnote[Li edition original
+erratorimen includet anc hispan, ma li hispan «v» desde secules changeat su
+son a ti de «b». Note del editor digital]; quam german «w».
 +
 ====
 venir, dever, nive.

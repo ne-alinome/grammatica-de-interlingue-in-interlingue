@@ -47,7 +47,6 @@
 - Edit CSS to improve the look of the example blocks.
 - Improve the notation of the list of example numbers.
 - Improve the description of the programs used.
-- Use Unicode ellipsis.
 - Fix: The description of "qu" in French and Spanish is ambiguous,
   because "con «u»" could mean "with the letter «u»", which they
   already have; the author meant "with an added sound of «u»".

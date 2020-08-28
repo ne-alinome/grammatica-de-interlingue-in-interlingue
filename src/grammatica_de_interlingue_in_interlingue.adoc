@@ -1,6 +1,6 @@
 = Grammatica de Interlingue in Interlingue
 :author: Dr. Fritz Haas
-:revnumber: 0.1.0-pre.52+20200828
+:revnumber: 0.1.0-pre.53+20200828
 :version-label: Version de ti edition digital:
 :description: Grammatica del lingue auxiliar international Interlingue
 :lang: ie
@@ -913,11 +913,11 @@ To es mi libre. Yo save to (li facte, que to es tui libre).
 
 [[par48,§48]]§48. Li *pronómin o articul lu* servi por expresser to quo es
 impersonal, neutri o abstract. It significa generalmen: to quo es
-(li)...
+(li)…
 
 ====
 De lu sublim a lu comic es sovente solmen un passu. Lu nov de ti
-conception es...
+conception es…
 ====
 
 // Pronómines relativ e interrogativ {{{2
@@ -1026,20 +1026,20 @@ il es ci. It es tot egal, ca vu vide li tot munde o quelc partes de it.
 // XXX FIXED -- niantnin -> ninantnin
 
 0 null 1 un 2 du 3 tri 4 quar 5 quin 6 six 7 sett 8 ott 9 nin 10 deci 11
-deciun 12 decidu 13 decitri 14 deciquar 15 deciquin ... 19 decinin 20
-duant 21 duantun 22 duantdu . .. 30 triant 40 quarant 50 quinant 60
-sixant ... 90 ninant ... 99 ninantnin 100 cent 101 cent un 102
-centdu... 110 centdeci 111 cent deciun ... 119 cent decinin 120 cent
-duant 121 cent duantun ... 130 cent triant ... 199 cent ninantnin 200
-ducent 201 ducent un ... 210 ducent deci 300 tricent ... 999 nincent
-ninantnin 1000 mill 1001 mill un ... 1099 mill ninantnin 1100 mill cent
-1101 mill cent un ... 1999 mill nincent ninantnin 2000 du mill 2001 du
-mill un ... 2345 du mill tricent quarantquin ... 99{nbsp}000 ninantnin
-mill ... 100{nbsp}000 cent mill ... 100{nbsp}999 cent mill nincent ninantnin
-200{nbsp}000 ducent mill ... 201{nbsp}000 ducent un mill ... 299{nbsp}999 ducent
-ninantnin mill nincent ninantnin ...
-456{nbsp}789 quarcent quinantsix mill settcent ottantnin ... 1{nbsp}000{nbsp}000 un
-million 1{nbsp}000{nbsp}001 un million un ... 2{nbsp}000{nbsp}000 du milliones ...
+deciun 12 decidu 13 decitri 14 deciquar 15 deciquin … 19 decinin 20
+duant 21 duantun 22 duantdu … 30 triant 40 quarant 50 quinant 60
+sixant … 90 ninant … 99 ninantnin 100 cent 101 cent un 102
+centdu… 110 centdeci 111 cent deciun … 119 cent decinin 120 cent
+duant 121 cent duantun … 130 cent triant … 199 cent ninantnin 200
+ducent 201 ducent un … 210 ducent deci 300 tricent … 999 nincent
+ninantnin 1000 mill 1001 mill un … 1099 mill ninantnin 1100 mill cent
+1101 mill cent un … 1999 mill nincent ninantnin 2000 du mill 2001 du
+mill un … 2345 du mill tricent quarantquin … 99{nbsp}000 ninantnin
+mill … 100{nbsp}000 cent mill … 100{nbsp}999 cent mill nincent ninantnin
+200{nbsp}000 ducent mill … 201{nbsp}000 ducent un mill … 299{nbsp}999 ducent
+ninantnin mill nincent ninantnin …
+456{nbsp}789 quarcent quinantsix mill settcent ottantnin … 1{nbsp}000{nbsp}000 un
+million 1{nbsp}000{nbsp}001 un million un … 2{nbsp}000{nbsp}000 du milliones …
 
 - mill milliones = un milliard
 - un million milliones = un billion
@@ -1379,7 +1379,7 @@ in omni altri casus li rest self es li tema perfectic.
 
 [width=100%]
 |===
-| Infinitive  | ...       | Tema perfectic
+| Infinitive  | …       | Tema perfectic
 
 | adherer     | adher     | adhes
 | constructer | construct | construct
@@ -2274,8 +2274,8 @@ chambre ínter su infantes.
 
 [[par104,§104]]§104, Conjunctiones de *coordination* es:
 
-e, e ... e, o, o ... o, ni, ni ... ni, sive ... sive, ma, nam, támen,
-ergo, dunc, plu ... plu, nu, nu ... nu.
+e, e … e, o, o … o, ni, ni … ni, sive … sive, ma, nam, támen,
+ergo, dunc, plu … plu, nu, nu … nu.
 
 ====
 E li patre e li matre devenit ciec. O il veni o noi deve cluder li
@@ -2529,7 +2529,7 @@ tales queles descripte solmen, es separat per comma.
 [[par122,§122]]§122. Por indicar li paroles maxim important del frase on posse usar li
 *accentu scrit*.
 
-// XXX REMARK -- 2020-07-12: Li ultim exemple «Save vu...» ne havet
+// XXX REMARK -- 2020-07-12: Li ultim exemple «Save vu…» ne havet
 // accentu, probabilmen pro un erra de tippation durante li
 // transcrition original. Ti manca esset consultat in li gruppe
 // retpostal. Ínterim «íl veni» es usat.
@@ -2541,7 +2541,7 @@ ea con la). Yo ea con élla (ne con li áltris). Save vu, de u íl veni?
 
 [[par123,§123]]§123. Li *altri signes de interpunction*:
 
-Colon (:), punctus suspensiv (...), parentese ({nbsp}), crampones ([{nbsp}]),
+Colon (:), punctus suspensiv (…), parentese ({nbsp}), crampones ([{nbsp}]),
 imbrassamentes({ }), strec ligant (-), strec separant (—), signes
 (hocos) de citation («{nbsp}»), signe de exclamation (!), signe interrogativ
 (?) e apostrof (') es usat plu o min internationalmen. (! e ? sta solmen
@@ -2701,7 +2701,7 @@ monoplan, panslavisme, pseudocrist, telefonar.
 // Adjuntion de sufixes {{{2
 === Adjuntion de sufixes
 
-// XXX REMARK -- «In infra es indicat...» es un interessant exemple
+// XXX REMARK -- «In infra es indicat…» es un interessant exemple
 // sin «it» quam duplic subjecte:
 
 [[par131,§131]]§131. Li sufixes adjunte se al radica ínmediatmen o med vocales o

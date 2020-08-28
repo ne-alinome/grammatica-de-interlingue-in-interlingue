@@ -1,6 +1,6 @@
 = Grammatica de Interlingue in Interlingue
 :author: Dr. Fritz Haas
-:revnumber: 0.1.0-pre.51+20200828
+:revnumber: 0.1.0-pre.52+20200828
 :version-label: Version de ti edition digital:
 :description: Grammatica del lingue auxiliar international Interlingue
 :lang: ie
@@ -48,7 +48,7 @@ http://ne.alinome.net[ne.alinome.net] ye formates EPUB, PDF e altris.
 Principal changes in ti edition::
 - Corection de omni erras trovat.
 - Mettion de omni ínobligatori accentus.
-- Amelioration del claritá e leibilitá, p.e. tabelles, listes, lingues…
+- Amelioration del claritá e leibilitá, p.e. tabelles, listes, acurtationes…
 - Creation de intern ligamentes.
 
 Programmas (omnis líber) usat por ti librification digital::
@@ -58,8 +58,7 @@ https://github.com/asciidoctor/asciidoctor-pdf[Asciidoctor PDF],
 http://manual.calibre-ebook.com/generated/en/ebook-convert.html[ebook-convert],
 http://imagemagick.org[ImageMagick],
 https://gitlab.mister-muffin.de/josch/img2pdf[img2pdf],
-http://vim.org[Vim],
-http://xmlsoft.org/XSLT/[xsltproc]…
+http://vim.org[Vim]…
 in li sistema computatoral http://debian.org[Debian].
 
 Version de ti edition:: {revnumber}.
@@ -218,7 +217,7 @@ cludet, «è»: curt e apert.
 
 [[par5,§5]]§5. *Li consonantes* es pronunciat quam seque:
 
-b, d, f, l, m, n, p:: Quam in anglesi, francesi, hispan («b» in _boca_), german, italian. 
+b, d, f, l, m, n, p:: Quam in anglesi, francesi, hispan («b» in _boca_), german o italian. 
 +
 ====
 bon, editer, fratre, long, matre, null, pede.
@@ -281,7 +280,7 @@ ph:: Quam «f» (in grec paroles).
 telephon.
 ====
 
-qu:: Quam «k», sempre sequet de tre curt «u»: quam anglesi, german e italian; quam francesi e hispan con
+qu:: Quam «k», sempre sequet de tre curt «u»: quam anglesi, german o italian; quam francesi o hispan con
 «u».
 +
 ====
@@ -954,14 +953,16 @@ lingue fa un constant progress, quo (quel facte) tre joya me.
 personal o demonstrativ, o per comma.
 
 // XXX FIXED -- "To es li sestra de mi amíco" -> "Ti es li sestra de
-// mi amíco"; "cíté" -> "cité":
+// mi amíco"; "cíté" -> "cité"; "Ii" -> "li":
+
+// XXX TODO Adjunter li referenties ínter crampes, por claritá?
 
 ====
 Yo videt li fratre de mi amíco quel arivat yer. Yo videt li fratre de mi
 amíco, il quel (o il qui) arivat yer. Ti es li sestra de mi amíco, ella
 qui arivat yer. Yer yo videt li possessor del dom, qui (o il qui, o ti
 qui, o li quel, o ti quel) es in li cité. Yer yo videt li possessor del
-dom quel es in li cité. Yer yo videt li possessor del dom, quel es in Ii
+dom quel es in li cité. Yer yo videt li possessor del dom, quel es in li
 cité.
 ====
 
@@ -1174,6 +1175,8 @@ adjunter *-t* al tema presentic:
 - constructet
 ====
 
+// XXX TODO Adjunter pednote pri "fe":
+
 Li participie passat es usat anc quam *passate simplic*:
 
 ====
@@ -1246,7 +1249,7 @@ per adjunter *-nt* al tema presentic:
 ====
 
 Li verbes con *-i* prende *-ent* vice *-nt* por retrovar li derivates
-international, p. ex. convenientie, provenientie.
+international, p. ex. «convenientie», «provenientie».
 
 Li *adverbial form* es usat quam *gerundie* (= «durant que» o «per to
 que»)
@@ -1447,6 +1450,8 @@ ifndef::backend-epub3[]
 | tonder      | tons           | tonsion      | tonsor      | tonsori      | tonsiv      | tonsura
 |===
 endif::[]
+
+// XXX FIXME Separar ye verbes:
 
 ifdef::backend-epub3[]
 [width=100% cols="h,"]
@@ -1884,12 +1889,12 @@ changear su projectes.
 ====
 
 [[par98,§98]]§98. Li *adverbies de afirmation, negation, dúbit* es: *yes, no, ne, ne
-plu, si, ya, fórsan, sin dúbit*.
+plu, sí, ya, fórsan, sin dúbit*.
 
-// XXX TODO -- yes/si
+// XXX TODO Pednote pri yes/sí.
 
 ====
-Esque vu ne ha videt le? Si, il esset ya in li scol e sin dúbit ne plu
+Esque vu ne ha videt le? Sí, il esset ya in li scol e sin dúbit ne plu
 va retornar ante midí.
 ====
 
@@ -2314,7 +2319,7 @@ Hm! Hum! Fi!
 ====
 
 Anc paroles de altri grammatical categories posse esser usat quam
-interjectiones: p. ex.
+interjectiones. P. ex.
 
 ====
 Bon! Ad-avan! Retro! For! A-bass! Ad-up! Halt! Auxilie! Adío! Silentie!
@@ -2538,7 +2543,7 @@ ea con la). Yo ea con élla (ne con li áltris). Save vu, de u íl veni?
 
 Colon (:), punctus suspensiv (...), parentese ({nbsp}), crampones ([{nbsp}]),
 imbrassamentes({ }), strec ligant (-), strec separant (—), signes
-(hocos) de citation ("{nbsp}"), signe de exclamation (!), signe interrogativ
+(hocos) de citation («{nbsp}»), signe de exclamation (!), signe interrogativ
 (?) e apostrof (') es usat plu o min internationalmen. (! e ? sta solmen
 in li fine del frase, ne anc in li comensa.)
 
@@ -2655,7 +2660,7 @@ ex-:: Ancian: *expresidente, eximperator*.
 ho-:: Sam témpor: *hodíe, hosemane, hoannu*.
 
 ín-:: Negation in adjectives: *ínoficial, ínvisibil* (ne a confuser al
-inaccentuat preposition: in-: inpaccar).
+ínaccentuat preposition: in-: inpaccar).
 
 mi-:: Curt form de «demí»: *midí, minocte, mihor, mifratre*.
 

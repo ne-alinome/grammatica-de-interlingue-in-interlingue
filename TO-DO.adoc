@@ -1,6 +1,6 @@
 = TO-DO of _Grammatica de Interlingue in Interlingue_
 :author: Marcos Cruz (programandala.net)
-:revdate: 2020-08-28
+:revdate: 2020-10-29
 
 - Separate all paragraph numbers from headings?
 - Add URL of the Belitzky's version.
@@ -36,7 +36,7 @@
 - Add footnote about "-ye"?
 - Link all of the affixes mentioned.
 - Order "yes, no, ne...".
-- Add footnote about "yes/sí".
+- Add footnote about "yes".
 - Add annex with the usage of prepositions, extracted from
   Cosmoglotta.
 - Add footone about the accent of "imágina".  

@@ -1,6 +1,6 @@
 = Grammatica de Interlingue in Interlingue
 :author: Dr. Fritz Haas
-:revnumber: 0.1.0-pre.54+20201028
+:revnumber: 0.1.0-pre.55+20201029
 :version-label: Version de ti edition digital:
 :description: Grammatica del lingue auxiliar international Interlingue
 :lang: ie
@@ -23,7 +23,7 @@ endif::[]
 // This file is in Asciidoctor format
 // http://asciidoctor.org
 
-// Last modified 202008272029
+// Last modified 202010290055
 
 :dot: .
 
@@ -1894,11 +1894,12 @@ changear su projectes.
 [[par98,§98]]§98. Li *adverbies de afirmation, negation, dúbit* es: *yes, no, ne, ne
 plu, sí, ya, fórsan, sin dúbit*.
 
-// XXX TODO Pednote pri yes/sí.
-
 ====
-Esque vu ne ha videt le? Sí, il esset ya in li scol e sin dúbit ne plu
-va retornar ante midí.
+
+Esque vu ne ha videt le? Sí{blank}footnote:[Li parol «sí» (accentuat!) expresse
+afirmation pos un question de negation. Note del editor digital.], il esset
+ya in li scol e sin dúbit ne plu va retornar ante midí.
+
 ====
 
 // Prepositiones {{{1

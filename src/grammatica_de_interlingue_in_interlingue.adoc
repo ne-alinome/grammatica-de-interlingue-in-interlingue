@@ -1,6 +1,6 @@
 = Grammatica de Interlingue in Interlingue
 :author: Dr. Fritz Haas
-:revnumber: 0.1.0-pre.53+20200828
+:revnumber: 0.1.0-pre.54+20201028
 :version-label: Version de ti edition digital:
 :description: Grammatica del lingue auxiliar international Interlingue
 :lang: ie
@@ -9,6 +9,7 @@
 :toclevels: 3
 :toc-title: Contenete
 ifdef::backend-pdf[]
+// :media: prepress
 :toc: auto
 :front-cover-image: ../tmp/grammatica_de_interlingue_in_interlingue_cover.pdf
 endif::[]
@@ -701,7 +702,7 @@ Moskwa, Kharkow, Hoang-ho.
 
 [[par29,§29]]§29. Li caracteristic vocal final *-i* trova se in mult
 adjectives, precipue por fixar li corect pronunciation del ultim
-consonant, e pro distinction pos tipic finales substantivic e
+consonant, e por distinction pos tipic finales substantivic e
 infinitivic.
 
 ====
@@ -1095,6 +1096,8 @@ quar.
 
 [[par64,§64]]§64. *Calcul aritmetic*.
 
+// XXX TODO Liste de definitiones.
+
 Addition: `12 + 10 = 22` decidu plus deci es duantdu.
 
 Subtraction: `21 - 3 = 18` duantun minus tri es deciott.
@@ -1102,7 +1105,7 @@ Subtraction: `21 - 3 = 18` duantun minus tri es deciott.
 Multiplication: `3 x 8 = 24` tri vez ott, o tri multiplicat per ott, o tri
 per ott es duantquar.
 
-Division: `69 : 3 = 23` sixantnin sur tri, o dividet per tri es duanttri.
+Division: `69 : 3 = 23` sixantnin sur tri, o dividet per tri, es duanttri.
 
 Potentiation: `6^2^ = 36` six quadrat, o six in duesim potentie, o six in
 duesim es triantsix.

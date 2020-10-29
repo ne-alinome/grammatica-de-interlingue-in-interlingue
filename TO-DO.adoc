@@ -2,51 +2,57 @@
 :author: Marcos Cruz (programandala.net)
 :revdate: 2020-10-29
 
+== Fix
+
+- Check the footnote links. They seem to fail with the latest version
+  of Asciidoctor EPUB3. They work in HTML.
+- Consult: r like Spanish in "radie, merce", but in Spanish "r-" and
+  "-r-" are different.
+- Consult: the pronunciation of "g" in English is incomplete.
+- Fix: The description of "qu" in French and Spanish is ambiguous,
+  because "con «u»" could mean "with the letter «u»", which they
+  already have; the author meant "with an added sound of «u»".
+
+== Improve
+
 - Separate all paragraph numbers from headings?
-- Add URL of the Belitzky's version.
 - Confirm "Li pòríu".
 - Consult: "for" is mentioned in "ab-" and as an interjection, but
   it's not included in the prepositions.
 - Improve notation of "y" vocalic/consonantic.
-- Consult: r like Spanish in "radie, merce", but in Spanish "r-" and
-  "-r-" are different.
-- Add a footnote at "un simplic s" to make clear it's about the
-  plural?
-- Consult: the pronunciation of "g" in English is incomplete.
 - Expand "resp."?
 - Usar un majuscule initial in exemple-blocs con parol-listes?
-- Adjunter articul ex Cosmoglotta pri pronunciation de «sh».
 - Ameliorar explication pri li pronunciation de "y" consonantic in
   hispan.
 - Aclarar li textual transcrition del calcules aritmetic, por exemple
   ínter parenteses.  
-- Annexe con complet tabelle: unquande, alquande, nequande, ucunc,
-  alcú...  
-- `width=100%` have nequal efect in Asciidoctor EPUB3.
-- Add headers to the table "Pronómines índefinit".
 - Separate languages with semicolon, e.g. "Apert o cludet, quam GHI,
   A: _bed, yes_, F: «é» o «è».", or "Quam AFI, G: «w».".
 - Homogenize notation of pronunciation examples, e.g.   "b, d, f, I,
   m, n, p:: Quam in AFGI, H («b» in _boca_).".
-- Check accent of "prescri".  
-- Check the footnote links. They seem to fail with the latest version
-  of Asciidoctor EPUB3. They work in HTML.
-- "córam" is missing in the list of prepositions.  
 - Join "p. ex." with hard spaces.
-- Add footnote about "-ye"?
 - Link all of the affixes mentioned.
 - Order "yes, no, ne...".
-- Add footnote about "yes".
-- Add annex with the usage of prepositions, extracted from
-  Cosmoglotta.
-- Add footone about the accent of "imágina".  
-- Add annex with all of the "al-", "ne-", "-cunc" words in a table.
-- Add annex with lists of affixes, by type, linked to their
-  description in the book.
 - Fix/add reference between "-es" and "-an".
 - Edit CSS to improve the look of the example blocks.
 - Improve the notation of the list of example numbers.
 - Improve the description of the programs used.
-- Fix: The description of "qu" in French and Spanish is ambiguous,
-  because "con «u»" could mean "with the letter «u»", which they
-  already have; the author meant "with an added sound of «u»".
+
+== Add
+
+- Add a footnote at "un simplic s" to make clear it's about the
+  plural?
+- Add footnote about the accent of "imágina".  
+- Add footnote about "yes".
+- Add footnote about "-ye"?
+- Add URL of the Belitzky's version.
+- Adjunter articul ex Cosmoglotta pri pronunciation de «sh».
+- Add headers to the table "Pronómines índefinit".
+- "córam" is missing in the list of prepositions.  
+- Annexe con complet tabelle: unquande, alquande, nequande, ucunc,
+  alcú...  
+- Add annex with the usage of prepositions, extracted from
+  Cosmoglotta.
+- Add annex with all of the "al-", "ne-", "-cunc" words in a table.
+- Add annex with lists of affixes, by type, linked to their
+  description in the book.

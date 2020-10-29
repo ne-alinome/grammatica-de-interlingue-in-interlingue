@@ -1,12 +1,11 @@
 = TO-DO of _Grammatica de Interlingue in Interlingue_
 :author: Marcos Cruz (programandala.net)
-:revdate: 2020-10-29
+:revdate: 2020-10-30
 
 == Fix
 
 - Check the footnote links. They seem to fail with the latest version
   of Asciidoctor EPUB3. They work in HTML.
-- Consult: the pronunciation of "g" in English is incomplete.
 - Asciidoctor EPUB3 doesn't render table heading columns marked with
   `cols="h,"`.
 

@@ -1,6 +1,6 @@
 = Grammatica de Interlingue in Interlingue
 :author: Dr. Fritz Haas
-:revnumber: 0.1.0-pre.59+20201029
+:revnumber: 0.1.0-pre.60+20201029
 :version-label: Version de ti edition digital:
 :description: Grammatica del lingue auxiliar international Interlingue
 :lang: ie
@@ -23,7 +23,7 @@ endif::[]
 // This file is in Asciidoctor format
 // http://asciidoctor.org
 
-// Last modified 202010291500
+// Last modified 202010291910
 
 :dot: .
 
@@ -288,11 +288,23 @@ qu:: Quam «k», sempre sequet de tre curt «u»: quam anglesi, german o italian
 quar, aqua.
 ====
 
-r:: francesi, german, hispan o italian.
+r:: francesi, german, hispan o italian.footnote:[Li pronunciationes del líttere
+«r» es diferent in ti lingues: francesi /ʁ/; german /ʀ/ o /ɐ̯/; hispan /r/ o
+/ɾ/; italian /ɾ/. Confusion con altri lítteres del lingue es tre ínprobabil,
+dunc ti variation es permisset. Támen li pronunciation hispan e italian /ɾ/ es
+recomendat, por exemple per Karl Janotta in su _Complet Grammatica de
+Occidental_. Note del editor digital.]
 +
 ====
 radie, merce.
 ====
+
+// XXX Prim version scrit por li supra pednote, solmen pri hispan:
+//
+// In hispan li líttere «r» posse representar du fonemes: /ɾ/ (in comense
+// o final de síllabe medial) o /r/ (in comense de parol, o pos «s» o «n»). Adplu
+// in hispan li digramma «rr» es usat por representar li foneme /r/ ínter vocales.
+// In Interlingue li líttere «r» representa li foneme /ɾ/. 
 
 rh:: Quam «r» (in grec paroles).
 +

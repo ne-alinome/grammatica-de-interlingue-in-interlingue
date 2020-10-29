@@ -1,6 +1,6 @@
 = Grammatica de Interlingue in Interlingue
 :author: Dr. Fritz Haas
-:revnumber: 0.1.0-pre.58+20201029
+:revnumber: 0.1.0-pre.59+20201029
 :version-label: Version de ti edition digital:
 :description: Grammatica del lingue auxiliar international Interlingue
 :lang: ie
@@ -23,7 +23,7 @@ endif::[]
 // This file is in Asciidoctor format
 // http://asciidoctor.org
 
-// Last modified 202010291444
+// Last modified 202010291500
 
 :dot: .
 
@@ -1456,82 +1456,131 @@ ifndef::backend-epub3[]
 |===
 endif::[]
 
-// XXX FIXME Separar ye verbes:
-
 ifdef::backend-epub3[]
 [width=100% cols="h,"]
 |===
-| Infinitive{blank}footnote:[{pednote1450}] | *adherer*
+| Infinitive{blank}footnote:[{pednote1450}] | adherer
+
 | Tema perfectic | adhes
 | -ion           | adhesion
 | -or            | adhesor
 | -ori           | adhesori
 | -iv            | adhesiv
 | -ura           | adhesura
-| Infinitive     | *constructer*
+|===
+
+[width=100% cols="h,"]
+|===
+| Infinitive     | constructer
+
 | Tema perfectic | construct
 | -ion           | construction
 | -or            | constructor
 | -ori           | constructori
 | -iv            | constructiv
 | -ura           | constructura
-| Infinitive     | *crear*
+|===
+
+[width=100% cols="h,"]
+|===
+| Infinitive     | crear
+
 | Tema perfectic | creat
 | -ion           | creation
 | -or            | creator
 | -ori           | creatori
 | -iv            | creativ
 | -ura           | creatura
-| Infinitive     | *currer*
+|===
+
+[width=100% cols="h,"]
+|===
+| Infinitive     | currer
+
 | Tema perfectic | curs
 | -ion           | cursion
 | -or            | cursor
 | -ori           | cursori
 | -iv            | cursiv
 | -ura           | cursura
-| Infinitive     | *distribuer*
+|===
+
+[width=100% cols="h,"]
+|===
+| Infinitive     | distribuer
+
 | Tema perfectic | distribut
 | -ion           | distribution
 | -or            | distributor
 | -ori           | distributori
 | -iv            | distributiv
 | -ura           | distributura
-| Infinitive     | *expedir*
+|===
+
+[width=100% cols="h,"]
+|===
+| Infinitive     | expedir
+
 | Tema perfectic | expedit
 | -ion           | expedition
 | -or            | expeditor
 | -ori           | expeditori
 | -iv            | expeditiv
 | -ura           | expeditura
-| Infinitive     | *exploder*
+|===
+
+[width=100% cols="h,"]
+|===
+| Infinitive     | exploder
+
 | Tema perfectic | explos
 | -ion           | explosion
 | -or            | explosor
 | -ori           | explosori
 | -iv            | explosiv
 | -ura           | explosura
-| Infinitive     | *garnir*
+|===
+
+[width=100% cols="h,"]
+|===
+| Infinitive     | garnir
+
 | Tema perfectic | garnit
 | -ion           | garnition
 | -or            | garnitor
 | -ori           | garnitori
 | -iv            | garnitiv
 | -ura           | garnitura
-| Infinitive     | *revider*
+|===
+
+[width=100% cols="h,"]
+|===
+| Infinitive     | revider
+
 | Tema perfectic | revis
 | -ion           | revision
 | -or            | revisor
 | -ori           | revisori
 | -iv            | revisiv
 | -ura           | revisura
-| Infinitive     | *scrir*
+|===
+
+[width=100% cols="h,"]
+|===
+| Infinitive     | scrir
+
 | Tema perfectic | scrit
 | -ion           | scrition
 | -or            | scritor
 | -ori           | scritori
 | -iv            | scritiv
 | -ura           | scritura
-| Infinitive     | *tonder*
+|===
+
+[width=100% cols="h,"]
+|===
+| Infinitive     | tonder
+
 | Tema perfectic | tons
 | -ion           | tonsion
 | -or            | tonsor

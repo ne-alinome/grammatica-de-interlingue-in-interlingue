@@ -12,6 +12,8 @@
 - Fix: The description of "qu" in French and Spanish is ambiguous,
   because "con «u»" could mean "with the letter «u»", which they
   already have; the author meant "with an added sound of «u»".
+- Asciidoctor EPUB3 doesn't render table heading columns marked with
+  `cols="h,"`.
 
 == Improve
 

@@ -4,8 +4,9 @@
 
 == Fix
 
-- Check the footnote links. They seem to fail with the latest version
-  of Asciidoctor EPUB3. They work in HTML.
+- Footnote links don't work in the Cervantes 3 reader with the latest
+  version of Asciidoctor EPUB3. They work on Calibre and fbreader
+  viewers.
 - Asciidoctor EPUB3 doesn't render table heading columns marked with
   `cols="h,"`.
 
@@ -20,10 +21,6 @@
 - Usar un majuscule initial in exemple-blocs con parol-listes?
 - Ameliorar explication pri li pronunciation de "y" consonantic in
   hispan.
-- Separate languages with semicolon, e.g. "Apert o cludet, quam GHI,
-  A: _bed, yes_, F: «é» o «è».", or "Quam AFI, G: «w».".
-- Homogenize notation of pronunciation examples, e.g.   "b, d, f, I,
-  m, n, p:: Quam in AFGI, H («b» in _boca_).".
 - Join "p. ex." with hard spaces.
 - Link all of the affixes mentioned.
 - Order "yes, no, ne...".

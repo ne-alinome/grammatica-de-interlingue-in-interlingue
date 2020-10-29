@@ -1,6 +1,6 @@
 = Grammatica de Interlingue in Interlingue
 :author: Dr. Fritz Haas
-:revnumber: 0.1.0-pre.62+20201030
+:revnumber: 0.1.0-pre.63+20201030
 :version-label: Version de ti edition digital:
 :description: Grammatica del lingue auxiliar international Interlingue
 :lang: ie
@@ -23,7 +23,7 @@ endif::[]
 // This file is in Asciidoctor format
 // http://asciidoctor.org
 
-// Last modified 202010300045
+// Last modified 202010300052
 
 :dot: .
 
@@ -518,12 +518,10 @@ It esset un medicá, ne un medicó.
 // Ortografie {{{1
 == Ortografie
 
-// XXX TODO -- «indicar que li precedent [ACCENTUAT] vocal es curt».
-
 [[par10,§10]]§10. Interlingue conserva maxim possibil li *aspect international* del
 paroles; ma it es recomendat vicear li *duplic consonantes* per li
 simplic, exceptet si ili es pronunciat diferentmen o es necessi por
-indicar que li precedent vocal es curt o que «s» ne es sonori. Duplic
+indicar que li precedent accentuat vocal es curt o que «s» ne es sonori. Duplic
 consonantes in li radica resta anc in li formes derivat.
 
 ====

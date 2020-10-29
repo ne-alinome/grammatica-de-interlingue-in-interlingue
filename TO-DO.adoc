@@ -40,8 +40,6 @@
 
 == Add
 
-- Add a footnote at "un simplic s" to make clear it's about the
-  plural?
 - Add footnote about the accent of "imágina".  
 - Add footnote about "yes".
 - Add footnote about "-ye"?
@@ -49,10 +47,8 @@
 - Adjunter articul ex Cosmoglotta pri pronunciation de «sh».
 - Add headers to the table "Pronómines índefinit".
 - "córam" is missing in the list of prepositions.  
-- Annexe con complet tabelle: unquande, alquande, nequande, ucunc,
-  alcú...  
+- Add annex with all of the "al-", "ne-", "-cunc" words in a table.
 - Add annex with the usage of prepositions, extracted from
   Cosmoglotta.
-- Add annex with all of the "al-", "ne-", "-cunc" words in a table.
 - Add annex with lists of affixes, by type, linked to their
   description in the book.

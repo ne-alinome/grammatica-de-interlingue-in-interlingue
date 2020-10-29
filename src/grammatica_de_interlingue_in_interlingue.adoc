@@ -1,6 +1,6 @@
 = Grammatica de Interlingue in Interlingue
 :author: Dr. Fritz Haas
-:revnumber: 0.1.0-pre.55+20201029
+:revnumber: 0.1.0-pre.56+20201029
 :version-label: Version de ti edition digital:
 :description: Grammatica del lingue auxiliar international Interlingue
 :lang: ie
@@ -23,7 +23,7 @@ endif::[]
 // This file is in Asciidoctor format
 // http://asciidoctor.org
 
-// Last modified 202010290055
+// Last modified 202010291330
 
 :dot: .
 
@@ -797,6 +797,7 @@ plurale, quam substantives, si necessi.
 [[par39,§39]]§39. It existe *du formes*, li un por li *subject* (nominative), li
 altri por li *object* (acusative o dative, casu obliqui).
 
+[width=100%]
 |===
 | Subject            | Object
 
@@ -1684,6 +1685,7 @@ distintion, conjuncter o conjunter, conjunction o conjuntion.
 [[par82,§82]]§82. Li *finale -ntie* es adjuntet al tema presentic de verbes
 expressent un statu, al talnominat *verbes static*.
 
+[width=100%]
 |===
 | tolerar  | tolerantie
 | provenir | provenientie

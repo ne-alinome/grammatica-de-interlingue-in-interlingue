@@ -1,6 +1,6 @@
 = Grammatica de Interlingue in Interlingue
 :author: Dr. Fritz Haas
-:revnumber: 0.1.0-pre.63+20201030
+:revnumber: 0.1.0-pre.64+20201030
 :version-label: Version de ti edition digital:
 :description: Grammatica del lingue auxiliar international Interlingue
 :lang: ie
@@ -23,7 +23,7 @@ endif::[]
 // This file is in Asciidoctor format
 // http://asciidoctor.org
 
-// Last modified 202010300052
+// Last modified 202010300056
 
 :dot: .
 
@@ -655,9 +655,7 @@ tangente.
 [[par23,§23]]§23. Un *génere grammatical* ne existe. Omni substantives es
 masculin, feminin o neutri secun lor signification.
 
-// XXX TODO -- génere -> sexu ?
-
-[[par24,§24]]§24. On posse indicar li génere in li nómines por entes: *-o* indica li
+[[par24,§24]]§24. On posse indicar li sexu in li nómines por entes: *-o* indica li
 masculin, *-a* li feminin.
 
 ====

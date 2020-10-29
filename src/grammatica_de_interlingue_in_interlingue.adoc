@@ -1,6 +1,6 @@
 = Grammatica de Interlingue in Interlingue
 :author: Dr. Fritz Haas
-:revnumber: 0.1.0-pre.56+20201029
+:revnumber: 0.1.0-pre.57+20201029
 :version-label: Version de ti edition digital:
 :description: Grammatica del lingue auxiliar international Interlingue
 :lang: ie
@@ -23,7 +23,7 @@ endif::[]
 // This file is in Asciidoctor format
 // http://asciidoctor.org
 
-// Last modified 202010291330
+// Last modified 202010291436
 
 :dot: .
 
@@ -1097,25 +1097,25 @@ quar.
 
 [[par64,§64]]§64. *Calcul aritmetic*.
 
-// XXX TODO Liste de definitiones.
+Addition::
+`12 + 10 = 22` (decidu plus deci es duantdu).
 
-Addition: `12 + 10 = 22` decidu plus deci es duantdu.
+Subtraction::
+`21 - 3 = 18` (duantun minus tri es deciott).
 
-Subtraction: `21 - 3 = 18` duantun minus tri es deciott.
+Multiplication::
+`3 x 8 = 24` (tri vez ott, o tri multiplicat per ott, o tri per ott, es duantquar).
 
-Multiplication: `3 x 8 = 24` tri vez ott, o tri multiplicat per ott, o tri
-per ott es duantquar.
+Division::
+`69 : 3 = 23` (sixantnin sur tri, o dividet per tri, es duanttri).
 
-Division: `69 : 3 = 23` sixantnin sur tri, o dividet per tri, es duanttri.
+Potentiation::
+`6^2^ = 36` (six quadrat, o six in duesim potentie, o six in duesim, es triantsix). +
+`2^3^ = 8` (du in cub, o du in triesim potentie, o du in triesim, es ott).
 
-Potentiation: `6^2^ = 36` six quadrat, o six in duesim potentie, o six in
-duesim es triantsix.
-`2^3^ = 8` du in cub, o du in triesim potentie, o du in triesim es ott.
-
-Radication: `√49 = 7`
-radica quadratic, o duesim radica ex quarantnin es sett.
-`∛8 = 2` radica cubic, o
-triesim radica de ott es du.
+Radication::
+`√49 = 7` (radica quadratic, o duesim radica ex quarantnin, es sett). +
+`∛8 = 2` (radica cubic, o triesim radica de ott, es du).
 
 // Verb {{{1
 == Verb

@@ -24,8 +24,6 @@
 - Usar un majuscule initial in exemple-blocs con parol-listes?
 - Ameliorar explication pri li pronunciation de "y" consonantic in
   hispan.
-- Aclarar li textual transcrition del calcules aritmetic, por exemple
-  ínter parenteses.  
 - Separate languages with semicolon, e.g. "Apert o cludet, quam GHI,
   A: _bed, yes_, F: «é» o «è».", or "Quam AFI, G: «w».".
 - Homogenize notation of pronunciation examples, e.g.   "b, d, f, I,

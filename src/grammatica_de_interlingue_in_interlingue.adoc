@@ -1,6 +1,6 @@
 = Grammatica de Interlingue in Interlingue
 :author: Dr. Fritz Haas
-:revnumber: 0.1.0-pre.57+20201029
+:revnumber: 0.1.0-pre.58+20201029
 :version-label: Version de ti edition digital:
 :description: Grammatica del lingue auxiliar international Interlingue
 :lang: ie
@@ -23,7 +23,7 @@ endif::[]
 // This file is in Asciidoctor format
 // http://asciidoctor.org
 
-// Last modified 202010291436
+// Last modified 202010291444
 
 :dot: .
 
@@ -406,9 +406,10 @@ champagne, cognac.
 // Accentuation {{{1
 == Accentuation
 
-[[par8,§8]]§8. *Li accentu primari* sta sur li vocal ante li ultim
-consonant, ma ne sur li quar síllabes *bil, ic, im, ul*, queles porta
-li accentu al precedent síllab, mem si ti-ci es *bil, ic, im, ul*. Un
+[[par8,§8]]§8. *Li accentu primari* sta sur li vocal ante li ultim consonant,
+ma ne sur li quar síllabes *bil, ic, im, ul*, queles porta li accentu al
+precedent síllab, mem si ti-ci es *bil, ic{blank}footnote:[Solmen quande it es
+pronunciat «ik». Note del editor digital.], im, ul*. Un
 simplic *s* e li du síllabes *men* e *um* in li fine del parol ne
 changea li accentuation del precedent parol-parte{blank}footnote:[Li
 autor parola ne pri qualcunc parol-fine, ma pri li terminationes «-s»
@@ -449,7 +450,7 @@ esset un note pos li exemples, quel includet li prim 15 exemples, de
 poc modificat e movet ante li complet liste de exemples. Note del editor
 digital.]:
 
-// XXX FIXME -- «fèlici» contradi li regul pri «ic» con son «ik».
+// XXX FIXED -- «fèlici» -> «felìci».
 
 // XXX TODO -- Comparar «màximum» con explication pri accentuation de
 // «-um».
@@ -464,7 +465,7 @@ li famìlie,
 li formàt, li formàte, formànt, duràbil, elèctric, lògic, li lògica, li lògico,
 pràctic, li pràctica, il pràctica, il ìndica, il èxplica, dùplic, il dùplica,
 multìplic, il multìplica, centùplic, il centùplica, specìfic, il specìfica,
-fèlici, ùltim, règul, hercùlic, li artìcul, il artìcula, mìnus, ìris, fòrmes,
+felìci, ùltim, règul, hercùlic, li artìcul, il artìcula, mìnus, ìris, fòrmes,
 famìlies, àvies, generàlmen, enèrgicmen, li fenomèn, màximum, ultimàtum, li
 legùme, il plìca, il rùla, dìe, dèo, tùi, vìa, il tràe, it flùe, qualitá,
 heróe, li logí, il logía, li fúlmine, it fúlmina, li córpor, il incórpora, li

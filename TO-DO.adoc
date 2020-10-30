@@ -30,7 +30,6 @@
 
 == Add
 
-- Add footnote about the accent of "imágina".  
 - Add footnote about "yes".
 - Add footnote about "-ye"?
 - Add URL of the Belitzky's version.

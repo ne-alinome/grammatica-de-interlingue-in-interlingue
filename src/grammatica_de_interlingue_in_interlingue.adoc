@@ -1,6 +1,6 @@
 = Grammatica de Interlingue in Interlingue
 :author: Dr. Fritz Haas
-:revnumber: 0.1.0-pre.68+20201030
+:revnumber: 0.1.0-pre.69+20201031
 :version-label: Version de ti edition digital:
 :description: Grammatica del lingue auxiliar international Interlingue
 :lang: ie
@@ -23,7 +23,7 @@ endif::[]
 // This file is in Asciidoctor format
 // http://asciidoctor.org
 
-// Last modified 202010302157
+// Last modified 202010310027
 
 :dot: .
 
@@ -2892,7 +2892,7 @@ currida*.
 -ist:: Person ocupant se pri, adherente de: *calvinist, socialist,
 librist, telegrafista*.
 
--or:: cp. <<par136>>.
+-or:: Cp. <<par136>>.
 
 -aria, -ario:: Person caracterisat per alquó external, p. ex. un function:
 *millionario, functionaria, bibliotecario, pensionaria*.
@@ -2904,8 +2904,8 @@ savagion, spiona, pedon*.
 
 -astr:: Persones de valore inferiori: *medicastro, poetastra*.
 
--es:: Habitante (anc adjectivic): *francese, franceso, francesa,
-francesi, borgeso*. *-ane, -ano, -ana*: cp. <<par140>>.
+[[sufixe_es,«-es»]]-es:: Habitante (anc adjectivic): *francese, franceso, francesa,
+francesi, borgeso*. Cp. <<sufixe_an>>.
 
 -essa:: Féminas con special dignitá o function: *princessa, diaconessa,
 actressa, imperatressa*.
@@ -2996,8 +2996,8 @@ Per *-ica* on indica scienties o artes, per *-ico* lor executores:
 *fisic, fisica, fisico, aviatica, aviatico, politic, politica,
 politico*.
 
--an:: Apartenent a: *american (americano, americana, americanes),
-homan*.
+[[sufixe_an,«-an»]]-an:: Apartenent a: *american (americano, americana, americanes),
+homan*. Cp. <<sufixe_es>>.
 
 -at (pos substantives):: Providet per: *barbat, foliat, talentat
 (talentate)*.

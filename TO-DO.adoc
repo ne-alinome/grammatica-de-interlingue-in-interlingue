@@ -1,6 +1,6 @@
 = TO-DO of _Grammatica de Interlingue in Interlingue_
 :author: Marcos Cruz (programandala.net)
-:revdate: 2020-10-30
+:revdate: 2020-10-31
 
 == Fix
 
@@ -23,7 +23,6 @@
   hispan.
 - Link all of the affixes mentioned.
 - Order "yes, no, ne...".
-- Fix/add reference between "-es" and "-an".
 - Edit CSS to improve the look of the example blocks.
 - Improve the notation of the list of example numbers.
 - Improve the description of the programs used.

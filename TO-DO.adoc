@@ -21,7 +21,6 @@
 - Usar un majuscule initial in exemple-blocs con parol-listes?
 - Ameliorar explication pri li pronunciation de "y" consonantic in
   hispan.
-- Join "p. ex." with hard spaces.
 - Link all of the affixes mentioned.
 - Order "yes, no, ne...".
 - Fix/add reference between "-es" and "-an".

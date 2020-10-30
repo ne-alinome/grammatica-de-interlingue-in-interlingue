@@ -1,6 +1,6 @@
 = Grammatica de Interlingue in Interlingue
 :author: Dr. Fritz Haas
-:revnumber: 0.1.0-pre.64+20201030
+:revnumber: 0.1.0-pre.65+20201030
 :version-label: Version de ti edition digital:
 :description: Grammatica del lingue auxiliar international Interlingue
 :lang: ie
@@ -23,7 +23,7 @@ endif::[]
 // This file is in Asciidoctor format
 // http://asciidoctor.org
 
-// Last modified 202010300056
+// Last modified 202010300101
 
 :dot: .
 
@@ -1930,14 +1930,12 @@ u, ci, ta, alcú, necú, partú, ucunc, supra, infra, circum, éxter, extra,
 intra, ínter, detra, levul, dextri, proxim, lontan. A ci, a ta, adavan,
 retro, up = adsupra, a bass, adinfra, de infra, préter.
 
-// XXX TODO -- del eclesia -> pri li eclesia ?
-
 ====
 U vu ha comprat ti libre? In un librería u on trova sempre li maxim
 recent libres. Alcú vu certmen va trovar li tant serchat flor. Ma ucunc
 vu sercha, ples nequande obliviar, que partú es bell flores. Yo espera
 que to es finalmen partú sat conosset. In vor proxim lettre vu deve
-scrir un poc plu del eclesia proxim vor dom. Il venit de infra, passat
+scrir un poc plu pri li eclesia proxim vor dom. Il venit de infra, passat
 préter nos, e eat adsupra. Ma fórsan il va bentost ear retro in su cava.
 ====
 

@@ -30,9 +30,8 @@
 
 == Add
 
-- Add footnote about "yes".
+- Add footnote about "yes"?
 - Add footnote about "-ye"?
-- Add URL of the Belitzky's version.
 - Adjunter articul ex Cosmoglotta pri pronunciation de «sh».
 - Add headers to the table "Pronómines índefinit".
 - "córam" is missing in the list of prepositions.  

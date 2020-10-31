@@ -1,6 +1,6 @@
 = Grammatica de Interlingue in Interlingue
 :author: Dr. Fritz Haas
-:revnumber: 0.1.0-pre.79+20201031
+:revnumber: 0.1.0-pre.80+20201031
 :version-label: Version de ti edition digital:
 :description: Grammatica del lingue auxiliar international Interlingue
 :lang: ie
@@ -24,7 +24,7 @@ endif::[]
 // This file is in Asciidoctor format
 // http://asciidoctor.org
 
-// Last modified 202010312138
+// Last modified 202010312157
 
 :dot: .
 
@@ -1973,20 +1973,8 @@ ya in li scol e sin dúbit ne plu va retornar ante midí.
 
 ====
 
-:pednote1976: Li edition original ne includet \
-explicationes pri li signification del prepositiones, \
-ultra un sol parol pri six ex ili \
-(ante, avan, per, por, pri e pro). \
-Li sol exemples ne esset suficent por \
-comprender li usation de quelc prepositiones. \
-Por claritá, \
-ti-ci edition include li significationes de omni prepositiones. \
-Ili esset adaptat ex li articul de Alphonse Matejka \
-«Signification del prepositiones (cardinal senses)», publicat in \
-Cosmoglotta B 81 (1946-05). Note del editor digital.
-
 // Prepositiones {{{1
-== Prepositiones{blank}footnote:[{pednote1976}]
+== Prepositiones
 
 [[par99,§99]]§99. Omni prepositiones sta *ínmediatmen avan lor complement*. lli es
 ínvariabil.
@@ -2014,7 +2002,14 @@ montat sur li monte. Yo memora li cose. Yo memora pri li cose. Il
 prepara un viage. Il prepara se por un viage.
 ====
 
-[[par102,§102]]§102. Li *maxim frequent prepositiones* es:
+[[par102,§102]]§102. Li *maxim frequent prepositiones* es{blank}footnote:[Li
+edition original ne includet explicationes pri li signification del
+prepositiones, ultra un sol parol pri six ex ili (ante, avan, per, por, pri e
+pro). Li sol exemples ne esset suficent por comprender li usation de quelc
+prepositiones. Por claritá, ti-ci edition include li significationes de omni
+prepositiones. Ili esset adaptat ex li articul de Alphonse Matejka
+«Signification del prepositiones (cardinal senses)», publicat in Cosmoglotta B
+81 (1946-05). Note del editor digital.]
 
 // XXX FIXED -- "sedet intra li fable" -> "sedet infra li table"
 // XXX FIXED -- "ínfra" -> "infra"

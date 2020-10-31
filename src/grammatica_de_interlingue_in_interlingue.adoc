@@ -1,6 +1,6 @@
 = Grammatica de Interlingue in Interlingue
 :author: Dr. Fritz Haas
-:revnumber: 0.1.0-pre.81+20201031
+:revnumber: 0.1.0-pre.82+20201031
 :version-label: Version de ti edition digital:
 :description: Grammatica del lingue auxiliar international Interlingue
 :lang: ie
@@ -24,7 +24,7 @@ endif::[]
 // This file is in Asciidoctor format
 // http://asciidoctor.org
 
-// Last modified 202010312200
+// Last modified 202011010048
 
 :dot: .
 
@@ -1934,8 +1934,8 @@ que ili labora per un metode poc apt por ti scop.
 (Li preposition *a* es in combinationes viceat per *ad*.)
 
 u, ci, ta, alcú, necú, partú, ucunc, supra, infra, circum, éxter, extra,
-intra, ínter, detra, levul, dextri, proxim, lontan. A ci, a ta, adavan,
-retro, up = adsupra, a bass, adinfra, de infra, préter.
+intra, ínter, detra, levul, dextri, proxim, lontan, a ci, a ta, adavan,
+retro, up (=adsupra), a bass, adinfra, de infra, préter.
 
 ====
 U vu ha comprat ti libre? In un librería u on trova sempre li maxim

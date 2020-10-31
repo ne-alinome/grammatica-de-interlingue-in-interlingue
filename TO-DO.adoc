@@ -20,8 +20,7 @@
 - Expand "resp."?
 - Usar un majuscule initial in exemple-blocs con parol-listes?
 - Link all of the affixes mentioned.
-- Order "yes, no, ne...".
-- Improve the description of the programs used.
+- Order "yes, no, ne..."?
 
 == Add
 

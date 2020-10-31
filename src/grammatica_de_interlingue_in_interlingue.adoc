@@ -1,6 +1,6 @@
 = Grammatica de Interlingue in Interlingue
 :author: Dr. Fritz Haas
-:revnumber: 0.1.0-pre.75+20201031
+:revnumber: 0.1.0-pre.76+20201031
 :version-label: Version de ti edition digital:
 :description: Grammatica del lingue auxiliar international Interlingue
 :lang: ie
@@ -24,7 +24,7 @@ endif::[]
 // This file is in Asciidoctor format
 // http://asciidoctor.org
 
-// Last modified 202010311834
+// Last modified 202010312001
 
 :dot: .
 
@@ -1973,8 +1973,15 @@ ya in li scol e sin dúbit ne plu va retornar ante midí.
 
 ====
 
+:pednote1976: Li edition original ne includet descritiones, solmen exemples. \
+To fat desfacil comprender li precis signification de quelc prepositiones. \
+Por claritá, \
+ti edition include descritiones, adaptat ex li articul de Alphonse Matejka \
+«Signification del prepositiones (cardinal senses)», publicat in \
+Cosmoglotta B 81 (1946-05). Note del editor digital.
+
 // Prepositiones {{{1
-== Prepositiones
+== Prepositiones{blank}footnote:[{pedtone1976}]
 
 [[par99,§99]]§99. Omni prepositiones sta *ínmediatmen avan lor complement*. lli es
 ínvariabil.
@@ -2013,8 +2020,13 @@ prepara un viage. Il prepara se por un viage.
 // XXX FIXED -- "Multís vell prefer viver in li rure" ->
 // "Mult vell prefer viver in li rure" ->
 
+// XXX FIXME Ordinar.
+
 a::
 
+Direction; distantie; relation; témpor; loc; scope;
+precie; obligation; destination.
++
 (In combinationes anc *ad*.)
 +
 ====
@@ -2034,12 +2046,16 @@ adavan, adsur, adin, ad-in, etc.
 ====
 
 along::
+
+Sequente li tot longore de.
 +
 ====
 Ili promenat along li rive del lago.
 ====
 
-ante (temporal)::
+[[preposition_ante,ante]]ante::
+
+Prioritá de témpor, rang o loc.
 +
 ====
 Il vivet ante Christ. Li sestra venit tri semanes
@@ -2049,6 +2065,8 @@ ante li dom.
 ====
 
 apu::
+
+Proximitá; comparation (in sense extendet).
 +
 ====
 Li dom sta proxim li eclesia, ma ne apu it. Li turre de nor
@@ -2057,27 +2075,39 @@ eclesia self, ma lassa un passage ínter li du. Li dolore fisic es nequó
 apu li dolore mental.
 ====
 
-avan (local)::
+avan::
+
+Prioritá de loc. (Li preposition <<preposition_ante>> posse esser usat in li sam sense.)
 +
 ====
 Li patre promenat avan li dom. Li patre promenat a avan
 li dom. Li patre venit de avan li dom. Il incontrat le avan li dom.
 ====
 
+// XXX FIXME: Descrition:
+
 caus::
+
+In consideration de.
 +
 ====
 Caus vor intervention yo arivat ante minocte avan mi dom.
 ====
 
 che::
+
+Li logí; li país; in li categorie (classe).
 +
 ====
 Il logiat che su fratre. Durante long témpor il vivet che li
 negres. Che li canes on distincte divers rasses.
 ====
 
+// XXX TODO circa
+
 circum::
+
+Loc o movement de alquó fant li gira.
 +
 ====
 Circum li eclesia stat alt árbores. Li terra torna circum li
@@ -2085,14 +2115,19 @@ sole.
 ====
 
 cis::
+
+In ti-ci látere (ne trans it).
 +
 ====
 Francia es situat cis li Pirenés.
 ====
 
-// XXX FIXED -- "lacrimes" -> "lácrimes"
+// XXX FIXED -- "lacrimes" -> "lácrimes":
+// XXX REMARK Secun Matejka, anc «in sam témpor»:
 
 con::
+
+Adjuntion, acompaniament.
 +
 ====
 Li filio ea con su patre along li fluvie. Ella stat con lácrimes
@@ -2100,13 +2135,17 @@ in li ocules con su marito avan li station.
 ====
 
 contra::
+
+Oposition.
 +
 ====
 Li unes laborat contra li altres. Il exchangea su bicicle
 contra combustibiles. Li aeroplan aviat contra li gratta-ciel.
 ====
 
-de::
+[[preposition_de,de]]de::
+
+Orígine; materie; separation; autor; provenientie; possession.
 +
 ====
 Li dom de mi patre. Li dramas de Schiller. Un senior de Paris.
@@ -2118,19 +2157,28 @@ alquó.
 ====
 
 desde::
+
+Punctu de departe (in spacie, témpor, órdine).
 +
 ====
 Desde du annus il neplu posse laborar. Il vendi chapeles desde
 frs. 20.—. Il prendet li tren de Roma desde Milano.
 ====
 
+// XXX REMARK Secun Matejka, anc «sequentie»:
+
 detra::
+
+In li parte posteriori (situat in li látere oposit de ti u trova se li vise de
+un person o li facie de un cose).
 +
 ====
 Detra li dom esset un grand corte.
 ====
 
 durante::
+
+Spacie de témpor in quel alquó eveni.
 +
 ====
 Durante li estive li infantes ludet sur li plazza. Li un de
@@ -2138,6 +2186,9 @@ su filios studiat medicina, durante que li altri ne volet studiar.
 ====
 
 ex::
+
+Del interiore al exteriore de; materie; extration (in ti sense anc li
+prepositiones «<<preposition_de>>» e «<<preposition_inter>>» es usabil).
 +
 ====
 Il venit ex su chambre. Yo trinca ex li glass. Traductet ex german
@@ -2145,14 +2196,22 @@ a Interlingue. Li vestiment es fat ex pur lan. Noi audit in
 li radio un concert de Beethoven ex London.
 ====
 
+// XXX TODO «except», secun Matejka.
+
 extra::
+
+In li exteriore de.
 +
 ====
 Il vivet extra su patria. Soledí ili devet luder extra li
 audir-distantie.
 ====
 
+// XXX TODO «for», secun Matejka.
+
 in::
+
+Situation in relation con li loc, li témpor, li medie, li natura o li statu.
 +
 ====
 Mult persones vive in li cité. Mult vell preferer viver in li
@@ -2161,6 +2220,8 @@ min quam un annu.
 ====
 
 infra::
+
+Plu bass quam.
 +
 ====
 Li aviones vola infra li stratosfere. Il sedet infra li table,
@@ -2168,7 +2229,12 @@ e li patre supra. Sub li table esset un can. Súper li table esset li
 lampe e sur li table un libre.
 ====
 
-ínter::
+// XXX TODO ligar a «ex» e «de».
+
+[[preposition_inter,ínter]]ínter::
+
+In li medie de; in li intervalle (témpor) de; in li relationes de; partition;
+reciprocitá.
 +
 ====
 Ili esset li sol tranquil scoleros ínter mult bruiosi. Ínter
@@ -2178,6 +2244,8 @@ nationes.
 ====
 
 intra::
+
+In li interiore de (spacie o témpor).
 +
 ====
 Ili ne posset penetrar intra li mures del cité. Yo va
@@ -2185,25 +2253,35 @@ retrovenir intra tri hores.
 ====
 
 malgré::
+
+Sin esser impedit de, sin ceder a.
 +
 ====
 Malgré su grand eforties il ne posset perforar li mur.
 ====
 
 med::
+
+Con li auxilie de.
 +
 ====
 Med un bon instruction on va plu bon successar in li vive.
 ====
 
-per (medie)::
+per::
+
+Instrument, medie, maniere.
 +
 ====
 Il defendet se per un gladie. Il salvat se per natar. Li
 moné esset furtet per un ínconosset hom.
 ====
 
-por (scope)::
+por::
+
+Scope; ye li profite de; destinat a; in li loc de; in favore de; con li scope
+de; in exchange; in consideration de; durada; in li nómine de; relatent;
+ye li date de.
 +
 ====
 Un libre por omnes e por nequí. On manja por viver, on ne
@@ -2211,21 +2289,28 @@ vive por manjar. Yo comprat un libre por frs. 10.—, grand por su precie.
 It sufice por long, ne solmen por deman.
 ====
 
-pri (dominia)::
+pri::
+
+Dominia, concernent, relatent.
 +
 ====
 Noi parlat pri politica. Yo ha mult pensat pri vos.
 ====
 
-pro (cause)::
+pro::
+
+Cause; productente un cert efecte (parlante del motive).
 +
 ====
 Ella plorat pro joya. Yo mersía pro vor auxilie.
 ====
 
-// XXX FIXED -- "vení" --> "veni"
+// XXX FIXED -- "vení" --> "veni":
 
 pos::
+
+Plu lontan quam (in témpore o rang);
+ye li seque de.
 +
 ====
 Pos quelc dies ili támen atinget lor scope. Li capitano veni pos
@@ -2233,6 +2318,8 @@ li major.
 ====
 
 préter::
+
+Passante apu e eante plu for quam.
 +
 ====
 Ili passat préter li dom de mi patre.
@@ -2241,24 +2328,34 @@ Ili passat préter li dom de mi patre.
 // XXX FIXED -- "proxím" -> "proxim" (in li exemple)
 
 proxim::
+
+Ye tre litt distantie de.
 +
 ====
 Il habitat proxim li cité.
 ====
 
 secun::
+
+Conform a.
 +
 ====
 Secun li prescription to ne es permisset.
 ====
 
 sin::
+
+Absentie, manca.
 +
 ====
 Il fat to sin saver pro quo.
 ====
 
 sub::
+
+Li position de un cose, comparat a un altri situat plu alt: in li sam vertical
+direction, li situation interiori, li pesa, li dependentie, li témpor, li
+reserve, li aparentie, li indication.
 +
 ====
 Sub li árbor on trovat mult fructes sur li table. Li carre
@@ -2268,6 +2365,8 @@ mal conditiones.
 ====
 
 súper::
+
+Plu alt quam (sin contacte).
 +
 ====
 Súper li árbor volat un avie; quelc altris sedet sur it e celat
@@ -2275,12 +2374,21 @@ se detra e sub su folies.
 ====
 
 sur::
+
+// XXX FIXME «contra» e «ye li látere de» es íncomprensibil sin exemples. Vide
+// li original de Matejka.
+
+Position de un cose comparat a un altri situat plu bass, in contacte con ti-ci
+e in li sam direction vertical; ye li superficie de; contra; ye li látere de;
+in un situation dominant.
 +
 ====
 It venit de sub li table súper it e poy sedet sur it.
 ====
 
 til::
+
+Punctu final al quel on ariva (in témpor o spacie).
 +
 ====
 Yo laborat til decidu horas. Til li extrem fine del munde, su
@@ -2288,30 +2396,40 @@ influentie es sentibil, til que un altri va vicear le.
 ====
 
 tra::
+
+De un extremitá a altri de.
 +
 ====
 Yo ha videt le tra li fenestre promenar tra li campes.
 ====
 
 trans::
+
+Plu for quam (in spacie).
 +
 ====
 Li tren ea tra li túnnel del Sanct Gotthard trans li Alpes.
 ====
 
 ultra::
+
+In suplement a.
 +
 ====
 Ultra francesi e german il parla anc Interlingue.
 ====
 
 vers::
+
+In li direction de.
 +
 ====
 Li avie volat vers li sole.
 ====
 
 vice::
+
+In li loc de.
 +
 ====
 Il venit vice su patre, ma solmen pos tri semanes vice intra du

@@ -12,15 +12,10 @@
 
 == Improve
 
-- Separate all paragraph numbers from headings?
 - Confirm "Li pòríu".
-- Consult: "for" is mentioned in "ab-" and as an interjection, but not
-  explained. It's an adverb, but it's included by Matejka in his list
-  of prepositions.
 - Expand "resp."?
 - Usar un majuscule initial in exemple-blocs con parol-listes?
 - Link all of the affixes mentioned.
-- Order "yes, no, ne..."?
 
 == Add
 
@@ -34,3 +29,6 @@
   Cosmoglotta.
 - Add annex with lists of affixes, by type, linked to their
   description in the book.
+- "for" is mentioned in "ab-" and as an interjection, but not
+  explained. It's an adverb, but it's included by Matejka in his list
+  of prepositions.

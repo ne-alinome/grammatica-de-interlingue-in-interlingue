@@ -25,7 +25,8 @@
 
 - Add footnote about "yes"?
 - Add footnote about "-ye"?
-- Adjunter articul ex Cosmoglotta pri pronunciation de «sh».
+- Adjunter articul "Linguistic explorationes -- Pronunciation de «ch»"
+  ex Cosmoglotta A 101 (1935-03).
 - Add headers to the table "Pronómines índefinit".
 - "córam" is missing in the list of prepositions.  
 - Add annex with all of the "al-", "ne-", "-cunc" words in a table.

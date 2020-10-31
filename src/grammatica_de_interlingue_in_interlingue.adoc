@@ -1,6 +1,6 @@
 = Grammatica de Interlingue in Interlingue
 :author: Dr. Fritz Haas
-:revnumber: 0.1.0-pre.72+20201031
+:revnumber: 0.1.0-pre.73+20201031
 :version-label: Version de ti edition digital:
 :description: Grammatica del lingue auxiliar international Interlingue
 :lang: ie
@@ -24,7 +24,7 @@ endif::[]
 // This file is in Asciidoctor format
 // http://asciidoctor.org
 
-// Last modified 202010310230
+// Last modified 202010311722
 
 :dot: .
 
@@ -128,7 +128,7 @@ te, u, ve, duplic ve, ix, ypsilon, zet.
 
 [[par3,§3]]§3. *Li vocales* es sempre clarmen pronunciat quam seque:
 
-a:: Quam francesi, german, hispan o italian; 
+a:: Quam francesi, german, hispan o italian;
 quam anglesi _father_.
 +
 ====
@@ -220,7 +220,7 @@ cludet, «è»: curt e apert.
 
 [[par5,§5]]§5. *Li consonantes* es pronunciat quam seque:
 
-b, d, f, l, m, n, p:: Quam in anglesi, francesi, hispan («b» in _boca_), german o italian. 
+b, d, f, l, m, n, p:: Quam in anglesi, francesi, hispan («b» in _boca_), german o italian.
 +
 ====
 bon, editer, fratre, long, matre, null, pede.
@@ -314,7 +314,7 @@ radie, merce.
 // In hispan li líttere «r» posse representar du fonemes: /ɾ/ (in comense
 // o final de síllabe medial) o /r/ (in comense de parol, o pos «s» o «n»). Adplu
 // in hispan li digramma «rr» es usat por representar li foneme /r/ ínter vocales.
-// In Interlingue li líttere «r» representa li foneme /ɾ/. 
+// In Interlingue li líttere «r» representa li foneme /ɾ/.
 
 rh:: Quam «r» (in grec paroles).
 +
@@ -1050,21 +1050,21 @@ il es ci. It es tot egal, ca vu vide li tot munde o quelc partes de it.
 
 // XXX FIXED -- niantnin -> ninantnin
 
-0 null 1 un 2 du 3 tri 4 quar 5 quin 6 six 7 sett 8 ott 9 nin 10 deci 11
-deciun 12 decidu 13 decitri 14 deciquar 15 deciquin … 19 decinin 20
-duant 21 duantun 22 duantdu … 30 triant 40 quarant 50 quinant 60
-sixant … 90 ninant … 99 ninantnin 100 cent 101 cent un 102
-centdu… 110 centdeci 111 cent deciun … 119 cent decinin 120 cent
-duant 121 cent duantun … 130 cent triant … 199 cent ninantnin 200
-ducent 201 ducent un … 210 ducent deci 300 tricent … 999 nincent
-ninantnin 1000 mill 1001 mill un … 1099 mill ninantnin 1100 mill cent
-1101 mill cent un … 1999 mill nincent ninantnin 2000 du mill 2001 du
-mill un … 2345 du mill tricent quarantquin … 99{nbsp}000 ninantnin
-mill … 100{nbsp}000 cent mill … 100{nbsp}999 cent mill nincent ninantnin
-200{nbsp}000 ducent mill … 201{nbsp}000 ducent un mill … 299{nbsp}999 ducent
+0 = null, 1 = un, 2 = du, 3 = tri, 4 = quar, 5 = quin, 6 = six, 7 = sett, 8 = ott, 9 = nin, 10 = deci, 11 =
+deciun, 12 = decidu, 13 = decitri, 14 = deciquar, 15 = deciquin … 19 = decinin, 20 =
+duant, 21 = duantun, 22 = duantdu … 30 = triant, 40 = quarant, 50 = quinant, 60 =
+sixant … 90 = ninant … 99 = ninantnin, 100 = cent, 101 = cent un, 102 =
+centdu … 110 = centdeci, 111 = cent deciun … 119 = cent decinin, 120 = cent
+duant, 121 = cent duantun … 130 = cent triant … 199 = cent ninantnin, 200 =
+ducent, 201 = ducent un … 210 = ducent deci, 300 = tricent … 999 = nincent
+ninantnin, 1000 = mill, 1001 = mill un … 1099 = mill ninantnin, 1100 = mill cent,
+1101 = mill cent un … 1999 = mill nincent ninantnin, 2000 = du mill, 2001 = du
+mill un … 2345 = du mill tricent quarantquin … 99{nbsp}000 = ninantnin
+mill … 100{nbsp}000 = cent mill … 100{nbsp}999 = cent mill nincent ninantnin,
+200{nbsp}000 = ducent mill … 201{nbsp}000 = ducent un mill … 299{nbsp}999 = ducent
 ninantnin mill nincent ninantnin …
-456{nbsp}789 quarcent quinantsix mill settcent ottantnin … 1{nbsp}000{nbsp}000 un
-million 1{nbsp}000{nbsp}001 un million un … 2{nbsp}000{nbsp}000 du milliones …
+456{nbsp}789 = quarcent quinantsix mill settcent ottantnin … 1{nbsp}000{nbsp}000 = un
+million, 1{nbsp}000{nbsp}001 = un million un … 2{nbsp}000{nbsp}000 = du milliones …
 
 - mill milliones = un milliard
 - un million milliones = un billion

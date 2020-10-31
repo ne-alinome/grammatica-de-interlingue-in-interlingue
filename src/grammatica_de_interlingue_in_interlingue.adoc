@@ -1,6 +1,6 @@
 = Grammatica de Interlingue in Interlingue
 :author: Dr. Fritz Haas
-:revnumber: 0.1.0-pre.69+20201031
+:revnumber: 0.1.0-pre.70+20201031
 :version-label: Version de ti edition digital:
 :description: Grammatica del lingue auxiliar international Interlingue
 :lang: ie
@@ -23,7 +23,7 @@ endif::[]
 // This file is in Asciidoctor format
 // http://asciidoctor.org
 
-// Last modified 202010310027
+// Last modified 202010310143
 
 :dot: .
 
@@ -380,8 +380,12 @@ examinar, extra.
 // XXX FIXED -- "antey" remplazzat per "anteyan, nam ti "y" de "antey"
 // ne es consonantic:
 
-[[y_consonantic]]
-y consonantic:: Quam anglesi; quam francesi _yeux_; quam german «j»; quam hispan _ayustar_.
+[[y_consonantic]]y consonantic:: Quam anglesi; quam francesi _yeux_; quam
+german «j»; quam hispan _ayustar_{blank}footnote:[Li hispan líttere «y»
+representa pluri fonemes secun su position in li parol e li region del
+parlator. Mult ex ti pronunciationes es diferent de «y» in Interlingue. Li max
+simil son, secun li pronunciation normativ del lingue hispan, es ti de «hi» in
+li parol _hierro_, it es li foneme /j/. Note del editor digital.].
 +
 ====
 yes, rayon, anteyan.

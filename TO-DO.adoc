@@ -19,8 +19,6 @@
 - Improve notation of "y" vocalic/consonantic.
 - Expand "resp."?
 - Usar un majuscule initial in exemple-blocs con parol-listes?
-- Ameliorar explication pri li pronunciation de "y" consonantic in
-  hispan.
 - Link all of the affixes mentioned.
 - Order "yes, no, ne...".
 - Edit CSS to improve the look of the example blocks.

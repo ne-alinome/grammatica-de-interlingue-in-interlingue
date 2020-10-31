@@ -1,6 +1,6 @@
 = Grammatica de Interlingue in Interlingue
 :author: Dr. Fritz Haas
-:revnumber: 0.1.0-pre.77+20201031
+:revnumber: 0.1.0-pre.78+20201031
 :version-label: Version de ti edition digital:
 :description: Grammatica del lingue auxiliar international Interlingue
 :lang: ie
@@ -24,7 +24,7 @@ endif::[]
 // This file is in Asciidoctor format
 // http://asciidoctor.org
 
-// Last modified 202010312019
+// Last modified 202010312108
 
 :dot: .
 
@@ -2023,10 +2023,9 @@ prepara un viage. Il prepara se por un viage.
 // XXX FIXED -- "vení" --> "veni":
 // XXX FIXED -- "proxím" -> "proxim" (in li exemple)
 
-
 // XXX REMARK Secun Matejka, «con» significa anc «in sam témpor».
-// XXX REMARK Secun Matejka, «detra» significa anc «sequentie».
 
+// XXX REMARK Secun Matejka, «detra» significa anc «sequentie».
 
 // XXX FIXME: Descrition do «caus».
 
@@ -2046,8 +2045,6 @@ a::
 Direction; distantie; relation; témpor; loc; scope;
 precie; obligation; destination.
 +
-(In combinationes anc *ad*.)
-+
 ====
 Il dat li flores a su amata. Yo dat un
 libre a Paul. Yo dat le un libre. Yo dat un libre a le. Un
@@ -2057,7 +2054,8 @@ mi arm a foy? Yo selectet it de tri armes a frs. 40.—. Yo va
 atender vos a tri horas al exeada nord del station.
 ====
 +
-*ad* posse esser combinat con altri prepositiones e adverbies
+In combinationes *a* posse esser scrit *ad*,
+por exemple combinat con altri prepositiones e adverbies
 por far plu clar li sens:
 +
 ====
@@ -2096,7 +2094,7 @@ apu li dolore mental.
 
 avan::
 
-Prioritá de loc. (Li preposition <<preposition_ante>> posse esser usat in li sam sense.)
+Prioritá de loc (li preposition <<preposition_ante>> posse esser usat in li sam sense).
 +
 ====
 Li patre promenat avan li dom. Li patre promenat a avan

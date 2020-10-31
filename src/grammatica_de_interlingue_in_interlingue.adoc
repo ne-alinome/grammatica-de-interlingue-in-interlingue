@@ -1,6 +1,6 @@
 = Grammatica de Interlingue in Interlingue
 :author: Dr. Fritz Haas
-:revnumber: 0.1.0-pre.70+20201031
+:revnumber: 0.1.0-pre.71+20201031
 :version-label: Version de ti edition digital:
 :description: Grammatica del lingue auxiliar international Interlingue
 :lang: ie
@@ -14,6 +14,7 @@ ifdef::backend-pdf[]
 :front-cover-image: ../tmp/grammatica_de_interlingue_in_interlingue_cover.pdf
 endif::[]
 ifdef::backend-epub3[]
+:epub3-stylesdir: .
 :front-cover-image: ../target/grammatica_de_interlingue_in_interlingue_cover.jpg
 endif::[]
 

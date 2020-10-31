@@ -21,11 +21,6 @@
 - Usar un majuscule initial in exemple-blocs con parol-listes?
 - Link all of the affixes mentioned.
 - Order "yes, no, ne...".
-- Edit CSS to improve the look of the example blocks. In Asciidoctor
-  EPUB3 the classes are "example" and "example-content", but the
-  styles are missing from the default CSS. In the HTML output of
-  Asciidoctor, the classes are "exampleblock" and "content", and the
-  styles are included in the default CSS.
 - Improve the notation of the list of example numbers.
 - Improve the description of the programs used.
 

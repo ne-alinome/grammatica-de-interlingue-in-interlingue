@@ -1,6 +1,6 @@
 = Grammatica de Interlingue in Interlingue
 :author: Dr. Fritz Haas
-:revnumber: 0.1.0-pre.78+20201031
+:revnumber: 0.1.0-pre.79+20201031
 :version-label: Version de ti edition digital:
 :description: Grammatica del lingue auxiliar international Interlingue
 :lang: ie
@@ -24,7 +24,7 @@ endif::[]
 // This file is in Asciidoctor format
 // http://asciidoctor.org
 
-// Last modified 202010312108
+// Last modified 202010312138
 
 :dot: .
 
@@ -1973,15 +1973,20 @@ ya in li scol e sin dúbit ne plu va retornar ante midí.
 
 ====
 
-:pednote1976: Li edition original ne includet descritiones, solmen exemples. \
-To fat desfacil comprender li precis signification de quelc prepositiones. \
+:pednote1976: Li edition original ne includet \
+explicationes pri li signification del prepositiones, \
+ultra un sol parol pri six ex ili \
+(ante, avan, per, por, pri e pro). \
+Li sol exemples ne esset suficent por \
+comprender li usation de quelc prepositiones. \
 Por claritá, \
-ti edition include descritiones, adaptat ex li articul de Alphonse Matejka \
+ti-ci edition include li significationes de omni prepositiones. \
+Ili esset adaptat ex li articul de Alphonse Matejka \
 «Signification del prepositiones (cardinal senses)», publicat in \
 Cosmoglotta B 81 (1946-05). Note del editor digital.
 
 // Prepositiones {{{1
-== Prepositiones{blank}footnote:[{pedtone1976}]
+== Prepositiones{blank}footnote:[{pednote1976}]
 
 [[par99,§99]]§99. Omni prepositiones sta *ínmediatmen avan lor complement*. lli es
 ínvariabil.

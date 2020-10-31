@@ -14,8 +14,9 @@
 
 - Separate all paragraph numbers from headings?
 - Confirm "Li pòríu".
-- Consult: "for" is mentioned in "ab-" and as an interjection, but
-  it's not included in the prepositions.
+- Consult: "for" is mentioned in "ab-" and as an interjection, but not
+  explained. It's an adverb, but it's included by Matejka in his list
+  of prepositions.
 - Expand "resp."?
 - Usar un majuscule initial in exemple-blocs con parol-listes?
 - Link all of the affixes mentioned.

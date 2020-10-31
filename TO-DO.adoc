@@ -16,7 +16,6 @@
 - Confirm "Li pòríu".
 - Consult: "for" is mentioned in "ab-" and as an interjection, but
   it's not included in the prepositions.
-- Improve notation of "y" vocalic/consonantic.
 - Expand "resp."?
 - Usar un majuscule initial in exemple-blocs con parol-listes?
 - Link all of the affixes mentioned.

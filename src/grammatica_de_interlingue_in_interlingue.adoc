@@ -24,7 +24,7 @@ endif::[]
 // This file is in Asciidoctor format
 // http://asciidoctor.org
 
-// Last modified 202010312001
+// Last modified 202010312006
 
 :dot: .
 
@@ -2019,6 +2019,27 @@ prepara un viage. Il prepara se por un viage.
 // XXX FIXED -- "rich genito res" -> rich genitores"
 // XXX FIXED -- "Multís vell prefer viver in li rure" ->
 // "Mult vell prefer viver in li rure" ->
+// XXX FIXED -- "lacrimes" -> "lácrimes":
+// XXX FIXED -- "vení" --> "veni":
+// XXX FIXED -- "proxím" -> "proxim" (in li exemple)
+
+
+// XXX REMARK Secun Matejka, «con» significa anc «in sam témpor».
+// XXX REMARK Secun Matejka, «detra» significa anc «sequentie».
+
+
+// XXX FIXME: Descrition do «caus».
+
+// XXX TODO Add «circa».
+
+// XXX TODO Add «except», secun Matejka.
+
+// XXX TODO Add «for», secun Matejka.
+
+// XXX TODO ligar «ínter» a «ex» e «de».
+
+// XXX FIXME In «sur», «contra» e «ye li látere de» es íncomprensibil sin
+// exemples. Vide li original de Matejka.
 
 // XXX FIXME Ordinar.
 
@@ -2084,8 +2105,6 @@ Li patre promenat avan li dom. Li patre promenat a avan
 li dom. Li patre venit de avan li dom. Il incontrat le avan li dom.
 ====
 
-// XXX FIXME: Descrition:
-
 caus::
 
 In consideration de.
@@ -2103,8 +2122,6 @@ Il logiat che su fratre. Durante long témpor il vivet che li
 negres. Che li canes on distincte divers rasses.
 ====
 
-// XXX TODO circa
-
 circum::
 
 Loc o movement de alquó fant li gira.
@@ -2121,9 +2138,6 @@ In ti-ci látere (ne trans it).
 ====
 Francia es situat cis li Pirenés.
 ====
-
-// XXX FIXED -- "lacrimes" -> "lácrimes":
-// XXX REMARK Secun Matejka, anc «in sam témpor»:
 
 con::
 
@@ -2165,8 +2179,6 @@ Desde du annus il neplu posse laborar. Il vendi chapeles desde
 frs. 20.—. Il prendet li tren de Roma desde Milano.
 ====
 
-// XXX REMARK Secun Matejka, anc «sequentie»:
-
 detra::
 
 In li parte posteriori (situat in li látere oposit de ti u trova se li vise de
@@ -2196,8 +2208,6 @@ a Interlingue. Li vestiment es fat ex pur lan. Noi audit in
 li radio un concert de Beethoven ex London.
 ====
 
-// XXX TODO «except», secun Matejka.
-
 extra::
 
 In li exteriore de.
@@ -2206,8 +2216,6 @@ In li exteriore de.
 Il vivet extra su patria. Soledí ili devet luder extra li
 audir-distantie.
 ====
-
-// XXX TODO «for», secun Matejka.
 
 in::
 
@@ -2228,8 +2236,6 @@ Li aviones vola infra li stratosfere. Il sedet infra li table,
 e li patre supra. Sub li table esset un can. Súper li table esset li
 lampe e sur li table un libre.
 ====
-
-// XXX TODO ligar a «ex» e «de».
 
 [[preposition_inter,ínter]]ínter::
 
@@ -2305,8 +2311,6 @@ Cause; productente un cert efecte (parlante del motive).
 Ella plorat pro joya. Yo mersía pro vor auxilie.
 ====
 
-// XXX FIXED -- "vení" --> "veni":
-
 pos::
 
 Plu lontan quam (in témpore o rang);
@@ -2324,8 +2328,6 @@ Passante apu e eante plu for quam.
 ====
 Ili passat préter li dom de mi patre.
 ====
-
-// XXX FIXED -- "proxím" -> "proxim" (in li exemple)
 
 proxim::
 
@@ -2374,9 +2376,6 @@ se detra e sub su folies.
 ====
 
 sur::
-
-// XXX FIXME «contra» e «ye li látere de» es íncomprensibil sin exemples. Vide
-// li original de Matejka.
 
 Position de un cose comparat a un altri situat plu bass, in contacte con ti-ci
 e in li sam direction vertical; ye li superficie de; contra; ye li látere de;

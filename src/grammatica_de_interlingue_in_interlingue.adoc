@@ -1,6 +1,6 @@
 = Grammatica de Interlingue in Interlingue
 :author: Dr. Fritz Haas
-:revnumber: 0.1.0-pre.73+20201031
+:revnumber: 0.1.0-pre.74+20201031
 :version-label: Version de ti edition digital:
 :description: Grammatica del lingue auxiliar international Interlingue
 :lang: ie
@@ -24,7 +24,7 @@ endif::[]
 // This file is in Asciidoctor format
 // http://asciidoctor.org
 
-// Last modified 202010311722
+// Last modified 202010311726
 
 :dot: .
 
@@ -1066,10 +1066,9 @@ ninantnin mill nincent ninantnin …
 456{nbsp}789 = quarcent quinantsix mill settcent ottantnin … 1{nbsp}000{nbsp}000 = un
 million, 1{nbsp}000{nbsp}001 = un million un … 2{nbsp}000{nbsp}000 = du milliones …
 
-- mill milliones = un milliard
-- un million milliones = un billion
 - 1{nbsp}000{nbsp}000 = un million
-- 1{nbsp}000{nbsp}000^2^ = 1{nbsp}000{nbsp}000{nbsp}000{nbsp}000 = un billion
+- 1{nbsp}000{nbsp}000{nbsp}000 = mill milliones = un milliard
+- 1{nbsp}000{nbsp}000^2^ = 1{nbsp}000{nbsp}000{nbsp}000{nbsp}000 = un million milliones = un billion
 - 1{nbsp}000{nbsp}000^3^ = un million billiones = un trillion
 - 1{nbsp}000{nbsp}000^4^ = un million trilliones = un quadrillion
 

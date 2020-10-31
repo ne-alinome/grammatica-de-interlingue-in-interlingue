@@ -1,6 +1,6 @@
 = Grammatica de Interlingue in Interlingue
 :author: Dr. Fritz Haas
-:revnumber: 0.1.0-pre.80+20201031
+:revnumber: 0.1.0-pre.81+20201031
 :version-label: Version de ti edition digital:
 :description: Grammatica del lingue auxiliar international Interlingue
 :lang: ie
@@ -24,7 +24,7 @@ endif::[]
 // This file is in Asciidoctor format
 // http://asciidoctor.org
 
-// Last modified 202010312157
+// Last modified 202010312200
 
 :dot: .
 
@@ -1009,6 +1009,8 @@ prefix *ne-* tales indicant li absentie, li negation, e li sufix
 
 [width=100% cols=3]
 |===
+| al-     | ne-     | -cunc
+
 | alquel  | nequel  | quelcunc
 | alqual  | nequal  | qualcunc
 | alquant | nequant | quantcunc

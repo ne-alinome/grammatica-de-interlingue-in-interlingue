@@ -13,7 +13,6 @@
 == Improve
 
 - Confirm "Li pòríu".
-- Expand "resp."?
 - Usar un majuscule initial in exemple-blocs con parol-listes?
 - Link all of the affixes mentioned.
 

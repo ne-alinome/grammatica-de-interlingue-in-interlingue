@@ -1,6 +1,6 @@
 = Grammatica de Interlingue in Interlingue
 :author: Dr. Fritz Haas
-:revnumber: 0.1.0-pre.82+20201031
+:revnumber: 0.1.0-pre.83+20201031
 :version-label: Version de ti edition digital:
 :description: Grammatica del lingue auxiliar international Interlingue
 :lang: ie
@@ -24,7 +24,7 @@ endif::[]
 // This file is in Asciidoctor format
 // http://asciidoctor.org
 
-// Last modified 202011010048
+// Last modified 202011010051
 
 :dot: .
 
@@ -680,7 +680,7 @@ rosiero, rosiera, lago, aqua, promenada, plazza, pasca.
 ====
 
 [[par25,§25]]§25. Quelc substantives forma derivates per adjunter *u*
-o *at* al radica; ili conserva li *u* resp. *at* anc in li nederivat
+o *at* al radica; ili conserva li *u* respectivmen *at* anc in li nederivat
 formes.
 
 ====
@@ -1401,7 +1401,7 @@ transformation, al talnominat *verbes dinamic*.
 Li tema perfectic es trovat per li *Regul de Wahl*, li clave al unic
 lingue vermen international e in sam témpor regulari:
 
-On supresse li *r* resp. *er* del infinitive. Si li rest fini per vocal,
+On supresse li *r* respectivmen *er* del infinitive. Si li rest fini per vocal,
 on adjunte *t*, si it fini per *d* o *r*, on vicea ti consonant per *s*,
 in omni altri casus li rest self es li tema perfectic.
 
@@ -1802,7 +1802,7 @@ Si li radica de un verb con *er* fini per vocal, li *e* desapari:
 |===
 
 [[par85,§85]]§85. Du sufixes adjunte se al radica verbal in du formes diferent secun
-li vocal caracteristic: *-abil, -ada* ye *a* resp. *-ibil, -ida* ye *i*
+li vocal caracteristic: *-abil, -ada* ye *a* respectivmen *-ibil, -ida* ye *i*
 o *e*:
 
 [width=100%]
@@ -2644,7 +2644,7 @@ Yo videt le. Yo te dat it. Yo dat it te. Yo dat it a te.
 [[par116,§116]]§116. Li regules indicat por frases direct vale anc por *frases
 interrogativ* queles es format per *esque* o altri paroles interrogativ.
 Sin li «esque» on posse formar frases interrogativ per posir li subjecte
-pos li predicate, resp. pos li verb auxiliari.
+pos li predicate, respectivmen pos li verb auxiliari.
 
 ====
 Esque vu ha comprendet me? Ha vu comprendet me? Quant persones tu crede
@@ -3194,7 +3194,7 @@ rigiditá, rigorosi, rigorositá.
 === Composition de du o pluri paroles
 
 [[par143,§143]]§143. Maxim frequent es li metode plazzar li complement sin preposition
-avan li substantive resp. li verb, con o sin strec ligativ.
+avan li substantive respectivmen li verb, con o sin strec ligativ.
 
 ====
 scri-table (={nbsp}table por scrir), vent-moline (={nbsp}moline movet

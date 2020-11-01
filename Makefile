@@ -3,7 +3,7 @@
 # By Marcos Cruz (programandala.net)
 # http://ne.alinome.net
 
-# Last modified 202011012018
+# Last modified 202011012052
 # See change log at the end of the file
 
 # ==============================================================
@@ -113,7 +113,11 @@ cleancover:
 # ==============================================================
 # Convert Asciidoctor to EPUB {{{1
 
-target/%.adoc.epub: src/%.adoc target/$(cover).jpg
+target/%.adoc.epub: \
+	src/%.adoc \
+	src/epub3.css \
+	src/epub3-css3-only.css \
+	target/$(cover).jpg
 	asciidoctor-epub3 \
 		--out-file=$@ $<
 
@@ -293,4 +297,5 @@ include Makefile.cover_image
 # compression of PDF files and keep them also uncompressed in <tmp>.
 #
 # 2020-11-01: Update the interface rules to build all formats and only the
-# recommended ones.
+# recommended ones. Add the CSS files as prerequisites of the Asciidoctor EPUB3
+# target.

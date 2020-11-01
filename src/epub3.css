@@ -6,7 +6,7 @@ This file is part of project
 by Marcos Cruz (programandala.net)
 http://ne.alinome.net
 
-Last modified 202010310153
+Last modified 202011012056
 See change log at the end of the file.
 
 */
@@ -1286,7 +1286,10 @@ nav[hidden~="hidden"] {
 
 /* Example blocks, copied from the HTML output of Asciidoctor */
 
-.example>.example-content {
+.example {
+  margin-top:1.25em;
+}
+  .example>.example-content {
   border-style:solid;
   border-width:1px;
   border-color:#e6e6e6;
@@ -1305,5 +1308,7 @@ nav[hidden~="hidden"] {
 Change log
 
 2020-10-31: Copy from the sources of Asciidoctor EPUB3.
+
+2020-11-01: Add a top margin to the "example" class.
 
 */

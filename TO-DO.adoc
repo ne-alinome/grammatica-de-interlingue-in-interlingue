@@ -15,6 +15,11 @@
 - Confirm "Li pòríu".
 - Usar un majuscule initial in exemple-blocs con parol-listes?
 - Homogenize usage of "cp.", "cf.", "v.".
+- Description of "caus".
+- In the description of "sur", the meanings "contra" and "ye li látere
+  de" cannot be understood without examples. See them in the original
+  list by Matejka.
+- Move the original "(*)" notes to footnotes?
 
 == Add
 
@@ -22,12 +27,16 @@
 - Add footnote about "-ye"?
 - Adjunter articul "Linguistic explorationes -- Pronunciation de «ch»"
   ex Cosmoglotta A 101 (1935-03).
-- "córam" is missing in the list of prepositions.  
 - Add annex with all of the "al-", "ne-", "-cunc" words in a table.
 - Add annex with the usage of prepositions, extracted from
   Cosmoglotta.
 - Add annex with lists of affixes, by type, linked to their
   description in the book.
-- "for" is mentioned in "ab-" and as an interjection, but not
-  explained. It's an adverb, but it's included by Matejka in his list
-  of prepositions.
+- Prepositions not included: "circa", "córam", "for" (it's mentioned
+  in "ab-", and also as an interjection, but not explained; it's
+  mainly an adverb, but it's included by Matejka in his list of
+  prepositions); "except" (included by Matejka in his list).
+- Footnote about the content of §81?
+- Footnote in §70 about "fe"?
+- Footnote in §114 about "índirect frases" being interrogativ?
+- Compare "màximum" in §8 with accentuation of "-um".

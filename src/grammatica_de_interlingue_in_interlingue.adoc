@@ -24,7 +24,7 @@ endif::[]
 // This file is in Asciidoctor format
 // http://asciidoctor.org
 
-// Last modified 202011011602
+// Last modified 202011011642
 
 :dot: .
 
@@ -179,8 +179,6 @@ De du o pluri *vocales succedent* chascun es pronunciat. Ínaccentuat
 «i» e «u» avan vocales e in li combinationes «au» e «eu» (u
 anc li «a» e li «e» es curt) es tre curt, presc consonantic, e ne
 posse formar propri síllabes.
-
-// XXX TODO -- pednote:
 
 ====
 leôn(*), creatôr, mêdie, mediôcri, mêdium, lìngue, linguâl, lìnguìstic,
@@ -462,7 +460,7 @@ parte seque ti regules, li altres posse reciver un accentu secundari.
 // XXX FIXED -- "genú-articulation" -> "genú-articulatiòn"
 // XXX FIXED -- "ferrovìa" -> "fèrrovìa" (hay anc "fèrro-vìa", quel esset bon)
 
-// XXX TODO -- 2019-08-09: Li comensa original esset:
+// XXX REMARK -- 2019-08-09: Li comensa original esset:
 //
 //    Li pòríu(*), familie, àvie, doctòr, formàr, li formàt, li formàte,
 //
@@ -478,9 +476,6 @@ poc modificat e movet ante li complet liste de exemples. Note del editor
 digital.]:
 
 // XXX FIXED -- «fèlici» -> «felìci».
-
-// XXX TODO -- Comparar «màximum» con explication pri accentuation de
-// «-um».
 
 ====
 inscrìt, il
@@ -987,8 +982,6 @@ personal o demonstrativ, o per comma.
 // XXX FIXED -- "To es li sestra de mi amíco" -> "Ti es li sestra de
 // mi amíco"; "cíté" -> "cité"; "Ii" -> "li":
 
-// XXX TODO Adjunter li referenties ínter crampes, por claritá?
-
 ====
 Yo videt li fratre de mi amíco quel arivat yer. Yo videt li fratre de mi
 amíco, il quel (o il qui) arivat yer. Ti es li sestra de mi amíco, ella
@@ -1209,8 +1202,6 @@ adjunter *-t* al tema presentic:
 - expedit
 - constructet
 ====
-
-// XXX TODO Adjunter pednote pri "fe":
 
 Li participie passat es usat anc quam *passate simplic*:
 
@@ -1743,8 +1734,6 @@ international formes:
 | tener      | tent           | tention | _tenion_
 |===
 
-// XXX TODO -- Pednote pri li tot contenete del punctu 81:
-
 [[par81,§81]]§81. Che li tri verbes: *far, dir, scrir* on posse formar li derivates
 per li complet radicas: *fact, dict, script*.
 
@@ -2036,17 +2025,6 @@ prepositiones. Ili esset adaptat ex li articul de Alphonse Matejka
 // XXX REMARK Secun Matejka, «con» significa anc «in sam témpor».
 
 // XXX REMARK Secun Matejka, «detra» significa anc «sequentie».
-
-// XXX FIXME: Descrition do «caus».
-
-// XXX TODO Add «circa».
-
-// XXX TODO Add «except», secun Matejka.
-
-// XXX TODO Add «for», secun Matejka.
-
-// XXX FIXME In «sur», «contra» e «ye li látere de» es íncomprensibil sin
-// exemples. Vide li original de Matejka.
 
 a::
 
@@ -2588,8 +2566,6 @@ li parol concernent.
 - Anc *yo* ama vos. Yo anc *ama* vos. Yo ama anc *vos*.
 ====
 
-// XXX TODO -- «respectivmen li infinitive»!?
-
 [[par112,§112]]§112. Li *verbes auxiliari* (anc: dever, posser, voler etc.) deve sempre
 preceder li participie respectivmen li infinitive ínmediatmen, o esser
 separat solmen per concernent adverbies.
@@ -2625,8 +2601,6 @@ Por indicar li *condition*, on deve sempre usar: *si*.
 Si ella vell har savet, quo ella save hodíe, ella vell har actet
 altrimen. Si yo vell esser malad, yo vell restar in hem.
 ====
-
-// XXX TODO -- pednote pri ti frases, quel deve esser interogativ:
 
 *Índirect frases* es comensat per: *ca* (viceat sovente per *esque*).
 
@@ -2681,8 +2655,6 @@ deveni frigid (li temperatura o un cert cose).
 
 // Interpunction {{{1
 == Interpunction
-
-// XXX TODO -- «respectivmen por separar»?
 
 [[par118,§118]]§118. Li signes de interpunction deve esser usat talmen, que li
 comprension del textu es afacilat. Proque lor usation in li lingues

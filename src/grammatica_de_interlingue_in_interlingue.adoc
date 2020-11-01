@@ -1,6 +1,6 @@
 = Grammatica de Interlingue in Interlingue
 :author: Dr. Fritz Haas
-:revnumber: 0.1.0-pre.92+20201101
+:revnumber: 0.1.0-pre.93+20201101
 :version-label: Version de ti edition digital:
 :description: Grammatica del lingue auxiliar international Interlingue
 :lang: ie
@@ -24,7 +24,7 @@ endif::[]
 // This file is in Asciidoctor format
 // http://asciidoctor.org
 
-// Last modified 202011010247
+// Last modified 202011011505
 
 :dot: .
 
@@ -569,7 +569,7 @@ esset ordinat alfabeticmen. Li nov acurtationes includet es «a.C.», «cp.» e
 | a.C.         | ante Christo
 | a.c.         | (del) annu current
 | a.p.         | (del) annu passat
-| am.          | ante midí (=premidí)
+| am.          | ante midí, antemidí (=premidí)
 | cf.          | (ples) confronta(r)
 | cp.          | (ples) compara(r)
 | conc.        | concernent
@@ -585,7 +585,7 @@ esset ordinat alfabeticmen. Li nov acurtationes includet es «a.C.», «cp.» e
 | pg.          | págine
 | pl.          | ples
 | pl.t.        | ples tornar
-| pm.          | pos midí
+| pm.          | pos midí, posmidí
 | PS.          | pos-scripte
 | resp.        | respectivmen
 | sq.          | e sequentes

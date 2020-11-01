@@ -17,8 +17,6 @@
 - "-ie" and "-or" are duplicated, they are listed and explained in two
   sections.
 - Homogenize usage of "cp.", "cf.", "v.".
-- "am." and "pm." should be translated by one word, after the
-  usual convention. Janotta writes "antemidí" and "posmidí".
 
 == Add
 

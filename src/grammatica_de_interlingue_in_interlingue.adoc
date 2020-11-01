@@ -1,6 +1,6 @@
 = Grammatica de Interlingue in Interlingue
 :author: Dr. Fritz Haas
-:revnumber: 0.1.0-pre.95+20201101
+:revnumber: 0.1.0-pre.96+20201101
 :version-label: Version de ti edition digital:
 :description: Grammatica del lingue auxiliar international Interlingue
 :lang: ie
@@ -24,7 +24,7 @@ endif::[]
 // This file is in Asciidoctor format
 // http://asciidoctor.org
 
-// Last modified 202011011545
+// Last modified 202011011552
 
 :dot: .
 
@@ -383,11 +383,11 @@ examinar, extra.
 // ne es consonantic:
 
 [[y_consonantic]]y consonantic:: Quam anglesi; quam francesi _yeux_; quam
-german «j»; quam hispan _ayustar_{blank}footnote:[Li hispan líttere «y»
-representa pluri sones secun su position in li parol e li region del parlator.
-Un exemple plu precis, secun li pronunciation normativ del lingue hispan, es ti
-de «hi» in li parol _hierro_ (ferre), it es li foneme /j/. Note del editor
-digital.].
+german «j»; quam hispan «hi» in _hielo_{blank}footnote:[Li edition original
+usat li hispan verb _ayustar_ quam exemple, ma li hispan líttere «y» representa
+pluri sones secun su position in li parol e li region del parlator. Un exemple
+plu precis, secun li pronunciation normativ del lingue hispan, es ti de «hi» in
+li parol _hierro_ (ferre), it es li foneme /j/. Note del editor digital.].
 +
 ====
 yes, rayon, anteyan.

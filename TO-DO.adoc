@@ -9,6 +9,7 @@
   viewers.
 - Asciidoctor EPUB3 doesn't render table heading columns marked with
   `cols="h,"`.
+- Homegenize `«<<` and `»>>` in cross-references.
 
 == Improve
 

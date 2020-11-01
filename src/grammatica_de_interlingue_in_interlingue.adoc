@@ -1,6 +1,6 @@
 = Grammatica de Interlingue in Interlingue
 :author: Dr. Fritz Haas
-:revnumber: 0.1.0-pre.88+20201101
+:revnumber: 0.1.0-pre.89+20201101
 :version-label: Version de ti edition digital:
 :description: Grammatica del lingue auxiliar international Interlingue
 :lang: ie
@@ -24,7 +24,7 @@ endif::[]
 // This file is in Asciidoctor format
 // http://asciidoctor.org
 
-// Last modified 202011010159
+// Last modified 202011010202
 
 :dot: .
 
@@ -2971,7 +2971,7 @@ pacificar*. forma anc adjectives: *pacific, magnific, specific*.
 [[par136,§136]]§136.
 
 [loweralpha]
-. adjuntet al *tema perfectic* secun <<par80>>:
+. Adjuntet al *tema perfectic* secun <<par80>>:
 +
 --
 [[sufix_ion,-ion]]-ion:: Action, anc resultat e loc de it: *administration, expedition,
@@ -2984,21 +2984,21 @@ distributor, constructor, ventilator, compressor, divisor*.
 lectura, creatura*.
 --
 
-. adjuntet al *tema presentic* secun <<par84>>:
+. Adjuntet al *tema presentic* secun <<par84>>:
 +
 --
 [[sufix_ment,-ment]]-ment:: Concret action o su resultate, o servient a, servient quam:
 *fundament, nutriment, movement*.
 --
 
-. adjuntet al *radica verbal* secun <<par85>>:
+. Adjuntet al *radica verbal* secun <<par85>>:
 +
 --
 [[sufix_da,-da]]-ida (verbes in *-ar*: *-ada*):: Action in durada: *promenada, perdida,
 currida*.
 --
 
-. adjuntet al *participie presentic* secun <<par82>>:
+. Adjuntet al *participie presentic* secun <<par82>>:
 +
 --
 [[sufix_ie,-ie]]-ie:: Statu in durada: *tolerantie, provenientie, existentie*.

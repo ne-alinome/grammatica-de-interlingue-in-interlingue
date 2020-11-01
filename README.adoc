@@ -1,6 +1,6 @@
 = Grammatica de Interlingue in Interlingue
 :author: Marcos Cruz (programandala.net)
-:revdate: 2020-04-02
+:revdate: 2020-11-01
 :toc:
 :toc-levels: 2
 :toc-title: Contents/Contenete/Enhavo
@@ -42,16 +42,17 @@ follows:
 
 | make                | Convert into the *recommended formats*
 | make all            | Convert into all of the formats (even experimental or with issues)
+| make azw3           | Convert into AZW3
 | make dbk            | Convert into DocBook
-| make epub           | Convert into EPUB (all variants)
+| make epub           | Convert into EPUB (only the recommended variants)
 | make epuba          | Convert into *EPUB with Asciidoctor EPUB3 (recommended)*
 | make epubd          | Convert into EPUB with dbtoepub (no cover page)
-| make epubp          | Convert into EPUB with Pandoc (the links don't work)
+| make epubp          | Convert into EPUB with Pandoc (no cover page; the links don't work)
 | make epubx          | Convert into EPUB with xsltproc (equivalent to dbtoepub)
 | make odt            | Convert into OpenDocument (no cover page; the links dont't work)
 | make pdf            | Convert into PDF (both sizes)
 | make pdfa4          | Convert into *PDF (DIN A4 size) (recommended)*
-| make pdfl           | Convert into *PDF (letter size) (recommended)*
+| make pdfl           | Convert into PDF (letter size)
 |===
 
 The documents are built in the <target> directory.
@@ -87,16 +88,17 @@ jene:
 
 | make                | Konverti en la *rekomenditajn formatojn*
 | make all            | Konverti en ĉiujn formatojn (eĉ eksperimentajn aŭ problemajn)
+| make azw3           | Konverti en AZW3
 | make dbk            | Konverti en DocBook
-| make epub           | Konverti en EPUB (ĉiuj variantoj)
+| make epub           | Konverti en EPUB (nur la rekomenditaj variantoj)
 | make epuba          | Konverti en *EPUB per Asciidoctor EPUB3 (rekomendita)*
 | make epubd          | Konverti en EPUB per dbtoepub (sen kovrilo)
-| make epubp          | Konverti en EPUB per Pandoc (la ligiloj ne funkcias)
+| make epubp          | Konverti en EPUB per Pandoc (sen kovrilo; la ligiloj ne funkcias)
 | make epubx          | Konverti en EPUB per xsltproc (ekvivalento de dbtoepub)
 | make odt            | Konverti en OpenDocument (sen kovrilo; la ligiloj ne funkcias)
 | make pdf            | Konverti en PDF (ambaŭ grandoj)
 | make pdfa4          | Konverti en *PDF je grando DIN A4 (rekomendita)*
-| make pdfl           | Konverti en *PDF je grando «letter» (rekomendita)*
+| make pdfl           | Konverti en PDF je grando «letter»
 |===
 
 La dosieroj estos kreitaj en la dosierujo <target> (celo).
@@ -133,16 +135,17 @@ A continuación entra en el directorio del proyecto y usa el comando
 
 | make                | Convertir en los *formatos recomendados*
 | make all            | Convertir en todos los formatos (incluso los experimentales o con problemas)
+| make azw3           | Convertir en AZW3
 | make dbk            | Convertir en DocBook
 | make epuba          | Convertir en *EPUB con Asciidoctor EPUB3 (recomendado)*
-| make epub           | Convertir en EPUB (todas las variantes)
+| make epub           | Convertir en EPUB (solo las variantes recomendadas)
 | make epubd          | Convertir en EPUB con dbtoepub (sin portada)
-| make epubp          | Convertir en EPUB con Pandoc (no funcionan los enlaces)
+| make epubp          | Convertir en EPUB con Pandoc (sin portada; no funcionan los enlaces)
 | make epubx          | Convertir en EPUB con xsltproc (equivalente a dbtoepub)
 | make odt            | Convertir en OpenDocument (sin portada; no funcionan los enlaces)
 | make pdf            | Convertir en PDF (ambos tamaños)
 | make pdfa4          | Convertir en *PDF de tamaño DIN A4 (recomendado)*
-| make pdfl           | Convertir en *PDF de tamaño «letter» (recomendado)*
+| make pdfl           | Convertir en PDF de tamaño «letter»
 |===
 
 Los ficheros se crearán en el directorio <target> (objetivo).
@@ -164,10 +167,10 @@ Web loc:: http://ne.alinome.net.
 // Qualmen constructer li libre {{{2
 === Qualmen constructer li libre
 
-Si vu ne posse atender li liberation de li sequente version, vu self
-posse constructer li libre-documentes.
+Si vu ne posse atender li publication del sequente version, vu self posse
+constructer li libre-documentes.
 
-In prim, ples confirmar que li programes listat in li section
+In prim, ples confirmar que li programas listat in li section
 "Requirements" (besones) del document <Makefile> es installat in vor
 sistema.
 
@@ -179,16 +182,17 @@ secun lu sequent:
 
 | make                | Converter in li *formates recomandat*
 | make all            | Converter in omni formates (mem tis experimental o con problemas)
+| make azw3           | Converter in AZW3
 | make dbk            | Converter in DocBook
-| make epub           | Converter in EPUB (omni variantes)
+| make epub           | Converter in EPUB (solmen li variantes recomandat)
 | make epuba          | Converter in *EPUB per Asciidoctor EPUB3 (recomandat)*
 | make epubd          | Converter in EPUB per dbtoepub (sin covriment)
-| make epubp          | Converter in EPUB per Pandoc (li ligamentes ne functiona)
+| make epubp          | Converter in EPUB per Pandoc (sin covriment; li ligamentes ne functiona)
 | make epubx          | Converter in EPUB per xsltproc (equivalent a dbtoepub)
 | make odt            | Converter in OpenDocument (sin covriment; li ligamentes ne functiona)
 | make pdf            | Converter in PDF (ambi grandores)
 | make pdfa4          | Converter in *PDF con grandore DIN A4 (recomandat)*
-| make pdfl           | Converter in *PDF con grandore «letter» (recomandat)*
+| make pdfl           | Converter in PDF con grandore «letter»
 |===
 
 Li documentes es creat in li documentiere <target> (scope).

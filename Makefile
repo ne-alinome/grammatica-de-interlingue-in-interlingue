@@ -3,7 +3,7 @@
 # By Marcos Cruz (programandala.net)
 # http://ne.alinome.net
 
-# Last modified 202008281827
+# Last modified 202011012018
 # See change log at the end of the file
 
 # ==============================================================
@@ -53,7 +53,7 @@ description="Grammatica del lingue international auxiliari Interlingue"
 # ==============================================================
 # Interface {{{1
 
-.PHONY: default
+.PHONY: recommended
 default: epuba pdfa4 thumb
 
 .PHONY: all
@@ -63,7 +63,7 @@ all: azw3 epub odt pdf thumb
 azw3: target/$(book).adoc.epub.azw3
 
 .PHONY: epub
-epub: epuba
+epub: epuba epubd epubp epubx
 
 .PHONY: epuba
 epuba: target/$(book).adoc.epub
@@ -291,3 +291,6 @@ include Makefile.cover_image
 #
 # 2020-08-28: Move the cover image rules to an independent file. Improve the
 # compression of PDF files and keep them also uncompressed in <tmp>.
+#
+# 2020-11-01: Update the interface rules to build all formats and only the
+# recommended ones.

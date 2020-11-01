@@ -1,6 +1,6 @@
 = Grammatica de Interlingue in Interlingue
 :author: Dr. Fritz Haas
-:revnumber: 0.1.0-pre.96+20201101
+:revnumber: 0.1.0-pre.97+20201101
 :version-label: Version de ti edition digital:
 :description: Grammatica del lingue auxiliar international Interlingue
 :lang: ie
@@ -24,7 +24,7 @@ endif::[]
 // This file is in Asciidoctor format
 // http://asciidoctor.org
 
-// Last modified 202011011552
+// Last modified 202011011556
 
 :dot: .
 
@@ -357,7 +357,7 @@ th:: Quam «t» (in grec paroles).
 theosoph, lithograph.
 ====
 
-v:: Quam anglesi, francesi o italian{blank}footnote[Li edition original
+v:: Quam anglesi, francesi o italian{blank}footnote:[Li edition original
 erratorimen includet anc hispan, ma li hispan «v» desde secules changeat su
 son a ti de «b». Note del editor digital]; quam german «w».
 +

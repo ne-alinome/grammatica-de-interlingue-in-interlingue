@@ -15,8 +15,6 @@
 
 - Confirm "Li pòríu".
 - Usar un majuscule initial in exemple-blocs con parol-listes?
-- "-ie" and "-or" are duplicated, they are listed and explained in two
-  sections.
 - Homogenize usage of "cp.", "cf.", "v.".
 
 == Add

@@ -1,6 +1,6 @@
 = Grammatica de Interlingue in Interlingue
 :author: Dr. Fritz Haas
-:revnumber: 0.1.0-pre.93+20201101
+:revnumber: 0.1.0-pre.94+20201101
 :version-label: Version de ti edition digital:
 :description: Grammatica del lingue auxiliar international Interlingue
 :lang: ie
@@ -24,7 +24,7 @@ endif::[]
 // This file is in Asciidoctor format
 // http://asciidoctor.org
 
-// Last modified 202011011505
+// Last modified 202011011541
 
 :dot: .
 
@@ -2976,6 +2976,9 @@ pacificar*. forma anc adjectives: *pacific, magnific, specific*.
 
 [[par136,§136]]§136.
 
+:pri_sufix_or: pass:q[Actent person, cose o factor: *administrator, expeditor, \
+distributor, constructor, ventilator, compressor, divisor*]
+
 [loweralpha]
 . Adjuntet al *tema perfectic* secun <<par80>>:
 +
@@ -2983,8 +2986,7 @@ pacificar*. forma anc adjectives: *pacific, magnific, specific*.
 [[sufix_ion,-ion]]-ion:: Action, anc resultat e loc de it: *administration, expedition,
 construction, distribution, explosion*.
 
-[[sufix_or,-or]]-or:: Actent person, cose o factor: *administrator, expeditor,
-distributor, constructor, ventilator, compressor, divisor*.
+[[sufix_or,-or]]-or:: {pri_sufix_or}.
 
 [[sufix_ura,-ura]]-ura:: Concretisat action e su resultate: *reparatura, garnitura,
 lectura, creatura*.
@@ -3007,7 +3009,8 @@ currida*.
 . Adjuntet al *participie presentic* secun <<par82>>:
 +
 --
-[[sufix_ie,-ie]]-ie:: Statu in durada: *tolerantie, provenientie, existentie*.
+[[sufix_nt_ie,-ie]]-ie:: Statu in durada: *tolerantie, provenientie, existentie*.
+Cp. <<sufix_ie,usation general de «-ie»>>.
 --
 
 // Personal sufixes {{{3
@@ -3020,7 +3023,7 @@ currida*.
 -ist:: Person ocupant se pri, adherente de: *calvinist, socialist,
 librist, telegrafista*.
 
--or:: Cp. <<par136>>.
+-or:: {pri_sufix_or}. Cp. <<par136>>.
 
 -aria, -ario:: Person caracterisat per alquó external, p.ex. un function:
 *millionario, functionaria, bibliotecario, pensionaria*.
@@ -3045,8 +3048,9 @@ actressa, imperatressa*.
 
 [[par138,§138]]§138.
 
-[[sufix_ie,-ie]]-ie:: Abstract substantives, statu (cp. <<par82>>, <<par136>>):
-*anatomie, maladie, elegantie, existentie, furie, tirannie*.
+[[sufix_ie,-ie]]-ie:: Abstract substantives, statu:
+*anatomie, maladie, elegantie, furie, tirannie*.
+Cp. <<sufix_nt_ie,«-ie» adjuntet al participie presentic>> secun <<par82>>.
 
 -itá (*-etá*, si li radica fini per *i*):: Qualitá: *homanitá, yunitá,
 quantitá, proprietá, ebrietá*.

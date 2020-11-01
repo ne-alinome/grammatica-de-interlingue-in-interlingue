@@ -1,6 +1,6 @@
 = Grammatica de Interlingue in Interlingue
 :author: Dr. Fritz Haas
-:revnumber: 0.1.0-pre.84+20201031
+:revnumber: 0.1.0-pre.85+20201101
 :version-label: Version de ti edition digital:
 :description: Grammatica del lingue auxiliar international Interlingue
 :lang: ie
@@ -24,7 +24,7 @@ endif::[]
 // This file is in Asciidoctor format
 // http://asciidoctor.org
 
-// Last modified 202011010106
+// Last modified 202011010132
 
 :dot: .
 
@@ -2038,8 +2038,6 @@ prepositiones. Ili esset adaptat ex li articul de Alphonse Matejka
 
 // XXX TODO Add «for», secun Matejka.
 
-// XXX TODO ligar «ínter» a «ex» e «de».
-
 // XXX FIXME In «sur», «contra» e «ye li látere de» es íncomprensibil sin
 // exemples. Vide li original de Matejka.
 
@@ -2158,7 +2156,9 @@ contra combustibiles. Li aeroplan aviat contra li gratta-ciel.
 
 [[preposition_de,de]]de::
 
-Orígine; materie; separation; autor; provenientie; possession.
+Orígine; materie; separation; autor; provenientie; possession;
+extration (in ti sense anc li prepositiones
+«<<preposition_ex>>» e «<<preposition_inter>>» es usabil).
 +
 ====
 Li dom de mi patre. Li dramas de Schiller. Un senior de Paris.
@@ -2196,7 +2196,7 @@ Durante li estive li infantes ludet sur li plazza. Li un de
 su filios studiat medicina, durante que li altri ne volet studiar.
 ====
 
-ex::
+[[preposition_ex,ex]]ex::
 
 Del interiore al exteriore de; materie; extration (in ti sense anc li
 prepositiones «<<preposition_de>>» e «<<preposition_inter>>» es usabil).
@@ -2239,7 +2239,8 @@ lampe e sur li table un libre.
 [[preposition_inter,ínter]]ínter::
 
 In li medie de; in li intervalle (témpor) de; in li relationes de; partition;
-reciprocitá.
+reciprocitá; extration (in ti sense anc li prepositiones
+«<<preposition_de>>» e «<<preposition_ex>>» es usabil).
 +
 ====
 Ili esset li sol tranquil scoleros ínter mult bruiosi. Ínter

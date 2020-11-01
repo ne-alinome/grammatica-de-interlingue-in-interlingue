@@ -3,7 +3,7 @@
 :revdate: 2020-11-01
 :toc:
 :toc-levels: 2
-:toc-title: Contents/Contenete/Enhavo
+:toc-title:
 
 // This file is part of the project
 // _Grammatica de Interlingue_

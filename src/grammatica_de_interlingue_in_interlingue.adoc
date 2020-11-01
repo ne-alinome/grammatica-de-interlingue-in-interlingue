@@ -1,6 +1,6 @@
 = Grammatica de Interlingue in Interlingue
 :author: Dr. Fritz Haas
-:revnumber: 0.1.0-pre.91+20201101
+:revnumber: 0.1.0-pre.92+20201101
 :version-label: Version de ti edition digital:
 :description: Grammatica del lingue auxiliar international Interlingue
 :lang: ie
@@ -24,7 +24,7 @@ endif::[]
 // This file is in Asciidoctor format
 // http://asciidoctor.org
 
-// Last modified 202011010245
+// Last modified 202011010247
 
 :dot: .
 
@@ -51,7 +51,7 @@ http://ne.alinome.net[ne.alinome.net] ye formates EPUB, PDF e altris.
 Principal changes in ti edition::
 - Corection de omni erras trovat.
 - Mettion de omni ínobligatori accentus.
-- Amelioration del claritá e leibilitá, p. ex. tabelles, listes, acurtationes…
+- Amelioration del claritá e leibilitá, p.ex. tabelles, listes, acurtationes…
 - Completion del descrition del prepositiones.
 - Creation de intern ligamentes.
 
@@ -1119,7 +1119,7 @@ li autor ne includet les in li exemples. Note del editor digital.]
 li unité, pare, triene, quarene, quinene, decene, deciduene, centene.
 ====
 
-[[par63,§63]]§63. *Altri numeral expressiones* es p. ex.:
+[[par63,§63]]§63. *Altri numeral expressiones* es p.ex.:
 
 ====
 chascun triesim vez, tri e tri, quar e quar. Li soldates marcha quar e
@@ -1284,7 +1284,7 @@ per adjunter *-nt* al tema presentic:
 ====
 
 Li verbes con *-i* prende *-ent* vice *-nt* por retrovar li derivates
-international, p. ex. «convenientie», «provenientie».
+international, p.ex. «convenientie», «provenientie».
 
 Li *adverbial form* es usat quam *gerundie* (= «durant que» o «per to
 que»)
@@ -1354,7 +1354,7 @@ li *hortative* per *lass*:
 
 Ti maniere formar li passive es comun al maxim mult lingues national. Ma
 quelcvez it es necessi distincter, ca un action dura ancor o es ja
-finit. In ti casus on usa altri verbes, p. ex.:
+finit. In ti casus on usa altri verbes, p.ex.:
 
 ====
 - Li dom ea constructet. Li dom sta constructet.
@@ -1372,7 +1372,7 @@ form reflexiv:
 ====
 
 [[par78,§78]]§78. *Vice li subjuntive* on usa in general li indicative. Solmen in
-rar casus exceptional (p. ex. in juristic documentes) on posse usar un
+rar casus exceptional (p.ex. in juristic documentes) on posse usar un
 form subjuntivic per adjunter *-ye* al presente del verb o del verb
 auxiliari:
 
@@ -2002,7 +2002,7 @@ sovente on posse usar li prepositiones *a, de* e *in*, queles have pluri
 significationes.
 
 [[par101,§101]]§101. Multvez li relation es clar anc *sin preposition*. Li *verbes* es
-p. ex. usat maxim possibil sin preposition, con ínmediatmen sequent
+p.ex. usat maxim possibil sin preposition, con ínmediatmen sequent
 object, si li relation es clar; ma li usation de un sensconform
 preposition es sempre permisset.
 
@@ -2518,7 +2518,7 @@ Hm! Hum! Fi!
 ====
 
 Anc paroles de altri grammatical categories posse esser usat quam
-interjectiones. P. ex.
+interjectiones. P.ex.:
 
 ====
 Bon! Ad-avan! Retro! For! A-bass! Ad-up! Halt! Auxilie! Adío! Silentie!
@@ -2610,7 +2610,7 @@ Yo videt necos. Yo ne videt necos. Yo videt ne necos, ma solmen tre poc.
 
 [[par114,§114]]§114. Anc in li *frases relativ* on usa li *sam órdine* del frase-partes
 e li indicative quam in li frases principal. Li subjuntive es usat
-solmen in rar casus u li distinction es important, p. ex. in juristic
+solmen in rar casus u li distinction es important, p.ex. in juristic
 documentes; in cert casus on posse anc usar li optative.
 
 ====
@@ -2910,7 +2910,7 @@ alquel desinenties facultativ.
 On posse adjunter pluri sufixes in li sam parol.
 
 [[par132,§132]]§132. In mult international parolformationes existe un *contraction* de
-du simil succedent sones o songruppes a un sol. P. ex.:
+du simil succedent sones o songruppes a un sol. P.ex.:
 
 ====
 minera(lo)logie, popular(i)isar, pacif(ic)isme,
@@ -3022,7 +3022,7 @@ librist, telegrafista*.
 
 -or:: Cp. <<par136>>.
 
--aria, -ario:: Person caracterisat per alquó external, p. ex. un function:
+-aria, -ario:: Person caracterisat per alquó external, p.ex. un function:
 *millionario, functionaria, bibliotecario, pensionaria*.
 
 -on:: Person caracterisat per un intern o natural qualitá: *dormon,
@@ -3189,7 +3189,7 @@ socialisme*.
 
 [[par142,§142]]§142. Ultra li indicat *productiv afixes* existe quelc
 *ínproductiv afixes*, queles ne forma nov paroles, ma explica existent
-paroles international. P. ex.: *-ic, -id,
+paroles international. P.ex.: *-ic, -id,
 -ore*{blank}footnote:[<<sufix_ic,«-ic»>> e <<sufix_ore,«-ore»>> es anc productiv
 afixes. In li edition original, «-ic» esset mentionat solmen in
 <<par140>>. Note del editor digital.].

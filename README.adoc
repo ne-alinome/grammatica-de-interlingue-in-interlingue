@@ -17,7 +17,7 @@
 // About this project {{{2
 === About this project
 
-Goal:: Make a e-book (in EPUB and other formats) of _Grammatica de Interlingue
+Goal:: Make an e-book (in EPUB and other formats) of _Grammatica de Interlingue
 in Interlingue_ by Dr. F. Haas, published by Interlingue-Servicie, Winterthur
 (Switzerland), 1956.
 

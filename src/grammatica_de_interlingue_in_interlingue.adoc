@@ -1,6 +1,6 @@
 = Grammatica de Interlingue in Interlingue
 :author: Dr. Fritz Haas
-:revnumber: 0.1.0-pre.97+20201101
+:revnumber: 0.1.0-pre.98+20201101
 :version-label: Version de ti edition digital:
 :description: Grammatica del lingue auxiliar international Interlingue
 :lang: ie
@@ -24,7 +24,7 @@ endif::[]
 // This file is in Asciidoctor format
 // http://asciidoctor.org
 
-// Last modified 202011011556
+// Last modified 202011011602
 
 :dot: .
 
@@ -221,6 +221,22 @@ cludet, «è»: curt e apert.
 
 [[par5,§5]]§5. *Li consonantes* es pronunciat quam seque:
 
+// XXX FIXED -- "curt Interlingue: u" -> curt u in Interlingue"
+//
+// XXX FIXED -- "quam Interlingue" -> "quam in Interlingue"
+//
+// XXX Prim version scrit por li pednote pri «r», solmen pri hispan:
+//
+// In hispan li líttere «r» posse representar du fonemes: /ɾ/ (in comense o
+// final de síllabe medial) o /r/ (in comense de parol, o pos «s» o «n»). Adplu
+// in hispan li digramma «rr» es usat por representar li foneme /r/ ínter
+// vocales. In Interlingue li líttere «r» representa li foneme /ɾ/.
+//
+// XXX FIXED -- Moved "altesse" from «s» to «ss».
+//
+// XXX FIXED -- In «y consonantic»: "antey" remplazzat per "anteyan, nam ti "y"
+// de "antey" ne es consonantic.
+
 b, d, f, l, m, n, p:: Quam in anglesi, francesi, hispan («b» in _boca_), german o italian.
 +
 ====
@@ -269,8 +285,6 @@ h:: Sempre aspirat quam anglesi o german.
 hom, adherer.
 ====
 
-// XXX FIXED -- "quam Interlingue" -> "quam in Interlingue"
-
 j:: Quam francesi; quam anglesi _vision_; quam german dulci «sch», quam _Journal_; dunc quam in
 Interlingue «g» avan «e».
 +
@@ -310,20 +324,11 @@ Occidental_. Note del editor digital.]
 radie, merce.
 ====
 
-// XXX Prim version scrit por li supra pednote, solmen pri hispan:
-//
-// In hispan li líttere «r» posse representar du fonemes: /ɾ/ (in comense
-// o final de síllabe medial) o /r/ (in comense de parol, o pos «s» o «n»). Adplu
-// in hispan li digramma «rr» es usat por representar li foneme /r/ ínter vocales.
-// In Interlingue li líttere «r» representa li foneme /ɾ/.
-
 rh:: Quam «r» (in grec paroles).
 +
 ====
 rheumatisme.
 ====
-
-// XXX FIXED -- Moved "altesse".
 
 s:: Sonori ínter vocales, dur in omni altri casus.
 +
@@ -365,9 +370,7 @@ son a ti de «b». Note del editor digital]; quam german «w».
 venir, dever, nive.
 ====
 
-// XXX FIXED -- "curt Interlingue: u" -> curt u in Interlingue"
-
-w:: Rar, quam anglesi; curt «u» in Interlingue.
+w:: Rar; quam anglesi; curt «u» in Interlingue.
 +
 ====
 west.
@@ -378,9 +381,6 @@ x:: Dur o dulci, quam anglesi, francesi o german; quam hispan _examinar_.
 ====
 examinar, extra.
 ====
-
-// XXX FIXED -- "antey" remplazzat per "anteyan, nam ti "y" de "antey"
-// ne es consonantic:
 
 [[y_consonantic]]y consonantic:: Quam anglesi; quam francesi _yeux_; quam
 german «j»; quam hispan «hi» in _hielo_{blank}footnote:[Li edition original

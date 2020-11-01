@@ -1,6 +1,6 @@
 = Grammatica de Interlingue in Interlingue
 :author: Dr. Fritz Haas
-:revnumber: 0.1.0-pre.90+20201101
+:revnumber: 0.1.0-pre.91+20201101
 :version-label: Version de ti edition digital:
 :description: Grammatica del lingue auxiliar international Interlingue
 :lang: ie
@@ -24,7 +24,7 @@ endif::[]
 // This file is in Asciidoctor format
 // http://asciidoctor.org
 
-// Last modified 202011010211
+// Last modified 202011010245
 
 :dot: .
 
@@ -557,36 +557,42 @@ politesse, de «vu, vos, vor», si on desira distincter to.
 Paul, London, Pacifico, Anglia, Danubio, li Senior, su Majestie.
 ====
 
-[[par14,§14]]§14. Li *acurtationes* maxim frequent es:
-
-// XXX FIXED -- "pm" -> "pm."
+[[par14,§14]]§14. Li *acurtationes* maxim frequent es{blank}footnote:[In ti
+edition li liste original ha esset alongat e su descritiones ameliorat per li
+liste includet in li 13-esim parte del cursu _Complet grammatica de Occidental_
+de Karl Janotta, publicat in Cosmoglotta A 95 (1934-04). Adplu li liste ha
+esset ordinat alfabeticmen. Li nov acurtationes includet es «a.C.», «cp.» e
+«p.C.». Note del editor digital.]:
 
 [width=100%]
 |===
-| a. c.         | annu current
-| a. p.         | annu passat
-| am.           | ante midí
-| cf.           | confronta
-| conc.         | concernent
-| dr. o Dr.     | doctor
-| etc.          | etcétera
-| h.            | hora(s)
-| i. e.         | it es
-| m. c.         | mensu current
-| m. p.         | mensu passat
-| nró.          | numeró
-| p. ex.        | por exemple
-| pg.           | págine
-| pl.           | ples
-| pl. t.        | ples tornar
-| pm.           | pos midí
-| PS.           | pos-scripte
-| resp.         | respectivmen
-| sq.           | e sequentes
-| sr. o Sr.     | senior
-| sra. o Sra.   | seniora
-| srta. o Srta. | senioretta
-| v.            | vide
+| a.C.         | ante Christo
+| a.c.         | (del) annu current
+| a.p.         | (del) annu passat
+| am.          | ante midí (=premidí)
+| cf.          | (ples) confronta(r)
+| cp.          | (ples) compara(r)
+| conc.        | concernent
+| dr., Dr.     | doctor
+| etc.         | etcétera (=e céteri)
+| h.           | hora(s)
+| i.e.         | it es
+| m.c.         | (del) mensu current
+| m.p.         | (del) mensu passat
+| nró.         | numeró
+| p.C.         | pos Cristo
+| p.ex.        | por exemple
+| pg.          | págine
+| pl.          | ples
+| pl.t.        | ples tornar
+| pm.          | pos midí
+| PS.          | pos-scripte
+| resp.        | respectivmen
+| sq.          | e sequentes
+| sr., Sr.     | senior
+| sra., Sra.   | seniora
+| srta., Srta. | senioretta
+| v.           | (ples) vide(r)
 |===
 
 // Articul {{{1

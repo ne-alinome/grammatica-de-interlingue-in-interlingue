@@ -1,6 +1,6 @@
 = Grammatica de Interlingue in Interlingue
 :author: Dr. Fritz Haas
-:revnumber: 0.1.0-pre.89+20201101
+:revnumber: 0.1.0-pre.90+20201101
 :version-label: Version de ti edition digital:
 :description: Grammatica del lingue auxiliar international Interlingue
 :lang: ie
@@ -24,7 +24,7 @@ endif::[]
 // This file is in Asciidoctor format
 // http://asciidoctor.org
 
-// Last modified 202011010202
+// Last modified 202011010211
 
 :dot: .
 
@@ -563,30 +563,30 @@ Paul, London, Pacifico, Anglia, Danubio, li Senior, su Majestie.
 
 [width=100%]
 |===
-| sr. o Sr.     | senior
-| resp.         | respectivmen
-| sra. o Sra.   | seniora
-| p. ex.        | por exemple
-| srta. o Srta. | senioretta
-| i. e.         | it es
-| dr. o Dr.     | doctor
-| pl.           | ples
-| etc.          | etcétera
-| pl. t.        | ples tornar
-| PS.           | pos-scripte
-| h.            | hora(s)
-| v.            | vide
-| am.           | ante midí
-| pg.           | págine
-| pm.           | pos midí
-| cf.           | confronta
 | a. c.         | annu current
-| sq.           | e sequentes
-| m. c.         | mensu current
-| nró.          | numeró
 | a. p.         | annu passat
+| am.           | ante midí
+| cf.           | confronta
 | conc.         | concernent
+| dr. o Dr.     | doctor
+| etc.          | etcétera
+| h.            | hora(s)
+| i. e.         | it es
+| m. c.         | mensu current
 | m. p.         | mensu passat
+| nró.          | numeró
+| p. ex.        | por exemple
+| pg.           | págine
+| pl.           | ples
+| pl. t.        | ples tornar
+| pm.           | pos midí
+| PS.           | pos-scripte
+| resp.         | respectivmen
+| sq.           | e sequentes
+| sr. o Sr.     | senior
+| sra. o Sra.   | seniora
+| srta. o Srta. | senioretta
+| v.            | vide
 |===
 
 // Articul {{{1

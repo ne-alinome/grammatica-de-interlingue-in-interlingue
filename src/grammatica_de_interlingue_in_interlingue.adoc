@@ -1,6 +1,6 @@
 = Grammatica de Interlingue in Interlingue
 :author: Dr. Fritz Haas
-:revnumber: 0.1.0-pre.94+20201101
+:revnumber: 0.1.0-pre.95+20201101
 :version-label: Version de ti edition digital:
 :description: Grammatica del lingue auxiliar international Interlingue
 :lang: ie
@@ -24,7 +24,7 @@ endif::[]
 // This file is in Asciidoctor format
 // http://asciidoctor.org
 
-// Last modified 202011011541
+// Last modified 202011011545
 
 :dot: .
 
@@ -3036,7 +3036,7 @@ savagion, spiona, pedon*.
 -astr:: Persones de valore inferiori: *medicastro, poetastra*.
 
 [[sufix_es,-es]]-es:: Habitante (anc adjectivic): *francese, franceso, francesa,
-francesi, borgeso*. Cp. <<sufix_an,«-an»>>.
+francesi, borgeso*. Cp. «<<sufix_an,-an>>».
 
 -essa:: Féminas con special dignitá o function: *princessa, diaconessa,
 actressa, imperatressa*.
@@ -3130,7 +3130,7 @@ Per *-ica* on indica scienties o artes, per *-ico* lor executores:
 politico*.
 
 [[sufix_an,-an]]-an:: Apartenent a: *american (americano, americana, americanes),
-homan*. Cp. <<sufix_es,«-es»>>.
+homan*. Cp. «<<sufix_es,-es>>».
 
 -at (pos substantives):: Providet per: *barbat, foliat, talentat
 (talentate)*.
@@ -3194,7 +3194,7 @@ socialisme*.
 [[par142,§142]]§142. Ultra li indicat *productiv afixes* existe quelc
 *ínproductiv afixes*, queles ne forma nov paroles, ma explica existent
 paroles international. P.ex.: *-ic, -id,
--ore*{blank}footnote:[<<sufix_ic,«-ic»>> e <<sufix_ore,«-ore»>> es anc productiv
+-ore*{blank}footnote:[«<<sufix_ic,-ic>>» e «<<sufix_ore,-ore>>» es anc productiv
 afixes. In li edition original, «-ic» esset mentionat solmen in
 <<par140>>. Note del editor digital.].
 

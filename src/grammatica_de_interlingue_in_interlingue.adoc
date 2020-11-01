@@ -1,6 +1,6 @@
 = Grammatica de Interlingue in Interlingue
 :author: Dr. Fritz Haas
-:revnumber: 0.1.0-pre.85+20201101
+:revnumber: 0.1.0-pre.86+20201101
 :version-label: Version de ti edition digital:
 :description: Grammatica del lingue auxiliar international Interlingue
 :lang: ie
@@ -24,7 +24,7 @@ endif::[]
 // This file is in Asciidoctor format
 // http://asciidoctor.org
 
-// Last modified 202011010132
+// Last modified 202011010137
 
 :dot: .
 
@@ -52,6 +52,7 @@ Principal changes in ti edition::
 - Corection de omni erras trovat.
 - Mettion de omni ínobligatori accentus.
 - Amelioration del claritá e leibilitá, p. ex. tabelles, listes, acurtationes…
+- Completion del descrition del prepositiones.
 - Creation de intern ligamentes.
 
 Programmas (omnis líber) usat por ti librification digital::

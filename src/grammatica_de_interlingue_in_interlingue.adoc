@@ -1,6 +1,6 @@
 = Grammatica de Interlingue in Interlingue
 :author: Dr. Fritz Haas
-:revnumber: 0.1.0-pre.87+20201101
+:revnumber: 0.1.0-pre.88+20201101
 :version-label: Version de ti edition digital:
 :description: Grammatica del lingue auxiliar international Interlingue
 :lang: ie
@@ -24,7 +24,7 @@ endif::[]
 // This file is in Asciidoctor format
 // http://asciidoctor.org
 
-// Last modified 202011010146
+// Last modified 202011010159
 
 :dot: .
 
@@ -440,7 +440,7 @@ pronunciat «ik». Note del editor digital.], im, ul*. Un
 simplic *s* e li du síllabes *men* e *um* in li fine del parol ne
 changea li accentuation del precedent parol-parte{blank}footnote:[Li
 autor parola ne pri qualcunc parol-fine, ma pri li terminationes «-s»
-del plural, «-men» del adverbies e li sufixe «-um». Note del editor digital.].
+del plural, «-men» del adverbies e li sufix «-um». Note del editor digital.].
 Si ti regules ne es aplicabil, on accentua li prim vocal del parol.
 
 Si li natural accentuation ne seque ti regul, it es marcat per un
@@ -1393,8 +1393,8 @@ conosset per adjunter international finales a international radicas.
 
 // XXX FIXED -- Notation de sufixes:
 
-[[par80,§80]]§80. Li sufixes: *<<sufixe_ion>>, <<sufixe_or>>, <<sufixe_ori>>,
-<<sufixe_iv>>, <<sufixe_ura>>* ne es adjuntet al tema verbal o al tema presentic,
+[[par80,§80]]§80. Li sufixes: *<<sufix_ion>>, <<sufix_or>>, <<sufix_ori>>,
+<<sufix_iv>>, <<sufix_ura>>* ne es adjuntet al tema verbal o al tema presentic,
 ma al *tema perfectic*.
 
 Ti unesim gruppe de finales es adjuntet a verbes expressent un action o
@@ -1421,8 +1421,8 @@ in omni altri casus li rest self es li tema perfectic.
 
 // XXX FIXED -- "ye li verbes" -> "e che li verbes":
 
-On posse anc dir, que li sufixes: *<<sufixe_ion>>, <<sufixe_or>>, <<sufixe_ori>>,
-<<sufixe_iv>>* e *<<sufixe_ura>>* es adjuntet che li verbes con *ar* e *ir* al
+On posse anc dir, que li sufixes: *<<sufix_ion>>, <<sufix_or>>, <<sufix_ori>>,
+<<sufix_iv>>* e *<<sufix_ura>>* es adjuntet che li verbes con *ar* e *ir* al
 participie passat, e che li verbes con *er* al radica, intercalante *t* pos
 vocal final e mutante un final *d* o *r* a *s*.
 
@@ -1769,11 +1769,11 @@ expressent un statu, al talnominat *verbes static*.
 Quam in li participie presentic on intercala *e* pos *i* del verbes in
 *ir*. Ti finale es solmen un combination del finale del participie
 presentic
-*-nt* con li sufix *<<sufixe_ie>>*.
+*-nt* con li sufix *<<sufix_ie>>*.
 
 // XXX FIXED -- "presen-tic" -> "presentic":
 
-[[par83,§83]]§83. In analog maniere adjunte se li sufix *<<sufixe_nd>>* al tema
+[[par83,§83]]§83. In analog maniere adjunte se li sufix *<<sufix_nd>>* al tema
 presentic:
 
 [width=100%]
@@ -1786,7 +1786,7 @@ presentic:
 // XXX FIXED -- «Li sufix *-ment* anc es adjuntet al tema presentic»
 // -> «Anc li sufix *-ment* es adjuntet al tema presentic»:
 
-[[par84,§84]]§84. Anc li sufix *<<sufixe_ment>>* es adjuntet al tema presentic:
+[[par84,§84]]§84. Anc li sufix *<<sufix_ment>>* es adjuntet al tema presentic:
 
 [width=100%]
 |===
@@ -1804,8 +1804,8 @@ Si li radica de un verb con *er* fini per vocal, li *e* desapari:
 |===
 
 [[par85,§85]]§85. Du sufixes adjunte se al radica verbal in du formes diferent
-secun li vocal caracteristic: *<<sufixe_bil,-abil>>, <<sufixe_da,-ada>>* ye *a*
-respectivmen *<<sufixe_bil,-ibil>>, <<sufixe_da,-ida>>* ye *i* o *e*:
+secun li vocal caracteristic: *<<sufix_bil,-abil>>, <<sufix_da,-ada>>* ye *a*
+respectivmen *<<sufix_bil,-ibil>>, <<sufix_da,-ida>>* ye *i* o *e*:
 
 [width=100%]
 |===
@@ -2974,34 +2974,34 @@ pacificar*. forma anc adjectives: *pacific, magnific, specific*.
 . adjuntet al *tema perfectic* secun <<par80>>:
 +
 --
-[[sufixe_ion,-ion]]-ion:: Action, anc resultat e loc de it: *administration, expedition,
+[[sufix_ion,-ion]]-ion:: Action, anc resultat e loc de it: *administration, expedition,
 construction, distribution, explosion*.
 
-[[sufixe_or,-or]]-or:: Actent person, cose o factor: *administrator, expeditor,
+[[sufix_or,-or]]-or:: Actent person, cose o factor: *administrator, expeditor,
 distributor, constructor, ventilator, compressor, divisor*.
 
-[[sufixe_ura,-ura]]-ura:: Concretisat action e su resultate: *reparatura, garnitura,
+[[sufix_ura,-ura]]-ura:: Concretisat action e su resultate: *reparatura, garnitura,
 lectura, creatura*.
 --
 
 . adjuntet al *tema presentic* secun <<par84>>:
 +
 --
-[[sufixe_ment,-ment]]-ment:: Concret action o su resultate, o servient a, servient quam:
+[[sufix_ment,-ment]]-ment:: Concret action o su resultate, o servient a, servient quam:
 *fundament, nutriment, movement*.
 --
 
 . adjuntet al *radica verbal* secun <<par85>>:
 +
 --
-[[sufixe_da,-da]]-ida (verbes in *-ar*: *-ada*):: Action in durada: *promenada, perdida,
+[[sufix_da,-da]]-ida (verbes in *-ar*: *-ada*):: Action in durada: *promenada, perdida,
 currida*.
 --
 
 . adjuntet al *participie presentic* secun <<par82>>:
 +
 --
-[[sufixe_ie,-ie]]-ie:: Statu in durada: *tolerantie, provenientie, existentie*.
+[[sufix_ie,-ie]]-ie:: Statu in durada: *tolerantie, provenientie, existentie*.
 --
 
 // Personal sufixes {{{3
@@ -3009,7 +3009,7 @@ currida*.
 
 [[par137,§137]]§137.
 
-[[sufixe_er,-er]]-er:: Person professional: *molinero, lavera, librero, vitrero*.
+[[sufix_er,-er]]-er:: Person professional: *molinero, lavera, librero, vitrero*.
 
 -ist:: Person ocupant se pri, adherente de: *calvinist, socialist,
 librist, telegrafista*.
@@ -3026,8 +3026,8 @@ savagion, spiona, pedon*.
 
 -astr:: Persones de valore inferiori: *medicastro, poetastra*.
 
-[[sufixe_es,-es]]-es:: Habitante (anc adjectivic): *francese, franceso, francesa,
-francesi, borgeso*. Cp. <<sufixe_an,«-an»>>.
+[[sufix_es,-es]]-es:: Habitante (anc adjectivic): *francese, franceso, francesa,
+francesi, borgeso*. Cp. <<sufix_an,«-an»>>.
 
 -essa:: Féminas con special dignitá o function: *princessa, diaconessa,
 actressa, imperatressa*.
@@ -3039,13 +3039,13 @@ actressa, imperatressa*.
 
 [[par138,§138]]§138.
 
-[[sufixe_ie,-ie]]-ie:: Abstract substantives, statu (cp. <<par82>>, <<par136>>):
+[[sufix_ie,-ie]]-ie:: Abstract substantives, statu (cp. <<par82>>, <<par136>>):
 *anatomie, maladie, elegantie, existentie, furie, tirannie*.
 
 -itá (*-etá*, si li radica fini per *i*):: Qualitá: *homanitá, yunitá,
 quantitá, proprietá, ebrietá*.
 
-[[sufixe_ore,-ore]]-ore:: De verbes: statu; de adjectives: qualitá mesurabil: *amore,
+[[sufix_ore,-ore]]-ore:: De verbes: statu; de adjectives: qualitá mesurabil: *amore,
 terrore, calore, longore, grandore*.
 
 -esse:: Pregnant qualitá o statu: *altesse, grandesse, finesse,
@@ -3056,12 +3056,12 @@ yunesse, delicatesse*.
 
 [[par139,§139]]§139.
 
-[[sufixe_ia,-ia]]-ia:: Loc, land: *dormitoria, Germania, dominia, abatia*.
+[[sufix_ia,-ia]]-ia:: Loc, land: *dormitoria, Germania, dominia, abatia*.
 
--eríe:: Profession e su productes (*<<sufixe_er>>* + *<<sufixe_ie>>*), metaforicmen
+-eríe:: Profession e su productes (*<<sufix_er>>* + *<<sufix_ie>>*), metaforicmen
 anc maniere de acter, caractere: *vitreríe, potteríe, bigotteríe, diaboleríe*.
 
--ería:: Loc de profession (*<<sufixe_er>>* + *<<sufixe_ia>>*): *librería,
+-ería:: Loc de profession (*<<sufix_er>>* + *<<sufix_ia>>*): *librería,
 juvelería, vitrería*.
 
 -iera:: Vast loc contenent alquo: *torfiera, pisciera, rosiera*.
@@ -3106,10 +3106,10 @@ indicat in parenteses.)
 -al:: General adjectivic relation: *musical, cordial, central
 (centrale), ideal (ideale)*.
 
-[[sufixe_ic,-ic]]-ic:: Essent tal: *metallic, fantastic,
+[[sufix_ic,-ic]]-ic:: Essent tal: *metallic, fantastic,
 scientic*.footnote:[In li edition original, anc «fanatic (fanatico)»
 esset ínter li exemples, ma it ha esset movet al section <<par142>>,
-nam in ti radica li sufixe «ic» es ínproductiv. Note del editor digital.]
+nam in ti radica li sufix «ic» es ínproductiv. Note del editor digital.]
 +
 Grec substantives finient per *-ma* intercala *-t-*, tales finient per
 *-se* (x = cs) muta li *s* in *t: problematic, dramatic, elipse,
@@ -3119,8 +3119,8 @@ Per *-ica* on indica scienties o artes, per *-ico* lor executores:
 *fisic, fisica, fisico, aviatica, aviatico, politic, politica,
 politico*.
 
-[[sufixe_an,-an]]-an:: Apartenent a: *american (americano, americana, americanes),
-homan*. Cp. <<sufixe_es,«-es»>>.
+[[sufix_an,-an]]-an:: Apartenent a: *american (americano, americana, americanes),
+homan*. Cp. <<sufix_es,«-es»>>.
 
 -at (pos substantives):: Providet per: *barbat, foliat, talentat
 (talentate)*.
@@ -3141,22 +3141,22 @@ homan*. Cp. <<sufixe_es,«-es»>>.
 -in:: Consistent de, provenient de: *argentin, alpin, matrin, svinin
 (svinine)*.
 
-[[sufixe_iv,-iv]]-iv::
+[[sufix_iv,-iv]]-iv::
 Adjuntet al tema perfectic secun <<par80>>. Actent talmen, capabil:
 *decorativ, obligativ, consolativ, definitiv, constructiv, ofensiv
 (ofensive), directiv (directive), alternativ (alternative)*.
 
-[[sufixe_ori,-ori]]-ori::
+[[sufix_ori,-ori]]-ori::
 Adjuntet al tema perfectic secun <<par80>>. Destinat a, devent
-acter talmen (adjective de *<<sufixe_or>>*): *decoratori, obligatori, consolatori,
+acter talmen (adjective de *<<sufix_or>>*): *decoratori, obligatori, consolatori,
 ilusori, preparatori, instructori*.
 
-[[sufixe_bil,-bil]]-ibil::
+[[sufix_bil,-bil]]-ibil::
 Verbes in *-ar*: *-abil*, cp. <<par85>>. De verbes transitiv: quo on
 posse far; de verbes íntransitiv: quo posse far: *formabil, audibil,
 íncredibil, visibil, explosibil, combustibil (combustibile)*.
 
-[[sufixe_nd,-nd]]-nd::
+[[sufix_nd,-nd]]-nd::
 Verbes in *-ir*: *-end*. Adjuntet al tema presentic. A far: *leend,
 dividend (dividende)*.
 
@@ -3179,12 +3179,12 @@ socialisme*.
 
 -oid:: Simil: *negroid (negroide), elipsoid*.
 
-// XXX FIXED -- Pednote: «-ore» es *anc* un productiv sufixe:
+// XXX FIXED -- Pednote: «-ore» es *anc* un productiv sufix:
 
 [[par142,§142]]§142. Ultra li indicat *productiv afixes* existe quelc
 *ínproductiv afixes*, queles ne forma nov paroles, ma explica existent
 paroles international. P. ex.: *-ic, -id,
--ore*{blank}footnote:[<<sufixe_ic,«-ic»>> e <<sufixe_ore,«-ore»>> es anc productiv
+-ore*{blank}footnote:[<<sufix_ic,«-ic»>> e <<sufix_ore,«-ore»>> es anc productiv
 afixes. In li edition original, «-ic» esset mentionat solmen in
 <<par140>>. Note del editor digital.].
 

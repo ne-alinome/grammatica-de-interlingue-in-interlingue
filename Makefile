@@ -3,7 +3,7 @@
 # By Marcos Cruz (programandala.net)
 # http://ne.alinome.net
 
-# Last modified 202011012052
+# Last modified 202011031901
 # See change log at the end of the file
 
 # ==============================================================
@@ -23,12 +23,6 @@
 
 # ebook-convert
 #   manual.calibre-ebook.com/generated/en/ebook-convert.html
-
-# ImageMagick (by ImageMagick Studio LCC)
-#   http://imagemagick.org
-
-# img2pdf (by Johannes 'josch' Schauer)
-#   https://gitlab.mister-muffin.de/josch/img2pdf
 
 # Pandoc (by John MaFarlane)
 #   http://pandoc.org
@@ -299,3 +293,5 @@ include Makefile.cover_image
 # 2020-11-01: Update the interface rules to build all formats and only the
 # recommended ones. Add the CSS files as prerequisites of the Asciidoctor EPUB3
 # target.
+#
+# 2020-11-03: Update the requirements.

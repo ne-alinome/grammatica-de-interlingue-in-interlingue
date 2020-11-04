@@ -9,7 +9,7 @@
 
 # By Marcos Cruz (programandala.net)
 
-# Last modified 202011031900
+# Last modified 202011041859
 # See change log at the end of the file
 
 # ==============================================================
@@ -28,6 +28,7 @@
 # Create the canvas and texts of the cover image {{{2
 
 font=Helvetica
+publisher_font=Helvetica
 background=yellow
 fill=black
 strokewidth=4
@@ -59,7 +60,7 @@ tmp/$(cover).publisher.png:
 	convert \
 		-background transparent \
 		-fill $(fill) \
-		-font $(font) \
+		-font $(publisher_font) \
 		-pointsize 24 \
 		-gravity east \
 		-size 128x \
@@ -141,3 +142,6 @@ tmp/$(cover).pdf: target/$(cover).jpg
 # projects, in order to share it and make updates easier.
 #
 # 2020-11-03: Document the requirements.
+#
+# 2020-11-04: Add a variable for the publisher font. This makes the code easier
+# to reuse in other projects.

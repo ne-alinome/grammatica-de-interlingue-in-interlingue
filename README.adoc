@@ -1,6 +1,6 @@
 = Grammatica de Interlingue in Interlingue
 :author: Marcos Cruz (programandala.net)
-:revdate: 2020-11-01
+:revdate: 2020-11-04
 :toc:
 :toc-levels: 2
 :toc-title:
@@ -174,8 +174,8 @@ In prim, ples confirmar que li programas listat in li section
 "Requirements" (besones) del document <Makefile> es installat in vor
 sistema.
 
-Tande ples intrar li documentiere del projecte e comandar `make` 
-secun lu sequent:
+Tande ples intrar in li documentiere del projecte e comandar `make` secun lu
+sequent:
 
 |===
 | Comande             | Efecte
@@ -191,8 +191,8 @@ secun lu sequent:
 | make epubx          | Converter in EPUB per xsltproc (equivalent a dbtoepub)
 | make odt            | Converter in OpenDocument (sin covriment; li ligamentes ne functiona)
 | make pdf            | Converter in PDF (ambi grandores)
-| make pdfa4          | Converter in *PDF con grandore DIN A4 (recomandat)*
-| make pdfl           | Converter in PDF con grandore «letter»
+| make pdfa4          | Converter in *PDF de grandore DIN A4 (recomandat)*
+| make pdfl           | Converter in PDF de grandore «letter»
 |===
 
 Li documentes es creat in li documentiere <target> (scope).

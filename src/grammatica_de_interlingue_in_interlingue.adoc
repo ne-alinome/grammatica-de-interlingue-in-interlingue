@@ -1,6 +1,6 @@
 = Grammatica de Interlingue in Interlingue
 :author: Dr. Fritz Haas
-:revnumber: 0.1.0-pre.100+20201104
+:revnumber: 0.1.0-pre.101+20201105
 :version-label: Version de ti edition digital:
 :description: Grammatica del lingue auxiliar international Interlingue
 :lang: ie
@@ -24,7 +24,7 @@ endif::[]
 // This file is in Asciidoctor format
 // http://asciidoctor.org
 
-// Last modified 202011041911
+// Last modified 202011051838
 
 :dot: .
 
@@ -46,8 +46,9 @@ e http://interlingue.narod.ru[interlingue.narod.ru] (conversion de HTML a PDF
 obtenibil in http://ie-munde.com[ie-munde.com]).
 
 Conversion a Asciidoctor, revision, e edition quam libre digital::
-Marcos Cruz, 2019, 2020{dot} Obtenibil in
-http://ne.alinome.net[ne.alinome.net] ye formates EPUB, PDF e altris.
+Marcos Cruz, 2019, 2020{dot} Obtenibil in pluri formates in
+http://ne.alinome.net[ne.alinome.net] e su
+http://github.com/ne-alinome[repositoria in GitHub].
 
 Principal changes in ti edition::
 - Corection de omni erras trovat.

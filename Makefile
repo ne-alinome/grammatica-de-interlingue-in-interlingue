@@ -3,7 +3,7 @@
 # By Marcos Cruz (programandala.net)
 # http://ne.alinome.net
 
-# Last modified 202011031901
+# Last modified 202011051744
 # See change log at the end of the file
 
 # ==============================================================
@@ -246,6 +246,11 @@ target/%.epub.azw3: target/%.epub
 include Makefile.cover_image
 
 # ==============================================================
+# Build the release archives {{{1
+
+include Makefile.release
+
+# ==============================================================
 # Change log {{{1
 
 # 2019-02-05: Start.
@@ -295,3 +300,5 @@ include Makefile.cover_image
 # target.
 #
 # 2020-11-03: Update the requirements.
+#
+# 2020-11-05: Include <Makefile.release>.

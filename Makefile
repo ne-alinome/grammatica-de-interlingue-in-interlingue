@@ -3,7 +3,7 @@
 # By Marcos Cruz (programandala.net)
 # http://ne.alinome.net
 
-# Last modified 202011051744
+# Last modified 202011051825
 # See change log at the end of the file
 
 # ==============================================================
@@ -247,6 +247,8 @@ include Makefile.cover_image
 
 # ==============================================================
 # Build the release archives {{{1
+
+version_file=src/$(book).adoc
 
 include Makefile.release
 

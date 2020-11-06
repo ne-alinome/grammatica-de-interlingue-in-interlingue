@@ -1,6 +1,6 @@
 = Grammatica de Interlingue in Interlingue
 :author: Dr. Fritz Haas
-:revnumber: 0.1.0-pre.101+20201105
+:revnumber: 0.1.0-pre.102+20201106
 :version-label: Version de ti edition digital:
 :description: Grammatica del lingue auxiliar international Interlingue
 :lang: ie
@@ -24,7 +24,7 @@ endif::[]
 // This file is in Asciidoctor format
 // http://asciidoctor.org
 
-// Last modified 202011051838
+// Last modified 202011062033
 
 :dot: .
 
@@ -2021,7 +2021,7 @@ prepositiones. Ili esset adaptat ex li articul de Alphonse Matejka
 // XXX FIXED -- "to sín saver" -> "to sin saver"
 // XXX FIXED -- "rich genito res" -> rich genitores"
 // XXX FIXED -- "Multís vell prefer viver in li rure" ->
-// "Mult vell prefer viver in li rure" ->
+// "Multis vell prefer viver in li rure" ->
 // XXX FIXED -- "lacrimes" -> "lácrimes":
 // XXX FIXED -- "vení" --> "veni":
 // XXX FIXED -- "proxím" -> "proxim" (in li exemple)
@@ -2210,7 +2210,7 @@ in::
 Situation in relation con li loc, li témpor, li medie, li natura o li statu.
 +
 ====
-Mult persones vive in li cité. Mult vell preferer viver in li
+Mult persones vive in li cité. Multis vell preferer viver in li
 rure. In omni ocasion il eat al forest vice al scol, adminim decivez in
 min quam un annu.
 ====

@@ -1,6 +1,6 @@
 = TO-DO of _Grammatica de Interlingue in Interlingue_
 :author: Marcos Cruz (programandala.net)
-:revdate: 2020-11-01
+:revdate: 2020-11-07
 
 == Fix
 
@@ -20,9 +20,12 @@
   de" cannot be understood without examples. See them in the original
   list by Matejka.
 - Move the original "(*)" notes to footnotes?
+- Naming of the current edition: "ti edition (digital)" -> "ti-ci
+  edition".
 
 == Add
 
+- Add optional conversions to Markdown and HTML.
 - Add footnote about "yes"?
 - Add footnote about "-ye"?
 - Adjunter articul "Linguistic explorationes -- Pronunciation de «ch»"

@@ -1,6 +1,6 @@
 = TO-DO of _Grammatica de Interlingue in Interlingue_
 :author: Marcos Cruz (programandala.net)
-:revdate: 2020-11-07
+:revdate: 2020-11-09
 
 == Fix
 
@@ -25,6 +25,8 @@
 
 == Add
 
+- Add footnote to "quin verbes" about aditional exceptions with
+  derivates, e.g. "converter" -> "conversion".
 - Add optional conversions to Markdown and HTML.
 - Add footnote about "yes"?
 - Add footnote about "-ye"?

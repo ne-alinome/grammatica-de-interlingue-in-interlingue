@@ -3,7 +3,7 @@
 # By Marcos Cruz (programandala.net)
 # http://ne.alinome.net
 
-# Last modified 202011051825
+# Last modified 202011141425
 # See change log at the end of the file
 
 # ==============================================================
@@ -249,6 +249,8 @@ include Makefile.cover_image
 # Build the release archives {{{1
 
 version_file=src/$(book).adoc
+branch=$(book)
+prerequisites=*.adoc target/
 
 include Makefile.release
 
@@ -304,3 +306,5 @@ include Makefile.release
 # 2020-11-03: Update the requirements.
 #
 # 2020-11-05: Include <Makefile.release>.
+#
+# 2020-11-14: Update to the new vesion of <Makefile.release>.

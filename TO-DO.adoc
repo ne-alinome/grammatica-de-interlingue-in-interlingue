@@ -1,6 +1,6 @@
 = TO-DO of _Grammatica de Interlingue in Interlingue_
 :author: Marcos Cruz (programandala.net)
-:revdate: 2020-11-09
+:revdate: 2020-11-16
 
 == Fix
 
@@ -22,6 +22,7 @@
 - Move the original "(*)" notes to footnotes?
 - Naming of the current edition: "ti edition (digital)" -> "ti-ci
   edition".
+- Move footnote about «-ic» to the first «-ic».
 
 == Add
 

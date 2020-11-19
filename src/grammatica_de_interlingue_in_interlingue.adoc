@@ -24,9 +24,7 @@ endif::[]
 // This file is in Asciidoctor format
 // http://asciidoctor.org
 
-// Last modified 202011062033
-
-:dot: .
+// Last modified 202011070250
 
 [colophon]
 // Pri ti libre {{{1
@@ -46,7 +44,7 @@ e http://interlingue.narod.ru[interlingue.narod.ru] (conversion de HTML a PDF
 obtenibil in http://ie-munde.com[ie-munde.com]).
 
 Conversion a Asciidoctor, revision, e edition quam libre digital::
-Marcos Cruz, 2019, 2020{dot} Obtenibil in pluri formates in
+Marcos Cruz, 2019, 2020. Obtenibil in pluri formates in
 http://ne.alinome.net[ne.alinome.net] e su
 http://github.com/ne-alinome[repositoria in GitHub].
 
@@ -64,6 +62,7 @@ https://github.com/asciidoctor/asciidoctor-pdf[Asciidoctor PDF],
 http://docbook.sourceforge.net/release/xsl/current/epub/README[dbtoepub],
 http://manual.calibre-ebook.com/generated/en/ebook-convert.html[ebook-convert],
 http://imagemagick.org[ImageMagick],
+https://gitlab.mister-muffin.de/josch/img2pdf[img2pdf],
 http://pandoc.org[Pandoc],
 http://www.vim.org[Vim]…
 in li sistema computatoral http://debian.org[Debian].
@@ -2084,7 +2083,7 @@ apu li dolore mental.
 
 avan::
 
-Prioritá de loc (li preposition <<preposition_ante>> posse esser usat in li sam sense).
+Prioritá de loc (li preposition «<<preposition_ante>>» posse esser usat in li sam sense).
 +
 ====
 Li patre promenat avan li dom. Li patre promenat a avan
@@ -3322,6 +3321,8 @@ consonantes e síllabes. E anc li grammatica deve esser tam simplic quam
 possibil. It ne deve contener regules complicat, queles mem ne existe in
 li majorité del lingues national, quo pruva, que ti regules ne es
 necessi por li clar expression e comprension del pensas.
+
+// XXX TODO durant -> durante
 
 Ti defectes on conosset ja ante annus. Ma on credet esser obligat al
 adherentes e al editores del libres, e ne plu posset introducter li

@@ -1,6 +1,6 @@
 = Grammatica de Interlingue in Interlingue
 :author: Dr. Fritz Haas
-:revnumber: 0.1.0-pre.102+20201106
+:revnumber: 0.1.0-pre.103+20201120
 :version-label: Version de ti edition digital:
 :description: Grammatica del lingue auxiliar international Interlingue
 :lang: ie
@@ -24,7 +24,7 @@ endif::[]
 // This file is in Asciidoctor format
 // http://asciidoctor.org
 
-// Last modified 202011070250
+// Last modified 202011201817
 
 [colophon]
 // Pri ti libre {{{1
@@ -2011,7 +2011,8 @@ pro). Li sol exemples ne esset suficent por comprender li usation de quelc
 prepositiones. Por claritá, ti-ci edition include li significationes de omni
 prepositiones. Ili esset adaptat ex li articul de Alphonse Matejka
 «Signification del prepositiones (cardinal senses)», publicat in Cosmoglotta B
-81 (1946-05). Note del editor digital.]
+81 (1946-05). Por claritá li descritiones de «caus» e «pro» esset rescrit pos
+convenent consultationes. Note del editor digital.]
 
 // XXX FIXED -- "sedet intra li fable" -> "sedet infra li table"
 // XXX FIXED -- "ínfra" -> "infra"
@@ -2031,8 +2032,7 @@ prepositiones. Ili esset adaptat ex li articul de Alphonse Matejka
 
 a::
 
-Direction; distantie; relation; témpor; loc; scope;
-precie; obligation; destination.
+Dative; direction; scope; precie; témpor; loc
 +
 ====
 Il dat li flores a su amata. Yo dat un
@@ -2090,9 +2090,10 @@ Li patre promenat avan li dom. Li patre promenat a avan
 li dom. Li patre venit de avan li dom. Il incontrat le avan li dom.
 ====
 
-caus::
+[[preposition_caus,caus]]caus::
 
-In consideration de.
+Cause havant un ínevitabil efecte  (anc li preposition «<<preposition_por>>» es
+usabil con un sense tre simil, ma sin li nuancie de inevitabilitá del efecte).
 +
 ====
 Caus vor intervention yo arivat ante minocte avan mi dom.
@@ -2144,7 +2145,7 @@ contra combustibiles. Li aeroplan aviat contra li gratta-ciel.
 
 [[preposition_de,de]]de::
 
-Orígine; materie; separation; autor; provenientie; possession;
+Genitive; orígine; materie; separation; autor; provenientie; possession;
 extration (in ti sense anc li prepositiones
 «<<preposition_ex>>» e «<<preposition_inter>>» es usabil).
 +
@@ -2309,9 +2310,11 @@ Dominia, concernent, relatent.
 Noi parlat pri politica. Yo ha mult pensat pri vos.
 ====
 
-pro::
+[[preposition_pro,pro]]pro::
 
-Cause; productente un cert efecte (parlante del motive).
+Motive; explication; cause explicant (in ti sense anc li
+preposition «<<preposition_caus>>» es usabil, ma con un nuancie de
+inevitabilitá del efecte).
 +
 ====
 Ella plorat pro joya. Yo mersía pro vor auxilie.

@@ -435,12 +435,13 @@ champagne, cognac.
 == Accentuation
 
 [[par8,§8]]§8. *Li accentu primari* sta sur li vocal ante li ultim consonant,
-ma ne sur li quar síllabes *bil, ic, im, ul*, queles porta li accentu al
-precedent síllab, mem si ti-ci es *bil, ic{blank}footnote:[Solmen quande it es
-pronunciat «ik». Note del editor digital.], im, ul*. Un
+ma ne sur li quar síllabes *bil, ic{blank}footnote:[Solmen quande it es
+pronunciat «ik». Vide «Complet grammatica de Occidental» in Cosmoglotta series
+A, numeró 65, 1929-10. Note del editor digital.], im, ul*, queles porta li
+accentu al precedent Síllab, mem si ti-ci es *bil, ic, im, ul*. Un
 simplic *s* e li du síllabes *men* e *um* in li fine del parol ne
 changea li accentuation del precedent parol-parte{blank}footnote:[Li
-autor parola ne pri qualcunc parol-fine, ma pri li terminationes «-s»
+autor parla ne pri qualcunc parol-fine, ma pri li terminationes «-s»
 del plural, «-men» del adverbies e li sufix «-um». Note del editor digital.].
 Si ti regules ne es aplicabil, on accentua li prim vocal del parol.
 

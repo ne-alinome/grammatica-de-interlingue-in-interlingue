@@ -1,6 +1,6 @@
 = Grammatica de Interlingue in Interlingue
 :author: Marcos Cruz (programandala.net)
-:revdate: 2020-11-04
+:revdate: 2020-12-04
 :toc:
 :toc-levels: 2
 :toc-title:
@@ -24,6 +24,9 @@ in Interlingue_ by Dr. F. Haas, published by Interlingue-Servicie, Winterthur
 Author:: Marcos Cruz (programandala.net), 2019, 2020.
 
 Website:: http://ne.alinome.net.
+
+Note: On 2020-12-04 the Git repository was converted to
+http://fossil-scm.rog[Fossil]. GitHub is used only as a copy.
 
 // How to build the book {{{2
 === How to build the book
@@ -71,6 +74,9 @@ Aŭtoro:: Marcos Cruz (programandala.net), 2019, 2020.
 
 Retpaĝaro:: http://ne.alinome.net.
 
+Noto: Je 2020-12-04 la Git-deponejo estis konvertita al
+http://fossil-scm.org[Fossil]. GitHub estas uzata nur kiel kopio.
+
 // Kiel konstrui la libron {{{2
 === Kiel konstrui la libron
 
@@ -116,6 +122,10 @@ Interlingue-Servicie, Winterthur (Suiza), 1956.
 Autor:: Marcos Cruz (programandala.net), 2019, 2020.
 
 Sede web:: http://ne.alinome.net.
+
+Nota: En 2020-12-04 el repositorio Git fue convertido a
+http://fossil-scm.org[Fossil]. GitHub se usa solo
+como una copia.
 
 // Cómo construir el libro {{{2
 === Cómo construir el libro
@@ -163,6 +173,9 @@ Winterthur (Svissia), 1956.
 Autor:: Marcos Cruz (programandala.net), 2019, 2020.
 
 Web loc:: http://ne.alinome.net.
+
+Note: In 2020-12-04 li depositoria de Git esset convertet a
+http://fossil-scm.org[Fossil]. GitHub es usat solmen quam un copie.
 
 // Qualmen constructer li libre {{{2
 === Qualmen constructer li libre

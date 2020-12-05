@@ -18,12 +18,10 @@
   list by Matejka.
 - Move the original "(*)" notes to footnotes?
 - Naming of the current edition: "ti edition (digital)" -> "ti-ci
-  edition".
+  edition"?
 
 == Add
 
-- Add footnote to "quin verbes" about aditional exceptions with
-  derivates, e.g. "converter" -> "conversion".
 - Add optional conversions to Markdown and HTML.
 - Add footnote about "yes"?
 - Add footnote about "-ye"?

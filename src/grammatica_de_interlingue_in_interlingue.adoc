@@ -1,6 +1,6 @@
 = Grammatica de Interlingue in Interlingue
 :author: Dr. Fritz Haas
-:revnumber: 0.1.0-pre.107+202012051656
+:revnumber: 0.1.0-pre.108+202012051703
 :version-label: Version de ti edition digital:
 :description: Grammatica del lingue auxiliar international Interlingue
 :lang: ie
@@ -24,7 +24,7 @@ endif::[]
 // This file is in Asciidoctor format
 // http://asciidoctor.org
 
-// Last modified 202012051656
+// Last modified 202012051703
 
 [colophon]
 // Pri ti libre {{{1
@@ -436,8 +436,8 @@ champagne, cognac.
 
 [[par8,§8]]§8. *Li accentu primari* sta sur li vocal ante li ultim consonant,
 ma ne sur li quar síllabes *bil, ic{blank}footnote:[Solmen quande it es
-pronunciat «ik». Vide «Complet grammatica de Occidental» in Cosmoglotta series
-A, numeró 65, 1929-10. Note del editor digital.], im, ul*, queles porta li
+pronunciat «ik». Vide «Complet grammatica de Occidental» in Cosmoglotta serie
+A, numeró 65 (1929-10). Note del editor digital.], im, ul*, queles porta li
 accentu al precedent Síllab, mem si ti-ci es *bil, ic, im, ul*. Un
 simplic *s* e li du síllabes *men* e *um* in li fine del parol ne
 changea li accentuation del precedent parol-parte{blank}footnote:[Li
@@ -559,7 +559,7 @@ Paul, London, Pacifico, Anglia, Danubio, li Senior, su Majestie.
 [[par14,§14]]§14. Li *acurtationes* maxim frequent es{blank}footnote:[In ti
 edition li liste original ha esset alongat e su descritiones ameliorat per li
 liste includet in li 13-esim parte del cursu _Complet grammatica de Occidental_
-de Karl Janotta, publicat in Cosmoglotta A 95 (1934-04). Adplu li liste ha
+de Karl Janotta, publicat in Cosmoglotta serie A, numeró 95 (1934-04). Adplu li liste ha
 esset ordinat alfabeticmen. Li nov acurtationes includet es «a.C.», «cp.» e
 «p.C.». Note del editor digital.]:
 
@@ -2012,8 +2012,8 @@ prepositiones, ultra un sol parol pri six ex ili (ante, avan, per, por, pri e
 pro). Li sol exemples ne esset suficent por comprender li usation de quelc
 prepositiones. Por claritá, ti-ci edition include li significationes de omni
 prepositiones e quelc nov exemples. Ili esset adaptat ex li articul de Alphonse Matejka 
-«Signification del prepositiones (cardinal senses)», publicat in Cosmoglotta B
-81 (1946-05). Por claritá li descritiones de «caus» e «pro» esset rescrit pos
+«Signification del prepositiones (cardinal senses)», publicat in Cosmoglotta serie B,
+numeró 81 (1946-05). Por claritá li descritiones de «caus» e «pro» esset rescrit pos
 convenent consultationes. Note del editor digital.]
 
 // XXX FIXED -- "sedet intra li fable" -> "sedet infra li table"

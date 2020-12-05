@@ -1,6 +1,6 @@
 = Grammatica de Interlingue in Interlingue
 :author: Dr. Fritz Haas
-:revnumber: 0.1.0-pre.109+202012051710
+:revnumber: 0.1.0-pre.110+202012051913
 :version-label: Version de ti edition digital:
 :description: Grammatica del lingue auxiliar international Interlingue
 :lang: ie
@@ -24,7 +24,7 @@ endif::[]
 // This file is in Asciidoctor format
 // http://asciidoctor.org
 
-// Last modified 202012051710
+// Last modified 202012051913
 
 [colophon]
 // Pri ti libre {{{1
@@ -434,16 +434,24 @@ champagne, cognac.
 // Accentuation {{{1
 == Accentuation
 
-[[par8,§8]]§8. *Li accentu primari* sta sur li vocal ante li ultim consonant,
-ma ne sur li quar síllabes *bil, ic{blank}footnote:[Solmen quande it es
-pronunciat «ik». Vide «Complet grammatica de Occidental» in Cosmoglotta serie
-A, numeró 65 (1929-10). Note del editor digital.], im, ul*, queles porta li
-accentu al precedent Síllab, mem si ti-ci es *bil, ic, im, ul*. Un
-simplic *s* e li du síllabes *men* e *um* in li fine del parol ne
-changea li accentuation del precedent parol-parte{blank}footnote:[Li
-autor parla ne pri qualcunc parol-fine, ma pri li terminationes «-s»
-del plural, «-men» del adverbies e li sufix «-um». Note del editor digital.].
-Si ti regules ne es aplicabil, on accentua li prim vocal del parol.
+[[par8,§8]]§8. *Li accentu primari* sta sur li vocal ante li ultim
+consonant, ma ne sur li quar síllabes *bil, ic{blank}footnote:[Solmen
+quande it es pronunciat «ik». Por exemple, li regulari accentu de
+«felici» es sur li prim «i». Vide «Complet grammatica de Occidental»
+de Karl Janotta in Cosmoglotta serie A, numeró 65 (1929-10). Note del
+editor digital.], im, ul*, queles porta li accentu al precedent
+síllabe mem si ti-ci es *bil, ic, im, ul*. Li finale *s* o *es* del
+plurale, e li finales *men* e *um* es ínaccentuat e ne changea li
+accentuation del precedent parol-parte{blank}footnote:[Li expression
+in li edition original esset: «Un simplic *s* e li du síllabes *men* e
+*um* in li fine del parol», quel esset ínprecis. Li regul pri «s» acte
+se pri li terminationes del plurale (por exemple, li accentu regulari
+de «frances» sta sur «e» malgré li «s» final, quel ne es ti del
+plurale). Adplu «um» en ti-ci regul es termination, ne necessimen un
+síllabe (por exemple, in «herbarium» li «i» ante vocal ne forma propri
+síllabe, e to ne changea li efecte de «um», quel in ti casu ne es un
+síllabe complet). Note del editor digital.]. Si ti regules ne es
+aplicabil, on accentua li prim vocal del parol.
 
 Si li natural accentuation ne seque ti regul, it es marcat per un
 *accentu scrit* (preferibilmen quam in «é», tolerat anc «è» o

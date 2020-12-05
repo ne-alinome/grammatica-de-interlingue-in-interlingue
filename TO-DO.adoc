@@ -1,14 +1,12 @@
 = TO-DO of _Grammatica de Interlingue in Interlingue_
 :author: Marcos Cruz (programandala.net)
-:revdate: 2020-11-16
+:revdate: 2020-12-05
 
 == Fix
 
 - Footnote links don't work in the Cervantes 3 reader with the latest
   version of Asciidoctor EPUB3. They work on Calibre and fbreader
   viewers.
-- Asciidoctor EPUB3 doesn't render table heading columns marked with
-  `cols="h,"`.
 
 == Improve
 
@@ -22,7 +20,6 @@
 - Move the original "(*)" notes to footnotes?
 - Naming of the current edition: "ti edition (digital)" -> "ti-ci
   edition".
-- Move footnote about «-ic» to the first «-ic».
 
 == Add
 

@@ -1,6 +1,6 @@
 = Grammatica de Interlingue in Interlingue
 :author: Dr. Fritz Haas
-:revnumber: 0.1.0-pre.106+202012051638
+:revnumber: 0.1.0-pre.107+202012051656
 :version-label: Version de ti edition digital:
 :description: Grammatica del lingue auxiliar international Interlingue
 :lang: ie
@@ -24,7 +24,7 @@ endif::[]
 // This file is in Asciidoctor format
 // http://asciidoctor.org
 
-// Last modified 202012051638
+// Last modified 202012051656
 
 [colophon]
 // Pri ti libre {{{1
@@ -2011,7 +2011,7 @@ edition original ne includet explicationes pri li signification del
 prepositiones, ultra un sol parol pri six ex ili (ante, avan, per, por, pri e
 pro). Li sol exemples ne esset suficent por comprender li usation de quelc
 prepositiones. Por claritá, ti-ci edition include li significationes de omni
-prepositiones. Ili esset adaptat ex li articul de Alphonse Matejka
+prepositiones e quelc nov exemples. Ili esset adaptat ex li articul de Alphonse Matejka 
 «Signification del prepositiones (cardinal senses)», publicat in Cosmoglotta B
 81 (1946-05). Por claritá li descritiones de «caus» e «pro» esset rescrit pos
 convenent consultationes. Note del editor digital.]
@@ -2094,7 +2094,7 @@ li dom. Li patre venit de avan li dom. Il incontrat le avan li dom.
 
 [[preposition_caus,caus]]caus::
 
-Cause havant un ínevitabil efecte  (anc li preposition «<<preposition_por>>» es
+Cause havant un ínevitabil efecte (anc li preposition «<<preposition_por>>» es
 usabil con un sense tre simil, ma sin li nuancie de inevitabilitá del efecte).
 +
 ====
@@ -2371,11 +2371,12 @@ se detra e sub su folies.
 sur::
 
 Position de un cose comparat a un altri situat plu bass, in contacte con ti-ci
-e in li sam direction vertical; ye li superficie de; contra; ye li látere de;
-in un situation dominant.
+e in li sam direction vertical; ye li superficie de.
 +
 ====
 It venit de sub li table súper it e poy sedet sur it.
+It flotta sur li aqua.
+Il frappat sur li porta.
 ====
 
 til::

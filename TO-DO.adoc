@@ -12,10 +12,6 @@
 
 - Confirm "Li pòríu".
 - Usar un majuscule initial in exemple-blocs con parol-listes?
-- Description of "caus".
-- In the description of "sur", the meanings "contra" and "ye li látere
-  de" cannot be understood without examples. See them in the original
-  list by Matejka.
 - Move the original "(*)" notes to footnotes?
 - Naming of the current edition: "ti edition (digital)" -> "ti-ci
   edition"?

@@ -19,15 +19,9 @@
 == Add
 
 - Add optional conversions to Markdown and HTML.
-- Add footnote about "yes"?
-- Add footnote about "-ye"?
 - Adjunter articul "Linguistic explorationes -- Pronunciation de «ch»"
   ex Cosmoglotta A 101 (1935-03).
-- Add annex with all of the "al-", "ne-", "-cunc" words in a table.
-- Add annex with the usage of prepositions, extracted from
-  Cosmoglotta.
-- Add annex with lists of affixes, by type, linked to their
-  description in the book.
+- Add annex with all of the "al-", "ne-", "-cunc" words in a table?
 - Prepositions not included: "circa", "córam", "for" (it's mentioned
   in "ab-", and also as an interjection, but not explained; it's
   mainly an adverb, but it's included by Matejka in his list of

@@ -12,7 +12,6 @@
 
 - Confirm "Li pòríu".
 - Usar un majuscule initial in exemple-blocs con parol-listes?
-- Homogenize usage of "cp.", "cf.", "v.".
 - Description of "caus".
 - In the description of "sur", the meanings "contra" and "ye li látere
   de" cannot be understood without examples. See them in the original

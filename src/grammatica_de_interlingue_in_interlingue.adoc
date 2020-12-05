@@ -1,6 +1,6 @@
 = Grammatica de Interlingue in Interlingue
 :author: Dr. Fritz Haas
-:revnumber: 0.1.0-pre.103+20201120
+:revnumber: 0.1.0-pre.104+202012051558
 :version-label: Version de ti edition digital:
 :description: Grammatica del lingue auxiliar international Interlingue
 :lang: ie
@@ -24,7 +24,7 @@ endif::[]
 // This file is in Asciidoctor format
 // http://asciidoctor.org
 
-// Last modified 202011201817
+// Last modified 202012051558
 
 [colophon]
 // Pri ti libre {{{1
@@ -1281,7 +1281,7 @@ per adjunter *-nt* al tema presentic:
 Li verbes con *-i* prende *-ent* vice *-nt* por retrovar li derivates
 international, p.ex. «convenientie», «provenientie».
 
-Li *adverbial form* es usat quam *gerundie* (= «durant que» o «per to
+Li *adverbial form* es usat quam *gerundie* (= «durante que» o «per to
 que»)
 per adjunter *-e*:
 
@@ -3326,12 +3326,10 @@ possibil. It ne deve contener regules complicat, queles mem ne existe in
 li majorité del lingues national, quo pruva, que ti regules ne es
 necessi por li clar expression e comprension del pensas.
 
-// XXX TODO durant -> durante
-
 Ti defectes on conosset ja ante annus. Ma on credet esser obligat al
 adherentes e al editores del libres, e ne plu posset introducter li
 desirat corecturas in li lingue. Pro to on proclamat, ne plu far li
-minim change durant un periode de stabilitá, o ante li oficial adoption
+minim change durante un periode de stabilitá, o ante li oficial adoption
 per pluri guvernamentes. Ma certmen vu omnes es convictet con me, que it
 es un erra, dir, que on va changear li lingue, quande li munde ha
 acceptat e aprendet it. No, in contrarie, li munde ne va acceptar e

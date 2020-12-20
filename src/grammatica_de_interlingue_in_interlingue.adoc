@@ -1,6 +1,6 @@
 = Grammatica de Interlingue in Interlingue
 :author: Dr. Fritz Haas
-:revnumber: 0.1.0-pre.111+202012201538
+:revnumber: 0.1.0-pre.112+202012202022
 :version-label: Version de ti edition digital:
 :description: Grammatica del lingue auxiliar international Interlingue
 :lang: ie
@@ -24,7 +24,7 @@ endif::[]
 // This file is in Asciidoctor format
 // http://asciidoctor.org
 
-// Last modified 202012201538
+// Last modified 202012202022
 
 [colophon]
 // Pri ti libre {{{1
@@ -422,7 +422,7 @@ in li edition original esset: «Un simplic *s* e li du síllabes *men* e
 *um* in li fine del parol», quel esset ínprecis. Li regul pri «s» acte
 se pri li terminationes del plurale (por exemple, li accentu regulari
 de «frances» sta sur «e» malgré li «s» final, quel ne es ti del
-plurale). Adplu «um» en ti-ci regul es termination, ne necessimen un
+plurale). Adplu «um» in ti-ci regul es termination, ne necessimen un
 síllabe (por exemple, in «herbarium» li «i» ante vocal ne forma propri
 síllabe, e to ne changea li efecte de «um», quel in ti casu ne es un
 síllabe complet). Note del editor digital.]. Si ti regules ne es

@@ -1,6 +1,6 @@
 = Grammatica de Interlingue in Interlingue
 :author: Dr. Fritz Haas
-:revnumber: 0.1.0-pre.110+202012201534
+:revnumber: 0.1.0-pre.111+202012201538
 :version-label: Version de ti edition digital:
 :description: Grammatica del lingue auxiliar international Interlingue
 :lang: ie
@@ -24,7 +24,7 @@ endif::[]
 // This file is in Asciidoctor format
 // http://asciidoctor.org
 
-// Last modified 202012201534
+// Last modified 202012201538
 
 [colophon]
 // Pri ti libre {{{1
@@ -726,11 +726,9 @@ Vi pomes, prende li maturis.
 
 [[par34,§34]]§34. Por li *comparative* on indica
 
-// XXX FIXED -- "minu (min)" -> "minu
-
-- li *egalitá* per *tam - quam*
-- li *majoritá* per *plu - quam*
-- li *minoritá* per *minu - quam*
+- li *egalitá* per *tam* — *quam*
+- li *majoritá* per *plu* — *quam*
+- li *minoritá* per *minu* (o *min*) — *quam*
 
 ====
 Il es tam grand quam su fratre; il es plu grand quam su fratre; il es
@@ -1308,9 +1306,7 @@ Il di que il la amaye. Il dit que il la haye amat.
 // Verbal derivation {{{2
 === Verbal derivation
 
-// XXX FIXED -- "millenes" -> "milles":
-
-[[par79,§79]]§79. In omni lingues milles de substantives e adjectives es format ex
+[[par79,§79]]§79. In omni lingues millenes de substantives e adjectives es format ex
 li radica verbal per adjunter finales. Ti paroles sembla esser format
 tam ínregularimen, que li maxim conosset anteriori lingues international
 ha renunciat incorporar les in su sistema de derivation e ha viceat les

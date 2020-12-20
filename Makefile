@@ -3,7 +3,7 @@
 # By Marcos Cruz (programandala.net)
 # http://ne.alinome.net
 
-# Last modified 202011141425
+# Last modified 202012201554
 # See change log at the end of the file
 
 # ==============================================================
@@ -100,9 +100,30 @@ thumb: target/$(cover)_thumb.jpg
 clean:
 	rm -fr target/* tmp/*
 
+.PHONY: cleandoc
+cleandoc:
+	rm -fr doc/*
+
 .PHONY: cleancover
 cleancover:
 	rm -f target/*.jpg tmp/*.png
+
+# ==============================================================
+# Make the embedded documentation
+
+# README.adoc is rendered by GitHub, but doc/README.html is used as the
+# embedded documentation of the Fossil repository.
+
+.PHONY: doc
+doc: doc/README.html
+
+tmp/README.html: README.adoc
+	asciidoctor --no-header-footer --out-file=$@ $<
+
+doc/README.html: tmp/README.html
+	echo "<div class='fossil-doc' data-title='README'>" > $@;\
+	cat $< >> $@;\
+	echo "</div>" >> $@;
 
 # ==============================================================
 # Convert Asciidoctor to EPUB {{{1
@@ -308,3 +329,5 @@ include Makefile.release
 # 2020-11-05: Include <Makefile.release>.
 #
 # 2020-11-14: Update to the new vesion of <Makefile.release>.
+#
+# 2020-12-20: Add rule to convert <README.adoc> to <doc/README.html>.

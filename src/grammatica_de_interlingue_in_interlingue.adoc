@@ -1,6 +1,6 @@
 = Grammatica de Interlingue in Interlingue
 :author: Dr. Fritz Haas
-:revnumber: 0.1.0-pre.110+202012051913
+:revnumber: 0.1.0-pre.110+202012201534
 :version-label: Version de ti edition digital:
 :description: Grammatica del lingue auxiliar international Interlingue
 :lang: ie
@@ -24,7 +24,7 @@ endif::[]
 // This file is in Asciidoctor format
 // http://asciidoctor.org
 
-// Last modified 202012051913
+// Last modified 202012201534
 
 [colophon]
 // Pri ti libre {{{1
@@ -80,8 +80,6 @@ Ti grammatica es complet in li sens, que it contene omni essential
 regules usat in li textus de Cosmoglotta, li oficial organ del
 Interlingue-Union, e in li _Complet Cursu de Interlingue_ de A. Matejka.
 In plu omni decisiones del Interlingue-Academie es egardat.
-
-// XXX FIXED -- usar Idiotismes -> usar idiotismes
 
 In contrast a omni lingues national, on posse dir de Interlingue: Qui
 aplica li regules de ti grammatica e usa li adequat paroles, parla e
@@ -164,12 +162,6 @@ consonantic («w»).
 brun, mult, sudar, quar.
 ====
 
-// XXX FIXED -- "quam Interlingue i" -> "quam in Interlingue i"
-
-// XXX FIXED -- "és" -> "es" (not strictly an error, but unnecessary
-// and confusing in a text book, anyway only 2 "és" were used in the
-// book).
-
 y:: Pos un vocal, e in li comensa de un parol anc avan un vocal, es
 <<y_consonantic,consonantic>>, altriloc vocalic.  *y vocalic* es pronunciat quam in
 Interlingue «i»:
@@ -196,15 +188,11 @@ del vocales ne existe. Preferibil es li pronunciationes simil a francesi, german
 Qui ne conosse alcun de ti pronunciationes posse sequer li indicationes
 del <<par4>> quam recomendation, ma ne quam regul strict o complet.
 
-// XXX FIXED -- "r o I" -> "r o l"
-
 [[par4,§4]]§4. In general *vocales accentuat* es passabilmen *long*;
 ma avan «c» final, «ch», «x», o avan pluri consonantes (exceptet
 «r» o «l» con precedent diferent consonant), e in li curt
 grammatical paroles ili es *curt*.  *Vocales ínaccentuat* es plu o min
 *curt*.
-
-// XXX FIXED -- "i, u" -> "i, e u"
 
 «A», «i», e «u» have sempre un medial sonalitá bon distinctibil
 del altri vocales. Accentuat «e» e «o» es cludet, si ili es long,
@@ -222,21 +210,12 @@ cludet, «è»: curt e apert.
 
 [[par5,§5]]§5. *Li consonantes* es pronunciat quam seque:
 
-// XXX FIXED -- "curt Interlingue: u" -> curt u in Interlingue"
-//
-// XXX FIXED -- "quam Interlingue" -> "quam in Interlingue"
-//
 // XXX Prim version scrit por li pednote pri «r», solmen pri hispan:
 //
 // In hispan li líttere «r» posse representar du fonemes: /ɾ/ (in comense o
 // final de síllabe medial) o /r/ (in comense de parol, o pos «s» o «n»). Adplu
 // in hispan li digramma «rr» es usat por representar li foneme /r/ ínter
 // vocales. In Interlingue li líttere «r» representa li foneme /ɾ/.
-//
-// XXX FIXED -- Moved "altesse" from «s» to «ss».
-//
-// XXX FIXED -- In «y consonantic»: "antey" remplazzat per "anteyan, nam ti "y"
-// de "antey" ne es consonantic.
 
 b, d, f, l, m, n, p:: Quam in anglesi, francesi, hispan («b» in _boca_), german o italian.
 +
@@ -406,8 +385,6 @@ zz:: Dur («ts»).
 plazza.
 ====
 
-// XXX FIXED -- "G: ù" -> "G: ü"
-
 [[par6,§6]]§6. Li experientie pruva que *litt variationes* in li
 pronunciation ne gena li comprension. Pro to it *es permisset*
 pronunciar li «y» vocalic quam francesi «u» o german «ü»; *qu* quam «kw»;
@@ -424,8 +401,6 @@ intercalar un *demimut «e»*, ma sin scrir it.
 
 [[par7,§7]]§7. *Paroles extran* es pronunciat maxim possibil quam in
 li lingue de orígine.
-
-// XXX FIXED -- Champagne -> champagne
 
 ====
 champagne, cognac.
@@ -461,17 +436,6 @@ o usar it anc in altri casus por garantir li desirat accentuation.
 In *parol-compositiones* (anc autonom paroles con prefixes) li principal
 parte seque ti regules, li altres posse reciver un accentu secundari.
 
-// XXX FIXED -- ínvìa -> invìa
-// XXX FIXED -- li práctíca -> li pràctica
-// XXX FIXED -- il práctica -> il pràctica
-// XXX FIXED -- families -> famìlies
-// XXX FIXED -- fenòmen -> fenomèn
-// XXX FIXED -- micro-còsmo -> mìcro-còsmo
-// XXX FIXED -- hodíe -> hodìe
-// XXX FIXED -- omni ";" in li liste -> ","
-// XXX FIXED -- "genú-articulation" -> "genú-articulatiòn"
-// XXX FIXED -- "ferrovìa" -> "fèrrovìa" (hay anc "fèrro-vìa", quel esset bon)
-
 // XXX REMARK -- 2019-08-09: Li comensa original esset:
 //
 //    Li pòríu(*), familie, àvie, doctòr, formàr, li formàt, li formàte,
@@ -486,8 +450,6 @@ esset un note pos li exemples, quel includet li prim 15 exemples, de
 «inscrìt» til «it rèsta». Por claritá, li note del autor ha esset un
 poc modificat e movet ante li complet liste de exemples. Note del editor
 digital.]:
-
-// XXX FIXED -- «fèlici» -> «felìci».
 
 ====
 inscrìt, il
@@ -515,12 +477,6 @@ regul precedent, ma solmen li maxim important paroles del frase.
 
 // XXX REMARK -- In the English version, the following paragraph is
 // part of the previous one.
-
-// XXX FIXED -- Removed the useless accent marks of the explanation
-// itself, because they have no sense. The example usage is the last
-// sentence: "it esset un medicà, ne un medicò":
-
-// XXX FIXED -- ";" -> ":"
 
 On posse sempre aplicar ti regules secun necessitá. Si on vole accentuar
 un cert vocal, on posse mem accentuar contra li regul grammatical:
@@ -641,10 +597,6 @@ Il trinca aqua. Noi manja fructes.
 [[par20,§20]]§20. Li articul *definit* indica alquó ja mentionat o conosset, o li
 tot specie, li articul *índefinit* alquó ínconosset o ne ancor tractat.
 
-// XXX FIXED -- "és" -> "es" (not strictly an error, but unnecessary
-// and confusing in a text book, anyway only 2 "és" were used in the
-// book).
-
 ====
 Li can quel vu conosse es fidel. Canes es fidel. Li can es fidel.
 Fidelitá es un qualitá del tot specie can. Un can de mi fratre es
@@ -707,9 +659,6 @@ climatic, climatolog, climatologie, climatologic.
 [[par26,§26]]§26. Por indicar li *plurale* on adjunte *-s*, pos consonantes
 intercalante un *-e-* eufonic, u to es possibil sin changear li
 pronunciation del parol.
-
-// XXX FIXED -- "líbre" -> "libre" ("líbre" was used 4 times in the
-// document, while the normal "libre" was used 25 times).
 
 ====
 un libre, du libres, un angul, tri angules, li person, li persones, li
@@ -790,8 +739,6 @@ minu grand quam su fratre. Il es plu grand quam yo. Li plu grand libre.
 
 [[par35,§35]]§35 Por li *superlative* on indica
 
-// XXX FIXED -- "maxim (max)" -> "maxim (o max)", plu clar
-
 - li *majoritá* per *maxim* (o *max*)
 - li *minoritá* per *minim*
 
@@ -864,9 +811,6 @@ vide unaltru. Noi vide unaltru.
 [[par42,§42]]§42. *Pos prepositiones* on usa li acusative, o li
 nominative except «yo» e «tu».
 
-// XXX FIXED -- "Yo veni pos vos" -> "Yo veni pos vu (o vos)". Ti
-// exemple esset íncoherent con li altris.
-
 ====
 Veni con me! Yo veni con te. Noi ea con le (o il). Vu ea con ella (o
 la). Noi parla pri it. On parla pri nos. Yo veni pos vu (o vos). Yo labora por
@@ -894,10 +838,6 @@ lingue matrin, e ili prende li *plurale*, si necessi.
 | ili (illos, ellas) | lor
 |===
 
-// XXX FIXED -- "súpera mís" -> "súpera mis". It ne es un ver erra, ma
-// li simplicitá sembla preferibil in un libre de aprension vice tal
-// casus de stil.
-
 ====
 To es mi. To es li mi. To es mi libres. To es li mis. To es tui. To es
 li tui. To es lor. To es li lor. To es li lores. Vi nor parapluvies. Li
@@ -917,9 +857,6 @@ necessi.
 [[par45,§45]]§45. Por monstrar alquó on usa generalmen: *ti*. Solmen si on vole
 indicar explicitmen li proximitá o lontanitá on adjunte li adverbies
 *ci* o *ta* med un strec ligant.
-
-// XXX FIXED -- "Yo vide tís" -> "Yo vide tis"
-// Not strictly an error, but strange in a text book.
 
 ====
 Ti libre es bell. Yo vide ti libres. Yo vide tis. Ti-ci table es solid.
@@ -977,8 +914,6 @@ New York e London. Il ne save, quel grand cités il va vider.
 
 [[par51,§51]]§51. Por *coses e factes* on usa: *quo*, por *persones: qui*.
 
-// XXX FIXED -- víde -> vide
-
 ====
 Quo vu vide? Quo vu vole far? Yo ne save, quo yo vole far. Yo ne
 comprende to quo il ha dit. Qui es ta? De qui es ti chapel? A qui tu dat
@@ -990,9 +925,6 @@ lingue fa un constant progress, quo (quel facte) tre joya me.
 [[par52,§52]]§52. Si *pluri relationes* de un pronómin relativ es possibil, li
 ínmediat vale. Si un altri deve valer, on indica to per pronómines
 personal o demonstrativ, o per comma.
-
-// XXX FIXED -- "To es li sestra de mi amíco" -> "Ti es li sestra de
-// mi amíco"; "cíté" -> "cité"; "Ii" -> "li":
 
 ====
 Yo videt li fratre de mi amíco quel arivat yer. Yo videt li fratre de mi
@@ -1061,8 +993,6 @@ il es ci. It es tot egal, ca vu vide li tot munde o quelc partes de it.
 == Numerales
 
 [[par56,§56]]§56. Li *númeres cardinal* es:
-
-// XXX FIXED -- niantnin -> ninantnin
 
 0 = null, 1 = un, 2 = du, 3 = tri, 4 = quar, 5 = quin, 6 = six, 7 = sett, 8 = ott, 9 = nin, 10 = deci, 11 =
 deciun, 12 = decidu, 13 = decitri, 14 = deciquar, 15 = deciquin … 19 = decinin, 20 =
@@ -1159,9 +1089,6 @@ Radication::
 [[par65,§65]]§65. In Interlingue existe *un sol* e *unitari conjugation* per
 adjuntion de cert consonantes al tema presentic.
 
-// XXX FIXED -- "al tema verbal (radica plus prefixes e sufixes)" ->
-// "al tema verbal":
-
 [[par66,§66]]§66. Li *tema presentic* es format per adjunter un del tri vocales
 «a», «i», «e»
 al tema verbal. Ti vocal es
@@ -1194,8 +1121,6 @@ distinctet solmen per li pronómin; li verb self resta ínmutat.
 ====
 
 [[par69,§69]]§69. Li *presente* es egal al tema presentic:
-
-// XXX FIXED -- "il constructer" -> "il constructe"
 
 ====
 - Yo fabrica.
@@ -1259,9 +1184,6 @@ Li *future anteriori* es:
 ====
 
 [[par73,§73]]§73. Li *conditionale simplic* es format per li auxiliare *vell*:
-
-// XXX FIXED -- "Noi vell laborar" -> "Noi vell fabricar", secun omni
-// altri exemples.
 
 ====
 - Noi vell fabricar.
@@ -1394,13 +1316,9 @@ tam ínregularimen, que li maxim conosset anteriori lingues international
 ha renunciat incorporar les in su sistema de derivation e ha viceat les
 per artificial constructiones.
 
-// XXX FIXED -- "internàtional radicas" -> "international radicas"
-
 Al creator de Interlingue, Prof. Edgar de Wahl, reveni li merite, har
 decovrit quelc simplic regules por formar ti paroles internationalmen
 conosset per adjunter international finales a international radicas.
-
-// XXX FIXED -- Notation de sufixes:
 
 [[par80,§80]]§80. Li sufixes: *<<sufix_ion>>, <<sufix_or>>, <<sufix_ori>>,
 <<sufix_iv>>, <<sufix_ura>>* ne es adjuntet al tema verbal o al tema presentic,
@@ -1428,8 +1346,6 @@ in omni altri casus li rest self es li tema perfectic.
 | exploder    | explod    | explos
 |===
 
-// XXX FIXED -- "ye li verbes" -> "e che li verbes":
-
 On posse anc dir, que li sufixes: *<<sufix_ion>>, <<sufix_or>>, <<sufix_ori>>,
 <<sufix_iv>>* e *<<sufix_ura>>* es adjuntet che li verbes con *ar* e *ir* al
 participie passat, e che li verbes con *er* al radica, intercalante *t* pos
@@ -1438,8 +1354,6 @@ vocal final e mutante un final *d* o *r* a *s*.
 ////
 
 // XXX OLD -- Original layout, two tables, with mixed forms:
-
-// XXX FIXED -- "cretiv" -> "creativ":
 
 |===
 | crear    | expedir    | constructer
@@ -1750,8 +1664,6 @@ exemple «converter». Note del editor digital.]:
 [[par81,§81]]§81. Che li tri verbes: *far, dir, scrir* on posse formar li derivates
 per li complet radicas: *fact, dict, script*.
 
-// XXX FIXED -- "consonantgruppe -nct-" -> "consonant-gruppe -ct-":
-
 Che li verbes con li consonant-gruppe *-ct-* on posse omisser li *c*.
 footnote:[Por claritá, in ti edition ti paragraf esset un poc
 simplificat, su sequent exemples esset completat, e «prescription o
@@ -1779,8 +1691,6 @@ Quam in li participie presentic on intercala *e* pos *i* del verbes in
 presentic
 *-nt* con li sufix *<<sufix_ie>>*.
 
-// XXX FIXED -- "presen-tic" -> "presentic":
-
 [[par83,§83]]§83. In analog maniere adjunte se li sufix *<<sufix_nd>>* al tema
 presentic:
 
@@ -1790,9 +1700,6 @@ presentic:
 | vendir     | vendiend
 | leer       | leend
 |===
-
-// XXX FIXED -- «Li sufix *-ment* anc es adjuntet al tema presentic»
-// -> «Anc li sufix *-ment* es adjuntet al tema presentic»:
 
 [[par84,§84]]§84. Anc li sufix *<<sufix_ment>>* es adjuntet al tema presentic:
 
@@ -1827,10 +1734,6 @@ respectivmen *<<sufix_bil,-ibil>>, <<sufix_da,-ida>>* ye *i* o *e*:
 
 [[par86,§86]]§86. *Li altri sufixes* es adjuntet directmen al radica verbal:
 
-// XXX FIXED -- "vìvaci" -> "vivaci"
-
-// XXX FIXED -- "reservour" -> "reservuore"
-
 [width=100%]
 |===
 | criticar | criticachar
@@ -1846,8 +1749,6 @@ respectivmen *<<sufix_bil,-ibil>>, <<sufix_da,-ida>>* ye *i* o *e*:
 [[par87,§87]]§87. *Substantivation direct:* On posse anc usar quam substantive li
 radica verbal con li desinenties substantivic, o li <<par80,tema perfectic>> con o
 sin desinentie substantivic:
-
-// XXX FIXED -- "lì resultat" -> "li resultat"
 
 ====
 li pense, li pensa (plu proxim al action), li vende, li crede, li
@@ -1906,8 +1807,6 @@ maniere, de quantitá, de loc, de témpor, e adverbies afirmativ, negativ
 e de dúbit.
 
 [[par94,§94]]§94. Li *adverbies de maniere* responde al question: *qualmen?*
-
-// XXX FIXED -- omni "tamen" in li libre -> "támen":
 
 qualmen, quam, talmen, tam, alquam, nequam, solmen, apen, tot, totalmen,
 totmen, ne totmen, totmen ne, presc, poc, poc a poc, mem, precipue,
@@ -2023,18 +1922,6 @@ prepositiones e quelc nov exemples. Ili esset adaptat ex li articul de Alphonse 
 «Signification del prepositiones (cardinal senses)», publicat in Cosmoglotta serie B,
 numeró 81 (1946-05). Por claritá li descritiones de «caus» e «pro» esset rescrit pos
 convenent consultationes. Note del editor digital.]
-
-// XXX FIXED -- "sedet intra li fable" -> "sedet infra li table"
-// XXX FIXED -- "ínfra" -> "infra"
-// XXX FIXED -- "ami'cos" -> "amícos"
-// XXX FIXED -- ínterlingue -> Interlingue
-// XXX FIXED -- "to sín saver" -> "to sin saver"
-// XXX FIXED -- "rich genito res" -> rich genitores"
-// XXX FIXED -- "Multís vell prefer viver in li rure" ->
-// "Multis vell prefer viver in li rure" ->
-// XXX FIXED -- "lacrimes" -> "lácrimes":
-// XXX FIXED -- "vení" --> "veni":
-// XXX FIXED -- "proxím" -> "proxim" (in li exemple)
 
 // XXX REMARK Secun Matejka, «con» significa anc «in sam témpor».
 
@@ -2816,8 +2703,6 @@ portuari, portale; posta, posto.
 // Adjuntion de prefixes {{{2
 === Adjuntion de prefixes
 
-// XXX FIXED -- prefixial -> prefixal
-
 [[par127,§127]]§127. In mult international parolformationes li prefixes e prefixal
 expressiones perdi su ultim consonant o assimila it al sequent
 consonant; in ti casu duplic consonantes es viceat secun <<par10>> per
@@ -2955,10 +2840,6 @@ pacificar*. forma anc adjectives: *pacific, magnific, specific*.
 -ijar:: Devenir, far se: *verdijar, rubijar*.
 
 -ear:: Statu dinamic de vade e retro: *flammear, verdear, undear*.
-
-// XXX FIXED -- "statú" -> "statu"
-// XXX FIXED -- "interiori" -> "inferiori"
-// XXX FIXED -- "pseudomala-die" -> pseudomaladie"
 
 // Sufixes por verbal substantives {{{3
 ==== Sufixes por verbal substantives
@@ -3178,8 +3059,6 @@ socialisme*.
 
 -oid:: Simil: *negroid (negroide), elipsoid*.
 
-// XXX FIXED -- Pednote: «-ore» es *anc* un productiv sufix:
-
 [[par142,§142]]§142. Ultra li indicat *productiv afixes* existe quelc
 *ínproductiv afixes*, queles ne forma nov paroles, ma explica existent
 paroles international. P.ex.: *-ic, -id,
@@ -3208,8 +3087,6 @@ tippmachine, mult-lateral, circumnavigar, contraproposition.
 In nov-formationes it es recomendat ligar li du paroles per un strec
 ligativ. In compositiones ja international li du paroles multvez es
 ligat per un «o» o «i».
-
-// XXX FIXED -- uníform -> uniform
 
 ====
 ferrovia, agricultura, uniform, li uniforme, aeroplan, electromotor.
@@ -3294,8 +3171,6 @@ videt le. Yo crede har videt le. Yo crede vider le.
 Accentuati**o**n: Li p**o**c art**i**cules del gramm**a**tica e li
 vocabul**a**rium de Interl**i**ngue es facil**i**ssim e repres**e**nta
 **í**ndubit**a**bilmen li m**a**ximum de simplicit**á**.
-
-// XXX FIXED -- "Ll lingue" -> "Li lingue"
 
 // Li lingue vermen international {{{1
 == Li lingue vermen international

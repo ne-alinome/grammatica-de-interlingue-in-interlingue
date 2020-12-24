@@ -1,6 +1,6 @@
 = Grammatica de Interlingue in Interlingue
 :author: Marcos Cruz (programandala.net)
-:revdate: 2020-12-05
+:revdate: 2020-12-24
 :toc:
 :toc-levels: 2
 :toc-title:
@@ -26,8 +26,13 @@ Author:: Marcos Cruz (programandala.net), 2019, 2020.
 Website:: http://ne.alinome.net.
 
 :note-caption: Note
-NOTE: On 2020-12-04 the Git repository was converted to
-http://fossil-scm.org[Fossil]. GitHub is used only as a copy.
+
+NOTE: On 2020-12-04 the Git repository was
+converted to a
+http://fossil.programandala.net/grammatica_de_interlingue_in_interlingue[Fossil
+repository], keeping
+http://github.com/programandala-net/grammatica-de-interlingue-in-interlingue[GitHub]
+as a mirror.
 
 // How to build the book {{{2
 === How to build the book
@@ -76,8 +81,13 @@ Aŭtoro:: Marcos Cruz (programandala.net), 2019, 2020.
 Retpaĝaro:: http://ne.alinome.net.
 
 :note-caption: Noto
-NOTE: Je 2020-12-04 la Git-deponejo estis konvertita al
-http://fossil-scm.org[Fossil]. GitHub estas uzata nur kiel kopio.
+
+NOTE: Je 2020-12-04 la Git-deponejo estis
+konvertita al
+http://fossil.programandala.net/grammatica_de_interlingue_in_interlingue[Fossil-deponejo],
+konservante
+http://github.com/programandala-net/grammatica-de-interlingue-in-interlingue[GitHub]
+kiel kopion.
 
 // Kiel konstrui la libron {{{2
 === Kiel konstrui la libron
@@ -126,9 +136,12 @@ Autor:: Marcos Cruz (programandala.net), 2019, 2020.
 Sede web:: http://ne.alinome.net.
 
 :note-caption: Nota
-NOTE: En 2020-12-04 el repositorio Git fue convertido a
-http://fossil-scm.org[Fossil]. GitHub se usa solo
-como una copia.
+
+NOTE: En 2020-12-04 el repositorio Git fue convertido a un
+http://fossil.programandala.net/grammatica_de_interlingue_in_interlingue[repositorio
+Fossil], conservando
+http://github.com/programandala-net/grammatica-de-interlingue-in-interlingue[GitHub]
+como una réplica.
 
 // Cómo construir el libro {{{2
 === Cómo construir el libro
@@ -178,8 +191,12 @@ Autor:: Marcos Cruz (programandala.net), 2019, 2020.
 Web loc:: http://ne.alinome.net.
 
 :note-caption: Note
-NOTE: In 2020-12-04 li depositoria de Git esset convertet a
-http://fossil-scm.org[Fossil]. GitHub es usat solmen quam un copie.
+
+NOTE: In 2020-12-04 li depositoria de Git esset convertet a un
+http://fossil.programandala.net/grammatica_de_interlingue_in_interlingue[repositoria
+de Fossil], conservante
+http://github.com/programandala-net/grammatica-de-interlingue-in-interlingue[GitHub]
+quam un copie.
 
 // Qualmen constructer li libre {{{2
 === Qualmen constructer li libre

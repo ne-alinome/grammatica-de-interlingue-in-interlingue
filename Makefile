@@ -1,10 +1,10 @@
-# Makefile of _Grammatica de Interlingue in Interlingue_
+# Makefile of "Grammatica de Interlingue in Interlingue"
 
 # By Marcos Cruz (programandala.net)
 # http://ne.alinome.net
 
-# Last modified 202012201554
-# See change log at the end of the file
+# Last modified: 202012241815.
+# See change log at the end of the file.
 
 # ==============================================================
 # Requirements {{{1
@@ -109,21 +109,35 @@ cleancover:
 	rm -f target/*.jpg tmp/*.png
 
 # ==============================================================
-# Make the embedded documentation
+# Make the embedded documentation {{{1
 
-# README.adoc is rendered by GitHub, but doc/README.html is used as the
+# README.adoc is rendered by GitHub, but doc/www/README.html is used as the
 # embedded documentation of the Fossil repository.
 
 .PHONY: doc
-doc: doc/README.html
+doc: wwwdoc
 
-tmp/README.html: README.adoc
-	asciidoctor --no-header-footer --out-file=$@ $<
+.PHONY: wwwdoc
+wwwdoc: wwwreadme
 
-doc/README.html: tmp/README.html
+.PHONY: cleanwww
+cleanwww:
+	rm -f \
+		doc/www/* \
+		tmp/README.*
+
+.PHONY: wwwreadme
+wwwreadme: doc/www/README.html
+
+doc/www/README.html: tmp/README.html
 	echo "<div class='fossil-doc' data-title='README'>" > $@;\
 	cat $< >> $@;\
-	echo "</div>" >> $@;
+	echo "</div>" >> $@
+
+tmp/README.html: README.adoc
+	asciidoctor \
+		--embedded \
+		--out-file=$@ $<
 
 # ==============================================================
 # Convert Asciidoctor to EPUB {{{1
@@ -331,3 +345,5 @@ include Makefile.release
 # 2020-11-14: Update to the new vesion of <Makefile.release>.
 #
 # 2020-12-20: Add rule to convert <README.adoc> to <doc/README.html>.
+#
+# 2020-12-24: Move the online version of the README file to <doc/www/>.

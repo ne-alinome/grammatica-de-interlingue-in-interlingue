@@ -1,12 +1,13 @@
 = TO-DO of _Grammatica de Interlingue in Interlingue_
 :author: Marcos Cruz (programandala.net)
-:revdate: 2020-12-05
+:revdate: 2021-04-24
 
 == Fix
 
 - Footnote links don't work in the Cervantes 3 reader with the latest
   version of Asciidoctor EPUB3. They work on Calibre and fbreader
   viewers.
+- The XHTML tag `<sup>` has no effect in the Cervantes 3 reader.
 
 == Improve
 
@@ -19,8 +20,6 @@
 == Add
 
 - Add optional conversions to Markdown and HTML.
-- Adjunter articul "Linguistic explorationes -- Pronunciation de «ch»"
-  ex Cosmoglotta A 101 (1935-03).
 - Add annex with all of the "al-", "ne-", "-cunc" words in a table?
 - Prepositions not included: "circa", "córam", "for" (it's mentioned
   in "ab-", and also as an interjection, but not explained; it's

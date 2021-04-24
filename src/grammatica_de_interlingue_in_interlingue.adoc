@@ -1,6 +1,6 @@
 = Grammatica de Interlingue in Interlingue
 :author: Dr. Fritz Haas
-:revnumber: 0.1.0-pre.114+20210424T1808CEST
+:revnumber: 0.1.0-pre.114+20210424T1825CEST
 :version-label: Version de ti edition digital:
 :description: Grammatica del lingue auxiliar international Interlingue
 :lang: ie
@@ -232,8 +232,14 @@ c:: Avan «e», «i», «y» = «ts», altriloc quam «k».
 centre, reciver, cilindre, concert, acceptar, electric, electricitá.
 ====
 
-ch:: Quam francesi; quam anglesi «sh»; quam german «sch»; permisset anc anglesi o hispan «ch», ma
-ne recomendat; avan consonantes quam «k».
+:pednote235: Por un plu detalliat descrition del pronunciation de \
+«ch», ples leer li articul de Edgar de Wahl «Linguistic esplorationes \
+-- li pronunciation de “ch”» in Cosmoglotta, serie A, numeró 101, \
+1935-03. Note del editor digital.
+
+ch{blank}footnote:[{pednote235}]:: Quam francesi; quam anglesi «sh»;
+quam german «sch»; permisset anc anglesi o hispan «ch», ma ne
+recomendat; avan consonantes quam «k».
 +
 ====
 machine, marchar, chec, chloroform.

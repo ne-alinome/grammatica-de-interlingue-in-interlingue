@@ -3,7 +3,7 @@
 # By Marcos Cruz (programandala.net)
 # http://ne.alinome.net
 
-# Last modified: 202012241815.
+# Last modified: 20210424T1854+0200.
 # See change log at the end of the file.
 
 # ==============================================================
@@ -48,7 +48,7 @@ description="Grammatica del lingue international auxiliari Interlingue"
 # Interface {{{1
 
 .PHONY: recommended
-default: epuba pdfa4 thumb
+default: epuba pdfa4 thumb azw3
 
 .PHONY: all
 all: azw3 epub odt pdf thumb
@@ -79,13 +79,11 @@ pdf: pdfa4 pdfletter
 
 .PHONY: pdfa4
 pdfa4: \
-	target/$(book).adoc._a4.pdf.zip \
-	target/$(book).adoc._a4.pdf.gz
+	target/$(book).adoc._a4.pdf
 
 .PHONY: pdfletter
 pdfletter: \
-	target/$(book).adoc._letter.pdf.zip \
-	target/$(book).adoc._letter.pdf.gz
+	target/$(book).adoc._letter.pdf
 
 .PHONY: dbk
 dbk: target/$(book).adoc.dbk
@@ -171,6 +169,9 @@ tmp/%.adoc._letter.pdf: src/%.adoc tmp/$(cover).pdf
 	asciidoctor-pdf \
 		--attribute pdf-page-size=letter \
 		--out-file=$@ $<
+
+target/%.pdf: tmp/%.pdf
+	cp -f $< $@
 
 target/%.pdf.zip: tmp/%.pdf
 	zip -9 $@ $<
@@ -284,7 +285,7 @@ include Makefile.cover_image
 # Build the release archives {{{1
 
 version_file=src/$(book).adoc
-branch=$(book)
+branch=trunk
 prerequisites=*.adoc target/
 
 include Makefile.release
@@ -347,3 +348,6 @@ include Makefile.release
 # 2020-12-20: Add rule to convert <README.adoc> to <doc/README.html>.
 #
 # 2020-12-24: Move the online version of the README file to <doc/www/>.
+#
+# 2021-04-24: Don't compress the PDF; it will be compressed in the release
+# archives. Build also an AZW3 e-book.

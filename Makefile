@@ -3,7 +3,7 @@
 # By Marcos Cruz (programandala.net)
 # http://ne.alinome.net
 
-# Last modified: 20210424T1854+0200.
+# Last modified: 20210424T1859+0200.
 # See change log at the end of the file.
 
 # ==============================================================
@@ -48,7 +48,7 @@ description="Grammatica del lingue international auxiliari Interlingue"
 # Interface {{{1
 
 .PHONY: recommended
-default: epuba pdfa4 thumb azw3
+default: epuba pdfa4 thumb
 
 .PHONY: all
 all: azw3 epub odt pdf thumb
@@ -350,4 +350,4 @@ include Makefile.release
 # 2020-12-24: Move the online version of the README file to <doc/www/>.
 #
 # 2021-04-24: Don't compress the PDF; it will be compressed in the release
-# archives. Build also an AZW3 e-book.
+# archives.

@@ -1,12 +1,12 @@
 = Grammatica de Interlingue in Interlingue
 :author: Marcos Cruz (programandala.net)
-:revdate: 2020-12-24
+:revdate: 2021-04-24
 :toc:
 :toc-levels: 2
 :toc-title:
 
 // This file is part of the project
-// _Grammatica de Interlingue_
+// _Grammatica de Interlingue in Interlingue_
 // (http://ne.alinome.net)
 //
 // By Marcos Cruz (programandala.net)
@@ -21,7 +21,7 @@ Goal:: Make an e-book (in EPUB and other formats) of _Grammatica de Interlingue
 in Interlingue_ by Dr. F. Haas, published by Interlingue-Servicie, Winterthur
 (Switzerland), 1956.
 
-Author:: Marcos Cruz (programandala.net), 2019, 2020.
+Author:: Marcos Cruz (programandala.net), 2019, 2020, 2021.
 
 Website:: http://ne.alinome.net.
 

@@ -12,7 +12,6 @@
 == Improve
 
 - Confirm "Li pòríu".
-- Usar un majuscule initial in exemple-blocs con parol-listes?
 - Move the original "(*)" notes to footnotes?
 - Naming of the current edition: "ti edition (digital)" -> "ti-ci
   edition"?

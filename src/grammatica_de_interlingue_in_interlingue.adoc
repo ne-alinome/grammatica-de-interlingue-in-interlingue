@@ -1,6 +1,6 @@
 = Grammatica de Interlingue in Interlingue
 :author: Dr. Fritz Haas
-:revnumber: 0.1.0-pre.114+20210424T1825CEST
+:revnumber: 0.1.0-pre.115+20210424T1830CEST
 :version-label: Version de ti edition digital:
 :description: Grammatica del lingue auxiliar international Interlingue
 :lang: ie
@@ -134,32 +134,32 @@ a:: Quam francesi, german, hispan o italian;
 quam anglesi _father_.
 +
 ====
-vase, batte, batter.
+Vase, batte, batter.
 ====
 
 e:: Apert o cludet, quam german, hispan o italian; quam anglesi _bed, yes_; quam francesi «é» o «è».
 +
 ====
-pena, mensu, pelle, venir.
+Pena, mensu, pelle, venir.
 ====
 
 i:: Quam francesi, german, hispan o italian; quam anglesi _machine_.
 +
 ====
-nive, six, minute.
+Nive, six, minute.
 ====
 
 o:: Apert o cludet, quam francesi, german, hispan o italian; quam anglesi _door, hot_.
 +
 ====
-modic, póndere, porta, ponderar.
+Modic, póndere, porta, ponderar.
 ====
 
 u:: Quam german, hispan o italian; quam anglesi _rule, pull_; quam francesi «ou»; pos «q» tre curt, presc
 consonantic («w»).
 +
 ====
-brun, mult, sudar, quar.
+Brun, mult, sudar, quar.
 ====
 
 y:: Pos un vocal, e in li comensa de un parol anc avan un vocal, es
@@ -167,7 +167,7 @@ y:: Pos un vocal, e in li comensa de un parol anc avan un vocal, es
 Interlingue «i»:
 +
 ====
-physica.
+Physica.
 ====
 
 De du o pluri *vocales succedent* chascun es pronunciat. Ínaccentuat
@@ -176,7 +176,7 @@ anc li «a» e li «e» es curt) es tre curt, presc consonantic, e ne
 posse formar propri síllabes.
 
 ====
-leôn(*), creatôr, mêdie, mediôcri, mêdium, lìngue, linguâl, lìnguìstic,
+Leôn(*), creatôr, mêdie, mediôcri, mêdium, lìngue, linguâl, lìnguìstic,
 trottuôre, càude, neutrâl, arcâic, vîa, revûe.
 
 (*) Signes ilustrativ, ne a scrir: «ê»: long, «è»: curt.
@@ -200,7 +200,7 @@ e avan «m» e «n», apert in omni altri casus. «E» e «o»
 ínaccentuat es plu o min cludet.
 
 ====
-marchâr(*), vidêr, venîr, sonôri, constructôr, constructiôn, chèc, iràc,
+Marchâr(*), vidêr, venîr, sonôri, constructôr, constructiôn, chèc, iràc,
 depèche, paradòx, pâtre, splìttre, câble, pèlle, dilëmma, cömma, mënte,
 mönte, atàcca, fòsse, transpòrt, idê, burô, cön, ë, li, më.
 
@@ -220,7 +220,7 @@ cludet, «è»: curt e apert.
 b, d, f, l, m, n, p:: Quam in anglesi, francesi, hispan («b» in _boca_), german o italian.
 +
 ====
-bon, editer, fratre, long, matre, null, pede.
+Bon, editer, fratre, long, matre, null, pede.
 ====
 
 De *duplic consonantes* li duesim es pronunciat solmen si it es
@@ -229,7 +229,7 @@ pronunciat altrimen quam li prim. *acceptar, suggester*.
 c:: Avan «e», «i», «y» = «ts», altriloc quam «k».
 +
 ====
-centre, reciver, cilindre, concert, acceptar, electric, electricitá.
+Centre, reciver, cilindre, concert, acceptar, electric, electricitá.
 ====
 
 :pednote235: Por un plu detalliat descrition del pronunciation de \
@@ -242,7 +242,7 @@ quam german «sch»; permisset anc anglesi o hispan «ch», ma ne
 recomendat; avan consonantes quam «k».
 +
 ====
-machine, marchar, chec, chloroform.
+Machine, marchar, chec, chloroform.
 ====
 
 :pednote243: In ti edition li explication pri li pronunciation de «g» \
@@ -255,39 +255,39 @@ Altriloc: quam anglesi «g» in _go_; francesi, german, hispan e
 italian «g» avan «a».
 +
 ====
-gage, gigant, garage, gimnastica, guvernar, grisi, suggestion, magnific.
+Gage, gigant, garage, gimnastica, guvernar, grisi, suggestion, magnific.
 ====
 
 gh:: In quelc rar paroles avan «e», «i», «y» quam «g» avan
 «a».
 +
 ====
-ghetto.
+Ghetto.
 ====
 
 h:: Sempre aspirat quam anglesi o german.
 +
 ====
-hom, adherer.
+Hom, adherer.
 ====
 
 j:: Quam francesi; quam anglesi _vision_; quam german dulci «sch», quam _Journal_; dunc quam in
 Interlingue «g» avan «e».
 +
 ====
-jurnalist, manjar, jokey.
+Jurnalist, manjar, jokey.
 ====
 
 k, kh:: Quam «c» dur.
 +
 ====
-kilogramm, Khedive.
+Kilogramm, Khedive.
 ====
 
 ph:: Quam «f» (in grec paroles).
 +
 ====
-telephon.
+Telephon.
 ====
 
 qu:: Quam «k», sempre sequet de tre curt «u»: quam anglesi, german o italian;
@@ -296,7 +296,7 @@ sembla confusi e ínnecessi, nam in ti lingues «qu» es pronunciat «k». Note 
 editor digital.].
 +
 ====
-quar, aqua.
+Quar, aqua.
 ====
 
 r:: francesi, german, hispan o italian.footnote:[Li pronunciationes del líttere
@@ -307,45 +307,45 @@ recomendat, por exemple per Karl Janotta in su _Complet Grammatica de
 Occidental_. Note del editor digital.]
 +
 ====
-radie, merce.
+Radie, merce.
 ====
 
 rh:: Quam «r» (in grec paroles).
 +
 ====
-rheumatisme.
+Rheumatisme.
 ====
 
 s:: Sonori ínter vocales, dur in omni altri casus.
 +
 ====
-cose, position, pos, es, roses, divers, sospirar, posta.
+Cose, position, pos, es, roses, divers, sospirar, posta.
 ====
 
 ss:: Quam «s» dur.
 +
 ====
-casse, altesse.
+Casse, altesse.
 ====
 
 sh, sch:: Quam anglesi «sh»; quam francesi «ch»; quam german «sch». Existe solmen in
 quelc paroles por conservar li natural aspecte.
 +
 ====
-shrapnell, schema.
+Shrapnell, schema.
 ====
 
 t:: Es sibilant (quam «ts») avan «ia», «ie», «io», «iu», si
 ne un «s» precede, altriloc quam anglesi, francesi, german, hispan o italian.
 +
 ====
-tolerantie, tentar, tentation, hostie.
+Tolerantie, tentar, tentation, hostie.
 ====
 
 th:: Quam «t» (in grec paroles).
 +
 ====
-theosoph, lithograph.
+Theosoph, lithograph.
 ====
 
 v:: Quam anglesi, francesi o italian{blank}footnote:[Li edition original
@@ -353,19 +353,19 @@ erratorimen includet anc hispan, ma li hispan «v» desde secules changeat su
 son a ti de «b». Note del editor digital]; quam german «w».
 +
 ====
-venir, dever, nive.
+Venir, dever, nive.
 ====
 
 w:: Rar; quam anglesi; curt «u» in Interlingue.
 +
 ====
-west.
+West.
 ====
 
 x:: Dur o dulci, quam anglesi, francesi o german; quam hispan _examinar_.
 +
 ====
-examinar, extra.
+Examinar, extra.
 ====
 
 [[y_consonantic]]y consonantic:: Quam anglesi; quam francesi _yeux_; quam
@@ -376,19 +376,19 @@ plu precis, secun li pronunciation normativ del lingue hispan, es ti de «hi» i
 li parol _hierro_ (ferre), it es li foneme /j/. Note del editor digital.].
 +
 ====
-yes, rayon, anteyan.
+Yes, rayon, anteyan.
 ====
 
 z:: Dulci («ds»), si possibil; altrimen dur («ts»).
 +
 ====
-zefir.
+Zefir.
 ====
 
 zz:: Dur («ts»).
 +
 ====
-plazza.
+Plazza.
 ====
 
 [[par6,§6]]§6. Li experientie pruva que *litt variationes* in li
@@ -398,7 +398,7 @@ pronunciar li «y» vocalic quam francesi «u» o german «ü»; *qu* quam «kw�
 quam «dj».
 
 ====
-cylindre, quadre, marchar, chef, jurnal, gengive.
+Cylindre, quadre, marchar, chef, jurnal, gengive.
 ====
 
 Qui have desfacilitá in li pronunciation de cert combinationes de
@@ -409,7 +409,7 @@ intercalar un *demimut «e»*, ma sin scrir it.
 li lingue de orígine.
 
 ====
-champagne, cognac.
+Champagne, cognac.
 ====
 
 // Accentuation {{{1
@@ -458,7 +458,7 @@ poc modificat e movet ante li complet liste de exemples. Note del editor
 digital.]:
 
 ====
-inscrìt, il
+Inscrìt, il
 inscrì, ìris, ottùplic, il rèplica, il multìplica, specìfic, pacìfic, il
 artìcula, il inspùla, il ànima, li fèrrovìa, li relvìa, il refà, it
 rèsta,
@@ -501,7 +501,7 @@ indicar que li precedent accentuat vocal es curt o que «s» ne es sonori. Dupli
 consonantes in li radica resta anc in li formes derivat.
 
 ====
-access, suggester, anates, annu, annales, asserter, aromatic, bloc,
+Access, suggester, anates, annu, annales, asserter, aromatic, bloc,
 arogant, can, canne, car, carre, present, pressent, li atacca, il
 atacca, ataccar, cellul, cellulose, rebell, rebellion.
 ====
@@ -511,7 +511,7 @@ simplificat a: *t, cl, cr, f*, e vice *y* vocalic on scri *i*. Ma anc li
 historic ortografie es permisset.
 
 ====
-tema o thema, fonograf o phonograph, cloroform o chloroform, simpatic o
+Tema o thema, fonograf o phonograph, cloroform o chloroform, simpatic o
 sympatic o sympathic.
 ====
 
@@ -571,7 +571,7 @@ esset ordinat alfabeticmen. Li nov acurtationes includet es «a.C.», «cp.» e
 substantives masculin, feminin e neutri, singular e plural.
 
 ====
-li patre, li matre, li table, li patres, li matres, li tables.
+Li patre, li matre, li table, li patres, li matres, li tables.
 ====
 
 [[par16,§16]]§16. Un *articul índefinit* existe solmen por li singulare: *un*.
@@ -648,7 +648,7 @@ concret, *-a* lu general, extendet, colectiv, comun, anc action, loc e
 témpor.
 
 ====
-rosiero, rosiera, lago, aqua, promenada, plazza, pasca.
+Rosiero, rosiera, lago, aqua, promenada, plazza, pasca.
 ====
 
 [[par25,§25]]§25. Quelc substantives forma derivates per adjunter *u*
@@ -656,7 +656,7 @@ o *at* al radica; ili conserva li *u* respectivmen *at* anc in li nederivat
 formes.
 
 ====
-manu, manual, sexu, sexual, sexualitá, gradu, gradual, graduation,
+Manu, manual, sexu, sexual, sexualitá, gradu, gradual, graduation,
 sistema, sistematic, sistematico, sistematisar, sistematisation, dogma,
 dogmatic, dogmatisme, drama, dramatic, dramaturgo, aqua, aquatic, clima,
 climatic, climatolog, climatologie, climatologic.
@@ -667,7 +667,7 @@ intercalante un *-e-* eufonic, u to es possibil sin changear li
 pronunciation del parol.
 
 ====
-un libre, du libres, un angul, tri angules, li person, li persones, li
+Un libre, du libres, un angul, tri angules, li person, li persones, li
 tric, li trics, li plug, li plugs, li album, pluri albums, li tram, du
 trams{blank}footnote:[O «du trames». Note del editor digital.].
 ====
@@ -698,27 +698,27 @@ consonant, e por distinction pos tipic finales substantivic e
 infinitivic.
 
 ====
-felici, sagi, porosi, organisatori, amari.
+Felici, sagi, porosi, organisatori, amari.
 ====
 
 [[par30,§30]]§30. Mult adjectives posse facilmen esser *substantivat* per adjuntion
 del finales *-e, -o, -a*.
 
 ====
-yun, yune, yunes, yunos, yunas.
+Yun, yune, yunes, yunos, yunas.
 ====
 
 [[par31,§31]]§31. Por formar un substantive expressent li *general idé* de un qualitá
 on adjunte li finale *-um*.
 
 ====
-li novum, li bellum.
+Li novum, li bellum.
 ====
 
 [[par32,§32]]§32. Li adjective es *ínvariabil* in génere e númere.
 
 ====
-li grand filio, li grand filia, li grand filios, li grand filias.
+Li grand filio, li grand filia, li grand filios, li grand filias.
 ====
 
 [[par33,§33]]§33. Quande li adjective es usat sin substantive e on deve pro cert
@@ -754,19 +754,19 @@ Li maxim grand del libres. Li minim grand libre.
 *-issim*.
 
 ====
-tre grand, grandissim.
+Tre grand, grandissim.
 ====
 
 Por comparar tri o pluri gradus on usa:
 
 ====
-grand, plu grand, mem plu grand, plu grand ancor, mem plu grand ancor.
+Grand, plu grand, mem plu grand, plu grand ancor, mem plu grand ancor.
 ====
 
 [[par37,§37]]§37. In omni comparationes on usa: *quam*.
 
 ====
-egalmen quam, altrimen quam.
+Egalmen quam, altrimen quam.
 ====
 
 // Pronómines {{{1
@@ -870,7 +870,7 @@ Ti-ci tables es solid. Tis-ci es solid, ma tis-ta ne es tal.
 Li *sexu* posse exceptionalmen esser indicat per li pronómin personal.
 
 ====
-il-ti, il-ci, ella-ti, illos-ci, ellas-ta.
+Il-ti, il-ci, ella-ti, illos-ci, ellas-ta.
 ====
 
 [[par46,§46]]§46. *Ti, tal e tant* es li corelatives de *quel, qual e
@@ -1027,7 +1027,7 @@ million, 1{nbsp}000{nbsp}001 = un million un … 2{nbsp}000{nbsp}000 = du millio
 on vicea li unesim quar per: un *tot*, un *demí, un ters*, un *quart*.
 
 ====
-du ters, tri quart, quar quinesim, etc.
+Du ters, tri quart, quar quinesim, etc.
 ====
 
 [[par59,§59]]§59. Li *fractiones decimal* es pronunciat
@@ -1039,7 +1039,7 @@ du ters, tri quart, quar quinesim, etc.
 *-uplic* (pos vocales: *-plic*):
 
 ====
-unuplic (simplic), duplic, triplic, quaruplic (quadruplic), quinuplic
+Unuplic (simplic), duplic, triplic, quaruplic (quadruplic), quinuplic
 (quintuplic), sixuplic, settuplic, ottuplic, ninuplic, deciplic,
 deciunuplic, deciduplic, duantuplic, centuplic, centunuplic, etc.
 ====
@@ -1047,7 +1047,7 @@ deciunuplic, deciduplic, duantuplic, centuplic, centunuplic, etc.
 [[par61,§61]]§61. Li *numerales iterativ* es format per: *vez*.
 
 ====
-du vez o duvez, tri vez, centvez, mult vez o multvez o mult vezes.
+Du vez o duvez, tri vez, centvez, mult vez o multvez o mult vezes.
 ====
 
 [[par62,§62]]§62. Li *numerales colectiv* es format per li finale: *-ene*.
@@ -1055,13 +1055,13 @@ footnote:[Li paroles «unene» e «duene» es apen usat, e fórsan pro to
 li autor ne includet les in li exemples. Note del editor digital.]
 
 ====
-li unité, pare, triene, quarene, quinene, decene, deciduene, centene.
+Li unité, pare, triene, quarene, quinene, decene, deciduene, centene.
 ====
 
 [[par63,§63]]§63. *Altri numeral expressiones* es p.ex.:
 
 ====
-chascun triesim vez, tri e tri, quar e quar. Li soldates marcha quar e
+Chascun triesim vez, tri e tri, quar e quar. Li soldates marcha quar e
 quar.
 ====
 
@@ -1756,14 +1756,14 @@ radica verbal con li desinenties substantivic, o li <<par80,tema perfectic>> con
 sin desinentie substantivic:
 
 ====
-li pense, li pensa (plu proxim al action), li vende, li crede, li
+Li pense, li pensa (plu proxim al action), li vende, li crede, li
 response, li vise, li flut, li resultat, li extracte, li tribut.
 ====
 
 Li <<par80,tema perfectic>> sin finale es usat anc quam *adjective*:
 
 ====
-devot, apert, pervers.
+Devot, apert, pervers.
 ====
 
 
@@ -1788,14 +1788,14 @@ Il ha bon laborat. Noi serchat long.
 derivat* de adjectives per adjunter li ínaccentuat finale *-men*.
 
 ====
-tre, sempre, deman, natural, naturalmen, respectosi, respectosimen.
+Tre, sempre, deman, natural, naturalmen, respectosi, respectosimen.
 ====
 
 [[par91,§91]]§91. Vice special adverbies on usa multvez *adverbial expressiones*,
 format per prepositiones.
 
 ====
-ex memorie, in general, in fine, per hasard.
+Ex memorie, in general, in fine, per hasard.
 ====
 
 [[par92,§92]]§92. Li *comparative e superlative* es format in li sam maniere quam
@@ -1950,7 +1950,7 @@ por exemple combinat con altri prepositiones e adverbies
 por far plu clar li sens:
 +
 ====
-adavan, adsur, adin, ad-in, etc.
+Adavan, adsur, adin, ad-in, etc.
 ====
 
 along::
@@ -2387,7 +2387,7 @@ prepositiones o prepositional expressiones o adverbies o adverbial
 expressiones con *que* e *quam*.
 
 ====
-per que, por que, pro que, pos que, ante que, durante que, sam quam,
+Per que, por que, pro que, pos que, ante que, durante que, sam quam,
 desde que, sin que, tant que, suposit que, in condition que.
 ====
 
@@ -2664,7 +2664,7 @@ corect pronunciation del precedent consonant, pro eufonie o distinction
 de simil paroles (precipue de substantives del egalform adjective).
 
 ====
-pace, image, rose, libre, cable, altruisme, curve, centre, central,
+Pace, image, rose, libre, cable, altruisme, curve, centre, central,
 centrale, directiv, directive, marine, circulare, cantate, infinite,
 tangente, adherente, manjante, denove.
 ====
@@ -2673,7 +2673,7 @@ tangente, adherente, manjante, denove.
 extendet, universal, colectiv, con vivent entes lu feminin.
 
 ====
-dansa, dansada, plazza, imperia, era, pasca, rosiera, liga, secta,
+Dansa, dansada, plazza, imperia, era, pasca, rosiera, liga, secta,
 posta, americana, filia, studianta, cavalla.
 ====
 
@@ -2681,27 +2681,27 @@ posta, americana, filia, studianta, cavalla.
 individual, con vivent entes lu masculin.
 
 ====
-forso, humo, rosiero, posto, americano, filio, cavallo.
+Forso, humo, rosiero, posto, americano, filio, cavallo.
 ====
 
 *-u* indica alquó abstract, neutri, un relativitá, o es usat por reciver
 li international derivates.
 
 ====
-statu, casu, unaltru, manu, gradu.
+Statu, casu, unaltru, manu, gradu.
 ====
 
 *-i* es li finale adjectivic, por fixar li corect pronunciation del
 consonant final, pro eufonie o por distinction de simil paroles.
 
 ====
-felici, sagi, porosi, organisatori, amari, curvi, vacui.
+Felici, sagi, porosi, organisatori, amari, curvi, vacui.
 ====
 
 e, a, o, u, i:
 
 ====
-rose, rosi, rosiero, rosiera; porte, porta, portu,
+Rose, rosi, rosiero, rosiera; porte, porta, portu,
 portuari, portale; posta, posto.
 ====
 
@@ -2761,7 +2761,7 @@ step-:: Parentitá per un duesim maritage: *stepmatre, stepfilio*.
 de quelc verbes:
 
 ====
-adaptar, abreviar, atirar, antedatar, avanbrass, circumscription,
+Adaptar, abreviar, atirar, antedatar, avanbrass, circumscription,
 consentir, coeducation, coroder, compresser, contrasignar, depender,
 excluder, expectar, extraordinari, forear, infiltrar, iluminar,
 importar, intervenir, preterpassar, retromarchar, retroactiv,
@@ -2772,7 +2772,7 @@ ultraclerical, vicepresidente, parapluvie, portamoné, tirabuton.
 [[par130,§130]]§130. Mult international paroles es format per *grec prefixes*:
 
 ====
-decametre, decilitre, hectolitre, hemisfere, hipermodern, kilometre,
+Decametre, decilitre, hectolitre, hemisfere, hipermodern, kilometre,
 monoplan, panslavisme, pseudocrist, telefonar.
 ====
 
@@ -2792,7 +2792,7 @@ On posse adjunter pluri sufixes in li sam parol.
 du simil succedent sones o songruppes a un sol. P.ex.:
 
 ====
-minera(lo)logie, popular(i)isar, pacif(ic)isme,
+Minera(lo)logie, popular(i)isar, pacif(ic)isme,
 infanter(i)ist, ambiti(on)osi, religi(on)osi, ident(ic)itá,
 nu(tri)tresse, mum(i)ificar.
 ====
@@ -3072,7 +3072,7 @@ afixes. In li edition original, «-ic» esset mentionat solmen in
 <<par140>>. Note del editor digital.].
 
 ====
-fanatic (fanatico),
+Fanatic (fanatico),
 friger, frigid, frigore, valer, valid, valore, riger, rigid, rigore,
 rigiditá, rigorosi, rigorositá.
 ====
@@ -3084,7 +3084,7 @@ rigiditá, rigorosi, rigorositá.
 avan li substantive respectivmen li verb, con o sin strec ligativ.
 
 ====
-scri-table (={nbsp}table por scrir), vent-moline (={nbsp}moline movet
+Scri-table (={nbsp}table por scrir), vent-moline (={nbsp}moline movet
 del vent), chapel-bux, nota-librette, postcarte, scrimachine,
 tippmachine, mult-lateral, circumnavigar, contraproposition.
 ====
@@ -3094,14 +3094,14 @@ ligativ. In compositiones ja international li du paroles multvez es
 ligat per un «o» o «i».
 
 ====
-ferrovia, agricultura, uniform, li uniforme, aeroplan, electromotor.
+Ferrovia, agricultura, uniform, li uniforme, aeroplan, electromotor.
 ====
 
 Pro simplicitá e plu grand comprensibilitá e claritá it recomenda se in
 mult casus usar atributes vice compositiones.
 
 ====
-animale domestic, premie de assecurantie, comunication per vapornaves.
+Animale domestic, premie de assecurantie, comunication per vapornaves.
 ====
 
 // Frases sistematic por omni essential regules grammatical {{{1

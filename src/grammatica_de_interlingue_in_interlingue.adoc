@@ -1,6 +1,6 @@
 = Grammatica de Interlingue in Interlingue
 :author: Dr. Fritz Haas
-:revnumber: 0.1.0-pre.113+20210424T1723CEST
+:revnumber: 0.1.0-pre.114+20210424T1808CEST
 :version-label: Version de ti edition digital:
 :description: Grammatica del lingue auxiliar international Interlingue
 :lang: ie
@@ -24,8 +24,6 @@ endif::[]
 // This file is in Asciidoctor format
 // http://asciidoctor.org
 
-// Last modified 202012202022
-
 [colophon]
 // Pri ti libre {{{1
 == Pri ti libre
@@ -45,8 +43,9 @@ obtenibil in http://ie-munde.com[ie-munde.com]).
 
 Conversion a Asciidoctor, revision, e edition quam libre digital::
 Marcos Cruz, 2019, 2020, 2021. Obtenibil in pluri formates in
-http://ne.alinome.net[ne.alinome.net] e su
-http://github.com/ne-alinome[repositoria in GitHub].
+http://ne.alinome.net[ne.alinome.net], su
+http://fossil.ne.alinome.net/[repositoria in Fossil] e
+http://github.com/ne-alinome[copie in GitHub].
 
 Principal changes in ti edition::
 - Corection de omni erras trovat.
@@ -664,7 +663,7 @@ pronunciation del parol.
 ====
 un libre, du libres, un angul, tri angules, li person, li persones, li
 tric, li trics, li plug, li plugs, li album, pluri albums, li tram, du
-trams.
+trams{blank}footnote:[O «du trames». Note del editor digital.].
 ====
 
 [[par27,§27]]§27. Li substantive resta ínmutat in omni *casus grammatical*. Es
@@ -962,7 +961,7 @@ prefix *ne-* tales indicant li absentie, li negation, e li sufix
 | alcun   | necun   |
 | alcos{blank}footnote:[Li forme «alcos» mancat in li edition original.
 It esset adjuntet in ti edition nam it es usat. In contrari, «cuncunc» e
-«coscunc» nequande esset usat. Note del editor digital]
+«coscunc» nequande esset usat. Note del editor digital.]
 | necos   |
 |===
 
@@ -1254,7 +1253,7 @@ Existe un *form de politesse per ples* (de «pleser») con infinitive:
 - Il mey constructer.
 ====
 
-li *hortative* per *lass*:
+Li *hortative* per *lass*:
 
 ====
 - Lass nos fabricar.
@@ -1281,8 +1280,10 @@ quelcvez it es necessi distincter, ca un action dura ancor o es ja
 finit. In ti casus on usa altri verbes, p.ex.:
 
 ====
-- Li dom ea constructet. Li dom sta constructet.
-- Li libre eat printat. Li libre stat printat.
+- Li dom ea constructet.
+- Li dom sta constructet.
+- Li libre eat printat.
+- Li libre stat printat.
 ====
 
 In mult casus li passive posse esser expresset per substantives o per li
@@ -1301,7 +1302,8 @@ form subjuntivic per adjunter *-ye* al presente del verb o del verb
 auxiliari:
 
 ====
-Il di que il la amaye. Il dit que il la haye amat.
+- Il di que il la amaye.
+- Il dit que il la haye amat.
 ====
 
 // Verbal derivation {{{2

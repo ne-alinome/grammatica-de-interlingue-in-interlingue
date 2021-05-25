@@ -1,6 +1,6 @@
 = TO-DO of _Grammatica de Interlingue in Interlingue_
 :author: Marcos Cruz (programandala.net)
-:revdate: 2021-04-24
+:revdate: 2021-05-25
 
 == Fix
 
@@ -8,6 +8,8 @@
   version of Asciidoctor EPUB3. They work on Calibre and fbreader
   viewers.
 - The XHTML tag `<sup>` has no effect in the Cervantes 3 reader.
+- Description of the effect of "-men" in chapter "Accentuation": it's
+  the adverbial ending.
 
 == Improve
 

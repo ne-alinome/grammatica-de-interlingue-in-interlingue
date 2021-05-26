@@ -1,6 +1,6 @@
 = TO-DO of _Grammatica de Interlingue in Interlingue_
 :author: Marcos Cruz (programandala.net)
-:revdate: 2021-05-25
+:revdate: 2021-05-27
 
 == Fix
 
@@ -17,6 +17,8 @@
 - Move the original "(*)" notes to footnotes?
 - Naming of the current edition: "ti edition (digital)" -> "ti-ci
   edition"?
+- Improve the explanation about the accent of "-men": make clear it's
+  about the adverbial ending, in a footnote.
 
 == Add
 

@@ -1,6 +1,6 @@
 = Grammatica de Interlingue in Interlingue
 :author: Dr. Fritz Haas
-:revnumber: 0.1.0+20210424
+:revnumber: 0.1.1-dev.0.1+20210605T0133CEST
 :version-label: Version de ti edition digital:
 :description: Grammatica del lingue auxiliar international Interlingue
 :lang: ie
@@ -18,7 +18,7 @@ ifdef::backend-epub3[]
 :front-cover-image: ../target/grammatica_de_interlingue_in_interlingue_cover.jpg
 endif::[]
 
-// Version by Marcos Cruz (programandala.net), 2019, 2020
+// Version by Marcos Cruz (programandala.net), 2019, 2020, 2021
 // http://ne.alinome.net
 
 // This file is in Asciidoctor format
@@ -2949,11 +2949,11 @@ anc maniere de acter, caractere: *vitreríe, potteríe, bigotteríe, diaboleríe
 -ería:: Loc de profession (*<<sufix_er>>* + *<<sufix_ia>>*): *librería,
 juvelería, vitrería*.
 
--iera:: Vast loc contenent alquo: *torfiera, pisciera, rosiera*.
+-iera:: Vast loc contenent alquó: *torfiera, pisciera, rosiera*.
 
--iere:: Vase etc., contenent alquo: *incriere, tabaciere, butoniere*.
+-iere:: Vase etc., contenent alquó: *incriere, tabaciere, butoniere*.
 
--iero:: Portant alquo: *rosiero, candeliero, pomiero*.
+-iero:: Portant alquó: *rosiero, candeliero, pomiero*.
 
 -atu:: Institution o situation social o legal, dignitá, anc loc, témpor
 o dominia de it: *viduatu, proletariatu, secretariatu, califatu,

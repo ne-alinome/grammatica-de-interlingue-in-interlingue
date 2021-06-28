@@ -1,6 +1,6 @@
 = Grammatica de Interlingue in Interlingue
 :author: Dr. Fritz Haas
-:revnumber: 0.1.1-dev.0.1+20210605T0133CEST
+:revnumber: 0.1.1-dev.0.2+20210628T1737CEST
 :version-label: Version de ti edition digital:
 :description: Grammatica del lingue auxiliar international Interlingue
 :lang: ie
@@ -246,7 +246,7 @@ Machine, marchar, chec, chloroform.
 ====
 
 :pednote243: In ti edition li explication pri li pronunciation de «g» \
-esset correctet, e anc rescrit por claritá. Note del editor digital.
+esset corectet, e anc rescrit por claritá. Note del editor digital.
 
 g{blank}footnote:[{pednote243}]::
 Avan «e», «i» o «y»: quam anglesi «s» in _pleasure_; francesi «j»; italian

@@ -1,6 +1,6 @@
 = Grammatica de Interlingue in Interlingue
 :author: Dr. Fritz Haas
-:revnumber: 0.1.1-dev.0.3+20211220T0017CET
+:revnumber: 0.1.1-dev.1.0+20211220T0024CET
 :version-label: Version de ti edition digital:
 :description: Grammatica del lingue auxiliar international Interlingue
 :lang: ie
@@ -62,6 +62,7 @@ http://docbook.sourceforge.net/release/xsl/current/epub/README[dbtoepub],
 http://manual.calibre-ebook.com/generated/en/ebook-convert.html[ebook-convert],
 http://imagemagick.org[ImageMagick],
 http://neovim.org[Neovim],
+http://fossil-scm.org[Fossil],
 https://gitlab.mister-muffin.de/josch/img2pdf[img2pdf],
 http://pandoc.org[Pandoc],
 http://www.vim.org[Vim]…

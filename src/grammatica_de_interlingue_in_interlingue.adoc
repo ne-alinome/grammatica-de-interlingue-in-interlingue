@@ -1,6 +1,6 @@
 = Grammatica de Interlingue in Interlingue
 :author: Dr. Fritz Haas
-:revnumber: 0.1.1-dev.0.2+20210628T1737CEST
+:revnumber: 0.1.1-dev.0.3+20211220T0017CET
 :version-label: Version de ti edition digital:
 :description: Grammatica del lingue auxiliar international Interlingue
 :lang: ie
@@ -422,17 +422,17 @@ quande it es pronunciat «ik». Por exemple, li regulari accentu de
 de Karl Janotta in Cosmoglotta serie A, numeró 65 (1929-10). Note del
 editor digital.], im, ul*, queles porta li accentu al precedent
 síllabe mem si ti-ci es *bil, ic, im, ul*. Li finale *s* o *es* del
-plurale, e li finales *men* e *um* es ínaccentuat e ne changea li
-accentuation del precedent parol-parte{blank}footnote:[Li expression
-in li edition original esset: «Un simplic *s* e li du síllabes *men* e
-*um* in li fine del parol», quel esset ínprecis. Li regul pri «s» acte
-se pri li terminationes del plurale (por exemple, li accentu regulari
-de «frances» sta sur «e» malgré li «s» final, quel ne es ti del
-plurale). Adplu «um» in ti-ci regul es termination, ne necessimen un
-síllabe (por exemple, in «herbarium» li «i» ante vocal ne forma propri
-síllabe, e to ne changea li efecte de «um», quel in ti casu ne es un
-síllabe complet). Note del editor digital.]. Si ti regules ne es
-aplicabil, on accentua li prim vocal del parol.
+plurale, li finale adverbial *men* e li finale *um* es ínaccentuat e
+ne changea li accentuation del precedent
+parol-parte{blank}footnote:[Li expression in li edition original
+esset: «Un simplic *s* e li du síllabes *men* e *um* in li fine del
+parol», quel esset ínprecis. Li regul pri «s» acte se pri li
+terminationes del plurale (por exemple, li accentu regulari de
+«frances» sta sur «e» malgré li «s» final, quel ne es ti del plurale);
+e li regul pri «men» acte se solmen pri li termination adverbial (por
+exemple, in li substantive «pergamen» li accentu es sur li «e» final).
+Note del editor digital.]. Si ti regules ne es aplicabil, on accentua
+li prim vocal del parol.
 
 Si li natural accentuation ne seque ti regul, it es marcat per un
 *accentu scrit* (preferibilmen quam in «é», tolerat anc «è» o

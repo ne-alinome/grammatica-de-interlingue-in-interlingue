@@ -1,6 +1,8 @@
 = TO-DO of _Grammatica de Interlingue in Interlingue_
 :author: Marcos Cruz (programandala.net)
-:revdate: 2021-05-27
+:revdate: 2022-11-18
+
+// Last modified 20221118T1731+0100.
 
 == Fix
 
@@ -29,3 +31,4 @@
   mainly an adverb, but it's included by Matejka in his list of
   prepositions); "except" (included by Matejka in his list).
 - Footnote in §70 about "fe"?
+- Add "demí-" to §128.

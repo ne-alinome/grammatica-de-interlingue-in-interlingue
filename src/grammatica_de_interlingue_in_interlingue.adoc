@@ -1,6 +1,6 @@
 = Grammatica de Interlingue in Interlingue
 :author: Dr. Fritz Haas
-:revnumber: 0.1.1-dev.1.0+20211220T0024CET
+:revnumber: 0.1.1-dev.1.1+20230123T1404CET
 :version-label: Version de ti edition digital:
 :description: Grammatica del lingue auxiliar international Interlingue
 :lang: ie
@@ -18,7 +18,7 @@ ifdef::backend-epub3[]
 :front-cover-image: ../target/grammatica_de_interlingue_in_interlingue_cover.jpg
 endif::[]
 
-// Version by Marcos Cruz (programandala.net), 2019, 2020, 2021
+// Version by Marcos Cruz (programandala.net), 2019, 2020, 2021, 2023
 // http://ne.alinome.net
 
 // This file is in Asciidoctor format
@@ -37,7 +37,7 @@ Edition original:: Interlingue-Servicie, Winterthur, Svissia, 1956.
 Digitalisation:: S. Belitzky.
 
 Adaptation a HTML 4.01:: Sebastian Hartwig, 2009. Obtenibil in
-http://web.archive.org/web/20131110203923/http://www.interlingue.org:80/nov/gramatica_ie.html[web.archive.org]
+http://web.archive.org/web/2020230123T1404+0100/http://www.interlingue.org:80/nov/gramatica_ie.html[web.archive.org]
 e http://interlingue.narod.ru[interlingue.narod.ru] (conversion de HTML a PDF
 obtenibil in http://ie-munde.com[ie-munde.com]).
 
@@ -2841,7 +2841,7 @@ besonar, cure, curar, risca, riscar, don, donar, matur, maturar*.
 terrorisar, rivalisar, judeisar*.
 
 -ificar:: Far tal, constatar quam: *verificar, simplificar, mumificar,
-pacificar*. forma anc adjectives: *pacific, magnific, specific*.
+pacificar*. Forma anc adjectives: *pacific, magnific, specific*.
 
 -ijar:: Devenir, far se: *verdijar, rubijar*.
 

@@ -3,7 +3,7 @@
 # By Marcos Cruz (programandala.net)
 # http://ne.alinome.net
 
-# Last modified: 20210424T1859+0200.
+# Last modified: 20230412T1616+0200.
 # See change log at the end of the file.
 
 # ==============================================================
@@ -98,44 +98,9 @@ thumb: target/$(cover)_thumb.jpg
 clean:
 	rm -fr target/* tmp/*
 
-.PHONY: cleandoc
-cleandoc:
-	rm -fr doc/*
-
 .PHONY: cleancover
 cleancover:
 	rm -f target/*.jpg tmp/*.png
-
-# ==============================================================
-# Make the embedded documentation {{{1
-
-# README.adoc is rendered by GitHub, but doc/www/README.html is used as the
-# embedded documentation of the Fossil repository.
-
-.PHONY: doc
-doc: wwwdoc
-
-.PHONY: wwwdoc
-wwwdoc: wwwreadme
-
-.PHONY: cleanwww
-cleanwww:
-	rm -f \
-		doc/www/* \
-		tmp/README.*
-
-.PHONY: wwwreadme
-wwwreadme: doc/www/README.html
-
-doc/www/README.html: tmp/README.html
-	echo "<div class='fossil-doc' data-title='README'>" > $@;\
-	cat $< >> $@;\
-	echo "</div>" >> $@
-
-tmp/README.html: README.adoc
-	asciidoctor \
-		--embedded \
-		--out-file=$@ $<
 
 # ==============================================================
 # Convert Asciidoctor to EPUB {{{1
@@ -351,3 +316,6 @@ include Makefile.release
 #
 # 2021-04-24: Don't compress the PDF; it will be compressed in the release
 # archives.
+#
+# 2023-04-12: Remove the online version of the README, after converting the
+# repo to Mercurial.

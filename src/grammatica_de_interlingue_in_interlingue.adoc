@@ -1,6 +1,6 @@
 = Grammatica de Interlingue in Interlingue
 :author: Dr. Fritz Haas
-:revnumber: 0.1.1-dev.1.2+20230511T1745CET
+:revnumber: 0.1.1-dev.1.3+20230511T1748CET
 :version-label: Version de ti edition digital:
 :description: Grammatica del lingue auxiliar international Interlingue
 :lang: ie
@@ -373,8 +373,8 @@ Examinar, extra.
 german «j»; quam hispan «hi» in _hielo_{blank}footnote:[Li edition original
 usat li hispan verb _ayustar_ quam exemple, ma li hispan líttere «y» representa
 pluri sones secun su position in li parol e li region del parlator. Un exemple
-plu precis, secun li pronunciation normativ del lingue hispan, es ti de «hi» in
-li parol _hierro_ (ferre), it es li foneme /j/. Note del editor digital.].
+plu precis es ti de «hi» in li parol _hielo_ (glacie), quel es pronunciat quam
+li foneme /j/. Note del editor digital.].
 +
 ====
 Yes, rayon, anteyan.

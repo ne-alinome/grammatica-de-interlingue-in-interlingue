@@ -1,6 +1,6 @@
 = Grammatica de Interlingue in Interlingue
 :author: Dr. Fritz Haas
-:revnumber: 0.1.1-dev.1.1+20230123T1404CET
+:revnumber: 0.1.1-dev.1.2+20230511T1745CET
 :version-label: Version de ti edition digital:
 :description: Grammatica del lingue auxiliar international Interlingue
 :lang: ie
@@ -37,7 +37,7 @@ Edition original:: Interlingue-Servicie, Winterthur, Svissia, 1956.
 Digitalisation:: S. Belitzky.
 
 Adaptation a HTML 4.01:: Sebastian Hartwig, 2009. Obtenibil in
-http://web.archive.org/web/2020230123T1404+0100/http://www.interlingue.org:80/nov/gramatica_ie.html[web.archive.org]
+http://web.archive.org/web/20131110203923/http://www.interlingue.org:80/nov/gramatica_ie.html[web.archive.org]
 e http://interlingue.narod.ru[interlingue.narod.ru] (conversion de HTML a PDF
 obtenibil in http://ie-munde.com[ie-munde.com]).
 

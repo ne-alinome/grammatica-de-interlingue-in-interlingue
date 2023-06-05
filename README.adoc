@@ -1,6 +1,6 @@
 = Grammatica de Interlingue in Interlingue
 :author: Marcos Cruz (programandala.net)
-:revdate: 2021-04-24
+:revdate: 2023-06-05
 :toc:
 :toc-levels: 2
 :toc-title:
@@ -127,7 +127,7 @@ La dosieroj estos kreitaj en la dosierujo <target> (celo).
 // Acerca de este proyecto {{{2
 === Acerca de este proyecto
 
-Objetivo:: Crear un libro digital (en EPUB y otros formatos) de __Grammatica de
+Objetivo:: Crear un libro digital (en EPUB y otros formatos) de _Grammatica de
 Interlingue in Interlingue_, de Dr. F. Haas, publicado por
 Interlingue-Servicie, Winterthur (Suiza), 1956.
 

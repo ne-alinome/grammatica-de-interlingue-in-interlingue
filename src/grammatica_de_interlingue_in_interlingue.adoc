@@ -1,6 +1,6 @@
 = Grammatica de Interlingue in Interlingue
 :author: Dr. Fritz Haas
-:revnumber: 0.1.1-dev.1.3+20230511T1748CET
+:revnumber: 0.1.1-dev.1.4+20230731T1508CEST
 :version-label: Version de ti edition digital:
 :description: Grammatica del lingue auxiliar international Interlingue
 :lang: ie
@@ -3134,7 +3134,7 @@ patre da un pom al filia. Ella es li sestra del filio.
 se. Il lava le. Il lava la. Il lava it. Il lava nos. Ella lava se. It
 lava se. It lava it. On lava se. Noi lava nos. Vu lava vos. Vu lava nos.
 lli lava se. lli lava les. Yo da mi pom a te. Tu da tui pir a nos. Vu da
-vor fructes a les. lli da lor fructes a le. Yo da te mi pom, etc.
+vor fructes a les. Ili da lor fructes a le. Yo da te mi pom, etc.
 
 4. Mi pom es plu grand quam su prunes, ma it es min grand quam tui pir.
 Li maxim grand de vor fructes es tui pir, li minim grand su cereses. Nor

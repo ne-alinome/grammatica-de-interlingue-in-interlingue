@@ -1,6 +1,6 @@
 = Grammatica de Interlingue in Interlingue
 :author: Dr. Fritz Haas
-:revnumber: 0.1.1-dev.1.4+20230731T1508CEST
+:revnumber: 0.2.0-dev.0.1.0+20241112T2338CET
 :version-label: Version de ti edition digital:
 :description: Grammatica del lingue auxiliar international Interlingue
 :lang: ie
@@ -25,8 +25,8 @@ endif::[]
 // http://asciidoctor.org
 
 [colophon]
-// Pri ti libre {{{1
-== Pri ti libre
+// Pri ti-ci libre {{{1
+== Pri ti-ci libre
 
 Titul:: Grammatica de Interlingue in Interlingue.
 
@@ -351,7 +351,7 @@ Theosoph, lithograph.
 
 v:: Quam anglesi, francesi o italian{blank}footnote:[Li edition original
 erratorimen includet anc hispan, ma li hispan «v» desde secules changeat su
-son a ti de «b». Note del editor digital]; quam german «w».
+son a ti de «b». Note del editor digital.]; quam german «w».
 +
 ====
 Venir, dever, nive.
@@ -1904,9 +1904,9 @@ multvez contradictori. Pro to on deve sempre usar li prepositiones secun
 lor propri signification.
 
 In casus, u on ne trova un preposition con li exact sens a expresser, on
-usa li preposition *ye*, quel indica un relation índefinit. Ma tre
-sovente on posse usar li prepositiones *a, de* e *in*, queles have pluri
-significationes.
+usa li preposition «<<preposition_ye>>», quel indica un relation índefinit. Ma tre
+sovente on posse usar li prepositiones «<<preposition_a>>», «<<preposition_de>>» e «<<preposition_in>>»,
+queles have pluri significationes.
 
 [[par101,§101]]§101. Multvez li relation es clar anc *sin preposition*. Li *verbes* es
 p.ex. usat maxim possibil sin preposition, con ínmediatmen sequent
@@ -1933,7 +1933,7 @@ convenent consultationes. Note del editor digital.]
 
 // XXX REMARK Secun Matejka, «detra» significa anc «sequentie».
 
-a::
+[[preposition_a,a]]a::
 
 Dative; direction; scope; precie; témpor; loc
 +
@@ -2108,7 +2108,7 @@ Il vivet extra su patria. Soledí ili devet luder extra li
 audir-distantie.
 ====
 
-in::
+[[preposition_in,in]]in::
 
 Situation in relation con li loc, li témpor, li medie, li natura o li statu.
 +
@@ -2336,7 +2336,7 @@ vis a vis::
 Vis a vis li eclesia on vide li scola.
 ====
 
-ye::
+[[preposition_ye,ye]]ye::
 
 It es usat, si exceptionalmen null altri preposition es apt:
 +
@@ -2998,7 +2998,7 @@ esset ínter li exemples, ma it ha esset movet al section <<par142>>,
 nam in ti radica li sufix «ic» es ínproductiv. Note del editor digital.]
 +
 Grec substantives finient per *-ma* intercala *-t-*, tales finient per
-*-se* (x = cs) muta li *s* in *t: problematic, dramatic, elipse,
+*-se* (x = cs) muta li *s* in *t*: *problematic, dramatic, elipse,
 eliptic, hipnose, hipnotic, sintax, sintactic (sintactico)*.
 +
 Per *-ica* on indica scienties o artes, per *-ico* lor executores:

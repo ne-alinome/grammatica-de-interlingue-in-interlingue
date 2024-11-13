@@ -1,6 +1,6 @@
 = Grammatica de Interlingue in Interlingue
 :author: Dr. Fritz Haas
-:revnumber: 0.2.0-dev.0.1.0+20241112T2338CET
+:revnumber: 0.2.0-dev.0.1.1+20241113T2300CET
 :version-label: Version de ti edition digital:
 :description: Grammatica del lingue auxiliar international Interlingue
 :lang: ie
@@ -1995,7 +1995,7 @@ li dom. Li patre venit de avan li dom. Il incontrat le avan li dom.
 
 [[preposition_caus,caus]]caus::
 
-Cause havant un ínevitabil efecte (anc li preposition «<<preposition_por>>» es
+Cause havant un ínevitabil efecte (anc li preposition «<<preposition_pro>>» es
 usabil con un sense tre simil, ma sin li nuancie de inevitabilitá del efecte).
 +
 ====
